@@ -3,6 +3,7 @@ var totalElement = document.querySelector(".navTotal");
 
 let tabs = [];
 let html = "";
+let previousDate = null;
 let loadedItems = 0;
 let currentItem = 0;
 const itemsPerPage = 24;
@@ -45,8 +46,8 @@ function fetchData(inputValue) {
         return acc;
       }, {});
       const hostnamesCount = Object.keys(uniqueHostnames).length;
-      console.log('Total unique hostnames:', hostnamesCount);
-      sortedHostnames = (Object.keys(uniqueHostnames)).sort();
+      console.log("Total unique hostnames:", hostnamesCount);
+      sortedHostnames = Object.keys(uniqueHostnames).sort();
       console.log(sortedHostnames);
 
       const uniqueOgType = tabs.reduce((acc, item) => {
@@ -54,8 +55,8 @@ function fetchData(inputValue) {
         return acc;
       }, {});
       const ogTypeCount = Object.keys(uniqueOgType).length;
-      console.log('Total unique og:type:', ogTypeCount);
-      sortedOgTypes = (Object.keys(uniqueOgType)).sort();
+      console.log("Total unique og:type:", ogTypeCount);
+      sortedOgTypes = Object.keys(uniqueOgType).sort();
       console.log(sortedOgTypes);
 
 
@@ -177,6 +178,18 @@ function loadMoreItems() {
     if (!image) {
       image = "assets/images/placeholder.png";
     }
+
+
+    if (formattedDate !== previousDate) {
+      html += `
+      <div class="item-date">
+
+        <div>${formattedDate}</div>
+      </div>
+      `;
+      previousDate = formattedDate;
+    }
+
 
     html += `
         <div class="conteudo post-info col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-3 col-xxl-2">
