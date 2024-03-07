@@ -13509,6 +13509,17 @@
   },
   {
     "hostname": "exler.ru",
+    "url": "https://exler.ru/films/geroj-nashih-snov.htm",
+    "title": "Герой наших снов",
+    "date": "2024-03-07T08:41:34.047+06:00",
+    "og:title": "Герой наших снов",
+    "og:image": "https://exler.ru/img/films/07-03-2024/thumb.jpg",
+    "og:description": "Пол Мэтьюз (Николас Кейдж) - ничем не примечательный и слегка унылый преподаватель биологии в университете. Студенты его лекции не любят, посещаемость у него маленькая. Да и сам Мэтьюз не делает ничего, чтобы сделать свои занятия интересными. Похоже, что он и на себя самого давно махнул рукой: одевается черт знает как, на занятия в университет приходит в нелепой куртке-аляске с огромным капюшоном и по нему видно, что Мэтьюз обуреваем различными комплексами.\n",
+    "og:url": "https://exler.ru/films/geroj-nashih-snov.htm",
+    "og:type": "article"
+  },
+  {
+    "hostname": "exler.ru",
     "url": "https://exler.ru/films/prizrachnaya-bashnya.htm",
     "title": "Призрачная башня",
     "date": "2024-03-04T08:24:50.746+06:00",
@@ -17117,6 +17128,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/cloud4y/articles/798631/",
+    "title": "Cloudflare разрабатывает Firewall для ИИ / Хабр",
+    "date": "2024-03-07T08:42:08.338+06:00",
+    "og:title": "Cloudflare разрабатывает Firewall для ИИ",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/3a6/5fb/1e5/3a65fb1e52416f9471aa22c2c86ea166.png",
+    "og:description": "Cloudflare объявил о разработке межсетевого экрана для защиты больших языковых моделей. LLM и другие модели искусственного интеллекта растут, и компании всё больше обеспокоены безопасностью своих...",
+    "og:url": "https://habr.com/ru/companies/cloud4y/articles/798631/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/cyberprotect/articles/798229/",
     "title": "Кибер Бэкап как мультитул для различных ИТ-задач / Хабр",
     "date": "2024-03-05T13:43:39.13+06:00",
@@ -18558,6 +18580,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/ruvds/news/798617/",
+    "title": "RUVDS запускает дата-центр в полярном лагере на дрейфующей льдине / Хабр",
+    "date": "2024-03-07T08:42:07.926+06:00",
+    "og:title": "RUVDS запускает дата-центр в полярном лагере на дрейфующей льдине",
+    "og:image": "https://habrastorage.org/webt/ed/wb/hc/edwbhcsnvlvogbyfjezyofmm2te.jpeg",
+    "og:description": "RUVDS продолжает эксперименты с размещением серверного оборудования в экстремальных условиях: в прошлом году это был космос, а в этом — Северный полюс. И вот уже совсем скоро, в конце марта — начале...",
+    "og:url": "https://habr.com/ru/companies/ruvds/news/798617/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/sberbank/articles/797827/",
     "title": "Эпоха цифровых двойников: как виртуальные модели выводят промышленность на новый уровень / Хабр",
     "date": "2024-03-04T08:25:39.56+06:00",
@@ -18844,6 +18877,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/spaceweb/articles/798361/",
+    "title": "Сможет ли IPFS полностью заменить HTTP? / Хабр",
+    "date": "2024-03-07T08:42:08.591+06:00",
+    "og:title": "Сможет ли IPFS полностью заменить HTTP?",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/9f1/7d8/43c/9f17d843c98bb7dabad9c1d1caa8be38.png",
+    "og:description": "Меня зовут Виталий Киреев, я руководитель R&amp;D в SpaceWeb. В начале прошлого года мы внедрили IPFS-технологию в работу своего хостинга, и все наши клиенты получили возможность размещать контент в...",
+    "og:url": "https://habr.com/ru/companies/spaceweb/articles/798361/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/sportmaster_lab/news/797199/",
     "title": "Spring One Day Offer — Sportmaster Lab в поиске Java-разработчиков / Хабр",
     "date": "2024-03-01T04:04:56.819+06:00",
@@ -19038,6 +19082,17 @@
     "og:image": "https://habrastorage.org/webt/s0/xm/c9/s0xmc9c11jbvp00nyz69bzcrg7a.jpeg",
     "og:description": "Приветствую всех! Пожалуй, самой желанной для меня железкой на транспортную тему был контроллер машиниста от какого-нибудь поезда. Но, как это часто бывает, достать такой экземпляр не так уж и просто....",
     "og:url": "https://habr.com/ru/companies/timeweb/articles/796145/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/timeweb/articles/797329/",
+    "title": "Мобильные экранчики в ваших проектах: большой и понятный о гайд о различных дисплеях / Хабр",
+    "date": "2024-03-07T08:42:08.412+06:00",
+    "og:title": "Мобильные экранчики в ваших проектах: большой и понятный о гайд о различных дисплеях",
+    "og:image": "https://habr.com/share/publication/797329/09a2bd0ea75cc5e7d9fb4cd8367e1f00/",
+    "og:description": "Пожалуй, немалая часть моих читателей так или иначе интересуется DIY-тематикой. И в различных самодельных девайсах порой есть необходимость вывести какую-либо информацию на дисплей, будь это текст,...",
+    "og:url": "https://habr.com/ru/companies/timeweb/articles/797329/",
     "og:type": "article"
   },
   {
@@ -19295,6 +19350,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/x-com/news/798647/",
+    "title": "Nvidia представила новые видеокарты RTX 500 и RTX 1000 для профессионалов / Хабр",
+    "date": "2024-03-07T08:42:07.559+06:00",
+    "og:title": "Nvidia представила новые видеокарты RTX 500 и RTX 1000 для профессионалов",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/b66/df4/d66/b66df4d661347f43a28cd8caa6f92aa8.png",
+    "og:description": "Видеоадаптеры нового поколения ориентированы на ноутбуки профессионального уровня На конференции Mobile World Congress в Барселоне Nvidia представила очередную партию видеокарт для портативных...",
+    "og:url": "https://habr.com/ru/companies/x-com/news/798647/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/X5Tech/articles/797185/",
     "title": "Кейс: разметка приложения с нуля на конкретном примере / Хабр",
     "date": "2024-03-01T04:06:51.048+06:00",
@@ -19368,6 +19434,17 @@
     "og:image": "https://habrastorage.org/getpro/habr/upload_files/406/17f/014/40617f01404841f86864d7852623af97.png",
     "og:description": "Всем привет! Меня зовут Максим, я работаю системным инженером в&nbsp;Yandex Cloud и в&nbsp;Яндекс Практикуме на&nbsp;курсе « Системный администратор ». В&nbsp;этой статье я опишу свой субъективный...",
     "og:url": "https://habr.com/ru/companies/yandex_praktikum/articles/796929/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/yandex_praktikum/articles/798193/",
+    "title": "15+ полезных ссылок для начинающего специалиста по Data Science / Хабр",
+    "date": "2024-03-07T08:42:08.513+06:00",
+    "og:title": "15+ полезных ссылок для начинающего специалиста по Data Science",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/e5d/79c/ba7/e5d79cba7bf14498146f308be4b21f43.png",
+    "og:description": "Привет, Хабр! Меня зовут Раф. Сейчас я работаю аналитиком ценообразования в Яндекс Лавке, куда попал после стажировки в команде аналитики Яндекс Браузера. Параллельно учусь в НИУ ВШЭ и уже успел...",
+    "og:url": "https://habr.com/ru/companies/yandex_praktikum/articles/798193/",
     "og:type": "article"
   },
   {
@@ -21319,6 +21396,61 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/news/798633/",
+    "title": "Apple заблокировала аккаунт разработчика Epic во второй раз / Хабр",
+    "date": "2024-03-07T08:42:08.033+06:00",
+    "og:title": "Apple заблокировала аккаунт разработчика Epic во второй раз",
+    "og:image": "https://habrastorage.org/webt/9e/ky/w2/9ekyw2adhcirrjf-mmbxjtyygzk.jpeg",
+    "og:description": "Apple повторно заблокировала аккаунт разработчика Epic Games, тем самым ограничив возможность компании создать альтернативный магазин приложений для iOS. Одной из причин ограничения работы учётной...",
+    "og:url": "https://habr.com/ru/news/798633/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/news/798639/",
+    "title": "Cloudflare работает над корпоративным фаерволом для ИИ / Хабр",
+    "date": "2024-03-07T08:42:07.807+06:00",
+    "og:title": "Cloudflare работает над корпоративным фаерволом для ИИ",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/282/c66/131/282c66131a3e2453da39bc00da77cbed.jpg",
+    "og:description": "Cloudflare объявила о разработке защитных продуктов с функциями искусственного интеллекта для защиты больших языковых моделей и компаний от атак. Брандмауэр для ИИ предоставит компаниям уровень защиты...",
+    "og:url": "https://habr.com/ru/news/798639/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/news/798643/",
+    "title": "VK: более 1 тыс. компаний в РФ используют инфраструктуру RuStore для разработки и публикации приложений / Хабр",
+    "date": "2024-03-07T08:42:07.692+06:00",
+    "og:title": "VK: более 1 тыс. компаний в РФ используют инфраструктуру RuStore для разработки и публикации приложений",
+    "og:image": "https://habrastorage.org/webt/nj/h1/ec/njh1ecpv-a7cjmpgds6cn4d1tl0.jpeg",
+    "og:description": "Свыше 1 тыс. российских и международных компаний используют инфраструктуру магазина приложений RuStore для создания и выпуска своего софта, рассказал директор по продукту RuStore Олег Афанасьев на...",
+    "og:url": "https://habr.com/ru/news/798643/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/news/798651/",
+    "title": "Суд не признал приглашение «Госуслуг» на «Битву роботов» спамом / Хабр",
+    "date": "2024-03-07T08:42:07.541+06:00",
+    "og:title": "Суд не признал приглашение «Госуслуг» на «Битву роботов» спамом",
+    "og:image": "https://habr.com/share/publication/798651/fbf50aebac2595d11456592947f29d1e/",
+    "og:description": "Арбитражный суд Москвы 6 марта рассмотрел иск представителя ОД «Информация для всех» Евгения Альтовского к управлению ФАС, которое отказалось признать спамом сообщение «Госуслуги» с приглашением...",
+    "og:url": "https://habr.com/ru/news/798651/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/news/798653/",
+    "title": "Разработчики раскрыли детали работы сквозного шифрования чатов в WhatsApp со сторонними сервисами / Хабр",
+    "date": "2024-03-07T08:42:07.408+06:00",
+    "og:title": "Разработчики раскрыли детали работы сквозного шифрования чатов в WhatsApp со сторонними сервисами",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/be4/85d/940/be485d940f5d20b1d1a3c0b94adb6c74.JPG",
+    "og:description": "В Meta* раскрыли , как в WhatsApp и Messenger будет работать сквозное шифрование (E2EE), чтобы соблюдать требования Закона о цифровых рынках (DMA) к сторонним чатам. DMA требует, чтобы Meta «была...",
+    "og:url": "https://habr.com/ru/news/798653/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/posts/797109/",
     "title": "Пост @maybe_elf — Информационная безопасность — 29.02 14:22 / Хабр",
     "date": "2024-03-01T04:05:25.55+06:00",
@@ -22107,6 +22239,28 @@
     "og:image": "https://habr.com/share/publication/798589/c8a275d7aa875756d2d6b7793282058c/",
     "og:description": "Личная блокировка пользователей на Хабре (личный бан). Мне кажется, что эта функция была бы весьма востребована. Мой опыт написания статей показал, что находятся не критики и советчики, а критиканы,...",
     "og:url": "https://habr.com/ru/posts/798589/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/posts/798625/",
+    "title": "Пост @denis-19 — Облачные сервисы — 07.03 13:32 / Хабр",
+    "date": "2024-03-07T08:42:08.238+06:00",
+    "og:title": "Пост @denis-19 — Облачные сервисы  — 07.03 13:32",
+    "og:image": "https://habr.com/share/publication/798625/e8bf410074feb8e375884d837d3fabc6/",
+    "og:description": "В «Яндекс Картах» и «Навигаторе» появилась возможность просмотра расположения ЭЗС, проверка их статуса и типов доступных коннекторов. Также сервисы теперь помогут начать и завершить сессию зарядки...",
+    "og:url": "https://habr.com/ru/posts/798625/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/posts/798645/",
+    "title": "Пост @melpnz — Интерфейсы — 07.03 14:16 / Хабр",
+    "date": "2024-03-07T08:42:08.135+06:00",
+    "og:title": "Пост @melpnz — Интерфейсы  — 07.03 14:16",
+    "og:image": "https://habr.com/share/publication/798645/be11ec8618b94218862acbe64779169e/",
+    "og:description": "Figma представила функцию «Мультиредактирование» (multi‑edit). Теперь можно измененять один из&nbsp;выделенных объектов, и изменения автоматически применятся ко всем остальным выбранным элементам....",
+    "og:url": "https://habr.com/ru/posts/798645/",
     "og:type": "article"
   },
   {
@@ -23618,6 +23772,17 @@
   },
   {
     "hostname": "journal.tinkoff.ru",
+    "url": "https://journal.tinkoff.ru/short/mind-blowing/",
+    "title": "Триллеры, которые сломают вам мозг",
+    "date": "2024-03-07T08:41:33.911+06:00",
+    "og:title": "Запутанные триллеры-головоломки",
+    "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/mind-blowing-fb.grpus0itbolm..png",
+    "og:description": "От классики Дэвида Финчера до фестивальных находок",
+    "og:url": "https://journal.tinkoff.ru/short/mind-blowing/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "journal.tinkoff.ru",
     "url": "https://journal.tinkoff.ru/short/people-got-hurt/",
     "title": "ДТП с пострадавшими: ответственность, требования и санкции",
     "date": "2024-03-06T08:32:39.311+06:00",
@@ -23746,6 +23911,17 @@
     "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/spec-khl-fb.nzw7jy01x4uy..jpg",
     "og:description": "Партнерский материал",
     "og:url": "https://journal.tinkoff.ru/spec-khl/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "journal.tinkoff.ru",
+    "url": "https://journal.tinkoff.ru/spec-tinkoff-travel/",
+    "title": "Как купить авиабилет через Тинькофф Путешествия",
+    "date": "2024-03-07T08:41:33.921+06:00",
+    "og:title": "Как меньше тратить на путешествия",
+    "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/spec-tinkoff-travel-fb.kw1lcg0mvgv0..jpg",
+    "og:description": "За счет авиабилетов",
+    "og:url": "https://journal.tinkoff.ru/spec-tinkoff-travel/",
     "og:type": "article"
   },
   {
@@ -38127,6 +38303,17 @@
   },
   {
     "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/posts/ai-interviewer-pro",
+    "title": "AI Interviewer Pro - Elevate hiring with AI insights | Product Hunt",
+    "date": "2024-03-07T08:41:34.824+06:00",
+    "og:title": " AI Interviewer Pro - Elevate hiring with AI insights | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/720e9f0b-f0e4-4571-883b-fe42f2af12aa.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "We cut hiring time and bias, understanding candidate skills, personality, and fit. Insights craft impactful topics for next interviews, reducing turnover and offering a personalized hiring experience.",
+    "og:url": "https://www.producthunt.com/posts/ai-interviewer-pro",
+    "og:type": "product"
+  },
+  {
+    "hostname": "www.producthunt.com",
     "url": "https://www.producthunt.com/posts/ai-logo-maker-by-neural-love",
     "title": "AI Logo Maker by neural.love - Describe your company and get 50 logos in 1 click | Product Hunt",
     "date": "2024-03-04T02:55:57.538+06:00",
@@ -38248,6 +38435,17 @@
   },
   {
     "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/posts/athina-ai",
+    "title": "Athina AI - Monitor LLMs and automatically detect hallucinations in prod | Product Hunt",
+    "date": "2024-03-07T08:41:40.25+06:00",
+    "og:title": " Athina AI - Monitor LLMs and automatically detect hallucinations in prod | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/994038e8-b949-4fbf-9bd7-ba15184799f6.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "Athina helps developers monitor and evaluate LLMs in production. Get complete visibility into RAG pipeline and 40+ preset eval metrics to detect hallucinations and measure performance",
+    "og:url": "https://www.producthunt.com/posts/athina-ai",
+    "og:type": "product"
+  },
+  {
+    "hostname": "www.producthunt.com",
     "url": "https://www.producthunt.com/posts/autoprompt",
     "title": "AutoPrompt - Generate high-quality, detailed prompts to fit your needs | Product Hunt",
     "date": "2024-03-04T08:25:38.074+06:00",
@@ -38336,6 +38534,17 @@
   },
   {
     "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/posts/calendiary",
+    "title": "CALENDIARY - Where time tells your story | Product Hunt",
+    "date": "2024-03-07T08:41:38.199+06:00",
+    "og:title": " CALENDIARY - Where time tells your story | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/5a98cca6-6cf1-457f-b442-ac05f2f29c33.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "Revolutionary Framer template designed to tell your story in a creative and original way. There's nothing stopping you from using Calendiary also for app updates, blogging, photo stories or portfolio. The possibilities are limited... only by your imagination.",
+    "og:url": "https://www.producthunt.com/posts/calendiary",
+    "og:type": "product"
+  },
+  {
+    "hostname": "www.producthunt.com",
     "url": "https://www.producthunt.com/posts/calorieasy",
     "title": "Calorieasy - Track calories in seconds with AI | Product Hunt",
     "date": "2024-03-04T02:55:51.134+06:00",
@@ -38354,6 +38563,17 @@
     "og:image": "https://ph-files.imgix.net/ab70de0b-ad1c-4cfe-a7e0-6cbf1975c85b.png?auto=format&fit=crop&frame=1&h=512&w=1024",
     "og:description": "Candor makes culture building collaborative and simple. With Candor, teammates build beautiful personal ReadMes, share feedback, do check-ins, give shoutouts, and run amazing 1-on-1 meetings.",
     "og:url": "https://www.producthunt.com/posts/candor-3",
+    "og:type": "product"
+  },
+  {
+    "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/posts/career-connect-by-pathrise",
+    "title": "Career Connect by Pathrise - 3x your interview rate with personalized AI-crafted emails | Product Hunt",
+    "date": "2024-03-07T08:41:40.591+06:00",
+    "og:title": " Career Connect by Pathrise - 3x your interview rate with personalized AI-crafted emails | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/10c22a6b-2b3e-4a16-a24e-382ab464395f.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "Career Connect is a Chrome extension that helps you send automated custom application follow-up emails to company insiders to 3x your interview rates. Overcome the job application black hole. Get your resume seen by company insiders.",
+    "og:url": "https://www.producthunt.com/posts/career-connect-by-pathrise",
     "og:type": "product"
   },
   {
@@ -38523,6 +38743,17 @@
   },
   {
     "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/posts/customerly-aura",
+    "title": "Customerly Aura - AI assistant for support teams | Product Hunt",
+    "date": "2024-03-07T08:41:40.739+06:00",
+    "og:title": " Customerly Aura - AI assistant for support teams | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/3e6eddab-5f86-451a-baf1-ed4a72fe9d32.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "Customerly Aura is the best AI chatbot, delivering fast, accurate support in any language. Ensures customer satisfaction; escalates complex issues to humans when needed.",
+    "og:url": "https://www.producthunt.com/posts/customerly-aura",
+    "og:type": "product"
+  },
+  {
+    "hostname": "www.producthunt.com",
     "url": "https://www.producthunt.com/posts/d-id-agents",
     "title": "D-ID Agents - Create and deploy digital people that work for you! | Product Hunt",
     "date": "2024-03-04T08:25:38.018+06:00",
@@ -38563,6 +38794,17 @@
     "og:image": "https://ph-files.imgix.net/73cc3a49-adc2-4b8f-9111-6ddbc9435cdb.png?auto=format&fit=crop&frame=1&h=512&w=1024",
     "og:description": "Easily discover great ideas, shareable content and free resources in pre-curated topics like AI, digital marketing, Notion, web design, SEO, and more!",
     "og:url": "https://www.producthunt.com/posts/digital-creators-hub",
+    "og:type": "product"
+  },
+  {
+    "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/posts/do-it-or-else",
+    "title": "Do It Or Else - Link massive pain to not achieving your goals | Product Hunt",
+    "date": "2024-03-07T08:41:36.102+06:00",
+    "og:title": " Do It Or Else - Link massive pain to not achieving your goals | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/b4e31c82-992b-4327-bb37-1fab97872b34.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "Do you have trouble following through on your goals? With \"Do It Or Else\" you can link MASSIVE pain to not following through. Like for example donating $ to Trump or to the American Petroleum Institute (oil + gas lobbyist) or another cause you don't stand for!",
+    "og:url": "https://www.producthunt.com/posts/do-it-or-else",
     "og:type": "product"
   },
   {
@@ -38673,6 +38915,17 @@
     "og:image": "https://ph-files.imgix.net/efc3b00d-2e59-4062-b6c3-3f909ab1283e.png?auto=format&fit=crop&frame=1&h=512&w=1024",
     "og:description": "Felix is a context-aware, AI-powered Figma plugin that can understand designs and generate research protocols, give feedback, generate tailwind or react, and more, to help you develop software from 0 to 1.",
     "og:url": "https://www.producthunt.com/posts/felix-ai-2",
+    "og:type": "product"
+  },
+  {
+    "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/posts/fga4",
+    "title": "FGA4 - Easy and ready-to-use dashboards for Google Analytics | Product Hunt",
+    "date": "2024-03-07T08:41:39.481+06:00",
+    "og:title": " FGA4 - Easy and ready-to-use dashboards for Google Analytics | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/40355f89-fba3-4679-944d-e86be1320ae6.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "We realized we were not the only ones missing on the old UA interface, so we built these dashboards for GA4. They are easy to set-up, understand, and use. You don't have to get into advanced data science tooling to keep using your Google Analytics.",
+    "og:url": "https://www.producthunt.com/posts/fga4",
     "og:type": "product"
   },
   {
@@ -38930,6 +39183,17 @@
   },
   {
     "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/posts/kapwing-ai",
+    "title": "Kapwing AI - Automatic video dubbing & translation | Product Hunt",
+    "date": "2024-03-07T08:41:34.62+06:00",
+    "og:title": " Kapwing AI - Automatic video dubbing & translation | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/ac08edb5-536a-411b-8700-f76ec9090c45.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "Dub videos in 30+ languages using highly-accurate translations that are paired with natural-sounding AI voices. Kapwing's dubbing platform makes it easy to translate videos quickly, in-house, and without long turnaround times.",
+    "og:url": "https://www.producthunt.com/posts/kapwing-ai",
+    "og:type": "product"
+  },
+  {
+    "hostname": "www.producthunt.com",
     "url": "https://www.producthunt.com/posts/keyzii",
     "title": "keyzii - It's easy with keyzii | Product Hunt",
     "date": "2024-03-05T08:19:32.386+06:00",
@@ -39018,6 +39282,17 @@
   },
   {
     "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/posts/localo-sites",
+    "title": "Localo Sites - Free website generator for Google Business profile users | Product Hunt",
+    "date": "2024-03-07T08:41:39.302+06:00",
+    "og:title": " Localo Sites - Free website generator for Google Business profile users | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/8f31f1f7-2008-42a9-902a-1127763248c2.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "Localo Sites is a free AI tool that effortlessly creates functional websites based on Google Business Profile information. It's free, quick, and aimed at maximizing local business visibility with a neutral localo.site domain.",
+    "og:url": "https://www.producthunt.com/posts/localo-sites",
+    "og:type": "product"
+  },
+  {
+    "hostname": "www.producthunt.com",
     "url": "https://www.producthunt.com/posts/locksmith-2",
     "title": "Locksmith - Easy access basketball data | Product Hunt",
     "date": "2024-03-07T03:19:05.268+06:00",
@@ -39073,6 +39348,17 @@
   },
   {
     "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/posts/maestro-by-prodvana",
+    "title": "Maestro by Prodvana - Never trade off velocity or reliability again | Product Hunt",
+    "date": "2024-03-07T08:41:39.887+06:00",
+    "og:title": " Maestro by Prodvana - Never trade off velocity or reliability again | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/b0544122-30ee-4e28-a57f-0ea2c35bf78d.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "Maestro is Prodvana’s latest innovation for complex software deployments. Maestro automatically analyzes dependencies so that multiple concurrent deployments can occur. The more complicated the scenario, the higher returns Maestro gives you!",
+    "og:url": "https://www.producthunt.com/posts/maestro-by-prodvana",
+    "og:type": "product"
+  },
+  {
+    "hostname": "www.producthunt.com",
     "url": "https://www.producthunt.com/posts/mapplic",
     "title": "Mapplic - Create beautiful interactive maps, embed anywhere | Product Hunt",
     "date": "2024-03-06T08:15:17.062+06:00",
@@ -39117,6 +39403,17 @@
   },
   {
     "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/posts/mikrolo-2-0",
+    "title": "Mikrolo 2.0 - Catch and fix marketing issues before spending much | Product Hunt",
+    "date": "2024-03-07T08:41:38.418+06:00",
+    "og:title": " Mikrolo 2.0 - Catch and fix marketing issues before spending much | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/42c231e4-056e-4aae-91c1-e91781a48d19.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "Mikrolo catches and resolves Google Analytics and Google Ads problems with automation! Maximizing Google Ads Performance: Ensuring Success Every Step of the Way.",
+    "og:url": "https://www.producthunt.com/posts/mikrolo-2-0",
+    "og:type": "product"
+  },
+  {
+    "hostname": "www.producthunt.com",
     "url": "https://www.producthunt.com/posts/million-lint",
     "title": "Million Lint - Identify & fix slow code – Grammarly for performance | Product Hunt",
     "date": "2024-03-06T02:39:35.964+06:00",
@@ -39135,6 +39432,17 @@
     "og:image": "https://ph-files.imgix.net/3c25a8ef-a0b0-4d7b-b460-24de7e770e04.png?auto=format&fit=crop&frame=1&h=512&w=1024",
     "og:description": "Modul' is your all-in-one platform for effortless task management, integrating tools like pomodoro timers, chat and much more. Ideal for both personal organization and team collaboration, it elevates your daily workflow.",
     "og:url": "https://www.producthunt.com/posts/modul",
+    "og:type": "product"
+  },
+  {
+    "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/posts/moodwise",
+    "title": "MoodWise - Mental health and mood tracking | Product Hunt",
+    "date": "2024-03-07T08:41:36.626+06:00",
+    "og:title": " MoodWise - Mental health and mood tracking | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/328bd6d7-e961-43fa-8cb7-a9d7340c6d15.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "Minimalist mood tracking for a serene life. Track your mood, sleep, energy and more. Improve your emotional well-being with MoodWise, a minimalist mood tracker designed for simplicity and effectiveness.",
+    "og:url": "https://www.producthunt.com/posts/moodwise",
     "og:type": "product"
   },
   {
@@ -39227,6 +39535,17 @@
   },
   {
     "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/posts/orchestra-data-platform",
+    "title": "Orchestra Data Platform - Rapidly build and monitor Data and AI Products | Product Hunt",
+    "date": "2024-03-07T08:41:36.848+06:00",
+    "og:title": " Orchestra Data Platform - Rapidly build and monitor Data and AI Products | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/f6b46278-63f1-4615-a007-3bcdbad7bd65.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "Orchestra helps tech-first organisations rapidly build Data and AI Products. Users can optimise data quality, cost, failures, data volumes and durations for specific Data and AI products from a single place while consolidating tooling. Data Lineage included.",
+    "og:url": "https://www.producthunt.com/posts/orchestra-data-platform",
+    "og:type": "product"
+  },
+  {
+    "hostname": "www.producthunt.com",
     "url": "https://www.producthunt.com/posts/oso-ai",
     "title": "OSO AI - Censorship-free AI chat & search engine | Product Hunt",
     "date": "2024-03-04T10:00:30.851+06:00",
@@ -39234,6 +39553,17 @@
     "og:image": "https://ph-files.imgix.net/e28f414b-7d40-4bc3-888b-3eb9aee019cf.png?auto=format&fit=crop&frame=1&h=512&w=1024",
     "og:description": "OSO is a censorship-free AI Search Engine that scans the entire internet using advanced AI to find and summarize relevant information. OSO also has an unrestricted AI chat, allowing users to ask any question, enabling unrestricted access to information.",
     "og:url": "https://www.producthunt.com/posts/oso-ai",
+    "og:type": "product"
+  },
+  {
+    "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/posts/outfindo",
+    "title": "Outfindo - AI-driven product guides that simplify product selection | Product Hunt",
+    "date": "2024-03-07T08:41:39.041+06:00",
+    "og:title": " Outfindo - AI-driven product guides that simplify product selection | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/700db9c8-e859-4911-9507-58430680c49d.webp?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "Guide your customers through product selection with a few easy questions and turn browsers into buyers using ready-made guides based on advanced research and data-processing AI models. That simply means a bigger profit from your traffic thanks to unique AI.",
+    "og:url": "https://www.producthunt.com/posts/outfindo",
     "og:type": "product"
   },
   {
@@ -39282,6 +39612,17 @@
   },
   {
     "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/posts/pencilbooth-2-0",
+    "title": "PencilBooth 2.0 - The visual newsletter service for creative types | Product Hunt",
+    "date": "2024-03-07T08:41:35.214+06:00",
+    "og:title": " PencilBooth 2.0 - The visual newsletter service for creative types | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/9d957685-6284-4048-87f2-28a44ea80f17.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "PencilBooth is a visual email newsletter platform made specifically for creative types. Redesigned and redeveloped from the ground up, PencilBooth 2.0 answers the question of what a newsletter service could look like if it was led by images and not words.",
+    "og:url": "https://www.producthunt.com/posts/pencilbooth-2-0",
+    "og:type": "product"
+  },
+  {
+    "hostname": "www.producthunt.com",
     "url": "https://www.producthunt.com/posts/perfect-pick",
     "title": "Perfect Pick - The ultimate video game discovery engine | Product Hunt",
     "date": "2024-03-01T09:33:55.98+06:00",
@@ -39311,6 +39652,17 @@
     "og:image": "https://ph-files.imgix.net/e99fc108-f1c4-4029-9740-ba22c7e8be98.png?auto=format&fit=crop&frame=1&h=512&w=1024",
     "og:description": "Petti is a database backup tool with built-in cloud storage, protection, and monitoring. It requires only a one-time setup. Currently available for Microsoft SQL Server databases.",
     "og:url": "https://www.producthunt.com/posts/petti",
+    "og:type": "product"
+  },
+  {
+    "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/posts/pipedream-for-x-twitter",
+    "title": "Pipedream for X (Twitter) - Connect X (Twitter) with 2000+ APIs and automate anything | Product Hunt",
+    "date": "2024-03-07T08:41:36.447+06:00",
+    "og:title": " Pipedream for X (Twitter) - Connect X (Twitter) with 2000+ APIs and automate anything | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/8c481a4d-883a-40f7-b4c5-db222b89522f.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "Build workflow automations with X (Twitter) on Pipedream’s integration platform for developers. With 5,000+ pre-built triggers and actions, plus the ability to run custom code (Node.js, Python, Go, or Bash), you can move from idea to production in minutes.",
+    "og:url": "https://www.producthunt.com/posts/pipedream-for-x-twitter",
     "og:type": "product"
   },
   {
@@ -39381,6 +39733,28 @@
   },
   {
     "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/posts/priorli",
+    "title": "Priorli - Produce content on your creativity, just a little help of AI | Product Hunt",
+    "date": "2024-03-07T08:41:35.751+06:00",
+    "og:title": " Priorli - Produce content on your creativity, just a little help of AI | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/098e6668-1ed7-415a-ae92-7220565d110a.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "Priorli ignites content creators' potential, especially YouTubers and podcasters, by transforming videos into diverse formats like blog posts with their own voiceovers, IG Reels, YouTube Shorts, and TikTok. Save over 50% of your time!",
+    "og:url": "https://www.producthunt.com/posts/priorli",
+    "og:type": "product"
+  },
+  {
+    "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/posts/promptboard",
+    "title": "PromptBoard - AI prompt management tool & keyboard extension with prompts | Product Hunt",
+    "date": "2024-03-07T08:41:40.882+06:00",
+    "og:title": " PromptBoard - AI prompt management tool & keyboard extension with prompts | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/93069536-2de3-48cb-ba74-990e0521d0bf.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "PromptBoard revolutionizes AI interactions by offering seamless prompt management across devices. Save, discover, and manage AI prompts with ease. With iOS keyboard extension, use your prompts directly into any APPs, enhancing your AI experience instantly.",
+    "og:url": "https://www.producthunt.com/posts/promptboard",
+    "og:type": "product"
+  },
+  {
+    "hostname": "www.producthunt.com",
     "url": "https://www.producthunt.com/posts/ptube",
     "title": "PTube - Video lite, block ads | Product Hunt",
     "date": "2024-03-04T02:55:54.395+06:00",
@@ -39403,6 +39777,17 @@
   },
   {
     "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/posts/ratemyhelpdocs",
+    "title": "RateMyHelpDocs - Rate and improve your help docs | Product Hunt",
+    "date": "2024-03-07T08:41:37.709+06:00",
+    "og:title": " RateMyHelpDocs - Rate and improve your help docs | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/efd9d88a-2974-4ee4-960f-89d9b03c034a.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "Nobody reads the manual, but everyone complains when they can't find the answer. Rate My HelpDocs takes your help content, rates it, and makes suggestions to improve it.",
+    "og:url": "https://www.producthunt.com/posts/ratemyhelpdocs",
+    "og:type": "product"
+  },
+  {
+    "hostname": "www.producthunt.com",
     "url": "https://www.producthunt.com/posts/reaction-free",
     "title": "Reaction Free - Create react content without fear of copyright infringement | Product Hunt",
     "date": "2024-03-01T09:33:54.086+06:00",
@@ -39410,6 +39795,17 @@
     "og:image": "https://ph-files.imgix.net/8e243f85-23a8-459f-ab4e-d50420b53518.png?auto=format&fit=crop&frame=1&h=512&w=1024",
     "og:description": "Unlock the future of content creation with Reaction Free! This revolutionary combo of web + Chrome extension empowers creators to react to copyrighted material on YouTube worry-free. Say goodbye to copyright claims and hello to creative freedom. 🚀",
     "og:url": "https://www.producthunt.com/posts/reaction-free",
+    "og:type": "product"
+  },
+  {
+    "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/posts/render-a-house",
+    "title": "Render a House - Create instant beautiful photos of your project | Product Hunt",
+    "date": "2024-03-07T08:41:37.069+06:00",
+    "og:title": " Render a House - Create instant beautiful photos of your project | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/472c2e24-df4e-498a-9901-1cc130fd95d3.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "Tired of slow render times, long time to set up environments and spending 100s of dollars in professionals to make photorealistic renders? Transform architectural drawings into realistic images: fast, precise visualizations with minimal setup.",
+    "og:url": "https://www.producthunt.com/posts/render-a-house",
     "og:type": "product"
   },
   {
@@ -39432,6 +39828,17 @@
     "og:image": "https://ph-files.imgix.net/44c237e4-8c1b-4797-aa36-388d3df8c204.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024",
     "og:description": "An extension that let's you track how much you're replying vs time spent on the app, set a daily goal to gamify the experience, filter early popular posts so that your replies get viewed",
     "og:url": "https://www.producthunt.com/posts/replymore",
+    "og:type": "product"
+  },
+  {
+    "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/posts/repobear-2",
+    "title": "Repobear - The easiest way to share & monetize private Github repos | Product Hunt",
+    "date": "2024-03-07T08:41:38.854+06:00",
+    "og:title": " Repobear - The easiest way to share & monetize private Github repos | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/b56de86a-23d1-4a38-af89-1fead7693378.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "Generate sharable links, manage user access, monetize your code and share your private repositories securely. Disable cloning and always keep your code on Github.",
+    "og:url": "https://www.producthunt.com/posts/repobear-2",
     "og:type": "product"
   },
   {
@@ -39469,6 +39876,28 @@
   },
   {
     "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/posts/rivian-r2",
+    "title": "Rivian R2 - A new take on electric adventure | Product Hunt",
+    "date": "2024-03-07T08:41:39.675+06:00",
+    "og:title": " Rivian R2 - A new take on electric adventure | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/9525255c-d880-4125-b7b4-95b6d1ddc16b.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "The R2 is Rivian's upcoming smaller and more affordable SUV model that will be priced around $45,000 to target mainstream consumers.",
+    "og:url": "https://www.producthunt.com/posts/rivian-r2",
+    "og:type": "product"
+  },
+  {
+    "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/posts/roe-ai",
+    "title": "Roe AI - The AI-powered data warehouse to query unstructured data | Product Hunt",
+    "date": "2024-03-07T08:41:40.069+06:00",
+    "og:title": " Roe AI - The AI-powered data warehouse to query unstructured data | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/d8e67e1b-3ef4-4206-bac9-66d3baeded41.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "Roe AI is a new data warehouse specializing in unstructured data that other data warehouses can't handle. It has built-in AI that makes analysis easy with natural language instead of Python scripts e.g performing a complex customer segmentation with a prompt.",
+    "og:url": "https://www.producthunt.com/posts/roe-ai",
+    "og:type": "product"
+  },
+  {
+    "hostname": "www.producthunt.com",
     "url": "https://www.producthunt.com/posts/romo-ai",
     "title": "Romo AI - All super AI tools in one place | Product Hunt",
     "date": "2024-03-04T02:55:58.89+06:00",
@@ -39487,6 +39916,17 @@
     "og:image": "https://ph-files.imgix.net/c4f08273-0c79-4436-86fa-2ee7f1918d18.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024",
     "og:description": "Full-Stack SaaS Boilerplate and Starter Kit for Next.js: A production-ready solution crafted for optimal front-end and back-end functionality, developer experience, seamless integrations, quick launch, easy deployment, scalability, and maintenance.",
     "og:url": "https://www.producthunt.com/posts/saasbold",
+    "og:type": "product"
+  },
+  {
+    "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/posts/screenshot-to-notion-annotate",
+    "title": "Screenshot to Notion & Annotate - Snap, Embed, Annotate Screenshots Directly in Notion! | Product Hunt",
+    "date": "2024-03-07T08:41:37.302+06:00",
+    "og:title": " Screenshot to Notion & Annotate - Snap, Embed, Annotate Screenshots Directly in Notion! | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/95e61663-fc54-4147-810c-76b83c9fea7a.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "The missing link in Notion -- Embedding screenshots and annotating directly in Notion. New Chrome Extension empowers users to snap website screenshots, choose page, embed + one-click add arrows, callouts, highlights, signatures + 25 more markup tools!",
+    "og:url": "https://www.producthunt.com/posts/screenshot-to-notion-annotate",
     "og:type": "product"
   },
   {
@@ -39612,6 +40052,17 @@
   },
   {
     "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/posts/stipple-effect",
+    "title": "Stipple Effect - Pixel art editor and animator | Product Hunt",
+    "date": "2024-03-07T08:41:37.975+06:00",
+    "og:title": " Stipple Effect - Pixel art editor and animator | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/e46f87c4-c8c2-447d-a10b-e2327470cea3.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "Stipple Effect is a free image editor designed for creating and animating pixel art. It has a host of features intended to support creators' workflows and make frame-based pixel art animation more efficient and scalable.",
+    "og:url": "https://www.producthunt.com/posts/stipple-effect",
+    "og:type": "product"
+  },
+  {
+    "hostname": "www.producthunt.com",
     "url": "https://www.producthunt.com/posts/stonk-madness",
     "title": "Stonk Madness - First ever 64 stocks bracket tournament 🏆 | Product Hunt",
     "date": "2024-03-06T08:15:16.206+06:00",
@@ -39667,6 +40118,17 @@
   },
   {
     "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/posts/superflow-for-lottie-files",
+    "title": "Superflow for Lottie Files - Frame by frame feedback on Lottie Animations | Product Hunt",
+    "date": "2024-03-07T08:41:40.452+06:00",
+    "og:title": " Superflow for Lottie Files - Frame by frame feedback on Lottie Animations | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/3e4dd90f-dd5c-4d29-a2ca-a857ef9e5dcb.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "Getting feedback on Lottie animations ends up all over the place – screenshots, Slack, emails—you name it. Superflow fixes that. Frame by frame comments help you ship awesome animations faster.",
+    "og:url": "https://www.producthunt.com/posts/superflow-for-lottie-files",
+    "og:type": "product"
+  },
+  {
+    "hostname": "www.producthunt.com",
     "url": "https://www.producthunt.com/posts/supertasks-io",
     "title": "Supertasks.io - Quick Decision Making Tool | Product Hunt",
     "date": "2024-03-05T08:19:32.846+06:00",
@@ -39689,6 +40151,17 @@
   },
   {
     "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/posts/teaming-2",
+    "title": "Teaming - The management app that understands and coaches your team | Product Hunt",
+    "date": "2024-03-07T08:41:38.626+06:00",
+    "og:title": " Teaming - The management app that understands and coaches your team | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/74bcb984-c7ca-4ba7-9d5a-c031b4529c46.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "Teaming integrates powerful AI note-taking with your team's goals, communication styles, culture, tasks, and performance to make your team the highest-performing, healthiest team. Each team member gets completely private, personalized, and contextual coaching.",
+    "og:url": "https://www.producthunt.com/posts/teaming-2",
+    "og:type": "product"
+  },
+  {
+    "hostname": "www.producthunt.com",
     "url": "https://www.producthunt.com/posts/ten-testnet-1",
     "title": "Ten - Testnet - Fully encrypted L2 on Ethereum - 100% EVM, 100% solidity | Product Hunt",
     "date": "2024-03-04T02:55:53.59+06:00",
@@ -39696,6 +40169,17 @@
     "og:image": "https://ph-files.imgix.net/bdecfc34-e827-434c-bcf8-f39163c4c5f9.png?auto=format&fit=crop&frame=1&h=512&w=1024",
     "og:description": "Ten is a Layer 2 rollup that hyper-scales and encrypts Ethereum. Ten allows Ethereum smart contracts to contain both public and private elements without changing the user or developer experience.",
     "og:url": "https://www.producthunt.com/posts/ten-testnet-1",
+    "og:type": "product"
+  },
+  {
+    "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/posts/text-enhancer-ai",
+    "title": "Text Enhancer AI - Enhance any text content in seconds for free | Product Hunt",
+    "date": "2024-03-07T08:41:34.258+06:00",
+    "og:title": " Text Enhancer AI - Enhance any text content in seconds for free | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/f3b74857-798c-4c9f-92d9-0258d8414431.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "📝 Enhance your writing for free with our online paraphrasing AI tool. Improve grammar, rephrase & reword text, and elevate your writing skills effortlessly today!",
+    "og:url": "https://www.producthunt.com/posts/text-enhancer-ai",
     "og:type": "product"
   },
   {
@@ -39740,6 +40224,17 @@
     "og:image": "https://ph-files.imgix.net/c16adcb9-9f6f-4a18-bab8-6ce240dd2f53.png?auto=format&fit=crop&frame=1&h=512&w=1024",
     "og:description": "Savor each Sunday, reflect, and dream big. The Last Sunday reminds you of their value. Visualize goals, seize the day, and live fully.",
     "og:url": "https://www.producthunt.com/posts/the-last-sunday-2",
+    "og:type": "product"
+  },
+  {
+    "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/posts/the-new-mymind-ios-app",
+    "title": "The new mymind iOS app - The mobile extension of your mind just got better | Product Hunt",
+    "date": "2024-03-07T08:41:37.529+06:00",
+    "og:title": " The new mymind iOS app - The mobile extension of your mind just got better | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/4def9029-715f-4662-bfac-19a38e4792cc.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "Introducing the new mymind iOS app, rebuilt from scratch. We made huge improvements to performance and speed, along with many design updates to make your mind more beautiful and enjoyable to use. It will feel familiar – but smoother, faster, more reliable.",
+    "og:url": "https://www.producthunt.com/posts/the-new-mymind-ios-app",
     "og:type": "product"
   },
   {
@@ -39938,6 +40433,17 @@
     "og:image": "https://ph-files.imgix.net/699b5bd3-3836-4601-84b3-6aa2836921fc.png?auto=format&fit=crop&frame=1&h=512&w=1024",
     "og:description": "Introducing Chatbot Studio – a revolutionary advancement that transforms how businesses interact with customers.",
     "og:url": "https://www.producthunt.com/posts/yourgpt-chatbot-studio",
+    "og:type": "product"
+  },
+  {
+    "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/posts/zainii-ai",
+    "title": "Zainii.AI - AI learning platform on steroid for students | Product Hunt",
+    "date": "2024-03-07T08:41:35.5+06:00",
+    "og:title": " Zainii.AI - AI learning platform on steroid for students | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/ed1e19db-3edb-4087-afce-fe541ed4a6de.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "In the era of information overload, where Google and ChatGPT reign supreme, leaving students lost. Just one search, and all the information served on a single silver screen. Here's a secret—Zainii.ai comes with its own avatar, voice and video suggestion.",
+    "og:url": "https://www.producthunt.com/posts/zainii-ai",
     "og:type": "product"
   },
   {
