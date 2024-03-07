@@ -23,7 +23,7 @@ function fetchData(inputValue) {
   const filename = `assets/data/${year}-${month}-tabs.json`;
   console.log('Generated filename:', filename);
 
-  fetch("assets/data/tabs2json.json", {
+  fetch(filename, {
     method: "GET",
     headers: {
       "Content-Type": "application/json",
