@@ -3146,6 +3146,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "arun.is",
+    "url": "https://arun.is/blog/camera-illustrations/",
+    "title": "Inside arun.is · Camera Illustrations",
+    "date": "2024-03-07T05:57:22.147+06:00",
+    "og:title": "Inside arun.is  · Camera Illustrations",
+    "og:image": "https://www.arun.is/static/e925184ba6cedbdef1949eb9a2b7877f/social.jpg",
+    "og:description": "A behind-the-scenes look into the camera illustrations I use at the end of my photoessays.",
+    "og:url": "",
+    "og:type": "article"
+  },
+  {
     "hostname": "asharibali.medium.com",
     "url": "https://asharibali.medium.com/crafting-the-look-and-feel-of-the-digital-world-ui-ux-819a61e55215",
     "title": "Crafting the look and feel of the digital world? UI/UX | by Asharib Ali | Mar, 2024 | Medium",
@@ -31890,6 +31901,17 @@
   },
   {
     "hostname": "samlab.ws",
+    "url": "https://samlab.ws/soft/ashuninst/",
+    "title": "SamLab.ws - Ashampoo UnInstaller 14.00.12",
+    "date": "2024-03-07T05:57:52.702+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "samlab.ws",
     "url": "https://samlab.ws/soft/audacity/",
     "title": "SamLab.ws - Audacity 3.5.0 Beta",
     "date": "2024-03-03T09:38:59.55+06:00",
@@ -32023,8 +32045,8 @@
   {
     "hostname": "samlab.ws",
     "url": "https://samlab.ws/soft/firefox/",
-    "title": "SamLab.ws - Mozilla Firefox 123.0.1",
-    "date": "2024-03-05T05:12:42.189+06:00",
+    "title": "SamLab.ws - Mozilla Firefox 124.0 Beta 8",
+    "date": "2024-03-07T05:57:52.77+06:00",
     "og:title": "",
     "og:image": "",
     "og:description": "",
@@ -32113,6 +32135,28 @@
     "url": "https://samlab.ws/soft/sdi/",
     "title": "SamLab.ws - Snappy Driver Installer 1.23.9 + DriverPacks 24.03.0",
     "date": "2024-03-07T03:12:24.139+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "samlab.ws",
+    "url": "https://samlab.ws/soft/smartftp/",
+    "title": "SamLab.ws - SmartFTP 10.0.3206",
+    "date": "2024-03-07T05:57:52.746+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "samlab.ws",
+    "url": "https://samlab.ws/soft/softethervpn/",
+    "title": "SamLab.ws - SoftEther Client 4.43.9799 + Gate 158313",
+    "date": "2024-03-07T05:57:52.722+06:00",
     "og:title": "",
     "og:image": "",
     "og:description": "",
@@ -36386,6 +36430,17 @@
     "og:description": "",
     "og:url": "",
     "og:type": ""
+  },
+  {
+    "hostname": "www.jqueryscript.net",
+    "url": "https://www.jqueryscript.net/other/stick-top-bottom-ncaffix.html",
+    "title": "Stick Elements To Top/Bottom When Scrolled Into View - jQuery ncAffix | Free jQuery Plugins",
+    "date": "2024-03-07T05:57:22.167+06:00",
+    "og:title": "Stick Elements To Top/Bottom When Scrolled Into View - jQuery ncAffix",
+    "og:image": "https://www.jqueryscript.net/images/stick-top-bottom-ncaffix.jpg",
+    "og:description": "A jQuery Sticky plugin that makes any element on your webpage stick to the top or bottom of its parent container when it comes into view.",
+    "og:url": "https://www.jqueryscript.net/other/stick-top-bottom-ncaffix.html",
+    "og:type": "article"
   },
   {
     "hostname": "www.js-craft.io",
