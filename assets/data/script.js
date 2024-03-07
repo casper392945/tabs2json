@@ -15,6 +15,32 @@ function fetchData(inputValue) {
   // Perform data fetching using the inputValue
   // console.log("Fetching data for:", inputValue);
   // ...rest of the code
+  const fs = require('fs');
+  const path = require('path');
+
+  const directoryPath = 'assets/data';
+
+  fs.readdir(directoryPath, (err, files) => {
+    if (err) {
+      console.error('Error reading directory:', err);
+      return;
+    }
+
+    const filteredFiles = files.filter(file => file.endsWith('-tab.json'));
+    const lastFile = filteredFiles[filteredFiles.length - 1];
+
+    const filePath = path.join(directoryPath, lastFile);
+    console.log('Last file:', lastFile);
+    
+    fs.stat(filePath, (err, stats) => {
+      if (err) {
+        console.error('Error getting file stats:', err);
+        return;
+      }
+      console.log('Last modified date:', stats.mtime);
+    });
+  });
+
   fetch("assets/data/tabs2json.json", {
     method: "GET",
     headers: {
