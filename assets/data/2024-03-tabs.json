@@ -2863,7 +2863,7 @@
     "hostname": "adrianroselli.com",
     "url": "https://adrianroselli.com/2024/02/techniques-to-break-words.html",
     "title": "Techniques to Break Words — Adrian Roselli",
-    "date": "2024-03-07T09:34:44.424+06:00",
+    "date": "2024-03-08T04:02:11.312+06:00",
     "og:title": "Techniques to Break Words",
     "og:image": "https://adrianroselli.com/wp-content/uploads/2024/02/broken-words_thumb-300x300.jpg",
     "og:description": "Photo by studio tdes. Used under CC BY 2.0 Deed. Image cropped and contrast enhanced. A few days ago Benjy Stanton asked about breaking long words in tables. I offered a suggestion, which may or may not have worked. I never asked. My failure to follow up aside, it reminded…",
@@ -22704,6 +22704,17 @@
     "og:type": ""
   },
   {
+    "hostname": "hyper.is",
+    "url": "https://hyper.is/",
+    "title": "Hyper™",
+    "date": "2024-03-08T04:02:11.39+06:00",
+    "og:title": "",
+    "og:image": "https://assets.vercel.com/image/upload/v1590627842/hyper/og-image-3.png",
+    "og:description": "A terminal built on web technologies",
+    "og:url": "https://hyper.is",
+    "og:type": "website"
+  },
+  {
     "hostname": "icons8.medium.com",
     "url": "https://icons8.medium.com/get-icons-with-the-ai-figma-plugin-d670296a3fa9",
     "title": "Get icons with the AI Figma plugin | by Icons8 | Mar, 2024 | Medium",
@@ -31590,6 +31601,17 @@
     "og:description": "Meet Nina Geometrieva",
     "og:url": "https://niamh-oshea.medium.com/journey-from-self-taught-to-senior-designer-54c52a21b04b",
     "og:type": "article"
+  },
+  {
+    "hostname": "nuejs.org",
+    "url": "https://nuejs.org/blog/tailwind-vs-semantic-css/",
+    "title": "Tailwind vs Semantic CSS",
+    "date": "2024-03-08T04:02:11.454+06:00",
+    "og:title": "",
+    "og:image": "https://nuejs.org/blog/tailwind-vs-semantic-css/img/og.jpg",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
   },
   {
     "hostname": "o365reports.com",
@@ -42887,6 +42909,17 @@
     "og:description": "A case study made for RISTEK Fasilkom UI 2024 — Digital Product Design Recruitment Assignment",
     "og:url": "https://yasminepv.medium.com/ui-ux-research-case-study-designing-a-scholarship-service-website-beasiswapadi-com-23e8273b1740",
     "og:type": "article"
+  },
+  {
+    "hostname": "yequalx.com",
+    "url": "https://yequalx.com/",
+    "title": "YequalX.com — online charts/diagrams",
+    "date": "2024-03-08T04:02:11.556+06:00",
+    "og:title": "YequalX.com — online charts/diagrams",
+    "og:image": "",
+    "og:description": "YequalX.com - Website for building charts and diagrams online, create and download the chart, diagram",
+    "og:url": "https://yequalx.com/en/",
+    "og:type": "website"
   },
   {
     "hostname": "yoast.com",
