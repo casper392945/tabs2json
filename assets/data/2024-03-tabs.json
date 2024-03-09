@@ -27591,10 +27591,10 @@
     "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/ruvds/articles/796595/",
     "title": "Насколько потолстел JavaScript к 2024 году? / Хабр",
-    "date": "2024-03-04T03:04:27.879+06:00",
+    "date": "2024-03-09T03:17:54.741+06:00",
     "og:title": "Насколько потолстел JavaScript к 2024 году?",
     "og:image": "https://habrastorage.org/webt/hg/sd/fq/hgsdfqrfzpfqsee95_8c8o-rowi.png",
-    "og:description": "Я немного отстал от современных тенденций фронтенд-разработки. Помню, были статьи на тему раздутия веб-среды, в которых писали, что средний размер страницы начал достигать нескольких мегабайтов! И...",
+    "og:description": "Я немного отстал от современных тенденций фронтенд-разработки. Помню, были статьи на тему раздутия веб-среды, в которых писали, что средний размер страницы начал достигать нескольких мегабайтов! И всё...",
     "og:url": "https://habr.com/ru/companies/ruvds/articles/796595/",
     "og:type": "article"
   },
@@ -54062,6 +54062,17 @@
     "og:image": "https://i.ytimg.com/vi/sWKNwAvBe_Y/maxresdefault.jpg",
     "og:description": "Have you ever seen those thin radial progress bars? Traditionally, JavaScript is used to implement this particular effect? But, these days, we can achieve th...",
     "og:url": "https://www.youtube.com/watch?v=sWKNwAvBe_Y",
+    "og:type": "video.other"
+  },
+  {
+    "hostname": "www.youtube.com",
+    "url": "https://www.youtube.com/watch?v=tthIRPzN61Y",
+    "title": "How To Create Responsive Image Slider In HTML CSS & Javascript - YouTube",
+    "date": "2024-03-09T03:17:54.651+06:00",
+    "og:title": "How To Create Responsive Image Slider In HTML CSS & Javascript",
+    "og:image": "https://i.ytimg.com/vi/tthIRPzN61Y/maxresdefault.jpg",
+    "og:description": "Master Frontend to Backend 👇https://bit.ly/frontend-to-backend-ebook------------------Revolutionize projects with our advanced source code. Elevate innovati...",
+    "og:url": "https://www.youtube.com/watch?v=tthIRPzN61Y",
     "og:type": "video.other"
   },
   {
