@@ -286,6 +286,50 @@
     "og:type": ""
   },
   {
+    "hostname": "2baksa.ws",
+    "url": "http://2baksa.ws/news/194460/",
+    "title": "Franzis EMOTION #2 professional 2.27.04017 (x64) » 2BakSa.WS",
+    "date": "2024-04-01T09:01:04.492+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "2baksa.ws",
+    "url": "http://2baksa.ws/news/194461/",
+    "title": "Franzis FOCUS #6 professional 6.13.04017 (x64) » 2BakSa.WS",
+    "date": "2024-04-01T09:01:04.422+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "2baksa.ws",
+    "url": "http://2baksa.ws/news/194462/",
+    "title": "4DDiG File Repair 3.1.5.11 Multilingual » 2BakSa.WS",
+    "date": "2024-04-01T09:01:04.365+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "cwer.ru",
+    "url": "http://cwer.ru/node/561487/",
+    "title": "Franzis EMOTION #2 professional 2.27.04017 - Графика, графические редакторы, фотомонтаж, фотографии, HDR",
+    "date": "2024-04-01T09:01:04.727+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
     "hostname": "wincmd.ru",
     "url": "http://wincmd.ru/plugring/TC1by1.html",
     "title": "TC 1by1 Plugin 1.3 - Все о Total Commander",
@@ -1350,6 +1394,17 @@
     "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fubzaowvyquwum0zym47e.jpg",
     "og:description": "I'm fully sure you have been involved at some point with EC2. In my opinion, this is probably the...",
     "og:url": "https://dev.to/aws-builders/aws-ec2-instances-types-all-you-need-to-know-3ndn",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/aws-builders/deploying-a-django-site-on-aws-elastic-beanstalk-225b",
+    "title": "Deploying a Django site on AWS Elastic Beanstalk - DEV Community",
+    "date": "2024-04-01T05:36:01.628+06:00",
+    "og:title": "Deploying a Django site on AWS Elastic Beanstalk",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fakfmhf0j6vc4mioh692k.png",
+    "og:description": "While a Django site can be set up locally with ease, making it accessible everywhere takes a...",
+    "og:url": "https://dev.to/aws-builders/deploying-a-django-site-on-aws-elastic-beanstalk-225b",
     "og:type": "article"
   },
   {
@@ -3510,6 +3565,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/799877/",
+    "title": "Масштабные изменения в C# 14.x и дальнейшие планы развития .NET / Хабр",
+    "date": "2024-04-01T05:34:10.578+06:00",
+    "og:title": "Масштабные изменения в C# 14.x и дальнейшие планы развития .NET",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/2ac/589/fd8/2ac589fd8e9c019691e1393f7ba2c28f.png",
+    "og:description": "Пока разработка .NET 9 идет полным ходом, Microsoft приоткрыла нам завесу дальнейших будущих масштабных изменений в экосистеме .NET. Компания поделилась своим видением развития новой версии платформы...",
+    "og:url": "https://habr.com/ru/articles/799877/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/articles/800119/",
     "title": "Особенности управления реальными устройствами с точки зрения backend разработчика. Часть 1. Разработка на стенде / Хабр",
     "date": "2024-04-01T02:16:25.798+06:00",
@@ -3730,6 +3796,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/804149/",
+    "title": "Arduino времен СССР / Хабр",
+    "date": "2024-04-01T05:34:10.918+06:00",
+    "og:title": "Arduino времен СССР",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/18f/15b/dac/18f15bdacd0096e7d55c2bf95f1a9a3e.jpg",
+    "og:description": "Рано или поздно работая с электроникой, когда ты переходишь с уровня простых мигалок и программаторов для радиостанций, сначала на ардуино, потом опускаешься ниже до уровня чистого камня, ты начинаешь...",
+    "og:url": "https://habr.com/ru/articles/804149/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/articles/804153/",
     "title": "Как построить мастабу / Хабр",
     "date": "2024-04-01T02:16:21.174+06:00",
@@ -3858,6 +3935,17 @@
     "og:image": "https://habrastorage.org/getpro/habr/upload_files/4c4/99c/688/4c499c68825ea7cb89159a394f151233.jpg",
     "og:description": "Вступление Мы разрабатываем игру про&nbsp;движение. Главная особенность&nbsp;— инерционность персонажа. В&nbsp;игре реализована подробная физика движения, из‑за которой поначалу вы будете часто...",
     "og:url": "https://habr.com/ru/articles/804221/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/804225/",
+    "title": "Правильный уход за руками гика / Хабр",
+    "date": "2024-04-01T05:34:11.057+06:00",
+    "og:title": "Правильный уход за руками гика",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/6ee/dd5/fa4/6eedd5fa437c99c19026f5f584968efb.jpg",
+    "og:description": "Большинству гиков для реализации собственных проектов требуется не только голова, но и руки. Не даром народная мудрость гласит: &quot;Глаза боятся, а руки делают&quot;. Про наполнение головы знаниями здесь, на...",
+    "og:url": "https://habr.com/ru/articles/804225/",
     "og:type": "article"
   },
   {
@@ -4093,6 +4181,28 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/804357/",
+    "title": "Бэнкмана-Фрида посадили на 25 лет, а Альтман собрался строить гига-компьютер Stargate / Хабр",
+    "date": "2024-04-01T05:34:10.822+06:00",
+    "og:title": "Бэнкмана-Фрида посадили на 25 лет, а Альтман собрался строить гига-компьютер Stargate",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/ed2/fd3/895/ed2fd389529f57b008a2362417cbb219.jpg",
+    "og:description": "Почти все самые важные и интересные финансовые новости в России и мире за неделю: взрывной рост шоколадных котировок, смерть Канемана,&nbsp;«Правду» Трампа оценили в $7 млрд,&nbsp;а также хорошая...",
+    "og:url": "https://habr.com/ru/articles/804357/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/804359/",
+    "title": "Время улыбаться / Хабр",
+    "date": "2024-04-01T05:34:10.706+06:00",
+    "og:title": "Время улыбаться",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/389/9fc/326/3899fc3268d77ed9d5a2bccec6af9ffa.jpg",
+    "og:description": "&nbsp; Шутить надо для того, чтобы совершать серьёзные дела. Аристотель Немного первоАпрельских рассуждений на Ленту ;) Скучно мы живем, господа. Жизнь стала суровая и к шуткам не располагает. Или не...",
+    "og:url": "https://habr.com/ru/articles/804359/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/alfa/articles/799869/",
     "title": "Как крипто-индустрия переиграла традиционный мир разработки / Хабр",
     "date": "2024-04-01T02:16:30.512+06:00",
@@ -4188,6 +4298,17 @@
     "og:image": "https://habrastorage.org/getpro/habr/upload_files/978/70b/2d2/97870b2d2719ba346ce65b9c9bd954de.png",
     "og:description": "Китай расширил национальную стратегию в области квантовых технологий, а также захватывает нанотехнологии в Европе; Apple патентует чувствительные пальцы для смешанной реальности; у Toyota машина...",
     "og:url": "https://habr.com/ru/companies/onlinepatent/news/803999/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/otus/articles/803041/",
+    "title": "Кратко про алгортим обучения Q-learning и как он реализуется в Python для новичков / Хабр",
+    "date": "2024-04-01T05:34:11.119+06:00",
+    "og:title": "Кратко про алгортим обучения Q-learning и как он реализуется в Python для новичков",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/03e/73d/866/03e73d866a51821f5301a3bc5f204c9a.jpg",
+    "og:description": "Привет, Хабр! Q-learning — это алгоритм обучения с подкреплением, который позволяет агенту оптимизировать свою стратегию действий в динамичной среде, стремясь максимизировать сумму будущих наград....",
+    "og:url": "https://habr.com/ru/companies/otus/articles/803041/",
     "og:type": "article"
   },
   {
@@ -4797,6 +4918,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/news/804353/",
+    "title": "Slow Mo Guys показали работу внутренних ИК-светодиодов гарнитуры Vision Pro, которые сканируют глаза пользователя / Хабр",
+    "date": "2024-04-01T05:34:11.169+06:00",
+    "og:title": "Slow Mo Guys показали работу внутренних ИК-светодиодов гарнитуры Vision Pro, которые сканируют глаза пользователя",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/dfd/b4e/4bb/dfdb4e4bbb28d743de92e16e8fbe7699.png",
+    "og:description": "Энтузиасты из Slow Mo Guys показали работу внутренних ИК-светодиодов гарнитуры Vision Pro, которые сканируют положение глаз пользователя. Внутри гарнитуры Vision Pro есть 18 ИК-светодиодов (по 9 на...",
+    "og:url": "https://habr.com/ru/news/804353/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/posts/804041/",
     "title": "Пост @qertis — HTML — 31.03 14:30 / Хабр",
     "date": "2024-04-01T02:12:55.547+06:00",
@@ -4991,6 +5123,17 @@
     "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/deutsch-fb.ktm0e5hqplbm..png",
     "og:description": "И какие сложности могут возникнуть",
     "og:url": "https://journal.tinkoff.ru/deutsch/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "journal.tinkoff.ru",
+    "url": "https://journal.tinkoff.ru/diary-akkaunt-menedzher-novosibirsk-153k/",
+    "title": "Как живет аккаунт-менеджер в Новосибирске с доходом 153 000 ₽",
+    "date": "2024-04-01T05:34:10.472+06:00",
+    "og:title": "Как живет аккаунт-менеджер в Новосибирске с зарплатой 89 960 ₽",
+    "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/og-fb_diary-akkaunt-menedzher-novosibirsk-153k.4am8sw888ksu..png",
+    "og:description": "И общим доходом около 153 000 ₽",
+    "og:url": "https://journal.tinkoff.ru/diary-akkaunt-menedzher-novosibirsk-153k/",
     "og:type": "article"
   },
   {
@@ -5222,6 +5365,28 @@
     "og:image": "https://i123.fastpic.org/big/2024/0331/92/ddb7458213cc3b67c79c0473edbea492.jpg",
     "og:description": "Windows 10 v22h2 by KulHunter — сборка основана на официальном образе от MSDN Windows 10 RU 22h2 x64 Consumer Editions. Отключено несколько компонентов, задействован протокол SMB. Интегрирован Microsoft .NET Framework 3.5 — 4.8. В один образ объединены шесть редакций x64. Интегрированы последние",
     "og:url": "https://kadets.net/211054-windows-10-v22h2-x64-hsl-pro-by-kulhunter-v16-esd-rus-2024.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "kadets.net",
+    "url": "https://kadets.net/211077-windows-10-22h2-build-190454170-x64-by-brux-ru-2024.html",
+    "title": "Windows 10 22H2 (build 19045.4170) x64 by Brux (Ru/2024) » Kadets.Net",
+    "date": "2024-04-01T09:01:04.65+06:00",
+    "og:title": "Windows 10 22H2 (build 19045.4170) x64 by Brux (Ru/2024)",
+    "og:image": "https://img94.pixhost.to/images/822/457815767_xjlohkituvnfv.jpg",
+    "og:description": "Сборка windows 10 выполнена на основе оригинальных образов Microsoft Windows 10.19045.3930 Version 22H2 (March 2024 Update) (MSDN) и содержит шесть редакции ОС в одном образе. Предназначена как для домашних пользователей, так и для рабочих станций, где требуется минимальное отклонение от оригинала.",
+    "og:url": "https://kadets.net/211077-windows-10-22h2-build-190454170-x64-by-brux-ru-2024.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "kadets.net",
+    "url": "https://kadets.net/63263-kompyuternyy-trenazher-superpamyat-obrazovatelnaya-programma.html",
+    "title": "Компьютерный тренажёр «Суперпамять» (Образовательная программа) » Kadets.Net",
+    "date": "2024-04-01T09:01:04.582+06:00",
+    "og:title": "Компьютерный тренажёр «Суперпамять» (Образовательная программа)",
+    "og:image": "http://kadets.net/uploads/posts/2017-10/1507707031_01.jpg",
+    "og:description": "Тренажёр «Суперпамять» предназначен для всех, кто желает максимально использовать возможности своей памяти. Методика тренинга основана на принципах мнемотехники.Весь материал разбит на главы, которые содержат теорию и практические упражнения. Материал подготовлен профессиональными психологами.",
+    "og:url": "https://kadets.net/63263-kompyuternyy-trenazher-superpamyat-obrazovatelnaya-programma.html",
     "og:type": "article"
   },
   {
@@ -5798,6 +5963,17 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/@paddyuiux/mastering-css-pseudo-classes-a-comprehensive-guide-part-3-b0793ef98cf0",
+    "title": "Mastering CSS Pseudo-classes: A Comprehensive Guide - Part 3 | by paddyuiux | Apr, 2024 | Medium",
+    "date": "2024-04-01T05:36:01.619+06:00",
+    "og:title": "Mastering CSS Pseudo-classes: A Comprehensive Guide - Part 3",
+    "og:image": "https://miro.medium.com/v2/resize:fit:828/1*rss5dY74yqRGnUB_WU7nUw.jpeg",
+    "og:description": "Cascading Style Sheets (CSS) are the backbone of web design, offering developers the power to control the appearance and layout of web…",
+    "og:url": "https://medium.com/@paddyuiux/mastering-css-pseudo-classes-a-comprehensive-guide-part-3-b0793ef98cf0",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/@sakshirani/connecting-the-bridge-frontend-to-backend-0b6a89cc0f01",
     "title": "CONNECTING THE BRIDGE : FRONTEND TO BACKEND | by Sakshi Rani | Mar, 2024 | Medium",
     "date": "2024-04-01T02:04:31.637+06:00",
@@ -6007,6 +6183,17 @@
   },
   {
     "hostname": "ru.giveawayoftheday.com",
+    "url": "https://ru.giveawayoftheday.com/anymp4-blu-ray-player/",
+    "title": "Giveaway of the Day in Russian. AnyMP4 Blu-ray Player 6.5.58 - Воспроизводите любые фильмы Blu-ray на своем ПК плавно и без потерь качества.",
+    "date": "2024-04-01T09:01:04.311+06:00",
+    "og:title": "Воспроизводите любые фильмы Blu-ray на своем ПК плавно и без потерь качества. Бесплатно на GOTD!",
+    "og:image": "https://giveawayoftheday.com/wp-content/uploads/og/2024/03/301cf367fa62b03e7c7ed7adca281b4d.png",
+    "og:description": "AnyMP4 Blu-ray Player предлагает вам исключительные возможности просмотра фильмов всей семьей. Если вы хотите воспроизвести диск Blu-ray/DVD, папку Blu-ray/DVD или...",
+    "og:url": "https://ru.giveawayoftheday.com/anymp4-blu-ray-player/",
+    "og:type": "website"
+  },
+  {
+    "hostname": "ru.giveawayoftheday.com",
     "url": "https://ru.giveawayoftheday.com/batch-ppt-to-pdf-converter-pro/",
     "title": "Giveaway of the Day in Russian. Batch PPT To PDF Converter PRO 1.0.2 - Легко конвертируйте презентации PowerPoint в PDF-файлы.",
     "date": "2024-04-01T01:24:32.574+06:00",
@@ -6018,9 +6205,31 @@
   },
   {
     "hostname": "samlab.ws",
+    "url": "https://samlab.ws/soft/anydvd/",
+    "title": "SamLab.ws - AnyDVD 8.7.0.1 Beta",
+    "date": "2024-04-01T09:01:05.227+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "samlab.ws",
+    "url": "https://samlab.ws/soft/avpcd/",
+    "title": "SamLab.ws - Kaspersky Rescue Disk 18.0.11 (01.04.2024)",
+    "date": "2024-04-01T09:01:04.898+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "samlab.ws",
     "url": "https://samlab.ws/soft/chromium/",
-    "title": "SamLab.ws - Chromium 125.0.6391",
-    "date": "2024-04-01T01:24:32.099+06:00",
+    "title": "SamLab.ws - Chromium 125.0.6393",
+    "date": "2024-04-01T09:01:05.069+06:00",
     "og:title": "",
     "og:image": "",
     "og:description": "",
@@ -6030,8 +6239,8 @@
   {
     "hostname": "samlab.ws",
     "url": "https://samlab.ws/soft/doubledcom/",
-    "title": "SamLab.ws - Double Commander 1.1.0.11276 Dev",
-    "date": "2024-04-01T01:24:32.158+06:00",
+    "title": "SamLab.ws - Double Commander 1.1.0.11277 Dev",
+    "date": "2024-04-01T09:01:05.03+06:00",
     "og:title": "",
     "og:image": "",
     "og:description": "",
@@ -6051,6 +6260,28 @@
   },
   {
     "hostname": "samlab.ws",
+    "url": "https://samlab.ws/soft/huorong/",
+    "title": "SamLab.ws - Huorong Internet Security 5.0.75.4 (04.01.1)",
+    "date": "2024-04-01T09:01:04.82+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "samlab.ws",
+    "url": "https://samlab.ws/soft/klitebeta/",
+    "title": "SamLab.ws - K-Lite Codec Pack 18.2.5 Beta",
+    "date": "2024-04-01T09:01:05.198+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "samlab.ws",
     "url": "https://samlab.ws/soft/mpcbe/",
     "title": "SamLab.ws - MPC-BE 1.6.11.253 Dev",
     "date": "2024-04-01T01:24:32.216+06:00",
@@ -6062,9 +6293,31 @@
   },
   {
     "hostname": "samlab.ws",
+    "url": "https://samlab.ws/soft/nsis/",
+    "title": "SamLab.ws - NSIS 3.10",
+    "date": "2024-04-01T09:01:05.175+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "samlab.ws",
     "url": "https://samlab.ws/soft/screenpresso/",
     "title": "SamLab.ws - ScreenPresso 2.1.24",
     "date": "2024-04-01T01:24:32.344+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "samlab.ws",
+    "url": "https://samlab.ws/soft/siw/",
+    "title": "SamLab.ws - SIW 14.0.0215j",
+    "date": "2024-04-01T09:01:05.245+06:00",
     "og:title": "",
     "og:image": "",
     "og:description": "",
@@ -6292,6 +6545,17 @@
     "og:type": ""
   },
   {
+    "hostname": "w14.monkrus.ws",
+    "url": "https://w14.monkrus.ws/2024/04/autodesk-revit-2025-multilingual.html",
+    "title": "Autodesk Revit 2025 Multilingual :: Варез от m0nkrus'a [Warez by m0nkrus]",
+    "date": "2024-04-01T09:01:04.335+06:00",
+    "og:title": "Autodesk Revit 2025 Multilingual",
+    "og:image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUfJMb6c77HzeCvkFWvUhiVAp5gDOVM5P4f6PTrsKJ87K7jaEPsAYDyQ15y2GTiZgdzkUZtclMF4Sga044xEWLUK-4Dof8OIiAnm0HKBC-SREi2qRTFycNegke0nyqaRpG7PJiYIyR3yeauX7GXOCmtLsNjX7zU3g0KlZ3NM4L9mUWc0d13XpDsPu1Dg/w1200-h630-p-k-no-nu/revit2023.png",
+    "og:description": "Autodesk Revit  — программный комплекс для автоматизированного проектирования, реализующий принцип информационного моделирования зданий (Bui...",
+    "og:url": "https://w14.monkrus.ws/2024/04/autodesk-revit-2025-multilingual.html",
+    "og:type": ""
+  },
+  {
     "hostname": "webkit.org",
     "url": "https://webkit.org/blog/15243/release-notes-for-safari-technology-preview-191/",
     "title": "Release Notes for Safari Technology Preview 191 | WebKit",
@@ -6333,6 +6597,17 @@
     "og:image": "https://www.borncity.com/blog/wp-content/uploads/2021/04/Windows-klein-e1619774979351.jpg",
     "og:description": "Windows 10 ist ja nicht mehr so “hip” wie Windows 11. Aber es ist möglicherweise ganz interessant, einen Überblick zu haben, welche Intel Prozessoren zu Windows 10 kompatibel sind. Immerhin wird dieses Betriebssystem in den IoT Enterprise LTSC-Versionen noch bis 2021 unterstützt. Lothar hatte vor einigen Tagen einen Kommentar “Unterstützt mein Intel® Prozessor Microsoft Windows®...",
     "og:url": "https://www.borncity.com/blog/2024/04/01/windows-10-welche-intel-cpus-sind-kompatibel/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=13309",
+    "title": "Ashampoo Snap 15 – бесплатная лицензия (пожизненная)",
+    "date": "2024-04-01T05:34:10.343+06:00",
+    "og:title": "Ashampoo Snap 15 – бесплатная лицензия (пожизненная)",
+    "og:image": "https://cdn.comss.net/img/022024/ashampoo-snap-15.png",
+    "og:description": "Получите бесплатную лицензию Ashampoo Snap 15. Программа для захвата скриншотов и видео с экрана, поддерживает множество функций: области прокрутки, множественные экраны, постобработку с текстом и эффектами, сохранение в облако и улучшенный редактор",
+    "og:url": "https://www.comss.ru/page.php?id=13309",
     "og:type": "article"
   },
   {
@@ -6483,6 +6758,17 @@
     "url": "https://www.deskmodder.de/blog/2024/03/31/everythingtoolbar-1-3-3-korrigiert-einige-fehler/",
     "title": "EverythingToolbar 1.3.3 corrects some errors - Deskmodder.de",
     "date": "2024-04-01T01:24:31.982+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/blog/2024/04/01/windows-11-start-menu-styler-windows-11-startmenue-selbst-gestalten/",
+    "title": "Windows 11 Start Menu Styler - Windows 11 Design the Start Menu - Deskmodder.de",
+    "date": "2024-04-01T09:01:04.301+06:00",
     "og:title": "",
     "og:image": "",
     "og:description": "",
@@ -6883,6 +7169,17 @@
     "og:image": "https://www.quicksprout.com/wp-content/uploads/2024/03/call-center-business-continuity-plan-featured-image.jpg",
     "og:description": "You want your call center to be prepared to tackle any challenge and come out safely on the other side. While many may brush over their business continuity plans and adopt a so-called “agile” approach to potential disasters, having a plan in place will make all the difference when facing […]",
     "og:url": "https://www.quicksprout.com/call-center-business-continuity-plan/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.quicksprout.com",
+    "url": "https://www.quicksprout.com/call-center-job-description/",
+    "title": "Steal These Free Call Center Job Description Templates",
+    "date": "2024-04-01T05:36:01.613+06:00",
+    "og:title": "Steal These Free Call Center Job Description Templates",
+    "og:image": "https://www.quicksprout.com/wp-content/uploads/2024/02/call-center-shrinkage_featured-image.jpeg",
+    "og:description": "Recruiting and hiring call center employees can be a pain, but it doesn’t have to be so bad. For example, depending on the roles you’re looking to hire, you may not even have to write a job description—because you can just use ours instead.  Below, we’ve put together four of […]",
+    "og:url": "https://www.quicksprout.com/call-center-job-description/",
     "og:type": "article"
   },
   {
@@ -9502,6 +9799,17 @@
     "og:description": "",
     "og:url": "",
     "og:type": ""
+  },
+  {
+    "hostname": "www.shutterbug.com",
+    "url": "https://www.shutterbug.com/content/news-flash-nikon-buys-konica-vows-revive-legendary-minolta-brand",
+    "title": "NEWS FLASH: NIKON BUYS KONICA, VOWS TO REVIVE LEGENDARY MINOLTA BRAND | Shutterbug",
+    "date": "2024-04-01T05:34:10.428+06:00",
+    "og:title": "NEWS FLASH: NIKON BUYS KONICA, VOWS TO REVIVE LEGENDARY MINOLTA BRAND",
+    "og:image": "https://www.shutterbug.com/images/promo_16.jpg",
+    "og:description": "Less than one month after announcing their plans to acquire US cinema camera manufacturer RED.com, LLC, Nikon stunned the photographic industry by declaring that they've consummated the acquisition of Konica-Minolta, a leading manufacturer of business technology and office products. A Nikon official, who spoke under the condition of anonymity, revealed that the new entity will be reorganized into two divisions.",
+    "og:url": "https://www.shutterbug.com/content/news-flash-nikon-buys-konica-vows-revive-legendary-minolta-brand",
+    "og:type": "article"
   },
   {
     "hostname": "www.slo.ru",
