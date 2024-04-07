@@ -5600,6 +5600,17 @@
   },
   {
     "hostname": "codecondo.com",
+    "url": "https://codecondo.com/how-ai-tools-can-save-you-time-and-spark-creativity/",
+    "title": "How AI Tools Can Save You Time and Spark Creativity",
+    "date": "2024-04-06T05:00:28.505+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "codecondo.com",
     "url": "https://codecondo.com/how-automation-and-ai-are-transforming-the-workforce-2024-insights/",
     "title": "Know How Businesses are Leveraging AI to Empower Employees",
     "date": "2024-04-04T09:09:37.6+06:00",
@@ -10297,6 +10308,17 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/jorge6242/descubriendo-la-potencia-de-go-backend-inicial-con-buenas-practicas-513",
+    "title": "Descubriendo la Potencia de Go: Backend Inicial con buenas practicas - DEV Community",
+    "date": "2024-04-06T05:00:28.718+06:00",
+    "og:title": "Descubriendo la Potencia de Go: Backend Inicial con buenas practicas",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj6d0scjnkdo1fi117e0a.png",
+    "og:description": "En el vasto universo de la programación, cada lenguaje tiene su brillo único, su propósito...",
+    "og:url": "https://dev.to/jorge6242/descubriendo-la-potencia-de-go-backend-inicial-con-buenas-practicas-513",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/josmel/kotlin-for-backend-development-a-game-changer-in-the-making-30nj",
     "title": "Kotlin for Backend Development: A Game-Changer in the Making - DEV Community",
     "date": "2024-04-01T02:06:59.794+06:00",
@@ -10359,6 +10381,17 @@
     "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftknip9ypminwza4rtj5g.png",
     "og:description": "I'm not asking which is best. Which one do you like?  Some common ones:    MERN/MEVN/MEAN: MongoDB,...",
     "og:url": "https://dev.to/kaamkiya/whats-your-favorite-tech-stack-and-why-1a7e",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/kankys/jak-nainstalovat-vimplug-do-neovim-o40",
+    "title": "Jak nainstalovat vim.plug do Neovim - DEV Community",
+    "date": "2024-04-06T05:00:28.631+06:00",
+    "og:title": "Jak nainstalovat vim.plug do Neovim",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv4d3uoy01x7913lqnvow.png",
+    "og:description": "Jak nainstalovat vim.plug do Neovim   Nejprve si však zálohujte své aktuální nastavení...",
+    "og:url": "https://dev.to/kankys/jak-nainstalovat-vimplug-do-neovim-o40",
     "og:type": "article"
   },
   {
@@ -10854,6 +10887,17 @@
     "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0phnf2kqqx5b5dllr8cw.png",
     "og:description": "I'm now trying to find my first role as a developer. It's not easy even when I have more than 10...",
     "og:url": "https://dev.to/majur/searching-for-the-first-job-with-rails-backend-2mlf",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/manhdt/convert-json-object-c7d",
+    "title": "[Convert] Json & Object - DEV Community",
+    "date": "2024-04-06T05:00:28.869+06:00",
+    "og:title": "[Convert] Json & Object",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8a8sbon66kz12566sk7t.png",
+    "og:description": "from dataclasses import dataclass from typing import TypedDict   class StudentDict(TypedDict):  ...",
+    "og:url": "https://dev.to/manhdt/convert-json-object-c7d",
     "og:type": "article"
   },
   {
@@ -11789,6 +11833,17 @@
     "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ovkv8feybqiwg772swf.png",
     "og:description": "You can use showkey command from kbd package to quickly find out an ASCII code of a key:    showkey...",
     "og:url": "https://dev.to/onethingwell/linux-finding-ascii-code-of-a-key-8jo",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/onlinemsr/how-to-convert-string-to-date-in-javascript-p39",
+    "title": "How to Convert String to Date in JavaScript - DEV Community",
+    "date": "2024-04-06T05:00:28.566+06:00",
+    "og:title": "How to Convert String to Date in JavaScript",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd7feotz68o1sd0lf5mpz.png",
+    "og:description": "Have you ever encountered a situation where you need to convert a string to date in JavaScript?...",
+    "og:url": "https://dev.to/onlinemsr/how-to-convert-string-to-date-in-javascript-p39",
     "og:type": "article"
   },
   {
@@ -13901,6 +13956,28 @@
     "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhfkwvp9fi8h0bul5449r.png",
     "og:description": "Introduction: Sorting is the process of arranging items systematically, usually in ascending or...",
     "og:url": "https://dev.to/tanujav/bubble-sort-in-java-with-intuition-dry-run-code-1hmj",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/tanujav/lets-code-4j44",
+    "title": "Let's Code - DEV Community",
+    "date": "2024-04-06T05:00:28.605+06:00",
+    "og:title": "Let's Code",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa7vdzxcc3codvv4ch2in.png",
+    "og:description": "Learn: 💬 ChatGPT is FREE 🤖 Claude is FREE 🎥 YouTube is FREE 🔍 Google is FREE 🎧 Podcasts are...",
+    "og:url": "https://dev.to/tanujav/lets-code-4j44",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/tanujav/what-are-some-of-the-must-have-apps-for-mac-23lo",
+    "title": "What are some of the must-have apps for mac? - DEV Community",
+    "date": "2024-04-06T05:00:28.982+06:00",
+    "og:title": "What are some of the must-have apps for mac?",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp4wwsvoayhr39wwbo70k.png",
+    "og:description": "A post by Tanuja V",
+    "og:url": "https://dev.to/tanujav/what-are-some-of-the-must-have-apps-for-mac-23lo",
     "og:type": "article"
   },
   {
@@ -19878,6 +19955,28 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/805775/",
+    "title": "Какую доходность и риски ожидать от S&P 500 через 10 лет? / Хабр",
+    "date": "2024-04-06T04:59:30.792+06:00",
+    "og:title": "Какую доходность и риски ожидать от S&amp;P 500 через 10 лет?",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/793/60d/595/79360d595c2a7f681385e570bd4aa013.png",
+    "og:description": "Среднегодовая доходность рынка акций США с 1930-x составила 9,5% годовых. Риск, который измеряется среднеквадратическим/стандартным отклонением (сигма), составлял 19,5%. То есть, по статистике, через...",
+    "og:url": "https://habr.com/ru/articles/805775/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/805781/",
+    "title": "Почему вы не построите большую компанию, пока не приведете в компанию этих людей / Хабр",
+    "date": "2024-04-06T04:59:30.89+06:00",
+    "og:title": "Почему вы не построите большую компанию, пока не приведете в компанию этих людей",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/c58/986/fb6/c58986fb60531fee0abeb435a130439a.png",
+    "og:description": "Под словом «этих» мы подразумеваем результативных людей. Это не про проактивность, дисциплинированность и прочие клише из вакансий. А про личностный конструкт, благодаря которому человек способен...",
+    "og:url": "https://habr.com/ru/articles/805781/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/1forma/articles/805189/",
     "title": "Почему переезд на новое ПО — такая боль для сотрудников. С чем смириться и что можно улучшить / Хабр",
     "date": "2024-04-04T02:44:43.789+06:00",
@@ -22547,6 +22646,17 @@
     "og:image": "https://habrastorage.org/getpro/habr/upload_files/40f/5d0/d58/40f5d0d581988afcbe0c8f1cec677ebf.png",
     "og:description": "В&nbsp;рамках данной статьи мы&nbsp;установим и&nbsp;настроим: Узел безопасности с&nbsp;функцией Центра управления сетью или&nbsp;же УБ с&nbsp;ЦУС; Менеджер конфигурации (она&nbsp;же программа для...",
     "og:url": "https://habr.com/ru/companies/tssolution/articles/805099/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/tssolution/articles/805299/",
+    "title": "Континент 4 Getting Started 2.0. Контроль доступа / Хабр",
+    "date": "2024-04-06T04:59:30.69+06:00",
+    "og:title": "Континент 4 Getting Started 2.0. Контроль доступа",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/660/1b4/31f/6601b431fcb6c9e171d6a250bc9788ba.png",
+    "og:description": "В &nbsp;предыдущей статье мы&nbsp;детально разобрали процесс установки Узла безопасности с&nbsp;Центром Управления Сетью (УБ&nbsp;с&nbsp;ЦУС), провели его начальную настройку через Менеджер...",
+    "og:url": "https://habr.com/ru/companies/tssolution/articles/805299/",
     "og:type": "article"
   },
   {
@@ -25686,6 +25796,28 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/posts/805779/",
+    "title": "Пост @ELEKTRO_YAR — Биографии гиков — 06.04 08:49 / Хабр",
+    "date": "2024-04-06T04:59:30.588+06:00",
+    "og:title": "Пост @ELEKTRO_YAR — Биографии гиков  — 06.04 08:49",
+    "og:image": "https://habr.com/share/publication/805779/d0c873ecc6d9c98f72cc1fe4d106bbf3/",
+    "og:description": "Страшно быть &quot;никем&quot; Я был технарем с детства: паять начал в 6 лет, любил делать самоделки, нравились роботы. Казалось, что путь супер-пупер технаря или ученого мне предначертан. В универе думал, что...",
+    "og:url": "https://habr.com/ru/posts/805779/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/posts/805783/",
+    "title": "Пост @denis-19 — Разработка игр — 06.04 10:35 / Хабр",
+    "date": "2024-04-06T04:59:30.492+06:00",
+    "og:title": "Пост @denis-19 — Разработка игр  — 06.04 10:35",
+    "og:image": "https://habr.com/share/publication/805783/f87e800ee0f3e53d271409fcd17f3b1e/",
+    "og:description": "Пользователь DTF посчитал на основе открытых данных ФНС, во сколько каждому налогоплательщику в РФ обошлась игра «Смута». Получилось 64 копейки (по 3 копейки за каждый месяц разработки). В мае 2022...",
+    "og:url": "https://habr.com/ru/posts/805783/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/specials/802211/",
     "title": "Особенности национального DevOps: йети, опенсорс и тяга к облакам / Хабр",
     "date": "2024-04-02T02:50:53.729+06:00",
@@ -28157,6 +28289,61 @@
     "og:image": "https://i.postimg.cc/7YDbdD4z/th-6-Fxo8-Dey-IRga-UNAqzs-Bv-AWU5-L3fh-B950.jpg",
     "og:description": "PTC Creo 10.0.4.0 (x64) + HelpCenter MultilingualFile Size: 9.2 GBThe Industry's Leading 3D CAD Software. Let's assume you went into product design to create fantastic products. That's your focus, what you want to do, and how you want to be remembered. With the Creo product development software",
     "og:url": "https://kadets.net/211397-ptc-creo-10040-x64-helpcenter-multilingual.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "kadets.net",
+    "url": "https://kadets.net/211408-adobe-acrobat-pro-dc-2400120604-multilingual-macos.html",
+    "title": "Adobe Acrobat Pro DC 24.001.20604 Multilingual macOS » Kadets.Net",
+    "date": "2024-04-06T04:59:30.393+06:00",
+    "og:title": "Adobe Acrobat Pro DC 24.001.20604 Multilingual macOS",
+    "og:image": "https://i123.fastpic.org/big/2024/0405/fb/1ef8e3e30cd94daf560fe3fe84e97afb.jpeg",
+    "og:description": "Adobe Acrobat Pro DC 24.001.20604 Multilingual macOSFile Size: 1.5 GBAcrobat DC with Document Cloud services is packed with all the tools you need to convert, edit and sign PDFs. It's just as mobile as you are. So you can start a document at work, tweak it on the train and send it for approval from",
+    "og:url": "https://kadets.net/211408-adobe-acrobat-pro-dc-2400120604-multilingual-macos.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "kadets.net",
+    "url": "https://kadets.net/211418-any-video-downloader-pro-887.html",
+    "title": "Any Video Downloader Pro 8.8.7 » Kadets.Net",
+    "date": "2024-04-06T04:59:30.274+06:00",
+    "og:title": "Any Video Downloader Pro 8.8.7",
+    "og:image": "https://i123.fastpic.org/big/2024/0405/98/f5a764eb54018e090cfc98ad12ad4798.jpeg",
+    "og:description": "Any Video Downloader Pro 8.8.7File size: 49.54 MBAny Video Downloader Pro, formerly known as HD Video Downloader Pro, is a Windows app to help you download videos from YouTube, Facebook, Dailymotion, and thousands of other video sharing sites. It accelerates your downloads by up to 5",
+    "og:url": "https://kadets.net/211418-any-video-downloader-pro-887.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "kadets.net",
+    "url": "https://kadets.net/211453-malwarebytes-premium-512109-multilingual.html",
+    "title": "Malwarebytes Premium 5.1.2.109 Multilingual » Kadets.Net",
+    "date": "2024-04-06T04:59:30.064+06:00",
+    "og:title": "Malwarebytes Premium 5.1.2.109 Multilingual",
+    "og:image": "https://i123.fastpic.org/big/2024/0406/bf/ca366d1051d54c831919b6cdbe16e3bf.jpeg",
+    "og:description": "Malwarebytes Premium 5.1.2.109 MultilingualFile Size: 342.9 MBMalwarebytes is a high performance anti-malware application that thoroughly removes even the most advanced malware and spyware. Malwarebytes version 4.xx brings comprehensive protection against today's threat landscape so that you can",
+    "og:url": "https://kadets.net/211453-malwarebytes-premium-512109-multilingual.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "kadets.net",
+    "url": "https://kadets.net/211454-abyssmedia-i-sound-recorder-for-windows-7945.html",
+    "title": "Abyssmedia i-Sound Recorder for Windows 7.9.4.5 » Kadets.Net",
+    "date": "2024-04-06T04:59:30.18+06:00",
+    "og:title": "Abyssmedia i-Sound Recorder for Windows 7.9.4.5",
+    "og:image": "https://i123.fastpic.org/big/2024/0406/2c/b09e4f6fc9a30d3aee13eaa149a7192c.jpeg",
+    "og:description": "Abyssmedia i-Sound Recorder for Windows 7.9.4.5File Size: 7 MBi-Sound 7 is a next generation sound recorder for Windows. The newest version unleashes the power of Windows 10 and is ready to record streaming audio out-of-box. i-Sound 7 includes all the features of its predecessor, but main feature",
+    "og:url": "https://kadets.net/211454-abyssmedia-i-sound-recorder-for-windows-7945.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "kadets.net",
+    "url": "https://kadets.net/211469-wrongtools-woodwindulator-kontakt.html",
+    "title": "Wrongtools Woodwindulator KONTAKT » Kadets.Net",
+    "date": "2024-04-06T04:59:30.087+06:00",
+    "og:title": "Wrongtools Woodwindulator KONTAKT",
+    "og:image": "https://i123.fastpic.org/big/2024/0406/0e/fa1b7951b02364ca4e0bb1c66071330e.jpg",
+    "og:description": "Wrongtools Woodwindulator KONTAKT | 2.65 GB71 woodwind retro analog synths created with vintage electronic circuits and kilometers of tape.Patches 71Samples 1194Size 2.9 GBThe Woodwindulator aims to capture the woodwind sounds from a variety of vintage analogue oscillators and synthesizers. Created",
+    "og:url": "https://kadets.net/211469-wrongtools-woodwindulator-kontakt.html",
     "og:type": "article"
   },
   {
@@ -37060,6 +37247,17 @@
   },
   {
     "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/features/day-in-the-life-liz-bernard",
+    "title": "A day in the life: Senior animation supervisor Liz Bernard | Creative Bloq",
+    "date": "2024-04-06T05:00:28.536+06:00",
+    "og:title": "A day in the life: Senior animation supervisor Liz Bernard",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/q8udUAjCTwVXzCW2tkmWYC-1200-80.jpg",
+    "og:description": "Explore a not-so-average day in the life of the Digital Domain animation mastermind.",
+    "og:url": "https://www.creativebloq.com/features/day-in-the-life-liz-bernard",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
     "url": "https://www.creativebloq.com/features/herman-miller-vs-steelcase",
     "title": "Herman Miller vs Steelcase | Creative Bloq",
     "date": "2024-04-02T02:35:06.883+06:00",
@@ -37943,6 +38141,17 @@
     "url": "https://www.deskmodder.de/blog/2024/04/05/windows-11-als-virtuelle-maschinen-enterprise-als-testversion-22621-3296/",
     "title": "Windows 11 as virtual machines (Enterprise as trial version) 22621.3296 - Deskmodder.de",
     "date": "2024-04-05T09:46:08.803+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/blog/2024/04/06/7-zip-24-04-mit-neuem-menueeintrag-zum-loeschen-der-temporaeren-dateien-derzeit-beta/",
+    "title": "7-Zip 24.04 with new menu entry for deleting the temporary files (current beta) - Deskmodder.de",
+    "date": "2024-04-06T04:59:30.059+06:00",
     "og:title": "",
     "og:image": "",
     "og:description": "",
