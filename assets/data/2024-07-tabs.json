@@ -660,6 +660,127 @@
     "og:type": ""
   },
   {
+    "hostname": "2baksa.ws",
+    "url": "https://2baksa.ws/news/197405/",
+    "title": "Automatic Email Processor 3.4.8 » 2BakSa.WS",
+    "date": "2024-07-02T10:13:00.84+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "2baksa.ws",
+    "url": "https://2baksa.ws/news/197406/",
+    "title": "Gillmeister Automatic PDF Processor 1.34.1 » 2BakSa.WS",
+    "date": "2024-07-02T10:13:00.828+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "2baksa.ws",
+    "url": "https://2baksa.ws/news/197407/",
+    "title": "Remo Recover Windows 6.0.0.239 » 2BakSa.WS",
+    "date": "2024-07-02T10:13:00.813+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "2baksa.ws",
+    "url": "https://2baksa.ws/news/197408/",
+    "title": "VX Search 16.2.14 » 2BakSa.WS",
+    "date": "2024-07-02T10:13:00.788+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "2baksa.ws",
+    "url": "https://2baksa.ws/news/197409/",
+    "title": "TunesKit Video Cutter 2.4.0.48 Multilingual » 2BakSa.WS",
+    "date": "2024-07-02T10:13:00.772+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "2baksa.ws",
+    "url": "https://2baksa.ws/news/197410/",
+    "title": "WinToUSB 8.9.1 (x64) Multilingual » 2BakSa.WS",
+    "date": "2024-07-02T10:13:00.763+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "2baksa.ws",
+    "url": "https://2baksa.ws/news/197411/",
+    "title": "TunesKit Video Converter 2.2.0.6 » 2BakSa.WS",
+    "date": "2024-07-02T10:13:00.747+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "2baksa.ws",
+    "url": "https://2baksa.ws/news/197412/",
+    "title": "UniFab 2.0.2.6 (x64) Multilingual » 2BakSa.WS",
+    "date": "2024-07-02T10:13:00.726+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "2baksa.ws",
+    "url": "https://2baksa.ws/news/197413/",
+    "title": "EssentialPIM Pro Business 12.0.2 Multilingual » 2BakSa.WS",
+    "date": "2024-07-02T10:13:00.705+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "2baksa.ws",
+    "url": "https://2baksa.ws/news/197414/",
+    "title": "O&O DiskImage Professional 19.1.153 (x64) » 2BakSa.WS",
+    "date": "2024-07-02T10:13:00.699+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "2baksa.ws",
+    "url": "https://2baksa.ws/news/197415/",
+    "title": "EaseUS Partition Master 18.8.0 Build 20240605 Multilingual » 2BakSa.WS",
+    "date": "2024-07-02T10:13:00.691+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
     "hostname": "4pda.to",
     "url": "https://4pda.to/2024/06/30/429361/uchyonye_vyyasnili_pochemu_koty_lyubyat_saditsya_na_noutbuki/",
     "title": "Учёные выяснили, почему коты любят садиться на ноутбуки - 4PDA",
@@ -6190,6 +6311,17 @@
     "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdty8htp2lwvdo0dmcs9t.png",
     "og:description": "Hey everyone, it's Emmanuel Michael here! If you've just finished your C# training, congratulations!...",
     "og:url": "https://dev.to/emmanuelmichael05/-after-c-whats-next-a-personal-roadmap-for-your-journey-1n0o",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/emmanuelomoiya/challenge-with-rbac-authentication-329h",
+    "title": "Challenge with RBAC Authentication - DEV Community",
+    "date": "2024-07-02T10:13:27.491+06:00",
+    "og:title": "Challenge with RBAC Authentication",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fabunlykk55wfeljhvlae.png",
+    "og:description": "Building great and memorable experiences for any software requires a lot of things and one of those...",
+    "og:url": "https://dev.to/emmanuelomoiya/challenge-with-rbac-authentication-329h",
     "og:type": "article"
   },
   {
@@ -12552,6 +12684,17 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/mundianderi/comparing-svelte-and-vuejs-a-battle-of-frontend-technologies-1co2",
+    "title": "Comparing Svelte and Vue.js: A Battle of Frontend Technologies - DEV Community",
+    "date": "2024-07-02T10:13:27.493+06:00",
+    "og:title": "Comparing Svelte and Vue.js: A Battle of Frontend Technologies",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgknitaa64s0bxjhca2sx.png",
+    "og:description": "The field of frontend development is dynamic and offers a wide selection of frameworks and...",
+    "og:url": "https://dev.to/mundianderi/comparing-svelte-and-vuejs-a-battle-of-frontend-technologies-1co2",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/muritala_ahmed_23d51e7a3b/angular-vs-emberjs-a-comparison-of-frontend-frameworks-3cb6",
     "title": "Angular vs. Ember.js: A Comparison of Frontend Frameworks - DEV Community",
     "date": "2024-07-01T07:59:44.803+06:00",
@@ -16567,6 +16710,17 @@
   },
   {
     "hostname": "dev.to",
+    "url": "https://dev.to/tecno-security/quarterly-rewards-for-security-researchers-2d34",
+    "title": "Quarterly Rewards for security researchers！ - DEV Community",
+    "date": "2024-07-02T10:13:27.49+06:00",
+    "og:title": "Quarterly Rewards for security researchers！",
+    "og:image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft2egdfhnuhbwq5r7vjkd.png",
+    "og:description": "🕹️Do you still remember your annual goals for 2024?   💫Now, we have an important announcement for...",
+    "og:url": "https://dev.to/tecno-security/quarterly-rewards-for-security-researchers-2d34",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
     "url": "https://dev.to/teleglobal/unlocking-the-cloud-the-vital-role-of-cloud-consulting-in-todays-digital-realm-50if",
     "title": "Unlocking the Cloud: The Vital Role of Cloud Consulting in Today's Digital Realm - DEV Community",
     "date": "2024-07-01T08:20:27.816+06:00",
@@ -20351,6 +20505,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/825852/",
+    "title": "«Создание эффективных отчетов об ошибках»: краткое руководство / Хабр",
+    "date": "2024-07-02T10:13:39.564+06:00",
+    "og:title": "«Создание эффективных отчетов об ошибках»: краткое руководство",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/23d/fd6/a00/23dfd6a0021181f39437d955a0148b43.png",
+    "og:description": "Отчеты об ошибках являются важными для поддержания качества программного обеспечения и обеспечения общего успеха проекта. Это процесс взаимодействия пользователей, тестировщиков и разработчиков для...",
+    "og:url": "https://habr.com/ru/articles/825852/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/articles/825858/",
     "title": "Послушный YubiKey / Хабр",
     "date": "2024-07-02T03:37:47.131+06:00",
@@ -21550,6 +21715,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/servermall/articles/826124/",
+    "title": "Dell PowerEdge R670 и R770 CSP: новое поколение серверов для облачных вычислений / Хабр",
+    "date": "2024-07-02T10:13:39.546+06:00",
+    "og:title": "Dell PowerEdge R670 и R770 CSP: новое поколение серверов для облачных вычислений",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/cda/73e/e90/cda73ee901741d21cd8845a17b1bfb21.jpg",
+    "og:description": "Dell выводит на рынок свои последние разработки — серверы Dell PowerEdge R670 и Dell PowerEdge R770 CSP (Cloud Service Provider), созданные специально для облачных вычислений и компактных центров...",
+    "og:url": "https://habr.com/ru/companies/servermall/articles/826124/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/serverspace/articles/825158/",
     "title": "Тапки с подогревом и USB-аквариумы: забавные гаджеты, которые делают жизнь интереснее / Хабр",
     "date": "2024-07-02T03:37:46.294+06:00",
@@ -21744,6 +21920,17 @@
     "og:image": "https://habrastorage.org/webt/t6/fq/i5/t6fqi560_bxhtrskcx1rjyuu53e.png",
     "og:description": "Всем привет! С вами Анна Жаркова, руководитель группы разработки в компании Usetech. Сегодня я вам принесла необычный материал. 27 июня 2024 года для сторонних разработчиков открыли и презентовали...",
     "og:url": "https://habr.com/ru/companies/usetech/articles/825470/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/vk/articles/823740/",
+    "title": "Безопасность в Django: защита от распространенных угроз веб-приложений / Хабр",
+    "date": "2024-07-02T10:13:39.547+06:00",
+    "og:title": "Безопасность в Django: защита от распространенных угроз веб-приложений",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/6db/5d2/ec2/6db5d2ec2c957ea0a00164e6a0036c56.jpg",
+    "og:description": "Безопасность — ключевой аспект разработки веб-приложений. Но это понятие очень широкое, поэтому для его понимания нужно четко определить роль безопасности в современных веб-приложениях и то, какие...",
+    "og:url": "https://habr.com/ru/companies/vk/articles/823740/",
     "og:type": "article"
   },
   {
@@ -22573,6 +22760,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/news/826130/",
+    "title": "«МегаФон»: российские дейтинг‑сервисы импортозаместили Tinder / Хабр",
+    "date": "2024-07-02T10:13:39.579+06:00",
+    "og:title": "«МегаФон»: российские дейтинг‑сервисы импортозаместили Tinder",
+    "og:image": "https://habr.com/share/publication/826130/890bbd2e71ff042f48e4429254e16a5e/",
+    "og:description": "Спустя год после прекращения работы Tinder в&nbsp;России суммарный интернет‑трафик доступных дейтинг‑сервисов вырос на 20%. В&nbsp;число наиболее популярных приложений для&nbsp;знакомств...",
+    "og:url": "https://habr.com/ru/news/826130/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/posts/825500/",
     "title": "Пост @hsbi — Карьера в IT-индустрии — 01.07 14:10 / Хабр",
     "date": "2024-07-01T08:30:57.132+06:00",
@@ -22932,6 +23130,17 @@
     "og:image": "https://itstechbased.com/wp-content/uploads/2021/09/cropped-cropped-techbased_profilepic-1.png",
     "og:description": "In this article, we will talk about the latest Windows 11 Insider Preview Build for the Canary Channel, which is Build 26244. Windows Backup If you have both Personalization and Other Windows settings toggled on under Settings > Accounts > Windows backup, many of your sound settings (including chosen sound scheme) will be backed up which",
     "og:url": "https://itstechbased.com/new-windows-11-build-26244-rip-classic-taskbar-new-settings-and-fixes-canary/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "javarome.medium.com",
+    "url": "https://javarome.medium.com/coding-a-scalable-phone-78eb1ea4e801",
+    "title": "Implementation: A scalable phone UI | by Jérôme Beau | Jul, 2024 | Medium",
+    "date": "2024-07-02T10:13:27.486+06:00",
+    "og:title": "Coding: A scalable phone",
+    "og:image": "",
+    "og:description": "Originally published on CodePen October 21th, 2017.",
+    "og:url": "https://javarome.medium.com/coding-a-scalable-phone-78eb1ea4e801",
     "og:type": "article"
   },
   {
@@ -24960,6 +25169,17 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/@iambharathpadhu/elevate-your-react-components-with-compound-components-58c2513ce857",
+    "title": "Elevate Your React Components with Compound Components | by Barath Kumar Padmanaban | Jul, 2024 | Medium",
+    "date": "2024-07-02T10:13:27.489+06:00",
+    "og:title": "Elevate Your React Components with Compound Components",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*mRM-sBnNoPI8jSxJEH7_OQ.jpeg",
+    "og:description": "Introduction",
+    "og:url": "https://medium.com/@iambharathpadhu/elevate-your-react-components-with-compound-components-58c2513ce857",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/@ignatiusmela643/frontend-technologies-and-what-they-mean-af1aef5b6f6c",
     "title": "Frontend Technologies And What they Mean | by Mela Ignatius | Jun, 2024 | Medium",
     "date": "2024-07-01T05:46:03.399+06:00",
@@ -25517,6 +25737,17 @@
     "og:image": "",
     "og:description": "Nextjs is a fullstack framework backed by vercel.",
     "og:url": "https://medium.com/@rashidmazhar0507/why-nextjs-is-better-than-reactjs-ef7469ccc025",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@revanthkumarpatha/revolutionize-your-vue-3-apps-with-pinia-the-ultimate-state-management-guide-d3ddd2a2f78d",
+    "title": "“Revolutionize Your Vue 3 Apps with Pinia: The Ultimate State Management Guide” | by Revanthkumarpatha | Jul, 2024 | Medium",
+    "date": "2024-07-02T10:13:27.487+06:00",
+    "og:title": "“Revolutionize Your Vue 3 Apps with Pinia: The Ultimate State Management Guide”",
+    "og:image": "https://miro.medium.com/v2/resize:fit:627/1*o6JLgMyMj7Fx34VaPgnuIQ.png",
+    "og:description": "Introduction:\nVue.js is a widely used JavaScript framework for building user interfaces and single-page applications. With the advent of…",
+    "og:url": "https://medium.com/@revanthkumarpatha/revolutionize-your-vue-3-apps-with-pinia-the-ultimate-state-management-guide-d3ddd2a2f78d",
     "og:type": "article"
   },
   {
