@@ -1155,6 +1155,17 @@
     "og:type": ""
   },
   {
+    "hostname": "2baksa.ws",
+    "url": "https://2baksa.ws/news/200372/",
+    "title": "Comfort Keys Pro 9.5 Multilingual » 2BakSa.WS",
+    "date": "2024-10-03T12:53:08.121+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
     "hostname": "4sysops.com",
     "url": "https://4sysops.com/archives/microsoft-powertoys-workspaces-group-windows-apps/",
     "title": "Microsoft PowerToys Workspaces: Group Windows apps – 4sysops",
@@ -28707,6 +28718,17 @@
     "og:image": "https://www.borncity.com/blog/wp-content/uploads/2012/07/Office1.jpg",
     "og:description": "[English]Kurzer Nachtrag von dieser Woche: Microsoft hat zum 1. Oktober 2024 das bereits angekündigte Microsoft Office 2024 veröffentlicht. Es ist eine Kaufversion, die ab ca.",
     "og:url": "https://www.borncity.com/blog/2024/10/03/microsoft-hat-office-2024-als-kaufversion-veroeffentlicht/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.borncity.com",
+    "url": "https://www.borncity.com/blog/2024/10/03/windows-11-24h2-microsoft-defender-verhindert-upgrade-von-home-auf-pro/",
+    "title": "Windows 11 24H2: Microsoft Defender prevents Home to Pro from upgrade | Born's IT and Windows Blog",
+    "date": "2024-10-03T12:53:08.115+06:00",
+    "og:title": "Windows 11 24H2: Microsoft Defender verhindert Upgrade von Home auf Pro",
+    "og:image": "https://www.borncity.com/blog/wp-content/uploads/2013/04/cropped-Header-a2.jpg",
+    "og:description": "[English]Wer sich einen neuen Rechner mit Windows 11 24H2 Home zulegt, diesen später aber mit einer entsprechenden Lizenz auf die Pro-Version upgraden will, läuft in Probleme. Das System lässt sich danach nicht in Microsoft Defender for Endpoint integrieren. Ähnliches gilt … Weiterlesen →",
+    "og:url": "https://www.borncity.com/blog/2024/10/03/windows-11-24h2-microsoft-defender-verhindert-upgrade-von-home-auf-pro/",
     "og:type": "article"
   },
   {
