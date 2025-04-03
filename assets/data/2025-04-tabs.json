@@ -1585,6 +1585,17 @@
   },
   {
     "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/tempmail-world",
+    "title": "TempMail.World: Avoid spam and protect your personal inbox | BetaList",
+    "date": "2025-04-03T13:07:09.196+06:00",
+    "og:title": "TempMail.World: Avoid spam and protect your personal inbox",
+    "og:image": "https://resize.imagekit.co/dnwv6570jjeKOqhwtzcTJFC2NG4ZvpCdPj4PFSNZFLw/plain/s3://betalist-production/j7syry6i3u78djc4izlpu7brc6cj",
+    "og:description": "Avoid spam and protect your personal inbox",
+    "og:url": "https://betalist.com/startups/tempmail-world",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
     "url": "https://betalist.com/startups/tolki",
     "title": "Tolki: A chatGPT-powered Alexa for kids | BetaList",
     "date": "2025-04-03T02:26:13.356+06:00",
@@ -2263,6 +2274,17 @@
     "og:image": "https://diakov.net/uploads/posts/2025-04/1743599096_autodesk-inventor-pro-2026.jpg",
     "og:description": "",
     "og:url": "https://diakov.net/15905-autodesk-inventor-pro-2026.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "diakov.net",
+    "url": "https://diakov.net/15906-autodesk-3ds-max-2026.html",
+    "title": "Autodesk 3ds Max 2026 от monkrus",
+    "date": "2025-04-03T13:15:59.362+06:00",
+    "og:title": "Autodesk 3ds Max 2026",
+    "og:image": "https://diakov.net/uploads/posts/2025-04/1743603091_autodesk-3ds-max-2026.jpg",
+    "og:description": "",
+    "og:url": "https://diakov.net/15906-autodesk-3ds-max-2026.html",
     "og:type": "article"
   },
   {
@@ -11254,6 +11276,17 @@
   },
   {
     "hostname": "new.pooshock.ru",
+    "url": "https://new.pooshock.ru/soft/plugins/7481-quick-depth-301-for-after-effects.html",
+    "title": "Quick Depth 3.0.1 (for After Effects) » PooShock.Ru",
+    "date": "2025-04-03T13:15:59.389+06:00",
+    "og:title": "Quick Depth 3.0.1 (for After Effects)",
+    "og:image": "https://new.pooshock.ru/uploads/posts/2025-04/medium/1743681961_quick-depth-3.0.1.jpg",
+    "og:description": "",
+    "og:url": "https://new.pooshock.ru/soft/plugins/7481-quick-depth-301-for-after-effects.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "new.pooshock.ru",
     "url": "https://new.pooshock.ru/soft/videoedit/7480-camtasia-2025-25018344.html",
     "title": "Camtasia 2025 (25.0.1.8344) » PooShock.Ru",
     "date": "2025-04-03T02:09:55.44+06:00",
@@ -12230,6 +12263,17 @@
     "og:description": "WinTools.net – набор инструментов для оптимизации операционной системы Windows. В состав программы входят компоненты для полного удаления нежелательных программ и «мертвых» ссылок реестра, а также для контроля процессов, настройки системы, интернет-соединений и интерфейса. Кроме того, имеются",
     "og:url": "https://repack.me/software/repacks/system/77-wintoolsnet.html",
     "og:type": "article"
+  },
+  {
+    "hostname": "ru.giveawayoftheday.com",
+    "url": "https://ru.giveawayoftheday.com/geekersoft-compressor/",
+    "title": "Giveaway of the Day in Russian. Geekersoft Compressor 4.1.14 - Сжатие изображений и видео в один клик!",
+    "date": "2025-04-03T13:15:59.369+06:00",
+    "og:title": "Сжатие изображений и видео в один клик! Бесплатно на GOTD!",
+    "og:image": "https://giveawayoftheday.com/wp-content/uploads/og/2025/03/d6dc73c3a7bfa92ae32ad1da7ae86615.png",
+    "og:description": "Geekersoft Compressor имеет множество преимуществ, таких как небольшой размер, высокая скорость и степень сжатия, стабильная производительность и интеграция нескольких...",
+    "og:url": "https://ru.giveawayoftheday.com/geekersoft-compressor/",
+    "og:type": "website"
   },
   {
     "hostname": "ru.giveawayoftheday.com",
