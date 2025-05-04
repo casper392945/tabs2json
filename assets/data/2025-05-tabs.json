@@ -1,0 +1,211 @@
+[
+  {
+    "hostname": "aws.amazon.com",
+    "url": "https://aws.amazon.com/q/developer/build/?trk=1134f7fb-59d6-4ae9-962e-572088852d9a&sc_channel=display+ads&bb=228023",
+    "title": "AI Code Assistant – Amazon Q Developer: Build – AWS",
+    "date": "2025-05-03T03:36:56.586+06:00",
+    "og:title": "AI Code Assistant – Amazon Q Developer: Build – AWS",
+    "og:image": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png",
+    "og:description": "",
+    "og:url": "https://aws.amazon.com/q/developer/build/",
+    "og:type": "company"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/dpc/daily-javascript-challenge-js-167-calculate-the-maximum-depth-of-nested-parentheses-in-a-string-3lfe?context=digest",
+    "title": "Daily JavaScript Challenge #JS-167: Calculate the Maximum Depth of Nested Parentheses in a String - DEV Community",
+    "date": "2025-05-03T03:36:57.666+06:00",
+    "og:title": "Daily JavaScript Challenge #JS-167: Calculate the Maximum Depth of Nested Parentheses in a String",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgvn9w61suzzmcxrbjo88.png",
+    "og:description": "Daily JavaScript Challenge: Calculate the Maximum Depth of Nested Parentheses in a...",
+    "og:url": "https://dev.to/dpc/daily-javascript-challenge-js-167-calculate-the-maximum-depth-of-nested-parentheses-in-a-string-3lfe",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/omriluz1/gamepad-api-for-game-controller-integration-2j7a?context=digest",
+    "title": "Gamepad API for Game Controller Integration - DEV Community",
+    "date": "2025-05-03T03:36:58.104+06:00",
+    "og:title": "Gamepad API for Game Controller Integration",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fon34aec1hn196tda1kd4.png",
+    "og:description": "Comprehensive Guide to the Gamepad API for Game Controller Integration            Table of...",
+    "og:url": "https://dev.to/omriluz1/gamepad-api-for-game-controller-integration-2j7a",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/sakethkowtha/when-ai-goes-bonkers-unraveling-the-mystery-of-llm-hallucinations-kcd?context=digest",
+    "title": "When AI Goes Bonkers: Unraveling the Mystery of LLM Hallucinations - DEV Community",
+    "date": "2025-05-03T03:36:57.365+06:00",
+    "og:title": "When AI Goes Bonkers: Unraveling the Mystery of LLM Hallucinations",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzqyutagdid8fys10sf25.png",
+    "og:description": "Welcome to the Twilight Zone of AI   Picture this: You're chatting with an AI, asking it...",
+    "og:url": "https://dev.to/sakethkowtha/when-ai-goes-bonkers-unraveling-the-mystery-of-llm-hallucinations-kcd",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/sertxudev/microk8s-setting-up-microceph-as-storage-k7g?context=digest",
+    "title": "MicroK8s: Setting up MicroCeph as storage - DEV Community",
+    "date": "2025-05-03T03:36:57.096+06:00",
+    "og:title": "MicroK8s: Setting up MicroCeph as storage",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fsertxu.dev%2Fblog%2Fmicrok8s-setting-up-microceph-as-storage%2Fthumbnail",
+    "og:description": "We can configure MicroK8s to use Ceph as its storage. This tutorial assumes you already configured a...",
+    "og:url": "https://dev.to/sertxudev/microk8s-setting-up-microceph-as-storage-k7g",
+    "og:type": "article"
+  },
+  {
+    "hostname": "dev.to",
+    "url": "https://dev.to/shrinidhia/manage-multiple-github-accounts-with-ease-3dc8?context=digest",
+    "title": "Manage Multiple GitHub accounts with ease. - DEV Community",
+    "date": "2025-05-03T03:36:57.673+06:00",
+    "og:title": "Manage Multiple GitHub accounts with ease.",
+    "og:image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyvqclnw2zssb7jadxi6z.png",
+    "og:description": "We all know, that when we enter IT we have to work on git. we may have to work on different git...",
+    "og:url": "https://dev.to/shrinidhia/manage-multiple-github-accounts-with-ease-3dc8",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/blog/2025/04/30/geforce-576-28-whql-grafiktreiber-wurde-von-nvidia-bereitgestellt/",
+    "title": "GeForce 576.28 WHQL Grafiktreiber wurde von Nvidia bereitgestellt - Deskmodder.de",
+    "date": "2025-05-03T03:31:26.169+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/blog/2025/04/30/libreoffice-25-2-3-als-neue-finale-version-bereitgestellt/",
+    "title": "LibreOffice 25.2.3 als neue finale Version bereitgestellt. - Deskmodder.de",
+    "date": "2025-05-03T03:31:26.42+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/blog/2025/04/30/nintendo-switch-update-auf-version-20-mit-vielen-neuerungen/",
+    "title": "Nintendo Switch: Update to version 20 with many new features - Deskmodder.de",
+    "date": "2025-05-03T03:31:25.802+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/blog/2025/04/30/revolut-startet-smartphone-tarif-mit-unbegrenztem-datenvolumen/",
+    "title": "Revolut startet Smartphone-Tarif mit unbegrenztem Datenvolumen - Deskmodder.de",
+    "date": "2025-05-03T03:31:26.602+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/blog/2025/04/30/samsung-diese-geraete-erhalten-android-15-mit-one-ui-7/",
+    "title": "Samsung: diese Geräte erhalten Android 15 mit One UI 7 - Deskmodder.de",
+    "date": "2025-05-03T03:31:24.853+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/blog/2025/05/01/firefox-138-0-1-korrigiert-zwei-fehler/",
+    "title": "Firefox 138.0.1 korrigiert zwei Fehler - Deskmodder.de",
+    "date": "2025-05-03T03:31:24.678+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/blog/2025/05/01/hasleo-backup-suite-5-2-2-2-korrigiert-probleme/",
+    "title": "Hasleo Backup Suite 5.2.2.2 korrigiert Probleme - Deskmodder.de",
+    "date": "2025-05-03T03:31:24.4+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/blog/2025/05/02/microsoft-edge-136-136-0-3240-50-korrigiert-5-sicherheitsluecken/",
+    "title": "Microsoft Edge 136 (136.0.3240.50) fixes 5 security vulnerabilities - Deskmodder.de",
+    "date": "2025-05-03T03:40:08.231+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/blog/2025/05/02/narwal-freo-z10-ultra-im-test-konkurrenz-fuer-den-thron/",
+    "title": "Narwal Freo Z10 Ultra in the test - Competition for the throne? - Deskmodder.de",
+    "date": "2025-05-03T03:40:08.333+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/blog/2025/05/02/steam-april-2025-windows-11-knoepft-windows-10-weitere-anteile-ab/",
+    "title": "Steam April 2025: Windows 11 will remove Windows 10 more shares - Deskmodder.de",
+    "date": "2025-05-03T03:40:08.253+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/blog/2025/05/02/windows-11-einstellungen-fuer-entwickler-erhaelt-einen-neuen-namen-und-neues-layout/",
+    "title": "Windows 11: Settings For developers get a new name and layout - Deskmodder.de",
+    "date": "2025-05-03T03:40:08.416+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/blog/2025/05/02/windows-11-insider-zum-wochenende-fallen-dieses-mal-aus/",
+    "title": "Windows 11 Insider for the weekend is out - Deskmodder.de",
+    "date": "2025-05-03T03:40:08.209+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/blog/2025/05/02/windows-server-2025-26404-ltsc-vnext-wurde-veroeffentlicht/",
+    "title": "Windows Server 2025 26404 LTSC vNext has been released - Deskmodder.de",
+    "date": "2025-05-03T03:31:23.929+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  }
+]
