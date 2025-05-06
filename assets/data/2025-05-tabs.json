@@ -1035,6 +1035,17 @@
   },
   {
     "hostname": "adme.media",
+    "url": "https://adme.media/articles/18-chelovek-rasskazali-o-neobychnyh-veschah-kotorye-hranyatsya-v-damskih-sumochkah-2536675/",
+    "title": "18 человек рассказали о необычных вещах, которые хранятся в дамских сумочках / AdMe",
+    "date": "2025-05-06T10:25:21.52+06:00",
+    "og:title": "18 человек рассказали о необычных вещах, которые хранятся в дамских сумочках",
+    "og:image": "https://wl-adme.cf.tsp.li/resize/1200x770/jpg/522/cb8/d9fab056569fc1ff99f1be3b4e.jpg",
+    "og:description": "Есть ли на этом свете что-то более вместительное, чем женская сумочка? Иногда даже с уймой лайфхаков в чемодан столько не поместится. Серьезно, даже в самую маленькую сумку влезет косметичка, телефон, кошелек, влажные салфетки, ключи и еще какой-то обязательный предмет, без которого ну никак нельзя обойтись.",
+    "og:url": "https://adme.media/articles/18-chelovek-rasskazali-o-neobychnyh-veschah-kotorye-hranyatsya-v-damskih-sumochkah-2536675/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "adme.media",
     "url": "https://adme.media/articles/18-istorij-v-kotoryh-glavnym-geroem-stala-umnaya-tehnika-2536555/",
     "title": "18 историй пользователей, когда «умное» стало слишком самостоятельным / AdMe",
     "date": "2025-05-04T08:20:59.181+06:00",
@@ -8555,6 +8566,17 @@
     "og:image": "https://habrastorage.org/getpro/habr/upload_files/0e0/1bf/259/0e01bf259dfe7d253280e52564276175.png",
     "og:description": "Генеративные нейросети уже изменили мир цифрового искусства, но настоящая магия начинается, когда ты сам берешь их под контроль. Сегодня расскажу о своем эксперименте по обучению LoRA на стиле South...",
     "og:url": "https://habr.com/ru/companies/timeweb/articles/902902/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/timeweb/articles/903842/",
+    "title": "JavaScript: структуры данных и алгоритмы. Часть 11 / Хабр",
+    "date": "2025-05-06T10:25:21.518+06:00",
+    "og:title": "JavaScript: структуры данных и алгоритмы. Часть 11",
+    "og:image": "https://habrastorage.org/webt/ma/po/lv/mapolvqq4uunxfqoaviv3g9km9y.jpeg",
+    "og:description": "Привет, друзья! В этой серии статей мы разбираем структуры данных и алгоритмы, представленные в этом замечательном репозитории . Это одиннадцатая часть серии. Сегодня мы рассмотрим несколько простых,...",
+    "og:url": "https://habr.com/ru/companies/timeweb/articles/903842/",
     "og:type": "article"
   },
   {
@@ -18140,6 +18162,17 @@
   },
   {
     "hostname": "www.csswinner.com",
+    "url": "https://www.csswinner.com/details/oxi-one-mkii/18641",
+    "title": "OXI ONE MKII - CSS Winner",
+    "date": "2025-05-06T10:25:46.486+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.csswinner.com",
     "url": "https://www.csswinner.com/details/portfolio-ver7-tomoya-okada/18633",
     "title": "Portfolio ver7 - tomoya okada - CSS Winner",
     "date": "2025-05-05T04:37:49.847+06:00",
@@ -19522,6 +19555,17 @@
     "og:image": "https://cdn.neowin.com/news/images/uploaded/2023/12/1701731604_windows_11_insider_preview_promo_22_story.jpg",
     "og:description": "Microsoft has released a new Windows 11 update for members flighting the Insider Program in the Beta Channel. The new Build 26120.3950 (KB5055653) adds several new features and improvements.",
     "og:url": "https://www.neowin.net/news/windows-11kb5055653-beta-brings-hdr-upgrades-windows-update-improvements-and-more/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.neowin.net",
+    "url": "https://www.neowin.net/software/microsoft-pc-manager-31660-offline-installer/",
+    "title": "Microsoft PC Manager 3.16.6.0 (Offline Installer) - Neowin",
+    "date": "2025-05-06T10:25:21.524+06:00",
+    "og:title": "Microsoft PC Manager 3.16.6.0 (Offline Installer)",
+    "og:image": "https://cdn.neowin.com/news/images/uploaded/2025/05/1746471510_microsoft_pc_manager_story.jpg",
+    "og:description": "Similar to CCleaner or Wise Care 365, Microsoft PC Manager can accelerate your PC's performance, declutter disk space, manage startup programs, control running processes, block pop-ups, and much more.",
+    "og:url": "https://www.neowin.net/software/microsoft-pc-manager-31660-offline-installer/",
     "og:type": "article"
   },
   {
@@ -21535,6 +21579,17 @@
     "og:image": "https://www.thephoblographer.com/wp-content/uploads/2025/04/Screenshot-2025-04-23-145823-scaled.png",
     "og:description": "Leica has a history of exceptional cameras and lenses. Here is a look at some limited edition gear that can be yours.",
     "og:url": "https://www.thephoblographer.com/2025/05/05/how-these-7-limited-edition-leica-cameras-and-lenses-can-be-yours/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.thephoblographer.com",
+    "url": "https://www.thephoblographer.com/2025/05/06/enter-the-hipa-contest-today-for-a-chance-to-win-the-biggest-prize-of-your-life/",
+    "title": "Enter the HIPA Contest Today to Win the Biggest Prize of Your Life!",
+    "date": "2025-05-06T10:25:21.522+06:00",
+    "og:title": "Enter the HIPA Contest Today to Win the Biggest Prize of Your Life!",
+    "og:image": "https://www.thephoblographer.com/wp-content/uploads/2025/01/Screenshot-2025-01-10-190940.png",
+    "og:description": "HIPA provides an exceptional platform for emerging and professional photographers to showcase their talent to world. Participate today.",
+    "og:url": "https://www.thephoblographer.com/2025/05/06/enter-the-hipa-contest-today-for-a-chance-to-win-the-biggest-prize-of-your-life/",
     "og:type": "article"
   },
   {
