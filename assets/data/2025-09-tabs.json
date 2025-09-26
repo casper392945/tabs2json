@@ -22,6 +22,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "2baksa.ws",
+    "url": "https://2baksa.ws/software/windows/2756-leawo-prof-media-13007.html",
+    "title": "Leawo Prof. Media 13.0.0.7 » 2baksa.ws - fresh software versions hub",
+    "date": "2025-09-26T12:53:34.542+06:00",
+    "og:title": "Leawo Prof. Media 13.0.0.7 » 2baksa.ws - fresh software versions hub",
+    "og:image": "https://2baksa.ws/uploads/posts/2025-09/total-media-converter-ultimate.avif",
+    "og:description": "World’s No. 1 media converter suite provides the best and most full-featured multimedia solutions. All-inclusive media converter toolbox provides multiple solutions on up to 4K videos, DVD, Blu-ray, 4K Blu-ray, audios and photos, with astonishing bonus features. Languages: Multilingual | File Size:",
+    "og:url": "https://2baksa.ws/software/windows/2756-leawo-prof-media-13007.html",
+    "og:type": "article"
+  },
+  {
     "hostname": "4sysops.com",
     "url": "https://4sysops.com/archives/new-administrative-templates-admxadml-for-outlook-word-excel-and-onenote/",
     "title": "New Administrative Templates (ADMX/ADML) for Windows, Outlook, Word, Excel, and OneNote – 4sysops",
@@ -1299,6 +1310,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/948866/",
+    "title": "Кэширование в Go: ускоряем API без Redis / Хабр",
+    "date": "2025-09-26T12:53:06.174+06:00",
+    "og:title": "Кэширование в Go: ускоряем API без Redis",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/311/ee8/64d/311ee864d2a0ba52ddbc4ef47c036320.png",
+    "og:description": "Команда Go for Devs подготовила перевод статьи о том, как кэширование помогает ускорить API на Go и снизить нагрузку на базу данных. В статье разбираются основные стратегии кэширования — от...",
+    "og:url": "https://habr.com/ru/articles/948866/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/articles/949004/",
     "title": "CSS, который все ненавидят: sin() и cos() / Хабр",
     "date": "2025-09-24T13:26:34.94+06:00",
@@ -1827,6 +1849,149 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/950654/",
+    "title": "Проектирование импульсных источников питания: ключевые параметры и распространенные ошибки / Хабр",
+    "date": "2025-09-26T12:52:55.875+06:00",
+    "og:title": "Проектирование импульсных источников питания: ключевые параметры и распространенные ошибки",
+    "og:image": "https://habr.com/share/publication/950654/c06fccb099c6f924a3ef34d319cbf087/",
+    "og:description": "Импульсные источники питания (SMPS) стали стандартом в современной электронике благодаря высокому КПД, компактности и гибкости применения. Однако их проектирование связано с рядом сложностей: от...",
+    "og:url": "https://habr.com/ru/articles/950654/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/950774/",
+    "title": "Краткая история комплексных чисел / Хабр",
+    "date": "2025-09-26T12:53:00.741+06:00",
+    "og:title": "Краткая история комплексных чисел",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/ae4/573/dc8/ae4573dc8f81f785c91371e35bcd36d2.jpeg",
+    "og:description": "Вам это может показаться странным, но были времена, когда отрицательные числа казались людям чем-то неестественным, причём даже тем людям, которые зарабатывали себе на жизнь числами — математикам. Как...",
+    "og:url": "https://habr.com/ru/articles/950774/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/950826/",
+    "title": "После — значит вследствие / Хабр",
+    "date": "2025-09-26T12:52:51.393+06:00",
+    "og:title": "После — значит вследствие",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/67e/0f8/90b/67e0f890b4ee20fdf59829bd4029458e.png",
+    "og:description": "В одной из своих прошлых статей &nbsp;я достаточно подробно рассмотрел вопрос о том, каким именно образом наш мозг экономит энергию и к каким именно практическим последствиям это приводит. Данная...",
+    "og:url": "https://habr.com/ru/articles/950826/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/950886/",
+    "title": "Конец эпохи Windows 10: почему связка Avalonia UI и Linux становится идеальным выбором для .NET-разработчиков / Хабр",
+    "date": "2025-09-26T12:53:07.421+06:00",
+    "og:title": "Конец эпохи Windows 10: почему связка Avalonia UI и Linux становится идеальным выбором для .NET-разработчиков",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/819/ebc/175/819ebc175f7e7b8a84f642f179087177.jpg",
+    "og:description": "Осенью 2025 года заканчивается официальная поддержка Windows 10. Для миллионов пользователей и компаний окончание поддержки ставит вопрос о выборе дальнейшей стратегии. Наиболее очевидный путь —...",
+    "og:url": "https://habr.com/ru/articles/950886/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/950914/",
+    "title": "Модуль datetime в Python для начинающих с домашним заданием / Хабр",
+    "date": "2025-09-26T12:53:07.645+06:00",
+    "og:title": "Модуль datetime в Python для начинающих с домашним заданием",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/fd2/93c/391/fd293c391064164a5d8831f0b650c9c1.png",
+    "og:description": "1. Введение Модуль datetime — один из тех инструментов в стандартной библиотеке Python, с которым рано или поздно сталкивается каждый начинающий разработчик. Он предоставляет мощный, но в то же время...",
+    "og:url": "https://habr.com/ru/articles/950914/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/950936/",
+    "title": "Код-ревью — самое узкое горлышко в разработке. И вот цифры, которые это доказывают / Хабр",
+    "date": "2025-09-26T12:53:06.178+06:00",
+    "og:title": "Код-ревью — самое узкое горлышко в разработке. И вот цифры, которые это доказывают",
+    "og:image": "https://habr.com/share/publication/950936/50c5527790e1ebb098de5cd3b69ef7c9/",
+    "og:description": "Привет, Хабр. Сегодня я буду рушить один из священных столпов современной разработки. Речь пойдет о код-ревью. Все мы слышали мантры: «Ревью — это хорошо», «Без ревью нет качества», «Это лучший способ...",
+    "og:url": "https://habr.com/ru/articles/950936/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/950938/",
+    "title": "Почему Фараон остается лучшей игрой в серии / Хабр",
+    "date": "2025-09-26T12:52:59.231+06:00",
+    "og:title": "Почему Фараон остается лучшей игрой в серии",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/b21/aa3/351/b21aa335101ead6f9cdb1087a79f285b.png",
+    "og:description": "В 90-х и 2000-х студия Impressions Games выпускала отличные исторические градостроительные симуляторы. Я играл во все игры этой серии от незабываемого Caesar 3, который вообще был первой моей...",
+    "og:url": "https://habr.com/ru/articles/950938/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/950942/",
+    "title": "NE-Executable | Разбор деталей часть 2 / Хабр",
+    "date": "2025-09-26T12:53:06.168+06:00",
+    "og:title": "NE-Executable | Разбор деталей часть 2",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/22d/47c/f5f/22d47cf5f207e9e15af4293eb8b5b49f.png",
+    "og:description": "Эта запись является продолжением которая расширяет понятия и смысл внутренних структур NE программы. Эта часть содержит много информации о таблице сегментов и релокациях для каждого сегмента. Перед...",
+    "og:url": "https://habr.com/ru/articles/950942/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/950950/",
+    "title": "Почему ваше Senior IT-резюме не работает в 2025 году: Взгляд бывшего HR-рекрутера / Хабр",
+    "date": "2025-09-26T12:53:01.445+06:00",
+    "og:title": "Почему ваше Senior IT-резюме не работает в 2025 году: Взгляд бывшего HR-рекрутера",
+    "og:image": "https://habr.com/share/publication/950950/d5bf52c3296edb914f99369999910b99/",
+    "og:description": "Вы опытный IT-специалист, годами кодили, запускали проекты, возможно, даже управляли командами. Но почему ваши отклики уходят в никуда, а рекрутеры игнорируют? Открываю правду о том, как на самом деле...",
+    "og:url": "https://habr.com/ru/articles/950950/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/950954/",
+    "title": "Платить 0% НДС вместо 22% — реально? Разбираем путь ИТ-компании в реестр Минцифры на реальных кейсах / Хабр",
+    "date": "2025-09-26T12:53:00.137+06:00",
+    "og:title": "Платить 0% НДС вместо 22% — реально? Разбираем путь ИТ-компании в реестр Минцифры на реальных кейсах",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/ed3/801/29d/ed380129da7c61522a87348b7df39773.png",
+    "og:description": "С 1 января 2026 года ИТ-отрасль, как и весь российский бизнес, ждет повышение основной ставки НДС до 22%, &nbsp;и планку уплаты НДС для УСН планируется опустить до 10 млн рублей, вместо текущих 60...",
+    "og:url": "https://habr.com/ru/articles/950954/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/950958/",
+    "title": "Quiet firing: как компании тихо увольняют сотрудников / Хабр",
+    "date": "2025-09-26T12:52:59.714+06:00",
+    "og:title": "Quiet firing: как компании тихо увольняют сотрудников",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/3fc/a33/fba/3fca33fba162b33788f3fa85a8c86933.png",
+    "og:description": "Вы работаете в компании уже три года. Вроде бы всё в порядке: стабильность, привычные задачи, понятный график. Но - нет карьерного роста, повышения зарплаты, новых проектов. В зоне комфорта становится...",
+    "og:url": "https://habr.com/ru/articles/950958/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/950962/",
+    "title": "Как киберэкономика и ИИ меняют философию науки? Поппер, Кун, Фейерабенд и Лакатош в условиях цифровых технологий / Хабр",
+    "date": "2025-09-26T12:52:55.634+06:00",
+    "og:title": "Как киберэкономика и ИИ меняют философию науки? Поппер, Кун, Фейерабенд и Лакатош в условиях цифровых технологий",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/f5f/cc2/9e6/f5fcc29e653a421fe33fbe1d08f12bac.png",
+    "og:description": "В последние десятилетия мы переживаем эпоху технологических прорывов, изменяющих привычные границы не только в науке и бизнесе, но и в самой философии. Статья , на которую я опираюсь, поднимает...",
+    "og:url": "https://habr.com/ru/articles/950962/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/950966/",
+    "title": "Как IT-специалисту выбрать квартиру и не влететь на деньги / Хабр",
+    "date": "2025-09-26T12:52:58.427+06:00",
+    "og:title": "Как IT-специалисту выбрать квартиру и не влететь на деньги",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/297/94e/1e3/29794e1e3061e15d5630410de1912469.jpg",
+    "og:description": "Рынок жилой недвижимости давно перестал быть «тёмным лесом», где у одних есть закрытые базы, а другие вынуждены искать объявления в газетах. Сегодня все источники открыты: ЦИАН, Авито,...",
+    "og:url": "https://habr.com/ru/articles/950966/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/alfa/articles/940324/",
     "title": "Как просто использовать SRI, когда у тебя микрофронты / Хабр",
     "date": "2025-09-25T05:02:21.608+06:00",
@@ -1889,6 +2054,17 @@
     "og:image": "https://habrastorage.org/getpro/habr/upload_files/147/20a/94e/14720a94e42396c836d4308821959960.jpg",
     "og:description": "Современный человек, вспоминая о прежних временах, частенько относится к ним с достаточной долей самодовольства, мол, &quot;чего они там знали и могли уметь, - с ветки на ветку прыгали, вот и всё&quot;...",
     "og:url": "https://habr.com/ru/companies/beget/articles/949044/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/bhv_publishing/articles/950970/",
+    "title": "Чистовики патриарха. О трёх последних книгах Олега Цилюрика / Хабр",
+    "date": "2025-09-26T12:52:58.364+06:00",
+    "og:title": "Чистовики патриарха. О трёх последних книгах Олега Цилюрика",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/149/a9c/394/149a9c3949e94c12ca9415268d51955e.jpg",
+    "og:description": "Привет, Хабр! На связи Олег Сивченко @OlegSivchenko редактор направления «Компьютерная литература». Наша первая статья в корпоративном блоге вызвала ваш огромный интерес (+122) и оживлённое обсуждение...",
+    "og:url": "https://habr.com/ru/companies/bhv_publishing/articles/950970/",
     "og:type": "article"
   },
   {
@@ -2102,6 +2278,28 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/friflex/articles/950952/",
+    "title": "Nano Banana для дизайнеров: как работать, не отходя от Figma / Хабр",
+    "date": "2025-09-26T12:53:01.13+06:00",
+    "og:title": "Nano Banana для дизайнеров: как работать, не отходя от Figma",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/526/c6c/3c4/526c6c3c4620c18f702d55b6491988e0.png",
+    "og:description": "Привет, Хабр! Меня зовут Алина Сидоренко, я лид-дизайнер в компании Friflex. В этой статье я расскажу, как быстро генерировать и редактировать изображения без фотошопа (и даже не выходя из Figma) с...",
+    "og:url": "https://habr.com/ru/companies/friflex/articles/950952/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/garage8/posts/950858/",
+    "title": "Пост @GarageEight — Блог компании Garage Eight — 26.09 14:19 / Хабр",
+    "date": "2025-09-26T12:53:03.466+06:00",
+    "og:title": "Пост @GarageEight — Блог компании Garage Eight  — 26.09 14:19",
+    "og:image": "https://habr.com/share/publication/950858/ce4d27f77e5e9f05181c7e9de11e3482/",
+    "og:description": "Product owner Garage Eight на продуктовом вечере в Питере! Уже в следующий четверг наш Product owner Даша Леонова выступит с докладом «От гипотезы до релиза: три шага к эффективной доставке ценности»...",
+    "og:url": "https://habr.com/ru/companies/garage8/posts/950858/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/garda/articles/938366/",
     "title": "Алгоритм поиска аномалий Isolation Forest / Хабр",
     "date": "2025-09-25T13:49:19.798+06:00",
@@ -2157,6 +2355,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/greenatom/posts/950856/",
+    "title": "Пост @greenatom_team — Блог компании Гринатом — 26.09 14:16 / Хабр",
+    "date": "2025-09-26T12:53:03.553+06:00",
+    "og:title": "Пост @greenatom_team — Блог компании Гринатом  — 26.09 14:16",
+    "og:image": "https://habr.com/share/publication/950856/ef3191670717072e8912167aeb72585e/",
+    "og:description": "Где побывали стенды Гринатома в сентябре и где нас искать в октябре В сентябре команда Гринатома участвовала в отраслевой конференции и встречалась со студентами из Москвы. Делимся коротким отчётом и...",
+    "og:url": "https://habr.com/ru/companies/greenatom/posts/950856/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/habr/posts/950320/",
     "title": "Пост @anezthezzia — Блог компании Хабр — 25.09 01:02 / Хабр",
     "date": "2025-09-25T05:02:19.699+06:00",
@@ -2197,6 +2406,28 @@
     "og:image": "https://habrastorage.org/getpro/habr/upload_files/cd3/00b/a7a/cd300ba7acf8c9cf3470269592c22633.png",
     "og:description": "Межсетевые экраны нового поколения (NGFW) остаются самым востребованным инструментом в области сетевой безопасности, при этом требования к ним растут — все больше компаний в России и мире...",
     "og:url": "https://habr.com/ru/companies/infowatch/news/950456/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/ingos_it/news/950890/",
+    "title": "Ингосстрах на AiConf 2025 / Хабр",
+    "date": "2025-09-26T12:53:07.198+06:00",
+    "og:title": "Ингосстрах на AiConf 2025",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/efc/524/45a/efc52445a44243a4763b96e40d719f74.png",
+    "og:description": "Всем привет! Сегодня, 26 сентября, ребята из Центра развития искусственного интеллекта приглашают вас посетить стенд Ингосстраха на AiConf 2025 - прикладной конференции по Data Science. Ищите наш...",
+    "og:url": "https://habr.com/ru/companies/ingos_it/news/950890/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/innostage/articles/950948/",
+    "title": "OLAP — не предел: как мы «пошли своим путем» / Хабр",
+    "date": "2025-09-26T12:52:56.894+06:00",
+    "og:title": "OLAP — не предел: как мы «пошли своим путем»",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/6d7/d13/774/6d7d13774345678d00c5ba8e9b00d1a4.jpg",
+    "og:description": "Как вырваться из закостенелых парадигм и сделать нечто, отличное от всего, что вы знали? Привет, Хабр. Я, Гибадуллина Алсу – владелец продукта In-DAP, и сегодня я расскажу о том, почему мы решили...",
+    "og:url": "https://habr.com/ru/companies/innostage/articles/950948/",
     "og:type": "article"
   },
   {
@@ -2333,6 +2564,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/magnit/articles/929856/",
+    "title": "Тестирование процессов: как подружить Camunda и Cucumber / Хабр",
+    "date": "2025-09-26T12:53:00.909+06:00",
+    "og:title": "Тестирование процессов: как подружить Camunda и Cucumber",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/7c5/98b/cb7/7c598bcb7e5266525b3d7863cebf0b8b.png",
+    "og:description": "Всем привет! Меня зовут Елена Пилюгина, я ведущий разработчик отдела автоматизации бизнес процессов складской логистики в Magnit Tech. В этой статье я расскажу про свой опыт покрытия тестами процессов...",
+    "og:url": "https://habr.com/ru/companies/magnit/articles/929856/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/mango_telecom/articles/950578/",
     "title": "System Design интервью: как его проходить и что проверяют работодатели / Хабр",
     "date": "2025-09-25T13:49:03.918+06:00",
@@ -2373,6 +2615,17 @@
     "og:image": "https://habrastorage.org/getpro/habr/upload_files/c1c/866/85b/c1c86685b9dca08c38982d3382ff046c.png",
     "og:description": "НИИ ПТЭС — один из лидеров российского строительного рынка — как и многие отечественные предприятия столкнулся с необходимостью импортозамещения. Маркетолог компании Евгений Платонов рассказывает,...",
     "og:url": "https://habr.com/ru/companies/nanosoft/articles/950158/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/naumen/posts/950842/",
+    "title": "Пост @blognaumen — Блог компании NAUMEN — 26.09 13:57 / Хабр",
+    "date": "2025-09-26T12:53:04.567+06:00",
+    "og:title": "Пост @blognaumen — Блог компании NAUMEN  — 26.09 13:57",
+    "og:image": "https://habr.com/share/publication/950842/351661dbcc036f8702a97a1a94351ba1/",
+    "og:description": "Разработка в 2025&nbsp;году&nbsp;— это уже не&nbsp;только про&nbsp;умение писать код. Важно уметь работать в&nbsp;связке с&nbsp;ИИ,&nbsp;быстро адаптироваться к&nbsp;новым инструментам и смотреть...",
+    "og:url": "https://habr.com/ru/companies/naumen/posts/950842/",
     "og:type": "article"
   },
   {
@@ -2421,6 +2674,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/otus/articles/950504/",
+    "title": "Сначала Agile, потом — агентный ИИ / Хабр",
+    "date": "2025-09-26T12:53:07.418+06:00",
+    "og:title": "Сначала Agile, потом — агентный ИИ",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/631/970/32c/63197032c483501747ee199c324ed88e.jpg",
+    "og:description": "Почему ИИ вам не поможет TL;DR Агентный ИИ ускоряет работу только там, где уже зрелые Agile/DevOps-практики, короткие циклы и культура экспериментов; иначе он всего лишь делает код быстрее, а поставку...",
+    "og:url": "https://habr.com/ru/companies/otus/articles/950504/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/otus/posts/950042/",
     "title": "Пост @MaxRokatansky — Блог компании OTUS — 24.09 17:31 / Хабр",
     "date": "2025-09-25T05:02:23.467+06:00",
@@ -2428,6 +2692,17 @@
     "og:image": "https://habr.com/share/publication/950042/b28c4fdd2ee4ea73fa9bcbedaecec877/",
     "og:description": "Осенние скидки на ИТ-курсы: неделя до дедлайна Давно планировали подтянуть скиллы и перейти на следующий уровень? Считайте, что это знак. До конца месяца действует −10% на курсы со стартом в конце...",
     "og:url": "https://habr.com/ru/companies/otus/posts/950042/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/ozontech/articles/950044/",
+    "title": "Как мы победили «сковородочный апокалипсис» — буферизация резервации товаров в Ozon / Хабр",
+    "date": "2025-09-26T12:52:58.361+06:00",
+    "og:title": "Как мы победили «сковородочный апокалипсис» — буферизация резервации товаров в Ozon",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/da8/f09/a23/da8f09a235454177dc6fc72ac49a3a86.jpg",
+    "og:description": "или&nbsp;Почему наша система теперь не боится ни распродаж, ни внезапного наплыва любителей гречки и сковородок Всем привет! Меня зовут Александр Исай, я тимлид в Ozon Tech. Сегодня я расскажу историю...",
+    "og:url": "https://habr.com/ru/companies/ozontech/articles/950044/",
     "og:type": "article"
   },
   {
@@ -2516,6 +2791,17 @@
     "og:image": "https://habrastorage.org/getpro/habr/upload_files/9bb/230/407/9bb230407ff63c19eb2766d4a71d9922.jpg",
     "og:description": "Если вы следите за космическими новостями, то наверняка заметили, как Китай все активнее работает на орбите и за ней. Пока в США разбираются с переносами запусков Artemis и тестируют Starship, Пекин...",
     "og:url": "https://habr.com/ru/companies/ru_mts/articles/950508/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/ru_mts/articles/950922/",
+    "title": "Как Soft X-Ray литография может изменить производство микросхем: взгляд на B-EUV / Хабр",
+    "date": "2025-09-26T12:52:58.219+06:00",
+    "og:title": "Как Soft X-Ray литография может изменить производство микросхем: взгляд на B-EUV",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/543/d05/b77/543d05b77c3a78e2325fec8aeaa2d903.jpg",
+    "og:description": "Полупроводниковая индустрия движется вперед стремительными темпами: чипы становятся все компактнее, производительнее и энергоэффективнее, подпитывая инновации от искусственного интеллекта до...",
+    "og:url": "https://habr.com/ru/companies/ru_mts/articles/950922/",
     "og:type": "article"
   },
   {
@@ -2641,6 +2927,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/sberdevices/articles/950832/",
+    "title": "Ювелирная работа, или Как мы разрабатывали Умное кольцо Sber (часть 2) / Хабр",
+    "date": "2025-09-26T12:53:07.725+06:00",
+    "og:title": "Ювелирная работа, или Как мы разрабатывали Умное кольцо Sber (часть 2)",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/d09/da2/5a1/d09da25a1cf7cd7789eea60df9d31293.jpg",
+    "og:description": "Салют, Хабр!&nbsp; Умное кольцо Sber уже в продаже , а мы продолжаем рассказывать, как создавали устройство.&nbsp; По плану кольцо постоянно на пальце у пользователя. Оно мониторит его показатели...",
+    "og:url": "https://habr.com/ru/companies/sberdevices/articles/950832/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/se_blog/articles/950582/",
     "title": "Особенности электропитания в серверных шкафах: на что обратить внимание? / Хабр",
     "date": "2025-09-25T13:49:04.27+06:00",
@@ -2703,6 +3000,17 @@
     "og:image": "https://habr.com/share/publication/949720/657a0625f9ec0b8f17074e536f6ea304/",
     "og:description": "+10% к производительности сервера с конфигурацией AR45-NVMe&nbsp; Нужна высокая производительность на одном узле, но серверная платформа не по бюджету и избыточна? AR45-NVMe — готовый сервер с...",
     "og:url": "https://habr.com/ru/companies/selectel/posts/949720/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/selectel/posts/950804/",
+    "title": "Пост @El_Gato_Grande — Блог компании Selectel — 26.09 16:00 / Хабр",
+    "date": "2025-09-26T12:53:02.528+06:00",
+    "og:title": "Пост @El_Gato_Grande — Блог компании Selectel  — 26.09 16:00",
+    "og:image": "https://habr.com/share/publication/950804/14f82dfe292f3d21df8e93fff9af25c8/",
+    "og:description": "Подборка обучающих материалов по Docker и Kubernetes Привет, Хабр! Сегодня пятница, поэтому я снова со своей нерегулярной подборкой полезных материалов для начинающих специалистов. На этот раз несу...",
+    "og:url": "https://habr.com/ru/companies/selectel/posts/950804/",
     "og:type": "article"
   },
   {
@@ -3587,6 +3895,105 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/news/950900/",
+    "title": "Windows 10 получила последнее не связанное с безопасностью обновление / Хабр",
+    "date": "2025-09-26T12:53:07.174+06:00",
+    "og:title": "Windows 10 получила последнее не связанное с безопасностью обновление",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/462/bb2/8ff/462bb28ff446d87b68101802207f7cec.jpg",
+    "og:description": "Microsoft выпустила обновление KB5066198 для Windows 10 за сентябрь 2025 года, не связанное с безопасностью. Оно содержит всего два исправления. Первое устраняет известную проблему с подключением по...",
+    "og:url": "https://habr.com/ru/news/950900/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/news/950906/",
+    "title": "Альянс Risc-V представил «дорожную карту» развития процессорной архитектуры / Хабр",
+    "date": "2025-09-26T12:53:06.538+06:00",
+    "og:title": "Альянс Risc-V представил «дорожную карту» развития процессорной архитектуры",
+    "og:image": "https://habr.com/share/publication/950906/33c376f9ca7b44aed511ba7e555559e4/",
+    "og:description": "Российский альянс Risc-V, в который входят крупнейшие компании в области производства электроники, представил «дорожную карту» развития открытой процессорной архитектуры. С 2024 года на базе Risc-V...",
+    "og:url": "https://habr.com/ru/news/950906/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/news/950912/",
+    "title": "НИУ ВШЭ и Роструд запустили ИИ-помощника «Пифию» для анализа образовательной траектории студентов / Хабр",
+    "date": "2025-09-26T12:53:07.157+06:00",
+    "og:title": "НИУ ВШЭ и Роструд запустили ИИ-помощника «Пифию» для анализа образовательной траектории студентов",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/c95/bb3/2af/c95bb32afe83b177354aa62b6dd141a3.png",
+    "og:description": "Высшая школа экономики при&nbsp;поддержке Роструда запустила сервис предиктивной аналитики трудоустройства выпускников под&nbsp;названием « Пифия ». Это информационно‑аналитическая платформа...",
+    "og:url": "https://habr.com/ru/news/950912/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/news/950920/",
+    "title": "Крупнейшая солнечная электростанция Айванпа (пустыня Мохаве, Калифорния) будет закрыта / Хабр",
+    "date": "2025-09-26T12:53:06.881+06:00",
+    "og:title": "Крупнейшая солнечная электростанция Айванпа (пустыня Мохаве, Калифорния) будет закрыта",
+    "og:image": "https://habr.com/share/publication/950920/fd3c06ef04a304e70ee066ea900e2253/",
+    "og:description": "Солнечная электростанция Айванпа, строительство которой началось в 2010 и закончилось в 2014 году будет закрыта в 2026. На постройку электростанции было затрачено 2.2 млрд долларов, в 2011 году...",
+    "og:url": "https://habr.com/ru/news/950920/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/news/950924/",
+    "title": "OpenAI измерила влияние ИИ на экономику с помощью 1320 реальных задач / Хабр",
+    "date": "2025-09-26T12:53:06.183+06:00",
+    "og:title": "OpenAI измерила влияние ИИ на экономику с помощью 1320 реальных задач",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/15d/1b4/e32/15d1b4e32571676f15c37b8e43a19edc.jpg",
+    "og:description": "OpenAI представила GDPval — бенчмарк для оценки влияния ИИ на реальную экономику. В отличие от привычных тестов вроде MMLU, где модели отвечают на короткие вопросы, здесь проверяются полноценные...",
+    "og:url": "https://habr.com/ru/news/950924/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/news/950956/",
+    "title": "Intel обратился к Apple с предложением о сотрудничестве и инвестициях / Хабр",
+    "date": "2025-09-26T12:52:58.721+06:00",
+    "og:title": "Intel обратился к Apple с предложением о сотрудничестве и инвестициях",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/43a/b76/1d0/43ab761d09e5565790fd5fb3decd3d39.jpg",
+    "og:description": "Intel попросила Apple инвестировать средства в своё производство микросхем, которое переживает трудные времена, пишет Bloomberg со ссылкой на источники. Это стало частью усилий Intel по укреплению...",
+    "og:url": "https://habr.com/ru/news/950956/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/news/950976/",
+    "title": "Google улучшила Gemini 2.5 Flash. ИИ доступен бесплатно / Хабр",
+    "date": "2025-09-26T12:52:52.287+06:00",
+    "og:title": "Google улучшила Gemini 2.5 Flash. ИИ доступен бесплатно",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/499/14b/b58/49914bb585dfdf4260c329591df34f6d.jpg",
+    "og:description": "Google выпустила новые версии Gemini 2.5 Flash и Gemini 2.5 Flash Lite, ориентированные на быстрые повседневные задачи. Для Gemini 2.5 Flash улучшили использование инструментов в многоэтапных задачах,...",
+    "og:url": "https://habr.com/ru/news/950976/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/news/950980/",
+    "title": "Представлен проект PSXTG — эмулятор PlayStation (PS1) в Telegram / Хабр",
+    "date": "2025-09-26T12:52:51.645+06:00",
+    "og:title": "Представлен проект PSXTG — эмулятор PlayStation (PS1) в Telegram",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/814/5f9/9c8/8145f99c899ffa88b234a8daebd06a98.jpg",
+    "og:description": "Разработчик, популяризатор браузерного гейминга и эмуляции, а также техноблогер Никита Аксёнов (aka Carter54) представил проект PSXTG. Это эмулятор PlayStation (PS1) в Telegram, который работает на...",
+    "og:url": "https://habr.com/ru/news/950980/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/news/950984/",
+    "title": "Spotify объявила о новых мерах защиты и сообщила об удалении 75 млн треков, содержащих спам / Хабр",
+    "date": "2025-09-26T12:52:51.496+06:00",
+    "og:title": "Spotify объявила о новых мерах защиты и сообщила об удалении 75 млн треков, содержащих спам",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/a99/e52/483/a99e52483d711917c55bb35fb974f037.jpg",
+    "og:description": "За последние 12 месяцев стриминговый сервис Spotify удалил со своей платформы более 75 млн композиций, содержащих спам. Для этого компания развернула новые меры защиты, чтобы бороться с мошенническим...",
+    "og:url": "https://habr.com/ru/news/950984/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/posts/947982/",
     "title": "Пост @Hedgehogues — Программирование — 25.09 12:12 / Хабр",
     "date": "2025-09-25T08:04:49.759+06:00",
@@ -3770,6 +4177,72 @@
     "og:image": "https://habr.com/share/publication/950516/a14fb81fab4ee04d4afa5f5c6d41a768/",
     "og:description": "Вот мне и 24 :) Ждем статью про смартфон, который был таким же быстрым, как современный айфон?",
     "og:url": "https://habr.com/ru/posts/950516/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/posts/950846/",
+    "title": "Пост @dhprime — Интернет-маркетинг — 26.09 14:01 / Хабр",
+    "date": "2025-09-26T12:53:03.976+06:00",
+    "og:title": "Пост @dhprime — Интернет-маркетинг  — 26.09 14:01",
+    "og:image": "https://habr.com/share/publication/950846/331e97c404bb6720f475d1e0e9cfbc88/",
+    "og:description": "В последнее время все чаще стали появляться вопросы как размещать рекламу и оформлять отчетность в ОРД для звездныx кабинетов в Telegram Ads Как известно, кабинет пополняется внутренней валютой...",
+    "og:url": "https://habr.com/ru/posts/950846/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/posts/950848/",
+    "title": "Пост @diderevyagin — Go — 26.09 14:03 / Хабр",
+    "date": "2025-09-26T12:53:03.701+06:00",
+    "og:title": "Пост @diderevyagin — Go  — 26.09 14:03",
+    "og:image": "https://habr.com/share/publication/950848/ad0f4a177d91b522e8a054bfdab4f408/",
+    "og:description": "Вышел NATS.go 1.46 - Go-клиент для системы обмена сообщениями NATS. Ключевые изменения: Появились параметры конфигурации счетчиков стримов Новые поля в ClusterInfo Контекст и таймаут опции для...",
+    "og:url": "https://habr.com/ru/posts/950848/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/posts/950896/",
+    "title": "Пост @denis-19 — Машинное обучение — 26.09 15:17 / Хабр",
+    "date": "2025-09-26T12:53:03.347+06:00",
+    "og:title": "Пост @denis-19 — Машинное обучение  — 26.09 15:17",
+    "og:image": "https://habr.com/share/publication/950896/95fe0ddce7f0e761eb8186af358a59fe/",
+    "og:description": "Менеджер Stripe Кэмерон Маттис простым способом отфильтровывает ИИ-рекрутеров, он добавил в раздел «О себе» в LinkedIn простой промпт для нейросетей с просьбой вставить в сообщение рецепт испанского...",
+    "og:url": "https://habr.com/ru/posts/950896/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/posts/950904/",
+    "title": "Пост @maria_globalshift — Изучение языков — 26.09 15:31 / Хабр",
+    "date": "2025-09-26T12:53:03.226+06:00",
+    "og:title": "Пост @maria_globalshift — Изучение языков  — 26.09 15:31",
+    "og:image": "https://habr.com/share/publication/950904/ef9dabfadbf2d7b3bca718e3eb417825/",
+    "og:description": "Бета-пилот CC30: как не &quot;зависать&quot; на звонах и интервью на английском [2×30 мин, бесплатно, места ограниченны] Открываю бета-пилот CC30 для тех, у кого ближайшие 7–14 дней намечены звонки/интервью на...",
+    "og:url": "https://habr.com/ru/posts/950904/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/posts/950940/",
+    "title": "Пост @oldzoomer — Fidonet — 26.09 16:31 / Хабр",
+    "date": "2025-09-26T12:53:01.946+06:00",
+    "og:title": "Пост @oldzoomer — Fidonet  — 26.09 16:31",
+    "og:image": "https://habr.com/share/publication/950940/181134ca839e8ff31cf02f4e29c51f2a/",
+    "og:description": "У многих уход моего блога от тематики Фидонета в пользу Java вызвал негатив. Напомню - я бы и дальше развивал эту тему, если бы не уход с исключительно личного опыта на статьи об общей культуре и...",
+    "og:url": "https://habr.com/ru/posts/950940/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/posts/950968/",
+    "title": "Пост @sgordey — Информационная безопасность — 26.09 17:18 / Хабр",
+    "date": "2025-09-26T12:52:55.544+06:00",
+    "og:title": "Пост @sgordey — Информационная безопасность  — 26.09 17:18",
+    "og:image": "https://habr.com/share/publication/950968/5a6156e3ea09b13fa20552748256e7f0/",
+    "og:description": "Cisco IOS/IOS XE CVE-2025-20352 — открытый SNMP ≠ «всё ок» СКИПА&nbsp; фиксирует &gt;30 000&nbsp;устройств с SNMP v1/v2c в Рунете. Из них ≈1 700 выглядят потенциально уязвимыми к CVE-2025-20352. Об...",
+    "og:url": "https://habr.com/ru/posts/950968/",
     "og:type": "article"
   },
   {
@@ -5134,6 +5607,39 @@
     "og:image": "https://repack.me/uploads/posts/2019-03/1553556581_emeditor.png",
     "og:description": "EmEditor Professional — профессиональная версия мощного текстового редактора для программистов, веб-разработчиков и простых пользователей с подсветкой синтаксиса и поддержкой юникода. Редактор обладает такими функциями, как поиск и замена в файлах с использованием регулярных выражений,",
     "og:url": "https://repack.me/software/repacks/office/319-emeditor.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "repack.me",
+    "url": "https://repack.me/software/repacks/office/46-adobe-acrobat-reader-dc.html",
+    "title": "Adobe Acrobat Reader 2025.001.20744 » Репаки от Кролика - REPACK.ME",
+    "date": "2025-09-26T13:04:53.252+06:00",
+    "og:title": "Adobe Acrobat Reader 2025.001.20744 » Репаки от Кролика - REPACK.ME",
+    "og:image": "https://repack.me/uploads/posts/2020-08/1597202106_adobe-acrobat-reader-dc.png",
+    "og:description": "Adobe Acrobat Reader — совершенно новое приложение Reader для самых важных документов. Работайте с файлами PDF на любых устройствах. Бесплатная программа Adobe Acrobat Reader DC предлагает больше возможностей, чем другие программы для чтения, печати и рецензирования файлов PDF. Интеграция с",
+    "og:url": "https://repack.me/software/repacks/office/46-adobe-acrobat-reader-dc.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "repack.me",
+    "url": "https://repack.me/software/repacks/office/49-adobe-acrobat-pro-dc.html",
+    "title": "Adobe Acrobat Pro 2025.001.20744 » Репаки от Кролика - REPACK.ME",
+    "date": "2025-09-26T13:04:53.24+06:00",
+    "og:title": "Adobe Acrobat Pro 2025.001.20744 » Репаки от Кролика - REPACK.ME",
+    "og:image": "https://repack.me/uploads/posts/2020-08/1597202095_adobe-acrobat-pro-dc.png",
+    "og:description": "Acrobat Pro — это полностью обновленная настольная версия лучшего в мире решения для работы с файлами PDF. В состав этого решения входит мобильное приложение, позволяющее подписывать и отправлять файлы PDF, а также заполнять формы с любых устройств. А с помощью облачных сервисов Document Cloud вы",
+    "og:url": "https://repack.me/software/repacks/office/49-adobe-acrobat-pro-dc.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "repack.me",
+    "url": "https://repack.me/software/repacks/office/95-fineprint-pdffactory.html",
+    "title": "FinePrint / pdfFactory Pro скачать программу репак с торрента (x86, x64, 32, 64, bit) на русском и английском языке бесплатно для windows",
+    "date": "2025-09-26T13:04:53.257+06:00",
+    "og:title": "FinePrint / pdfFactory Pro скачать программу репак с торрента (x86, x64, 32, 64, bit) на русском и английском языке бесплатно для windows",
+    "og:image": "https://repack.me/uploads/posts/2017-05/1495230001_fineprint-pdffactory-pro.png",
+    "og:description": "Многофункциональный виртуальный принтер, при помощи которого можно намного продуктивнее работать и печатать документы. Предпросмотр, редактирование, подложки, рамочки, водяные знаки и прочие прелести к вашим услугам. Проявите фантазию и вместо трёх страниц вся информация уместится на одной. В",
+    "og:url": "https://repack.me/software/repacks/office/95-fineprint-pdffactory.html",
     "og:type": "article"
   },
   {
