@@ -683,6 +683,17 @@
   },
   {
     "hostname": "adme.media",
+    "url": "https://adme.media/articles/17-sluchaev-kogda-lyudi-prosto-hoteli-sdelat-dobroe-delo-no-chto-to-poshlo-ne-po-planu-2542701/",
+    "title": "17 случаев, когда люди просто хотели сделать доброе дело, но что-то пошло не по плану / AdMe",
+    "date": "2025-09-29T10:23:42.578+06:00",
+    "og:title": "17 случаев, когда люди просто хотели сделать доброе дело, но что-то пошло не по плану",
+    "og:image": "https://wl-adme.cf.tsp.li/resize/1200x770/jpg/7ad/2dd/97508a560db3b805ef9599ce9d.jpg",
+    "og:description": "Каждый из нас хоть раз в жизни пытался сделать доброе дело — проявить заботу, помочь незнакомцу или отдать что-то даром. Вот только между благим намерением и результатом иногда лежит целая пропасть. Мы собрали истории, в которых люди просто хотели сделать мир чуточку лучше, но что-то пошло не по плану. Приготовьтесь улыбнуться: в этой подборке вы увидите, что даже самые светлые порывы не гарантируют успеха.",
+    "og:url": "https://adme.media/articles/17-sluchaev-kogda-lyudi-prosto-hoteli-sdelat-dobroe-delo-no-chto-to-poshlo-ne-po-planu-2542701/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "adme.media",
     "url": "https://adme.media/articles/17-sluchaev-kogda-peremeny-byli-nastolko-razitelnymi-chto-ahnut-hochetsya-2542656/",
     "title": "17 случаев, когда перемены были настолько разительными, что ахнуть хочется / AdMe",
     "date": "2025-09-29T03:57:31.526+06:00",
@@ -855,6 +866,17 @@
     "og:image": "https://wl-adme.cf.tsp.li/resize/1200x770/jpg/5bc/9a6/a478175c839b8c8fdca11e1ee9.jpg",
     "og:description": "Что может быть более умилительным и поднимающим настроение, чем маленькие котики с детским пушком, ангельскими глазками и, скорее всего, с непростым нравом. Мы всегда с радостью любуемся такими малышами и обожаем узнавать новые истории об их спасении, проделках и огромной взаимной любви с хозяевами. Предлагаем вам отправиться во вселенную котозависимости: отключайте звук на телефоне и погружайтесь в мир миниатюрных котиков с характером.",
     "og:url": "https://adme.media/articles/20-kotikov-kotorye-malenkim-komochkom-vorvalis-v-zhizn-svoih-hozyaev-i-ustroili-tararam-2542530/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "adme.media",
+    "url": "https://adme.media/articles/20-nahodok-kotorye-postavili-lyudej-v-tupik-no-vyzvali-prosto-zhguchij-interes-2542683/",
+    "title": "20 находок, которые поставили людей в тупик, но вызвали просто жгучий интерес / AdMe",
+    "date": "2025-09-29T10:23:42.61+06:00",
+    "og:title": "20 находок, которые поставили людей в тупик, но вызвали просто жгучий интерес",
+    "og:image": "https://wl-adme.cf.tsp.li/resize/1200x770/jpg/371/b8c/17d0b55a3da546ca37f97dc9fc.jpg",
+    "og:description": "Иногда к некоторым находкам нужна пояснительная бригада. К счастью, в интернете всегда найдется человек, способный разгадать насущную загадку. В этой подборке постарайтесь не сломать себе голову, ведь мы собрали такие вещицы, значение которых совсем неочевидно.",
+    "og:url": "https://adme.media/articles/20-nahodok-kotorye-postavili-lyudej-v-tupik-no-vyzvali-prosto-zhguchij-interes-2542683/",
     "og:type": "article"
   },
   {
@@ -5545,6 +5567,28 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/951646/",
+    "title": "Рабочая машинка на ARM, Linux: год спустя / Хабр",
+    "date": "2025-09-29T10:23:42.685+06:00",
+    "og:title": "Рабочая машинка на ARM, Linux: год спустя",
+    "og:image": "https://habr.com/share/publication/951646/61691af118e85c23f5e861262bfc00dc/",
+    "og:description": "Вот и прошел примерно год с момента начала эксперимента &quot;а что, так можно было?&quot; Год назад привычный ноутбук был отложен в сторону, а вместо него поднята рабочая машинка на базе процессора с...",
+    "og:url": "https://habr.com/ru/articles/951646/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/951652/",
+    "title": "Supermicro ARS-121L-NE316R: как ARM-процессор стал основой для высокоскоростного NVMe-сервера / Хабр",
+    "date": "2025-09-29T10:23:42.647+06:00",
+    "og:title": "Supermicro ARS-121L-NE316R: как ARM-процессор стал основой для высокоскоростного NVMe-сервера",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/682/f0c/4b5/682f0c4b5e1d495bc4fb4b8a6aee3289.jpg",
+    "og:description": "На выставке FMS 2025 впервые был представлен необычный 1U-сервер Supermicro ARS-121L-NE316R, который бросает вызов традиционным подходам к созданию систем хранения данных. Вместо привычных...",
+    "og:url": "https://habr.com/ru/articles/951652/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/2gis/articles/951008/",
     "title": "ИИ-поиск в 2ГИС: как учим нейросети понимать настроение, фото и смыслы / Хабр",
     "date": "2025-09-29T03:58:18.6+06:00",
@@ -5941,6 +5985,28 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/bothub/news/951636/",
+    "title": "ИИ шаг за шагом учится строить молекулы / Хабр",
+    "date": "2025-09-29T10:23:42.806+06:00",
+    "og:title": "ИИ шаг за шагом учится строить молекулы",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/1a4/838/101/1a4838101ccbc4e1910beee19e99c61c.png",
+    "og:description": "NVIDIA представила ReaSyn — генеративную модель нового поколения, которая способна не только предлагать новые молекулы, но и буквально строить для химиков дорожную карту их синтеза. Это не просто ещё...",
+    "og:url": "https://habr.com/ru/companies/bothub/news/951636/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/bothub/news/951642/",
+    "title": "Qwen Chat научился превращать данные из сети в диаграммы / Хабр",
+    "date": "2025-09-29T10:23:42.767+06:00",
+    "og:title": "Qwen Chat научился превращать данные из сети в диаграммы",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/396/59e/1b6/39659e1b65eb8c9d02482d87df37af6f.png",
+    "og:description": "Alibaba делает свой чат-ассистент Qwen Chat всё более универсальным инструментом. В свежем апдейте команда объединила две ключевые функции (Code Interpreter и Web Search). Результат — чат, который не...",
+    "og:url": "https://habr.com/ru/companies/bothub/news/951642/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/chameleonlab/articles/951304/",
     "title": "От десктопа к вебу: Как мы переносим Python-инструменты для стегоанализа на PHP / Хабр",
     "date": "2025-09-28T11:03:47.674+06:00",
@@ -5959,6 +6025,17 @@
     "og:image": "https://habrastorage.org/getpro/habr/upload_files/fc0/b83/dbe/fc0b83dbe7d6df120084e3618b2635f1.png",
     "og:description": "В 2026 году российский рекламный рынок может показать лишь 28% роста. К такому выводу пришли аналитики группы Okkam. Причиной называют риск рецессии и снижение темпов в digital. По итогам 2025 года...",
     "og:url": "https://habr.com/ru/companies/click/news/950564/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/click/news/951630/",
+    "title": "Яндекс Директ расширил возможности таргетинга на небольшие населенные пункты / Хабр",
+    "date": "2025-09-29T10:23:42.965+06:00",
+    "og:title": "Яндекс Директ расширил возможности таргетинга на небольшие населенные пункты",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/3f4/65c/33f/3f465c33f50d9fd696cab72d8a9c0a9f.png",
+    "og:description": "Рекламодатели Яндекс Директа получили больше возможностей для точной настройки кампаний: сервис теперь поддерживает таргетинг на небольшие населенные пункты. В систему добавлены тысячи городов и...",
+    "og:url": "https://habr.com/ru/companies/click/news/951630/",
     "og:type": "article"
   },
   {
@@ -7323,6 +7400,17 @@
     "og:image": "https://habrastorage.org/getpro/habr/upload_files/761/177/1c6/7611771c6f0663b274f749aff457c183.png",
     "og:description": "Представляем тридцать шестой выпуск подкаста команды&nbsp; Spring АйО , в котором приняли участие три эксперта сообщества: Илья Сазонов Михаил Поливаха Павел Кислов Эксперты обсудили: что нового в...",
     "og:url": "https://habr.com/ru/companies/spring_aio/news/950112/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/spring_aio/news/951634/",
+    "title": "Как работают сборщики мусора, оцениваем Netflix и хейтеров | Spring АйО Подкаст №37 / Хабр",
+    "date": "2025-09-29T10:23:42.851+06:00",
+    "og:title": "Как работают сборщики мусора, оцениваем Netflix и хейтеров | Spring АйО Подкаст №37",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/c66/9a0/e2c/c669a0e2c5e101bdf37f5a231f035e77.png",
+    "og:description": "Представляем тридцать седьмой выпуск подкаста команды&nbsp; Spring АйО , в котором приняли участие два эксперта сообщества: Михаил Поливаха Павел Кислов Эксперты обсудили: сборщик мусора Shenandoah,...",
+    "og:url": "https://habr.com/ru/companies/spring_aio/news/951634/",
     "og:type": "article"
   },
   {
@@ -9131,6 +9219,39 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/news/951610/",
+    "title": "Обновление «Алисы» в сентябре: апгрейд умной IP-камеры, оживление фото и чат в мессенджерах / Хабр",
+    "date": "2025-09-29T10:23:43.129+06:00",
+    "og:title": "Обновление «Алисы» в сентябре: апгрейд умной IP-камеры, оживление фото и чат в мессенджерах",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/51b/1fc/b4d/51b1fcb4daed5501f9c86e78f951d0fe.jpg",
+    "og:description": "Пресс-служба «Яндекса» рассказала про сентябрьские обновления устройств умного дома и «Алисы». Добавили новые возможности для IP-камеры и научили «Алису» оживлять фотографии. Что нового: Обновление...",
+    "og:url": "https://habr.com/ru/news/951610/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/news/951612/",
+    "title": "ЕК расследует антиконкурентные практики SAP в сфере послепродажного обслуживания ERP / Хабр",
+    "date": "2025-09-29T10:23:43.093+06:00",
+    "og:title": "ЕК расследует антиконкурентные практики SAP в сфере послепродажного обслуживания ERP",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/109/05d/597/10905d5973611597ed2260a4c292d175.jpeg",
+    "og:description": "Европейская комиссия начала расследовать потенциальные антиконкурентные практики в сфере послепродажного обслуживания, предоставляемого SAP для своего локального программного обеспечения ERP. Решение...",
+    "og:url": "https://habr.com/ru/news/951612/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/news/951624/",
+    "title": "Разработчики пояснили, почему кнопки на геймпадах называются A, B, X и Y / Хабр",
+    "date": "2025-09-29T10:23:43.061+06:00",
+    "og:title": "Разработчики пояснили, почему кнопки на геймпадах называются A, B, X и Y",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/40c/947/987/40c947987d2857ad31b49c9498122c38.jpg",
+    "og:description": "Выпуск журнала Nintendo Power за 1993 год раскрыл причину, по которой кнопки на контроллерах называются A, B, X и Y, а не A, B, C и D, что могло бы казаться более логичным. Причина в том, что Nintendo...",
+    "og:url": "https://habr.com/ru/news/951624/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/news/951628/",
     "title": "Вышла открытая утилита для создания загрузочных накопителей Rufus 4.10 / Хабр",
     "date": "2025-09-29T09:57:34.354+06:00",
@@ -9138,6 +9259,28 @@
     "og:image": "https://habrastorage.org/getpro/habr/upload_files/f02/743/b06/f02743b06b27aba3ddb103b77d8bd18b.png",
     "og:description": "Разработчики выпустили релиз популярной утилиты Rufus версии 4.10 для создания загрузочных USB-накопителей и обхода аппаратных требований Windows 11. Теперь она поддерживает тёмный режим. Версия вышла...",
     "og:url": "https://habr.com/ru/news/951628/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/news/951632/",
+    "title": "VK Education и RuStore запустили образовательный курс «Мобильные игры как бизнес» / Хабр",
+    "date": "2025-09-29T10:23:42.932+06:00",
+    "og:title": "VK Education и RuStore запустили образовательный курс «Мобильные игры как бизнес»",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/a06/9c3/693/a069c3693052e7b604f3067a7f755288.jpg",
+    "og:description": "Образовательная платформа VK Education и платформа RuStore запустили бесплатный образовательный курс под названием « Мобильные игры как бизнес ». Программа курса поможет начинающим разработчикам...",
+    "og:url": "https://habr.com/ru/news/951632/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/news/951644/",
+    "title": "«Код Дурова»: зарубежные карты больше не добавляются в Apple Pay из России / Хабр",
+    "date": "2025-09-29T10:23:42.725+06:00",
+    "og:title": "«Код Дурова»: зарубежные карты больше не добавляются в Apple Pay из России",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/75e/00f/be9/75e00fbe9b97723cc5949f9fb81f42cf.jpg",
+    "og:description": "Иностранные карты больше не добавляются в Apple Pay из России, пишет портал «Код Дурова». В некоторых случаях появляется ошибка, извещая о недоступности карты Apple Cash в этом регионе, хотя это...",
+    "og:url": "https://habr.com/ru/news/951644/",
     "og:type": "article"
   },
   {
@@ -13542,6 +13685,17 @@
   },
   {
     "hostname": "t-j.ru",
+    "url": "https://t-j.ru/news/matkap-2026-indexing/",
+    "title": "Индексация материнского капитала в 2026: какой размер на первого, второго и последующих детей",
+    "date": "2025-09-29T10:22:47.307+06:00",
+    "og:title": "Материнский капитал вырастет на 6,8% с 1 февраля 2026 года",
+    "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/SRdiHTMYRI.matkap-2026-indexing.og_image.png",
+    "og:description": "Выплата на второго ребенка превысит 900 000 ₽",
+    "og:url": "https://t-j.ru/news/matkap-2026-indexing/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "t-j.ru",
     "url": "https://t-j.ru/news/nds-increase-expert-opinions/",
     "title": "Последствия повышения НДС в 2026: что будет с ценами и ключевой ставкой",
     "date": "2025-09-25T03:44:06.774+06:00",
@@ -16148,6 +16302,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/blog/2025/09/29/ssh3-ein-neuer-ansatz-fuer-sichere-verbindungen/",
+    "title": "SSH3: A new approach to secure connections - Deskmodder.de",
+    "date": "2025-09-29T10:22:47.314+06:00",
+    "og:title": "SSH3: Ein neuer Ansatz für sichere Verbindungen",
+    "og:image": "http://www.deskmodder.de/blog/wp-content/uploads/2015/04/deskmodder_a.png",
+    "og:description": "SSH ist seit Jahrzehnten das Werkzeug, wenn es um den geschützten Zugriff auf entfernte Systeme geht. Administratoren öffnen damit Konsolen, Entwickler übertragen Quellcode, Automatisierungen laufen auf dieser Basis. SSH gehört längst zum Standardrepertoire der IT, doch die Welt drumherum hat…",
+    "og:url": "https://www.deskmodder.de/blog/?p=204662",
+    "og:type": "article"
+  },
+  {
     "hostname": "www.digitalinformationworld.com",
     "url": "https://www.digitalinformationworld.com/2025/09/youtube-adds-options-to-hide-end-screens.html",
     "title": "YouTube Adds Options to Hide End Screens",
@@ -16437,7 +16602,7 @@
     "hostname": "www.firefox.com",
     "url": "https://www.firefox.com/en-US/firefox/145.0a1/releasenotes/",
     "title": "Firefox Nightly 145.0a1, See All New Features, Updates and Fixes",
-    "date": "2025-09-29T09:54:55.66+06:00",
+    "date": "2025-09-29T10:22:47.219+06:00",
     "og:title": "Firefox Nightly 145.0a1, See All New Features, Updates and Fixes",
     "og:image": "https://www.firefox.com/media/protocol/img/logos/firefox/browser/nightly/og.3190903353c3.png",
     "og:description": "",
@@ -17634,6 +17799,17 @@
   },
   {
     "hostname": "www.thephoblographer.com",
+    "url": "https://www.thephoblographer.com/2025/09/29/a-quick-tip-for-shooting-in-the-x-pan-format/",
+    "title": "A Quick Tip For Shooting in the X Pan Format",
+    "date": "2025-09-29T10:23:43.162+06:00",
+    "og:title": "A Quick Tip For Shooting in the X Pan Format",
+    "og:image": "https://www.thephoblographer.com/wp-content/uploads/2024/04/Chris-Gampat-The-Phoblographer-65-24-Aspect-Ratio-Lumix-S5-ii-X-pan-panoramic-221-15s100.jpg",
+    "og:description": "The X Pan is one of the coolest abd best formats for shooting images you can think of. Combine it with this tip.",
+    "og:url": "https://www.thephoblographer.com/2025/09/29/a-quick-tip-for-shooting-in-the-x-pan-format/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.thephoblographer.com",
     "url": "https://www.thephoblographer.com/2025/09/29/will-canon-launch-a-new-lens-to-rival-nikon/",
     "title": "Is Canon Working on Two New Lenses Quietly?",
     "date": "2025-09-29T08:51:14.092+06:00",
@@ -17810,6 +17986,17 @@
   },
   {
     "hostname": "www.xda-developers.com",
+    "url": "https://www.xda-developers.com/microsoft-finally-fixes-long-standing-windows-11-update-bug/",
+    "title": "Microsoft finally resolves long-standing bug halting Windows 11 24H2 update",
+    "date": "2025-09-29T10:23:42.477+06:00",
+    "og:title": "Microsoft finally fixes long-standing Windows 11 update bug",
+    "og:image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/09/windows-11-update-1.jpg?w=1600&h=900&fit=crop",
+    "og:description": "Windows 11 24H2 is now available to more PCs",
+    "og:url": "https://www.xda-developers.com/microsoft-finally-fixes-long-standing-windows-11-update-bug/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.xda-developers.com",
     "url": "https://www.xda-developers.com/reasons-to-use-winget-on-windows/",
     "title": "4 reasons you need to start using WinGet on Windows",
     "date": "2025-09-25T09:31:41.082+06:00",
@@ -17873,5 +18060,16 @@
     "og:description": "🎓 Start writing CSS with Confidence: http://cssdemystified.com/🔗 Links✅ Miriam’s article: https://www.oddbird.net/2025/09/04/box-model/✉ Keep up to date wi...",
     "og:url": "https://www.youtube.com/watch?v=PtAcpV6TAGM",
     "og:type": "video.other"
+  },
+  {
+    "hostname": "yoast.com",
+    "url": "https://yoast.com/ai-powered-seo-discoverability-metrics/",
+    "title": "AI-Powered SEO Metrics for Future Success • Yoast",
+    "date": "2025-09-29T10:23:05.578+06:00",
+    "og:title": "Go beyond CTR with 6 AI-powered SEO discoverability metrics",
+    "og:image": "https://yoast.com/app/uploads/2025/09/go-beyond-ctr-ai-seo-metrics-yoast-og.png",
+    "og:description": "Explore AI-powered SEO metrics for better insights beyond traditional clicks. Stay ahead in the rapidly evolving world of SEO.",
+    "og:url": "https://yoast.com/ai-powered-seo-discoverability-metrics/",
+    "og:type": "article"
   }
 ]
