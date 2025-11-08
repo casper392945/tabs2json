@@ -419,6 +419,17 @@
   },
   {
     "hostname": "abduzeedo.com",
+    "url": "https://abduzeedo.com/bellissimo-gives-lavazzas-tabli-bold-new-identity-reimagining-coffee-ritual",
+    "title": "Bellissimo gives Lavazza’s Tablì design a bold new brand identity, reimagining the coffee ritual",
+    "date": "2025-11-08T22:10:21.391+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "abduzeedo.com",
     "url": "https://abduzeedo.com/cafe-olimpico-heritage-tin-packaging-design-meets-montreal-soul",
     "title": "Café Olimpico Heritage Tin: Italian Design Meets Montréal Soul",
     "date": "2025-11-04T12:24:56.606+06:00",
@@ -2223,6 +2234,17 @@
   },
   {
     "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/launch-vault",
+    "title": "Launch Vault: The Ultimate Product Launch Platform for | BetaList",
+    "date": "2025-11-08T21:59:56.911+06:00",
+    "og:title": "Launch Vault: The Ultimate Product Launch Platform for Startups",
+    "og:image": "https://resize.imagekit.co/RqE2sbrnXzvuLm060ANsTIGgqN5xzW95JdEsCVay6cw/plain/s3://betalist-production/9w4og73ecuyhwtocorjtkjlc6nih",
+    "og:description": "The Ultimate Product Launch Platform for Startups",
+    "og:url": "https://betalist.com/startups/launch-vault",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
     "url": "https://betalist.com/startups/lonad",
     "title": "Lonad: Create freely with AI | BetaList",
     "date": "2025-11-04T05:12:57.78+06:00",
@@ -2344,6 +2366,17 @@
   },
   {
     "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/saliv",
+    "title": "Saliv: Manage your money by just talking to it | BetaList",
+    "date": "2025-11-08T21:59:56.904+06:00",
+    "og:title": "Saliv: Manage your money by just talking to it",
+    "og:image": "https://resize.imagekit.co/cFow3KTGspRaB1AqFvOZfmlu38bzGJ0FNqmKUP1zemU/plain/s3://betalist-production/tsr6ps2146038qh7p18bt0ghmjzq",
+    "og:description": "Manage your money by just talking to it",
+    "og:url": "https://betalist.com/startups/saliv",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
     "url": "https://betalist.com/startups/seenode",
     "title": "seenode: Developer cloud for full-stack apps | BetaList",
     "date": "2025-11-07T02:29:14.071+06:00",
@@ -2351,6 +2384,17 @@
     "og:image": "https://resize.imagekit.co/EsHVgjMgki126GWrHxzcgMn7jK5C-oKefwTDa8w3VLw/plain/s3://betalist-production/b3nha0709c5egy4d0cge4c3c5fxh",
     "og:description": "Developer cloud for full-stack apps",
     "og:url": "https://betalist.com/startups/seenode",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/shadcn-ui-kit",
+    "title": "Shadcn UI Kit: A large collection of admin dashboards, | BetaList",
+    "date": "2025-11-08T21:59:51.69+06:00",
+    "og:title": "Shadcn UI Kit: A large collection of admin dashboards, templates,",
+    "og:image": "https://resize.imagekit.co/BAm45URpdGF4p3538bKgHK-OHL5htLlU-ytsTtD_Bu4/plain/s3://betalist-production/gji34c5xtu91aon85nxsub7d0hd8",
+    "og:description": "A large collection of admin dashboards, templates, component and blocks",
+    "og:url": "https://betalist.com/startups/shadcn-ui-kit",
     "og:type": "article,"
   },
   {
@@ -2399,6 +2443,17 @@
   },
   {
     "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/timerdeck",
+    "title": "TimerDeck: Online Multiple Timers for Work & Focus | BetaList",
+    "date": "2025-11-08T21:59:51.677+06:00",
+    "og:title": "TimerDeck: Online Multiple Timers for Work & Focus",
+    "og:image": "https://resize.imagekit.co/LAqoT7-5a7twYW5aCeSFrCLz9fkSojKqN0E2to3fEoc/plain/s3://betalist-production/hjpnbdk07sokvr0xcjus81t2oeg0",
+    "og:description": "Online Multiple Timers for Work & Focus",
+    "og:url": "https://betalist.com/startups/timerdeck",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
     "url": "https://betalist.com/startups/tokie",
     "title": "Tokie: Turns your folders into Notion-like databases with | BetaList",
     "date": "2025-11-04T05:12:52.8+06:00",
@@ -2421,6 +2476,17 @@
   },
   {
     "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/werelese",
+    "title": "WeRelese: Built for shipping, shaped by feedback | BetaList",
+    "date": "2025-11-08T21:59:51.614+06:00",
+    "og:title": "WeRelese: Built for shipping, shaped by feedback",
+    "og:image": "https://resize.imagekit.co/Rbij29XB9BjWxSzwli3xXwY6gg7TGqqMjoFQR4TIB8A/plain/s3://betalist-production/rbzsmqpl25qw0brh2ao5glflwzx8",
+    "og:description": "Built for shipping, shaped by feedback",
+    "og:url": "https://betalist.com/startups/werelese",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
     "url": "https://betalist.com/startups/woym",
     "title": "WOYM: Journal and Goals with weekly summaries | BetaList",
     "date": "2025-11-07T02:29:14.101+06:00",
@@ -2428,6 +2494,28 @@
     "og:image": "https://resize.imagekit.co/n33cOE2K-pFQjjP8utCuyfjVqA3NQkccBJfN7aE840I/plain/s3://betalist-production/3m8pyy9gtrpqwoxtlnal8os1s4cw",
     "og:description": "Journal and Goals with weekly summaries",
     "og:url": "https://betalist.com/startups/woym",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/xform",
+    "title": "xform: Lovable for forms | BetaList",
+    "date": "2025-11-08T21:59:57.464+06:00",
+    "og:title": "xform: Lovable for forms",
+    "og:image": "https://resize.imagekit.co/lfh-JbG8uKo7wb-Yk47MCo7V2yJVjRFJIdVvab1pzUQ/plain/s3://betalist-production/2079dtaeo94jb99mc5pta1hlvpwz",
+    "og:description": "Lovable for forms",
+    "og:url": "https://betalist.com/startups/xform",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/yorph-ai",
+    "title": "Yorph AI: Sync, clean, transform, analyze & visualize data | BetaList",
+    "date": "2025-11-08T21:59:57.473+06:00",
+    "og:title": "Yorph AI: Sync, clean, transform, analyze & visualize data through",
+    "og:image": "https://resize.imagekit.co/EG7_BNxIflVfF1eI9SVXMJCtD9lS7YNYRXmrf5thx5Y/plain/s3://betalist-production/qwrwpqftxv9nctrsxhaawsw1e9tn",
+    "og:description": "Sync, clean, transform, analyze & visualize data through natural language",
+    "og:url": "https://betalist.com/startups/yorph-ai",
     "og:type": "article,"
   },
   {
@@ -2795,6 +2883,17 @@
   },
   {
     "hostname": "blogct.creative-tim.com",
+    "url": "https://blogct.creative-tim.com/blog/open-source/5-best-open-source-shadcn-ui-block-libraries-ready-for-ai/",
+    "title": "5+ Best Open Source shadcn/ui Block Libraries Ready for AI",
+    "date": "2025-11-08T22:09:47.068+06:00",
+    "og:title": "5+ Best Open Source shadcn/ui Block Libraries Ready for AI",
+    "og:image": "https://blogct.creative-tim.com/blog/content/images/2025/11/5-best-shadcn-ui-block-libraries-ready-for-ai-1.jpg",
+    "og:description": "In this article, we’ll explore 6 of the best open-source shadcn/ui block libraries available today. Each provides a registry, supports MCP, and is built with AI workflows in mind, making it easy for both humans and AI agents to pull in components, iterate safely, and avoid running out",
+    "og:url": "https://blogct.creative-tim.com/blog/open-source/5-best-open-source-shadcn-ui-block-libraries-ready-for-ai/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "blogct.creative-tim.com",
     "url": "https://blogct.creative-tim.com/blog/open-source/creative-tim-ui-2/",
     "title": "Creative Tim UI - shadcn/ui blocks ready for v0, Lovable, Replit, Claude, and more.",
     "date": "2025-11-04T06:23:53.184+06:00",
@@ -2893,6 +2992,28 @@
     "og:type": "article"
   },
   {
+    "hostname": "blogs.windows.com",
+    "url": "https://blogs.windows.com/windows-insider/2025/11/07/announcing-windows-11-insider-preview-build-26220-7070-dev-beta-channels/",
+    "title": "Announcing Windows 11 Insider Preview Build 26220.7070 (Dev & Beta Channels) | Windows Insider Blog",
+    "date": "2025-11-08T21:59:51.257+06:00",
+    "og:title": "Announcing Windows 11 Insider Preview Build 26220.7070 (Dev & Beta Channels)",
+    "og:image": "https://winblogs.thesourcemediaassets.com/sites/44/2021/08/social-media-graphic.png",
+    "og:description": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26220.7070 (KB5070300) to the Dev & Beta Channels.\n\nAs a reminder we are offering the same builds to both the Dev & Beta Channel",
+    "og:url": "https://blogs.windows.com/windows-insider/2025/11/07/announcing-windows-11-insider-preview-build-26220-7070-dev-beta-channels/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "blogs.windows.com",
+    "url": "https://blogs.windows.com/windows-insider/2025/11/07/announcing-windows-11-insider-preview-build-28000-canary-channel/",
+    "title": "Announcing Windows 11 Insider Preview Build 28000 (Canary Channel) | Windows Insider Blog",
+    "date": "2025-11-08T21:59:51.24+06:00",
+    "og:title": "Announcing Windows 11 Insider Preview Build 28000 (Canary Channel)",
+    "og:image": "https://winblogs.thesourcemediaassets.com/sites/44/2021/08/social-media-graphic.png",
+    "og:description": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 28000 to the Canary Channel.\nWhat’s new in Build 28000\n[General]\n\n \tThis u",
+    "og:url": "https://blogs.windows.com/windows-insider/2025/11/07/announcing-windows-11-insider-preview-build-28000-canary-channel/",
+    "og:type": "article"
+  },
+  {
     "hostname": "boagworld.com",
     "url": "https://boagworld.com/news/using-ai-to-fix-website-content/",
     "title": "Using AI To Fix Website Content That Sucks",
@@ -2901,6 +3022,17 @@
     "og:image": "https://boagworld.com/wp-content/uploads/2025/11/Site-Social-1.png",
     "og:description": "A 2 hour workshop on solving bad copy, org-chart IA, and endless stakeholder delays.",
     "og:url": "https://boagworld.com/news/using-ai-to-fix-website-content/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "bobwp.com",
+    "url": "https://bobwp.com/a-question/",
+    "title": "choices",
+    "date": "2025-11-08T21:59:50.048+06:00",
+    "og:title": "choices",
+    "og:image": "https://bobwp.com/wp-content/uploads/2025/11/IMG_2073.jpg",
+    "og:description": "Came across this quote today from George Carlin",
+    "og:url": "https://bobwp.com/a-question/",
     "og:type": "article"
   },
   {
@@ -2963,6 +3095,17 @@
     "url": "https://bootstrapmade.com/aventro-bootstrap-template/",
     "title": "Aventro - Best Modern Business Bootstrap Template 2025 | BootstrapMade",
     "date": "2025-11-01T04:22:12.04+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "bootstrapmade.com",
+    "url": "https://bootstrapmade.com/upscale-bootstrap-business-template/",
+    "title": "UpScale - Best Modern Business Website Template 2025 | BootstrapMade",
+    "date": "2025-11-08T22:09:50.88+06:00",
     "og:title": "",
     "og:image": "",
     "og:description": "",
@@ -3465,6 +3608,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "chriscoyier.net",
+    "url": "https://chriscoyier.net/2025/11/07/the-great-refrigerator-divide/",
+    "title": "The Great (Refrigerator) Divide – Chris Coyier",
+    "date": "2025-11-08T22:10:22.016+06:00",
+    "og:title": "The Great (Refrigerator) Divide",
+    "og:image": "https://jetpack.com/redirect/?source=sigenerate&query=t%3DeyJpbWciOiJodHRwczpcL1wvY2hyaXNjb3lpZXIubmV0XC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI1XC8xMVwvcGV4ZWxzLXBob3RvLTI1Mzg4OTM3LTY4M3gxMDI0LmpwZWciLCJ0eHQiOiJUaGUgR3JlYXQgKFJlZnJpZ2VyYXRvcikgRGl2aWRlIiwidGVtcGxhdGUiOiJmdWxsc2NyZWVuIiwiZm9udCI6IiIsImJsb2dfaWQiOjc0MDc0MjQ4fQ.rYMKnXsHzaXwq0q62HETeICp1RbQqFP1Ceua5-dVHB4MQ",
+    "og:description": "I like a good hot sauce. It’s not, like, my personality, but I enjoy them. There are enough different hot sauces that having a bit of a collection of them is reasonable. Cholula is a mainstay…",
+    "og:url": "https://chriscoyier.net/2025/11/07/the-great-refrigerator-divide/",
+    "og:type": "article"
+  },
+  {
     "hostname": "cloudfour.com",
     "url": "https://cloudfour.com/thinks/talking-css-web-components-app-design-and-gulp-ai-on-shoptalk-show/",
     "title": "Talking CSS, Web Components, App Design and (gulp) AI on ShopTalk Show – Cloud Four",
@@ -3550,6 +3704,17 @@
     "og:image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/36580909/36580909-1737239742866-db70f45d8e5f2.jpg",
     "og:description": "Anthony and Katie share some of their favorite design assets.Links mentioned:https://blush.design/https://nucleoapp.com/https://tabler.io/iconshttps://feathericons.com/https://thenounproject.com/https://www.streamlinehq.com/https://klim.co.nz/https://wakamaifondue.com/https://simplebits.shop/collections/fontshttps://open-props.style/https://fontawesome.com/https://phosphoricons.com/https://connary.com/fonts/Hosts:Anthony Hobday, Generalist Product Designer: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://twitter.com/hobdaydesign⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Katie Langerman, Systems Designer: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://twitter.com/KatieLangerman",
     "og:url": "https://creators.spotify.com/pod/profile/complementary/episodes/68-Interface-Design-Assets-typefaces--imagery--icons-e3a2hej",
+    "og:type": "website"
+  },
+  {
+    "hostname": "css-tip.com",
+    "url": "https://css-tip.com/universal-focus/",
+    "title": "The Universal Focus Ring",
+    "date": "2025-11-08T22:10:22.497+06:00",
+    "og:title": "The Universal Focus Ring",
+    "og:image": "/og-images/b9708b0b.png",
+    "og:description": "Using anchor positioning to create a fancy focus ring that travels the whole page",
+    "og:url": "https://css-tip.com/universal-focus/",
     "og:type": "website"
   },
   {
@@ -3666,11 +3831,22 @@
     "hostname": "cssauthor.com",
     "url": "https://cssauthor.com/best-free-monospace-fonts-for-coding/",
     "title": "65+ Best Free Monospace Fonts For Coding & Design (2024-2025)",
-    "date": "2025-11-07T09:33:53.936+06:00",
+    "date": "2025-11-08T22:10:21.956+06:00",
     "og:title": "65+ Best Free Monospace Fonts For Coding & Design (2024-2025)",
     "og:image": "https://cdn.cssauthor.com/wp-content/uploads/2025/11/Best-Free-Monospace-Fonts.png",
     "og:description": "Discover 65+ best free monospace fonts for coding, design & terminals. Compare features, ligatures, installation guides.",
     "og:url": "https://cssauthor.com/best-free-monospace-fonts-for-coding/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "cssauthor.com",
+    "url": "https://cssauthor.com/design-feedback-and-annotation-tools-for-teams/",
+    "title": "Top 16 Design Feedback And Annotation Tools For Teams 2025: Complete Guide",
+    "date": "2025-11-08T22:10:19.469+06:00",
+    "og:title": "Top 16 Design Feedback And Annotation Tools For Teams 2025: Complete Guide",
+    "og:image": "https://cdn.cssauthor.com/wp-content/uploads/2025/11/Design-Feedback-and-Annotation-Tools.png",
+    "og:description": "Compare 16 top design feedback and annotation tools for teams in 2025. Get current pricing, features, and expert recommendations to streamline your design workflow.",
+    "og:url": "https://cssauthor.com/design-feedback-and-annotation-tools-for-teams/",
     "og:type": "article"
   },
   {
@@ -4401,6 +4577,28 @@
   },
   {
     "hostname": "designbeep.com",
+    "url": "https://designbeep.com/2025/11/07/moon-knight-font/",
+    "title": "Moon Knight Font FREE Download",
+    "date": "2025-11-08T22:09:48.377+06:00",
+    "og:title": "Moon Knight Font FREE Download",
+    "og:image": "https://designbeep.com/wp-content/uploads/2025/11/Moon-Knight-Font-featured-image.jpg",
+    "og:description": "The Moon Knight Font used in the television series title is a replica font created for fan and display use, as the official logotype appears to have been",
+    "og:url": "https://designbeep.com/2025/11/07/moon-knight-font/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designbeep.com",
+    "url": "https://designbeep.com/2025/11/07/nope-font/",
+    "title": "Nope Font FREE Download (Movie)",
+    "date": "2025-11-08T22:09:48.775+06:00",
+    "og:title": "Nope Font FREE Download (Movie)",
+    "og:image": "https://designbeep.com/wp-content/uploads/2025/11/Nope-Font-featured-image.jpg",
+    "og:description": "The Nope Font used in the title treatment of the film is very likely a modified version of Neue Helvetica Pro 73 Extended Bold — a commercial typeface",
+    "og:url": "https://designbeep.com/2025/11/07/nope-font/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designbeep.com",
     "url": "https://designbeep.com/2025/11/07/poor-things-font/",
     "title": "Poor Things Font FREE Download",
     "date": "2025-11-07T09:33:53.904+06:00",
@@ -4408,6 +4606,28 @@
     "og:image": "https://designbeep.com/wp-content/uploads/2025/11/Poor-Things-Font-featured-image.jpg",
     "og:description": "The Poor Things Font used in the film’s title is most likely the typeface Souls Pro, a commercial display font known for its condensed letterforms with unique",
     "og:url": "https://designbeep.com/2025/11/07/poor-things-font/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designbeep.com",
+    "url": "https://designbeep.com/2025/11/07/prey-font/",
+    "title": "Prey Font FREE Download",
+    "date": "2025-11-08T22:09:48.913+06:00",
+    "og:title": "Prey Font FREE Download",
+    "og:image": "https://designbeep.com/wp-content/uploads/2025/11/Prey-Font-featured-image.jpg",
+    "og:description": "The Prey Font used in the title of the film is likely the typeface Kuhtaamia, a bold display font designed for large-size use with a distinct distressed,",
+    "og:url": "https://designbeep.com/2025/11/07/prey-font/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designbeep.com",
+    "url": "https://designbeep.com/2025/11/07/quantumania-font/",
+    "title": "Quantumania Font FREE Download",
+    "date": "2025-11-08T22:09:49.699+06:00",
+    "og:title": "Quantumania Font FREE Download",
+    "og:image": "https://designbeep.com/wp-content/uploads/2025/11/Quantumania-Font-featured-image.jpg",
+    "og:description": "The Quantumania Font used for the title of Ant‑Man and the Wasp: Quantumania is a stylized, custom-designed typeface. A close match available for download is",
+    "og:url": "https://designbeep.com/2025/11/07/quantumania-font/",
     "og:type": "article"
   },
   {
@@ -4441,6 +4661,50 @@
     "og:image": "https://designbeep.com/wp-content/uploads/2025/11/The-Substance-Font-featured-image.jpg",
     "og:description": "The The Substance Font used in the film’s title appears to be a custom-designed condensed sans-serif typeface, created to look bold, stark, and commanding.",
     "og:url": "https://designbeep.com/2025/11/07/the-substance-font/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designbeep.com",
+    "url": "https://designbeep.com/2025/11/08/mission-impossible-font/",
+    "title": "Mission Impossible Font FREE Download",
+    "date": "2025-11-08T22:09:47.776+06:00",
+    "og:title": "Mission Impossible Font FREE Download",
+    "og:image": "https://designbeep.com/wp-content/uploads/2025/11/Mission-Impossible-Font-featured-image.jpg",
+    "og:description": "The Mission Impossible Font used in the title treatments of the film franchise is a custom-designed typeface created specifically for the brand. Since the",
+    "og:url": "https://designbeep.com/2025/11/08/mission-impossible-font/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designbeep.com",
+    "url": "https://designbeep.com/2025/11/08/obi-wan-kenobi-font/",
+    "title": "Obi-Wan Kenobi Font FREE Download",
+    "date": "2025-11-08T22:09:47.828+06:00",
+    "og:title": "Obi-Wan Kenobi Font FREE Download",
+    "og:image": "https://designbeep.com/wp-content/uploads/2025/11/Obi-Wan-Kenobi-Font-featured-image.jpg",
+    "og:description": "The Obi-Wan Kenobi Font used in the TV series title closely matches the typeface Albertus — a commercial glyphic serif font originally designed by Berthold",
+    "og:url": "https://designbeep.com/2025/11/08/obi-wan-kenobi-font/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designbeep.com",
+    "url": "https://designbeep.com/2025/11/08/the-day-of-the-jackal-font/",
+    "title": "The Day of the Jackal Font FREE Download",
+    "date": "2025-11-08T22:09:47.272+06:00",
+    "og:title": "The Day of the Jackal Font FREE Download",
+    "og:image": "https://designbeep.com/wp-content/uploads/2025/11/The-Day-of-the-Jackal-Font-featured-image-1.jpg",
+    "og:description": "The Day of the Jackal Font from the 2024 TV series reflects the sleek, modern tension of this updated espionage thriller. Its typography conveys sharp",
+    "og:url": "https://designbeep.com/2025/11/08/the-day-of-the-jackal-font/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designbeep.com",
+    "url": "https://designbeep.com/2025/11/08/the-nightmare-before-christmas-font/",
+    "title": "The Nightmare Before Christmas Font FREE Download",
+    "date": "2025-11-08T22:09:47.353+06:00",
+    "og:title": "The Nightmare Before Christmas Font FREE Download",
+    "og:image": "https://designbeep.com/wp-content/uploads/2025/11/The-Nightmare-Before-Christmas-Font-featured-image.jpg",
+    "og:description": "The Nightmare Before Christmas Font perfectly captures the eerie charm and gothic whimsy of Tim Burton’s classic stop-motion film. This distinctive typeface",
+    "og:url": "https://designbeep.com/2025/11/08/the-nightmare-before-christmas-font/",
     "og:type": "article"
   },
   {
@@ -4489,6 +4753,17 @@
   },
   {
     "hostname": "designyoutrust.com",
+    "url": "https://designyoutrust.com/2025/11/bubble-gum-body-horror-the-gooey-delight-of-the-90s-in-spencer-manns-illustrations/",
+    "title": "“Bubble Gum Body Horror”: The Gooey Delight of the 90s in Spencer Mann’s Illustrations » Design You Trust — Design Daily Since 2007",
+    "date": "2025-11-08T22:10:18.939+06:00",
+    "og:title": "\"Bubble Gum Body Horror\": The Gooey Delight of the 90s in Spencer Mann's Illustrations",
+    "og:image": "https://designyoutrust.com/wp-content/uploads/2025/11/0-9.jpg",
+    "og:description": "Spencer Mann﻿ is a San Francisco-based artist recognized for his vibrant, \"bubble gum body horror\" style blending cute and gross elements, featuring drippy, gooey creatures and surreal, playful forms.\n\nHis art draws inspiration from '90s teenage aesthetics like Lisa Frank combined with body horror",
+    "og:url": "https://designyoutrust.com/2025/11/bubble-gum-body-horror-the-gooey-delight-of-the-90s-in-spencer-manns-illustrations/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designyoutrust.com",
     "url": "https://designyoutrust.com/2025/11/cutting-deeper-the-self-dissecting-worlds-of-alex-eckman-lawns-paper-collages/",
     "title": "“Cutting Deeper”: The Self-Dissecting Worlds of Alex Eckman-Lawn’s Paper Collages » Design You Trust — Design Daily Since 2007",
     "date": "2025-11-05T02:58:25.815+06:00",
@@ -4496,6 +4771,17 @@
     "og:image": "https://designyoutrust.com/wp-content/uploads/2025/11/image-6380818-1.jpg",
     "og:description": "Alex Eckman-Lawn is a Philadelphia-born artist and illustrator celebrated for his intricate, multi-layered paper collages and dynamic illustration work. \n\nA graduate of the University of the Arts in Philadelphia, Eckman-Lawn combines his skill in digital painting with a fascination for anatomical",
     "og:url": "https://designyoutrust.com/2025/11/cutting-deeper-the-self-dissecting-worlds-of-alex-eckman-lawns-paper-collages/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designyoutrust.com",
+    "url": "https://designyoutrust.com/2025/11/exploring-heart-and-humor-in-matt-emmonss-post-apocalyptic-comics/",
+    "title": "Exploring Heart and Humor in Matt Emmons’s Post-Apocalyptic Comics » Design You Trust — Design Daily Since 2007",
+    "date": "2025-11-08T22:10:19.008+06:00",
+    "og:title": "Exploring Heart and Humor in Matt Emmons’s Post-Apocalyptic Comics",
+    "og:image": "https://designyoutrust.com/wp-content/uploads/2025/11/image-4747171-1.jpg",
+    "og:description": "Matt Emmons is a Philadelphia-based comic artist, illustrator, and the founder of Second At Best Press. \n\nRaised in the Boston area and inspired by a diet of monster movies, fantasy novels, and childhood explorations of the natural world, Emmons’s art is known for its unique blend of monsters, rob",
+    "og:url": "https://designyoutrust.com/2025/11/exploring-heart-and-humor-in-matt-emmonss-post-apocalyptic-comics/",
     "og:type": "article"
   },
   {
@@ -4544,6 +4830,17 @@
   },
   {
     "hostname": "designyoutrust.com",
+    "url": "https://designyoutrust.com/2025/11/spectacular-landscape-winning-images-from-the-1839-photographer-of-the-year-awards/",
+    "title": "Spectacular Landscape Winning Images from the 1839 Photographer of the Year Awards » Design You Trust — Design Daily Since 2007",
+    "date": "2025-11-08T22:10:21.265+06:00",
+    "og:title": "Spectacular Landscape Winning Images from the 1839 Photographer of the Year Awards",
+    "og:image": "https://designyoutrust.com/wp-content/uploads/2025/11/1839-photography-landscape-2025-winners-17-topaz-upscale-990w.jpeg",
+    "og:description": "Gold: \"An Arizona Moonrise\" by Michael Mihaljevich\n\n\nThe 1839 Photographer of the Year Awards 2025 unveiled a stunning lineup of landscape masterpieces that celebrate nature’s grandeur. \n\nMichael Mihaljevich claimed the top honor with “An Arizona Moonrise,” a hauntingly beautiful capture of the",
+    "og:url": "https://designyoutrust.com/2025/11/spectacular-landscape-winning-images-from-the-1839-photographer-of-the-year-awards/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designyoutrust.com",
     "url": "https://designyoutrust.com/2025/11/spectacular-shortlisted-photos-from-the-2025-close-up-photographer-of-the-year/",
     "title": "Spectacular Shortlisted Photos from the 2025 Close-Up Photographer of the Year » Design You Trust — Design Daily Since 2007",
     "date": "2025-11-02T05:23:28.503+06:00",
@@ -4551,6 +4848,39 @@
     "og:image": "https://designyoutrust.com/wp-content/uploads/2025/11/close-up-photographer-of-the-year-2025-shortlists-29-topaz-upscale-990w.jpeg",
     "og:description": "Animals: \"Splash\" by Douglas Gimesy\n\n\nThe 2025 Close-Up Photographer of the Year (CUPOTY 7) shortlist has been unveiled, showcasing a mesmerizing world often overlooked. \n\nWith over 12,000 entries judged across 11 categories, the final selection reveals stunning microcosms — from jewel-like ins",
     "og:url": "https://designyoutrust.com/2025/11/spectacular-shortlisted-photos-from-the-2025-close-up-photographer-of-the-year/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designyoutrust.com",
+    "url": "https://designyoutrust.com/2025/11/stunning-mobile-photos-from-the-2024-oppo-photography-awards-that-prove-art-fits-in-your-pocket/",
+    "title": "Stunning Mobile Photos from the 2024 Oppo Photography Awards That Prove Art Fits in Your Pocket » Design You Trust — Design Daily Since 2007",
+    "date": "2025-11-08T22:10:21.088+06:00",
+    "og:title": "Stunning Mobile Photos from the 2024 Oppo Photography Awards That Prove Art Fits in Your Pocket",
+    "og:image": "https://designyoutrust.com/wp-content/uploads/2025/11/oppo-photography-awards-winners-17.jpg",
+    "og:description": "OPPO imagine IF Master of the Year: \"Summer by Hutuo River\" by Liang Xibing, China\n\n\nThe 2024 Oppo Photography Awards have revealed stunning mobile photos that prove artistry isn’t about fancy gear—it’s about vision, timing, and heart. \n\nLiang Xibing from China took the Grand Prize with “Summer",
+    "og:url": "https://designyoutrust.com/2025/11/stunning-mobile-photos-from-the-2024-oppo-photography-awards-that-prove-art-fits-in-your-pocket/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designyoutrust.com",
+    "url": "https://designyoutrust.com/2025/11/the-cutest-soft-handmade-sculptures-of-emina-poison/",
+    "title": "The Cutest, Soft Handmade Sculptures of Emina Poison » Design You Trust — Design Daily Since 2007",
+    "date": "2025-11-08T22:10:18.327+06:00",
+    "og:title": "The Cutest, Soft Handmade Sculptures of Emina Poison",
+    "og:image": "https://designyoutrust.com/wp-content/uploads/2025/11/00-2.jpg",
+    "og:description": "Lam Art Studio is the creative boutique of Emina Poison, a Georgian artist renowned for her highly original, whimsical designer toys and soft sculptures. \n\nSince childhood, Emina has been passionate about bringing imaginary creatures to life, drawing inspiration from folklore, fairy tales, and the",
+    "og:url": "https://designyoutrust.com/2025/11/the-cutest-soft-handmade-sculptures-of-emina-poison/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designyoutrust.com",
+    "url": "https://designyoutrust.com/2025/11/the-everyday-magic-and-whimsical-art-of-angela-smyth/",
+    "title": "The Everyday Magic and Whimsical Art of Angela Smyth » Design You Trust — Design Daily Since 2007",
+    "date": "2025-11-08T22:10:19.201+06:00",
+    "og:title": "The Everyday Magic and Whimsical Art of Angela Smyth",
+    "og:image": "https://designyoutrust.com/wp-content/uploads/2025/11/image-7113515.jpg",
+    "og:description": "Angela Smyth is a self-taught artist based in West Yorkshire, UK, known for her distinctive, quirky style that blends illustration, wit, and poignancy. \n\nWorking from her studio in a converted mill, Smyth draws inspiration from people-watching, everyday life, and memories of childhood, infusing he",
+    "og:url": "https://designyoutrust.com/2025/11/the-everyday-magic-and-whimsical-art-of-angela-smyth/",
     "og:type": "article"
   },
   {
@@ -4752,6 +5082,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "diakov.net",
+    "url": "https://diakov.net/16045-windows-81-rus-eng-x86-x64-20in1-sevenmod-v5.html",
+    "title": "Windows 8.1 RUS-ENG x86-x64 -20in1- SevenMod v5",
+    "date": "2025-11-08T21:49:28.611+06:00",
+    "og:title": "Windows 8.1 RUS-ENG x86-x64 -20in1- SevenMod v5",
+    "og:image": "https://diakov.net/uploads/posts/2025-11/1762603688_windows-8_1-sevenmod.png",
+    "og:description": "",
+    "og:url": "https://diakov.net/16045-windows-81-rus-eng-x86-x64-20in1-sevenmod-v5.html",
+    "og:type": "article"
+  },
+  {
     "hostname": "distrowatch.com",
     "url": "https://distrowatch.com/?newsid=12620",
     "title": "Distribution Release: AerynOS 2025.10 (DistroWatch.com News)",
@@ -4936,6 +5277,17 @@
     "og:image": "https://miro.medium.com/v2/resize:fit:1024/1*OcRZZvpjCZ94vCszYfdEpw.png",
     "og:description": "Sometimes, the simplest animations can make your site feel infinitely more polished.",
     "og:url": "https://er-raj-aryan.medium.com/creating-a-hypnotic-ripple-loader-animation-using-just-html-css-b069edabb96e",
+    "og:type": "article"
+  },
+  {
+    "hostname": "er-raj-aryan.medium.com",
+    "url": "https://er-raj-aryan.medium.com/html-audio-tag-a-modern-web-devs-soundtrack-634bb7712b36",
+    "title": "🎧 HTML <audio> Tag: A Modern Web Dev’s Soundtrack | by Er Raj Aryan | Nov, 2025 | Medium",
+    "date": "2025-11-08T22:10:17.966+06:00",
+    "og:title": "🎧 HTML <audio> Tag: A Modern Web Dev’s Soundtrack",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*Qhkv_nQxkOtRBP3PbrOpSQ.png",
+    "og:description": "“The web speaks not only with eyes, but with ears too.”",
+    "og:url": "https://er-raj-aryan.medium.com/html-audio-tag-a-modern-web-devs-soundtrack-634bb7712b36",
     "og:type": "article"
   },
   {
@@ -7532,6 +7884,17 @@
     "og:image": "https://i0.wp.com/graphicdesignjunction.com/wp-content/uploads/2025/11/best_food_fonts.jpg",
     "og:description": "Looking for food fonts that make people hungry? You’re in the right place! These 70+ best food fonts are tasty for the eyes and perfect for restaurant menus.",
     "og:url": "https://graphicdesignjunction.com/2025/11/70-best-food-fonts-that-look-so-good/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "graphicdesignjunction.com",
+    "url": "https://graphicdesignjunction.com/2025/11/designing-for-connection-how-visual-consistency-builds-client-trust-across-every-touchpoint/",
+    "title": "Designing for Connection: How Visual Consistency Builds Client Trust Across Every Touchpoint",
+    "date": "2025-11-08T22:10:21.494+06:00",
+    "og:title": "Designing for Connection: How Visual Consistency Builds Client Trust Across Every Touchpoint",
+    "og:image": "https://i0.wp.com/graphicdesignjunction.com/wp-content/uploads/2025/11/designing_for_connection.jpg",
+    "og:description": "Every great brand tells a visual story, and design is the language it speaks. But while most creative professionals obsess over how their designs look.",
+    "og:url": "https://graphicdesignjunction.com/2025/11/designing-for-connection-how-visual-consistency-builds-client-trust-across-every-touchpoint/",
     "og:type": "article"
   },
   {
@@ -19591,6 +19954,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "htmhell.dev",
+    "url": "https://htmhell.dev/35-a-perfectly-structured-button/",
+    "title": "#35 a perfectly structured button - HTMHell",
+    "date": "2025-11-08T22:10:20.928+06:00",
+    "og:title": "#35 a perfectly structured button - HTMHell",
+    "og:image": "https://www.htmhell.dev/images/og/35-a-perfectly-structured-button.png?s=171224",
+    "og:description": "A collection of bad practices in HTML, copied from real websites.",
+    "og:url": "/35-a-perfectly-structured-button/",
+    "og:type": "website"
+  },
+  {
     "hostname": "hvpandya.com",
     "url": "https://hvpandya.com/generative-ui",
     "title": "Generative UI and Early Thoughts ・ Hardik Pandya",
@@ -19654,6 +20028,17 @@
     "og:image": "/wp-content/uploads/2021/05/im-ikeacatalogue-through-the-ages.jpg",
     "og:description": "Browse IKEA catalogues through the ages, reflecting different eras and lifestyles - a goldmine for the nostalgic, design enthusiasts and history buffs.",
     "og:url": "/en/explore/ikea-catalogue/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "ilovetypography.com",
+    "url": "https://ilovetypography.com/2025/11/07/steven-hellers-font-of-the-month-archive-matrix/",
+    "title": "I love Typography (ILT), the world's favorite fonts and typography blog/ And now you can buy fonts too",
+    "date": "2025-11-08T22:10:19.529+06:00",
+    "og:title": "Steven Heller’s Font of the Month: Archive Matrix",
+    "og:image": "https://ilovetypography.com/img/2021/07/love-fonts-melange1.png",
+    "og:description": "You’d think that by 2025 I would be sick of anything addressing the “future” by now. Having lived through the 60s through 90s visionary predictions of a pessimistic future – and having been a Philip K. Dick fan until well into the 2000s – I’ve had more than enough dystopian predictions come true. I look at the future as a fearsome spectre, which should mean that any symbolic references must cause me to feel the sting of future shock. Nevertheless, I continue to be fascinated with futuristic art and design.",
+    "og:url": "https://ilovetypography.com/2025/11/07/steven-hellers-font-of-the-month-archive-matrix/",
     "og:type": "article"
   },
   {
@@ -19856,6 +20241,17 @@
   },
   {
     "hostname": "javascript.plainenglish.io",
+    "url": "https://javascript.plainenglish.io/gifs-vs-css-animations-why-your-loading-indicators-shouldnt-keep-users-waiting-435ee2d52125",
+    "title": "Loaders Need To Load Fast. GIFs vs CSS Animations | by Akshat Tiwari | Nov, 2025 | JavaScript in Plain English",
+    "date": "2025-11-08T22:10:12.816+06:00",
+    "og:title": "Loaders Need To Load Fast",
+    "og:image": "https://miro.medium.com/v2/resize:fit:407/1*p94WWdNEmwV72sDlWRzZbw.png",
+    "og:description": "GIFs vs CSS Animations",
+    "og:url": "https://javascript.plainenglish.io/gifs-vs-css-animations-why-your-loading-indicators-shouldnt-keep-users-waiting-435ee2d52125",
+    "og:type": "article"
+  },
+  {
+    "hostname": "javascript.plainenglish.io",
     "url": "https://javascript.plainenglish.io/javascript-web-workers-the-underused-secret-to-supercharging-modern-web-apps-70adb95bc37c",
     "title": "JavaScript Web Workers: The Underused Secret to Supercharging Modern Web Apps | by M. Ali Khan | Nov, 2025 | JavaScript in Plain English",
     "date": "2025-11-01T07:53:05.906+06:00",
@@ -19885,6 +20281,17 @@
     "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*Kyahr9ob0m7ZEpwD8fiIew.png",
     "og:description": "Before joining Uber, I had the incredible opportunity to interview with Atlassian, a company I’ve long admired for its engineering…",
     "og:url": "https://javascript.plainenglish.io/my-atlassian-interview-experience-a-journey-of-learning-clarity-and-culture-1c6f9b8e270b",
+    "og:type": "article"
+  },
+  {
+    "hostname": "javascript.plainenglish.io",
+    "url": "https://javascript.plainenglish.io/primeflex-in-angular-20-a-step-by-step-guide-to-responsive-ui-design-b99e511f809d",
+    "title": "PrimeFlex & Angular 20: Build Responsive UIs | JavaScript in Plain English",
+    "date": "2025-11-08T22:10:22.13+06:00",
+    "og:title": "PrimeFlex in Angular 20: A Step-by-Step Guide to Responsive UI Design",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*j_Flbw4FnyjAH7lEsabXNA.png",
+    "og:description": "Responsive design defines modern web development. As applications evolve, developers seek efficient layout systems. PrimeFlex, built by…",
+    "og:url": "https://javascript.plainenglish.io/primeflex-in-angular-20-a-step-by-step-guide-to-responsive-ui-design-b99e511f809d",
     "og:type": "article"
   },
   {
@@ -19940,6 +20347,17 @@
     "og:image": "https://miro.medium.com/v2/resize:fit:1200/0*ED9pIDS7UeKultSb.png",
     "og:description": "JavaScript",
     "og:url": "https://javascript.plainenglish.io/the-invisible-fragmentation-how-framework-directives-are-quietly-reshaping-the-javascript-128b0ce5d813",
+    "og:type": "article"
+  },
+  {
+    "hostname": "javascript.plainenglish.io",
+    "url": "https://javascript.plainenglish.io/why-your-css-keeps-breaking-and-the-8-fixes-that-finally-made-mine-stop-6017374af587",
+    "title": "Why Your CSS Keeps Breaking (And The 8 Fixes That Finally Made Mine Stop) | by Mutasim Billah Toha | Nov, 2025 | JavaScript in Plain English",
+    "date": "2025-11-08T22:10:04.002+06:00",
+    "og:title": "Why Your CSS Keeps Breaking (And The 8 Fixes That Finally Made Mine Stop)",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*PNU4stpV97aJ4d4tZr6zbw.jpeg",
+    "og:description": "Last month I spent 45 minutes trying to center one button… then realized it wasn’t my code, it was my entire approach to CSS. Here’s what I…",
+    "og:url": "https://javascript.plainenglish.io/why-your-css-keeps-breaking-and-the-8-fixes-that-finally-made-mine-stop-6017374af587",
     "og:type": "article"
   },
   {
@@ -22639,6 +23057,17 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/@1nick1patel1/visual-low-code-uis-complexity-without-code-b1c800323d90",
+    "title": "Visual Low-Code UIs: Complexity Without Code | by Velorum | Nov, 2025 | Medium",
+    "date": "2025-11-08T22:10:07.581+06:00",
+    "og:title": "Visual Low-Code UIs: Complexity Without Code",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*Knv9_mXllQi9oCOuqjNjTg.png",
+    "og:description": "How designers, PMs, and engineers ship rich interfaces faster — without wrestling with boilerplate.",
+    "og:url": "https://medium.com/@1nick1patel1/visual-low-code-uis-complexity-without-code-b1c800323d90",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/@aakash013/figma-mcp-vs-kombai-which-is-best-for-figma-to-code-automation-badcb5f35004",
     "title": "Figma MCP vs Kombai: Which is Best for Figma-to-Code Automation? | by Aakash R | Nov, 2025 | Medium",
     "date": "2025-11-07T13:19:33.962+06:00",
@@ -22734,6 +23163,17 @@
     "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*fAUK9calsvBP6j1ds53Tog.jpeg",
     "og:description": "Don’t just pick what’s popular. Pick what’s right for your project, your timeline, and your sanity.",
     "og:url": "https://medium.com/@artur.friedrich/react-vs-vue-vs-svelte-in-2026-a-practical-comparison-for-your-next-side-hustle-e57b7f5f37eb",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@artur.friedrich/why-every-front-end-developer-should-learn-these-10-linux-commands-dbfbfb67591c",
+    "title": "Why Every Front-End Developer Should Learn These 10 Linux Commands | by Friedrich Artúr | Nov, 2025 | Medium",
+    "date": "2025-11-08T22:10:12.472+06:00",
+    "og:title": "Why Every Front-End Developer Should Learn These 10 Linux Commands",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1024/1*J2pORqEZarGBD19eEf7Lnw.png",
+    "og:description": "Stop fearing the terminal. Start using it to build, debug, and deploy faster.",
+    "og:url": "https://medium.com/@artur.friedrich/why-every-front-end-developer-should-learn-these-10-linux-commands-dbfbfb67591c",
     "og:type": "article"
   },
   {
@@ -22855,6 +23295,17 @@
     "og:image": "https://miro.medium.com/v2/resize:fit:930/1*-41Olh2i9YmKAyP2plusxQ.jpeg",
     "og:description": "Introduction",
     "og:url": "https://medium.com/@charansai.ashokit/top-reasons-to-enroll-in-a-java-full-stack-developer-course-with-placement-0fafa6ec5073",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@chauhan27.abhay/day-4-type-coercion-part-1-javascripts-magic-trick-fdc0aaec1356",
+    "title": "Day 4: Type Coercion, Part 1 — “JavaScript’s Magic Trick” 🎩✨ | by Frontend Developer | Nov, 2025 | Medium",
+    "date": "2025-11-08T22:10:16.616+06:00",
+    "og:title": "Day 4: Type Coercion, Part 1 — “JavaScript’s Magic Trick” 🎩✨",
+    "og:image": "https://miro.medium.com/v2/resize:fit:600/1*ZBdfz-yT_2Kw8_CRL5FbuA.png",
+    "og:description": "Ever seen JavaScript turn a string into a number, a number into a boolean, and a blank string into zero — all in one breath? Today, we…",
+    "og:url": "https://medium.com/@chauhan27.abhay/day-4-type-coercion-part-1-javascripts-magic-trick-fdc0aaec1356",
     "og:type": "article"
   },
   {
@@ -23167,6 +23618,17 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/@jaouadirabeb/introduction-to-angular-a-powerful-frontend-framework-297287c38839",
+    "title": "Introduction to Angular : A Powerful Frontend Framework | by Jaouadirabeb | Nov, 2025 | Medium",
+    "date": "2025-11-08T22:10:16.626+06:00",
+    "og:title": "Introduction to Angular : A Powerful Frontend Framework",
+    "og:image": "https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632",
+    "og:description": "Angular is a frontend JavaScript framework that goes beyond just providing a set of libraries. It offers a complete ecosystem of tools and…",
+    "og:url": "https://medium.com/@jaouadirabeb/introduction-to-angular-a-powerful-frontend-framework-297287c38839",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/@Jason-Han/generative-ai-for-ux-creating-adaptive-and-responsive-interfaces-6d6ffda6a580",
     "title": "Generative AI for UX: Creating Adaptive and Responsive Interfaces | by Jason Han | Nov, 2025 | Medium",
     "date": "2025-11-01T04:22:11.911+06:00",
@@ -23310,6 +23772,17 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/@mernstackdevbykevin/tailwind-css-v4-0-complete-migration-guide-breaking-changes-you-need-to-know-7f99944a9f95",
+    "title": "Tailwind CSS 4.0 Migration Guide: Breaking Changes & Best Practices | Medium",
+    "date": "2025-11-08T22:10:16.622+06:00",
+    "og:title": "Tailwind CSS v4.0: Complete Migration Guide & Breaking Changes You Need to Know",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*vtDUPZ1isAgdqY52-Y2-WQ.png",
+    "og:description": "Master Tailwind CSS v4.0 migration: learn breaking changes, CSS-first architecture, new capabilities for React and Next.js, and step-by-step upgrade path with code.",
+    "og:url": "https://medium.com/@mernstackdevbykevin/tailwind-css-v4-0-complete-migration-guide-breaking-changes-you-need-to-know-7f99944a9f95",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/@mernstackdevbykevin/tailwind-css-v4-0-performance-boosts-build-times-jit-more-abf6b75e37bd",
     "title": "Tailwind CSS v4.0: 40% Faster Builds & Performance Guide | Medium",
     "date": "2025-11-04T06:24:17.721+06:00",
@@ -23339,6 +23812,28 @@
     "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*c4KDyBG8udPMiLw96pAMdg.png",
     "og:description": "A practical, copy-pasteable playbook for Content Security Policies that survive real traffic and real teams.",
     "og:url": "https://medium.com/@Modexa/the-boring-path-to-web-security-csps-that-stick-fa5fd41a1b2f",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@mrtcmen/making-a-fancy-glow-box-in-css-with-mix-blend-mode-plus-lighter-c89d9574feb2",
+    "title": "Making a Fancy Glow Box in CSS with mix-blend-mode: plus-lighter | by Murat Çimen | Nov, 2025 | Medium",
+    "date": "2025-11-08T22:10:16.632+06:00",
+    "og:title": "Making a Fancy Glow Box in CSS with mix-blend-mode: plus-lighter",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1045/1*GpTLgkmN9PztjzsSyu7iDw.png",
+    "og:description": "Recreate that rich, Figma‑style inner glow using nothing but CSS — no images, no canvas, no filters.",
+    "og:url": "https://medium.com/@mrtcmen/making-a-fancy-glow-box-in-css-with-mix-blend-mode-plus-lighter-c89d9574feb2",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@mugalishambu601/build-your-first-calculator-the-easiest-way-to-start-thinking-like-a-developer-705810448449",
+    "title": "Build Your First Javascript project : The Easiest Way to Start Thinking Like a Developer | by shambu | Nov, 2025 | Medium",
+    "date": "2025-11-08T22:10:17.903+06:00",
+    "og:title": "Build Your First Javascript project The Easiest Way to start  being developer.",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1152/1*cI5rnFEMpdwyGslmg9iu5w.png",
+    "og:description": "Your First Calculator: The Easiest Way to Start Thinking Like a Developer. If you find yourself binge-watching tutorials or stuck in…",
+    "og:url": "https://medium.com/@mugalishambu601/build-your-first-calculator-the-easiest-way-to-start-thinking-like-a-developer-705810448449",
     "og:type": "article"
   },
   {
@@ -23427,6 +23922,17 @@
     "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*cbPbApBe-rd4TLN9YDGcfQ.png",
     "og:description": "Icons are everywhere in modern interfaces — but they don’t have to be flat and boring. In this short guide, I’ll show you how to give your…",
     "og:url": "https://medium.com/@pandu.usahaku/how-to-add-gradient-colors-to-iconify-icons-using-svg-bfacf2798b46",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@paramasivamingur07/angular-best-practices-every-developer-should-follow-6b93f4c06133",
+    "title": "Angular Best Practices Every Developer Should Follow | by Paramasivam Gnanasekaran | Nov, 2025 | Medium",
+    "date": "2025-11-08T22:09:52.191+06:00",
+    "og:title": "Angular Best Practices Every Developer Should Follow",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1024/1*fALtSWZMUqyUwxV4tMc4XQ.png",
+    "og:description": "Angular gives you everything to build amazing web apps — but writing good Angular code is what separates a beginner from a pro.\nWhether…",
+    "og:url": "https://medium.com/@paramasivamingur07/angular-best-practices-every-developer-should-follow-6b93f4c06133",
     "og:type": "article"
   },
   {
@@ -23537,6 +24043,17 @@
     "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*iHfdQ9qCbXK02lD2zTAPoQ.png",
     "og:description": "Selenium ve diğer test araçlarında doğru locator seçmenin püf noktaları ve gerçek senaryolardan örnekler",
     "og:url": "https://medium.com/@sedatekmel/xpath-mi-css-selector-m%C3%BC-test-otomasyonunda-element-bulma-stratejileri-50613597c17b",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@sheefanaaz6417/understanding-the-holy-grail-layout-a-beginner-friendly-guide-87d338207413",
+    "title": "Understanding the Holy Grail Layout — A Beginner-Friendly Guide | by Sheefa Naaz | Nov, 2025 | Medium",
+    "date": "2025-11-08T22:10:03.94+06:00",
+    "og:title": "Understanding the Holy Grail Layout — A Beginner-Friendly Guide",
+    "og:image": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*o2Ak07CsBINWJv3f",
+    "og:description": "When you’re new to HTML and CSS, layouts can feel confusing — especially when you hear names like the “Holy Grail Layout.” It sounds fancy…",
+    "og:url": "https://medium.com/@sheefanaaz6417/understanding-the-holy-grail-layout-a-beginner-friendly-guide-87d338207413",
     "og:type": "article"
   },
   {
@@ -23673,6 +24190,17 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/@theabhishek.040/css-container-queries-replace-media-queries-e8672ee3d07c",
+    "title": "The One-Line CSS That Replaces All Your Media Queries | by CodeOrbit | Nov, 2025 | Medium",
+    "date": "2025-11-08T22:10:18.701+06:00",
+    "og:title": "The One-Line CSS That Replaces All Your Media Queries",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*yODKQch-1Ja4AigVrm1w9Q.jpeg",
+    "og:description": "Stop writing breakpoints for every screen size. Your components can finally think for themselves.",
+    "og:url": "https://medium.com/@theabhishek.040/css-container-queries-replace-media-queries-e8672ee3d07c",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/@theabhishek.040/javascript-tricks-that-feel-illegal-d3e411e285a3",
     "title": "15 JavaScript Tricks That Feel Almost illegal (But Work Like Magic) | by CodeOrbit | Nov, 2025 | Medium",
     "date": "2025-11-02T05:23:36.664+06:00",
@@ -23735,6 +24263,17 @@
     "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*8U1DjPWnF-DjqGoUtyDLJA.png",
     "og:description": "Once upon a time, React developers were tired of using REST APIs.",
     "og:url": "https://medium.com/@tony.mavumkal/the-graphql-story-why-react-developers-love-it-aa65ae7df7c9",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@vaibhav11t/from-front-end-to-algorithms-how-i-built-my-problem-solving-mindset-6fb266a602d4",
+    "title": "From Front-End to Algorithms: How I Built My Problem-Solving Mindset | by Vaibhav Thakur | Nov, 2025 | Medium",
+    "date": "2025-11-08T22:10:05.056+06:00",
+    "og:title": "From Front-End to Algorithms: How I Built My Problem-Solving Mindset",
+    "og:image": "https://miro.medium.com/v2/da:true/resize:fit:576/1*WPOh4lQyIZ7RGEBeR8NCxg.gif",
+    "og:description": "When I started my career as a front-end developer, “problem-solving” mostly meant figuring out why the UI broke after a merge or why the…",
+    "og:url": "https://medium.com/@vaibhav11t/from-front-end-to-algorithms-how-i-built-my-problem-solving-mindset-6fb266a602d4",
     "og:type": "article"
   },
   {
@@ -23915,6 +24454,17 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/gef-grupo-de-estudos-de-fullstack/type-coercion-no-javascript-10e7480b060d",
+    "title": "Type Coercion no JavaScript. Introdução | by Cainagnr | GEF — Grupo de estudos de fullstack | Nov, 2025 | Medium",
+    "date": "2025-11-08T22:10:10.933+06:00",
+    "og:title": "Type Coercion no JavaScript",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*TckzTUCtw3WGpUUB270Zbw.png",
+    "og:description": "Introdução",
+    "og:url": "https://medium.com/gef-grupo-de-estudos-de-fullstack/type-coercion-no-javascript-10e7480b060d",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/kafekoding/arsitektur-scalable-next-js-da2612aa1aad",
     "title": "🚀 Arsitektur Scalable Next.js 14+: Memadukan Server Action, API Route, dan lib/api untuk Fullstack Modern | by Ilham Nopi Hendri | Komunitas Kafekoding - Blog | Nov, 2025 | Medium",
     "date": "2025-11-04T06:24:18.096+06:00",
@@ -23977,6 +24527,28 @@
     "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*kQWG0Gwef8h7_rGzqaEW6g.png",
     "og:description": "My journey building a 3D globe of history, wrestling with messy data, and creating an AI co-pilot to tell the story of our past.",
     "og:url": "https://medium.muz.li/how-i-built-a-data-factory-for-6-000-years-of-history-04b0b76e0bce",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.muz.li",
+    "url": "https://medium.muz.li/if-your-brand-isnt-changing-it-s-already-dying-1c5d018d4bca",
+    "title": "If Your Brand Isn’t Changing, It’s Already Dying | by David Mendes | Nov, 2025 | Muzli - Design Inspiration",
+    "date": "2025-11-08T22:10:20.791+06:00",
+    "og:title": "If Your Brand Isn’t Changing, It’s Already Dying",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/0*b5FEwQ3STMuodJyX.jpeg",
+    "og:description": "Brands lose their power when the world stops seeing them as new. Isn’t the role of Design to help them stay alive?",
+    "og:url": "https://medium.muz.li/if-your-brand-isnt-changing-it-s-already-dying-1c5d018d4bca",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.muz.li",
+    "url": "https://medium.muz.li/pixels-of-the-month-october-2025-5645e9e697f3",
+    "title": "Pixels of the Month: October 2025 | by Rémy Rey-De Barros | Nov, 2025 | Muzli - Design Inspiration",
+    "date": "2025-11-08T22:10:18.471+06:00",
+    "og:title": "Pixels of the Month: October 2025",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*KPntpYmsJGzgTNgiFFU9gw.png",
+    "og:description": "From Daft Punk’s metaverse to Vaseline’s science lab and drone ballets: October’s best in Creativity, Innovation, and Strategy.",
+    "og:url": "https://medium.muz.li/pixels-of-the-month-october-2025-5645e9e697f3",
     "og:type": "article"
   },
   {
@@ -25729,6 +26301,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "nouraellm.medium.com",
+    "url": "https://nouraellm.medium.com/tailwind-victory-over-css-skills-a9a602761276",
+    "title": "Tailwind Victory Over CSS Skills. In recent years, many web developers… | by ノウラ | Flare | Nov, 2025 | Medium",
+    "date": "2025-11-08T22:10:12.781+06:00",
+    "og:title": "Tailwind Victory Over CSS Skills",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*itW5iDNCebbcqtNv-JFhtA.jpeg",
+    "og:description": "In recent years, many web developers, including experienced ones, find themselves unable to recall standard CSS syntax for basic tasks…",
+    "og:url": "https://nouraellm.medium.com/tailwind-victory-over-css-skills-a9a602761276",
+    "og:type": "article"
+  },
+  {
     "hostname": "ohhelloana.blog",
     "url": "https://ohhelloana.blog/indieweb-book-club-oct-25/",
     "title": "Oh Hello Ana - IndieWeb Book Club: Oct 2025",
@@ -26885,6 +27468,17 @@
   },
   {
     "hostname": "pooshock.ru",
+    "url": "https://pooshock.ru/soft/grafika/7767-luminar-neo-125015875-repack.html",
+    "title": "Luminar Neo 1.25.0.15875 RePack » PooShock.Ru",
+    "date": "2025-11-08T21:49:25.983+06:00",
+    "og:title": "Luminar Neo 1.25.0.15875 RePack",
+    "og:image": "/uploads/posts/2024-04/1714230118_box-500.jpg",
+    "og:description": "",
+    "og:url": "https://pooshock.ru/soft/grafika/7767-luminar-neo-125015875-repack.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "pooshock.ru",
     "url": "https://pooshock.ru/soft/plugins/7763-dehancer-pro-736-ofx-plug-in-for-davinci-resolve.html",
     "title": "Dehancer Pro 7.3.6 OFX (Plug-in for DaVinci Resolve) » PooShock.Ru",
     "date": "2025-11-04T05:18:31.766+06:00",
@@ -27170,6 +27764,17 @@
     "og:type": "website"
   },
   {
+    "hostname": "raipratik399.medium.com",
+    "url": "https://raipratik399.medium.com/30-most-asked-questions-in-frontend-interviews-part-3-c49b671327dd",
+    "title": "30 Most Asked Questions in Frontend Interviews : Part 3 | by Pratik Rai | Nov, 2025 | Medium",
+    "date": "2025-11-08T22:10:12.752+06:00",
+    "og:title": "30 Most Asked Questions in Frontend Interviews : Part 3",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*-l4ZbI5Eq5CLVTK4q0KyPA.png",
+    "og:description": "Understanding how javascript and web works is a big plus in interviews",
+    "og:url": "https://raipratik399.medium.com/30-most-asked-questions-in-frontend-interviews-part-3-c49b671327dd",
+    "og:type": "article"
+  },
+  {
     "hostname": "rausr.com",
     "url": "https://rausr.com/blog/smart-ux-design-can-also-boost-nonprofit-donations/",
     "title": "How Mobile-Responsive Design and Smart UX Boost Nonprofit Donations | rausr",
@@ -27446,6 +28051,17 @@
   },
   {
     "hostname": "ru.giveawayoftheday.com",
+    "url": "https://ru.giveawayoftheday.com/ifind-data-recovery-9-11-2/",
+    "title": "Giveaway of the Day in Russian. iFinD Data Recovery 9.11.2 - Восстановите данные и файлы, такие как фотографии, видео, аудио и документы.",
+    "date": "2025-11-08T21:49:24.972+06:00",
+    "og:title": "Восстановите данные и файлы, такие как фотографии, видео, аудио и документы. Бесплатно на GOTD.",
+    "og:image": "https://giveawayoftheday.com/wp-content/uploads/og/2025/11/0abc5ee5e430025825091d87f02ea9fc.png",
+    "og:description": "iFinD Data Recovery — одна из лучших программ для восстановления данных по сравнению с большинством конкурентов в категории «Эксперт по восстановлению данных». Она...",
+    "og:url": "https://ru.giveawayoftheday.com/ifind-data-recovery-9-11-2/",
+    "og:type": "website"
+  },
+  {
+    "hostname": "ru.giveawayoftheday.com",
     "url": "https://ru.giveawayoftheday.com/minitool-moviemaker-8-3-1/",
     "title": "Giveaway of the Day in Russian. MiniTool MovieMaker 8.3.1 - Программа для редактирования фильмов, которую вы обязаны попробовать!",
     "date": "2025-11-04T05:18:38.923+06:00",
@@ -27544,6 +28160,17 @@
     "og:type": "website"
   },
   {
+    "hostname": "saber-tabatabaee.medium.com",
+    "url": "https://saber-tabatabaee.medium.com/how-to-handle-backend-restarts-gracefully-in-the-frontend-217dff423be2",
+    "title": "How to Handle Backend Restarts Gracefully in the Frontend | by صابر طباطبائی یزدی | Nov, 2025 | Medium",
+    "date": "2025-11-08T22:10:12.513+06:00",
+    "og:title": "How to Handle Backend Restarts Gracefully in the Frontend",
+    "og:image": "https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632",
+    "og:description": "🧠 Introduction",
+    "og:url": "https://saber-tabatabaee.medium.com/how-to-handle-backend-restarts-gracefully-in-the-frontend-217dff423be2",
+    "og:type": "article"
+  },
+  {
     "hostname": "sajanmangattu.medium.com",
     "url": "https://sajanmangattu.medium.com/20-best-lightweight-css-frameworks-for-fast-loading-websites-in-2025-2b9c160fe6f6",
     "title": "20 Best Lightweight CSS Frameworks for Fast Loading Websites in 2025 | by sajanmangattu | Nov, 2025 | Medium",
@@ -27633,9 +28260,31 @@
   },
   {
     "hostname": "samlab.ws",
+    "url": "https://samlab.ws/soft/beyond/",
+    "title": "SamLab.ws - Beyond Compare 5.1.6.31527",
+    "date": "2025-11-08T21:40:28.093+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "samlab.ws",
     "url": "https://samlab.ws/soft/bitcomet/",
     "title": "SamLab.ws - BitComet 2.18",
     "date": "2025-11-04T05:18:32.895+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "samlab.ws",
+    "url": "https://samlab.ws/soft/brave/",
+    "title": "SamLab.ws - Brave 1.84.135",
+    "date": "2025-11-08T21:40:28.089+06:00",
     "og:title": "",
     "og:image": "",
     "og:description": "",
@@ -27777,8 +28426,8 @@
   {
     "hostname": "samlab.ws",
     "url": "https://samlab.ws/soft/foobar/",
-    "title": "SamLab.ws - foobar2000 2.26 Review 11.05",
-    "date": "2025-11-06T06:06:19.996+06:00",
+    "title": "SamLab.ws - foobar2000 2.26 Review 11.07",
+    "date": "2025-11-08T21:40:28.053+06:00",
     "og:title": "",
     "og:image": "",
     "og:description": "",
@@ -27790,6 +28439,17 @@
     "url": "https://samlab.ws/soft/huorong/",
     "title": "SamLab.ws - Huorong Internet Security 6.0.7.15 (11.1.1)",
     "date": "2025-11-04T05:18:35.878+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "samlab.ws",
+    "url": "https://samlab.ws/soft/hwinfo/",
+    "title": "SamLab.ws - HWiNFO 8.33.5860 Beta",
+    "date": "2025-11-08T21:40:28.038+06:00",
     "og:title": "",
     "og:image": "",
     "og:description": "",
@@ -27864,9 +28524,31 @@
   },
   {
     "hostname": "samlab.ws",
+    "url": "https://samlab.ws/soft/mkvtool/",
+    "title": "SamLab.ws - MKVToolNix 96.0",
+    "date": "2025-11-08T21:40:27.998+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "samlab.ws",
     "url": "https://samlab.ws/soft/mp3tags/",
     "title": "SamLab.ws - Mp3tag 3.31h Beta",
     "date": "2025-11-06T02:16:36.169+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "samlab.ws",
+    "url": "https://samlab.ws/soft/mpcbe/",
+    "title": "SamLab.ws - MPC-BE 1.8.8.8 Dev",
+    "date": "2025-11-08T21:40:28.035+06:00",
     "og:title": "",
     "og:image": "",
     "og:description": "",
@@ -27963,6 +28645,17 @@
   },
   {
     "hostname": "samlab.ws",
+    "url": "https://samlab.ws/soft/realteknet/",
+    "title": "SamLab.ws - Realtek Ethernet PCI Drivers 11.27 W11 + 10.077 W10 + 8.100 W8.x + 7.154 W7 + 106.35 Vista + 5.836 XP",
+    "date": "2025-11-08T21:40:28.081+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "samlab.ws",
     "url": "https://samlab.ws/soft/samdrivers/",
     "title": "SamLab.ws - !ДРАЙВЕРЫ! SamDrivers 25.11",
     "date": "2025-11-04T05:18:35.844+06:00",
@@ -28007,6 +28700,17 @@
   },
   {
     "hostname": "samlab.ws",
+    "url": "https://samlab.ws/soft/siw/",
+    "title": "SamLab.ws - SIW 15.9.1009e",
+    "date": "2025-11-08T21:40:28.068+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "samlab.ws",
     "url": "https://samlab.ws/soft/smartftp/",
     "title": "SamLab.ws - SmartFTP 10.0.3296",
     "date": "2025-11-07T02:04:50.218+06:00",
@@ -28040,9 +28744,31 @@
   },
   {
     "hostname": "samlab.ws",
+    "url": "https://samlab.ws/soft/thebat/",
+    "title": "SamLab.ws - The Bat! 11.4.3.5 Beta",
+    "date": "2025-11-08T21:40:28.075+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "samlab.ws",
     "url": "https://samlab.ws/soft/thunderbird/",
     "title": "SamLab.ws - Thunderbird 145.0 Beta 4",
     "date": "2025-11-06T02:16:36.134+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "samlab.ws",
+    "url": "https://samlab.ws/soft/tixati/",
+    "title": "SamLab.ws - Tixati 3.39",
+    "date": "2025-11-08T21:40:28.011+06:00",
     "og:title": "",
     "og:image": "",
     "og:description": "",
@@ -28087,6 +28813,17 @@
     "url": "https://samlab.ws/soft/wisecare/",
     "title": "SamLab.ws - Wise Care 365 Free 7.3.2.716",
     "date": "2025-11-07T02:04:50.343+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "samlab.ws",
+    "url": "https://samlab.ws/soft/wysiwyg/",
+    "title": "SamLab.ws - WYSIWYG Web Builder 20.3.3",
+    "date": "2025-11-08T21:40:28.087+06:00",
     "og:title": "",
     "og:image": "",
     "og:description": "",
@@ -28279,6 +29016,17 @@
     "og:description": "ESM-only, 29% lighter, module automocking, and more",
     "og:url": "https://storybook.js.org/blog/storybook-10/",
     "og:type": "article"
+  },
+  {
+    "hostname": "strelec.ucoz.ru",
+    "url": "https://strelec.ucoz.ru/forum/73-267727-1",
+    "title": "Pegasun System Utilities 9.3.1 - Форум",
+    "date": "2025-11-08T21:49:21.257+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
   },
   {
     "hostname": "support.microsoft.com",
@@ -28777,6 +29525,17 @@
   },
   {
     "hostname": "t-j.ru",
+    "url": "https://t-j.ru/list/veg-rest-spb/",
+    "title": "Топ-8 вегетарианских и веганских кафе Петербурга 2025",
+    "date": "2025-11-08T21:59:58.148+06:00",
+    "og:title": "8 кафе и ресторанов для вегетарианцев в Петербурге",
+    "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/OztNXqV910.veg-rest-spb.og_image.png",
+    "og:description": "Где лучше всего готовят сейтан, горох и чечевицу",
+    "og:url": "https://t-j.ru/list/veg-rest-spb/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "t-j.ru",
     "url": "https://t-j.ru/list/yandex-tech/",
     "title": "Техника «Яндекс Фабрики»: список из 48 устройств, выпускаемых компанией",
     "date": "2025-11-07T02:35:10.414+06:00",
@@ -28799,6 +29558,17 @@
   },
   {
     "hostname": "t-j.ru",
+    "url": "https://t-j.ru/massmarket-items-of-the-week-1/",
+    "title": "Новинки массмаркета 27 октября — 9 ноября 2025",
+    "date": "2025-11-08T21:59:59.475+06:00",
+    "og:title": "Эти вещи — повод радоваться холодной погоде",
+    "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/og_image-massmarket-items-of-the-week-1.png",
+    "og:description": "Вторая коллаборация Zarina и Александра Рогова, инфантильный трикотаж Befree и цветочные мотивы Chois",
+    "og:url": "https://t-j.ru/massmarket-items-of-the-week-1/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "t-j.ru",
     "url": "https://t-j.ru/medicube/",
     "title": "Medicube: что за гаджет, эффективность, где купить аналоги",
     "date": "2025-11-01T07:52:54.306+06:00",
@@ -28817,6 +29587,17 @@
     "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/men-flannel-shirts-og_image-.png",
     "og:description": "От 1 793 ₽",
     "og:url": "https://t-j.ru/men-flannel-shirts/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "t-j.ru",
+    "url": "https://t-j.ru/mens-watch-brands/",
+    "title": "Топ-12 лучших брендов мужских часов: рейтинг 2025",
+    "date": "2025-11-08T21:59:59.47+06:00",
+    "og:title": "12 лучших брендов мужских часов",
+    "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/ITsZf6nzKk.mens-watch-brands.og_image.png",
+    "og:description": "Часы за разумные деньги могут быть произведением искусства с душой, характером и историей",
+    "og:url": "https://t-j.ru/mens-watch-brands/",
     "og:type": "article"
   },
   {
@@ -28883,6 +29664,17 @@
     "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/pCWdS2h16_.banki-dobraya-volya.og_image.png",
     "og:description": "5% от суммы транзакции, но не более 5 000 ₽",
     "og:url": "https://t-j.ru/news/banki-dobraya-volya/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "t-j.ru",
+    "url": "https://t-j.ru/news/best-moscow-rest-2025/",
+    "title": "Лучшие рестораны Москвы по версии премии Where to Eat 2025: топ-10",
+    "date": "2025-11-08T21:59:58.76+06:00",
+    "og:title": "Лучшие рестораны Москвы по версии премии Where to Eat 2025",
+    "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/UNcKIL8E4D.best-moscow-rest-2025.og_image.png",
+    "og:description": "Olluco, «За крышей», Sage и еще 7 ресторанов, где вы должны поесть",
+    "og:url": "https://t-j.ru/news/best-moscow-rest-2025/",
     "og:type": "article"
   },
   {
@@ -29052,6 +29844,17 @@
   },
   {
     "hostname": "t-j.ru",
+    "url": "https://t-j.ru/news/ozon-first-dividends/",
+    "title": "Ozon выплатит дивиденды — впервые в истории компании",
+    "date": "2025-11-08T21:59:59.76+06:00",
+    "og:title": "Ozon может заплатить первые дивиденды в истории компании",
+    "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/6HBynaiGSZ.ozon-first-dividends.og_image.png",
+    "og:description": "Крупный акционер может быть заинтересован в дивидендах",
+    "og:url": "https://t-j.ru/news/ozon-first-dividends/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "t-j.ru",
     "url": "https://t-j.ru/news/peterburg-cuba-venezuela/",
     "title": "Рейс Петербург — Каракас: цена билета, как купить",
     "date": "2025-11-06T03:27:59.306+06:00",
@@ -29092,6 +29895,28 @@
     "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/-v4llLMB9S.push-card-reissue.og_image.png",
     "og:description": "Карты «Почта-банка» перестанут работать",
     "og:url": "https://t-j.ru/news/push-card-reissue/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "t-j.ru",
+    "url": "https://t-j.ru/news/push-museum-shagal/",
+    "title": "Выставка Марка Шагала откроется в Пушкинском музее Москвы",
+    "date": "2025-11-08T21:59:59.479+06:00",
+    "og:title": "Пушкинский музей впервые за 40 лет откроет моновыставку Марка Шагала",
+    "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/jiClCTKCpN.push-museum-shagal.og_image.png",
+    "og:description": "Некоторые работы ранее не выставлялись",
+    "og:url": "https://t-j.ru/news/push-museum-shagal/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "t-j.ru",
+    "url": "https://t-j.ru/news/road-of-life-2026/",
+    "title": "Марафон «Дорога жизни» в 2026: дата проведения, регистрация",
+    "date": "2025-11-08T21:59:59.473+06:00",
+    "og:title": "Зимний марафон «Дорога жизни» открыл регистрацию на 2026 год: он пройдет 25 января",
+    "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/jTrMgDpuxk.road-of-life-2026.og_image.png",
+    "og:description": "Забег традиционно проведут в Ленинградской области",
+    "og:url": "https://t-j.ru/news/road-of-life-2026/",
     "og:type": "article"
   },
   {
@@ -29635,6 +30460,17 @@
   },
   {
     "hostname": "t-j.ru",
+    "url": "https://t-j.ru/top-shares-moex-nov-2025/",
+    "title": "Какие акции выгодно покупать в ноябре 2025 года: 5 самых перспективных на Мосбирже",
+    "date": "2025-11-08T21:59:59.789+06:00",
+    "og:title": "Самые перспективные акции на Мосбирже в ноябре 2025. Мнения инвесткомпаний",
+    "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/loibAcMUDV.top-shares-moex-nov-2025.og_image.png",
+    "og:description": "Чем эти акции привлекают аналитиков",
+    "og:url": "https://t-j.ru/top-shares-moex-nov-2025/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "t-j.ru",
     "url": "https://t-j.ru/transactional-analysis/",
     "title": "Транзактный анализ: что это, кто придумал, как работает, плюсы и минусы",
     "date": "2025-11-06T03:27:59.391+06:00",
@@ -30008,6 +30844,28 @@
     "og:type": "website"
   },
   {
+    "hostname": "ux.stackexchange.com",
+    "url": "https://ux.stackexchange.com/questions/155160",
+    "title": "Page not found - User Experience Stack Exchange",
+    "date": "2025-11-08T22:09:47.606+06:00",
+    "og:title": "Page not found",
+    "og:image": "https://ux.stackexchange.com/Content/Sites/ux/Img/apple-touch-icon@2.png?v=6891b06365c4",
+    "og:description": "Q&A for user experience researchers and experts",
+    "og:url": "https://ux.stackexchange.com/questions/155160",
+    "og:type": "website"
+  },
+  {
+    "hostname": "ux.stackexchange.com",
+    "url": "https://ux.stackexchange.com/questions/155161/how-can-subtle-visual-or-tactile-cues-improve-user-comfort-during-long-screen-se",
+    "title": "usability - How can subtle visual or tactile cues improve user comfort during long screen sessions without becoming distracting? - User Experience Stack Exchange",
+    "date": "2025-11-08T22:09:47.477+06:00",
+    "og:title": "How can subtle visual or tactile cues improve user comfort during long screen sessions without becoming distracting?",
+    "og:image": "https://ux.stackexchange.com/Content/Sites/ux/Img/apple-touch-icon@2.png?v=6891b06365c4",
+    "og:description": "Many people experience digital eye strain during long hours in front of screens — often caused by reduced blinking and focus fatigue.\nI’m curious how UX designers approach introducing subtle feedback ",
+    "og:url": "https://ux.stackexchange.com/questions/155161/how-can-subtle-visual-or-tactile-cues-improve-user-comfort-during-long-screen-se",
+    "og:type": "website"
+  },
+  {
     "hostname": "uxdesign.cc",
     "url": "https://uxdesign.cc/a-hippocratic-oath-for-tech-with-teeth-4498fb64ea84",
     "title": "A Hippocratic Oath for tech... with teeth | UX Collective",
@@ -30361,6 +31219,17 @@
   },
   {
     "hostname": "uxdesign.cc",
+    "url": "https://uxdesign.cc/the-invisible-gap-designing-for-users-who-reconstruct-not-just-read-deae09b93a93",
+    "title": "The invisible gap: Designing for users who reconstruct, not just read | by Lisa Vorobeva | Nov, 2025 | UX Collective",
+    "date": "2025-11-08T22:10:04.006+06:00",
+    "og:title": "The invisible gap: Designing for users who reconstruct, not just read",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*AxBc9ygNg7C1OaiZL2e6Pg.jpeg",
+    "og:description": "Understanding the hidden cognitive work behind every interaction with your content",
+    "og:url": "https://uxdesign.cc/the-invisible-gap-designing-for-users-who-reconstruct-not-just-read-deae09b93a93",
+    "og:type": "article"
+  },
+  {
+    "hostname": "uxdesign.cc",
     "url": "https://uxdesign.cc/the-masked-side-of-design-leadership-ea3969688f2f",
     "title": "The masked side of design leadership | by Jose Coronado | UX Collective",
     "date": "2025-11-05T03:18:29.73+06:00",
@@ -30445,6 +31314,17 @@
     "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*BGEhBQVOqO5HBCy_KYWH6g.png",
     "og:description": "I stopped typing URLs after 3 days.",
     "og:url": "https://uxdesign.cc/what-perplexitys-ai-browser-reveals-about-ux-s-future-d7a702529a4a",
+    "og:type": "article"
+  },
+  {
+    "hostname": "uxdesign.cc",
+    "url": "https://uxdesign.cc/what-the-marble-machine-can-teach-us-about-design-automation-and-creativity-a394ba1563ff",
+    "title": "What the Marble Machine Teaches Us About Creativity | UX Collective",
+    "date": "2025-11-08T22:10:04.094+06:00",
+    "og:title": "What the Marble Machine can teach us about design, automation, and creativity",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*WmocKxRx4pfUVR3qWzlZ6A.jpeg",
+    "og:description": "Even in an automated world, creativity needs imperfection.",
+    "og:url": "https://uxdesign.cc/what-the-marble-machine-can-teach-us-about-design-automation-and-creativity-a394ba1563ff",
     "og:type": "article"
   },
   {
@@ -30753,6 +31633,28 @@
     "og:image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOpZkfkOPKPp8lpEr6oPGskLDQhtlXnuGqnSfle-CuXD4R3CXgrsdRZVFUXr81xETu4Vx3JvUSw8Rg-Tu4iBkSFWtTjvw3uL7W_2W7vubpQFH78aQvkE8ps0Qg8ai0Q0_VogwwErF8I7VX/w1200-h630-p-k-no-nu/acrobat2021.png",
     "og:description": "Adobe Acrobat Pro  — это комплексное решение для работы с документами PDF на настольных ПК, мобильных устройствах и в веб-браузерах. Програм...",
     "og:url": "https://w17.monkrus.ws/2025/11/adobe-acrobat-pro-2025-v25120844-x86.html",
+    "og:type": ""
+  },
+  {
+    "hostname": "w17.monkrus.ws",
+    "url": "https://w17.monkrus.ws/2025/11/autodesk-inventor-pro-20262-rus-eng.html",
+    "title": "Autodesk Inventor Pro 2026.2 RUS-ENG :: Варез от m0nkrus'a [Warez by m0nkrus]",
+    "date": "2025-11-08T21:49:23.253+06:00",
+    "og:title": "Autodesk Inventor Pro 2026.2 RUS-ENG",
+    "og:image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5nuUSWYH5MHaQwbnj7naSbdMm6Wn0nG3XdrYS3Fvh-ClnyN1ObHT4IS-vOu285SA8UMmPsbApBi_kPLckNa2yWqLfqkRQOTVfswmq0OmLSfGoWZjAEO-rEiIW8Q0HVWY_haf5HuQi2N1ar9yc3oaOqhQYfeymvOG_1FI2tI3rpfcJF0lQqa6Pxt8tLg/w1200-h630-p-k-no-nu/inventor-pro2023.png",
+    "og:description": "Autodesk Inventor Pro  – это всеобъемлющий комплект решений для машиностроительного 3D-проектирования и выпуска документации, разработки каб...",
+    "og:url": "https://w17.monkrus.ws/2025/11/autodesk-inventor-pro-20262-rus-eng.html",
+    "og:type": ""
+  },
+  {
+    "hostname": "w17.monkrus.ws",
+    "url": "https://w17.monkrus.ws/2025/11/windows-81-rus-eng-x86-x64-20in1.html",
+    "title": "Windows 8.1 RUS-ENG x86-x64 -20in1- SevenMod v5 (AIO) :: Варез от m0nkrus'a [Warez by m0nkrus]",
+    "date": "2025-11-08T21:49:21.708+06:00",
+    "og:title": "Windows 8.1 RUS-ENG x86-x64 -20in1- SevenMod v5 (AIO)",
+    "og:image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaXJ-tWgan0cARdmdql9a8ZhCbWHJw2r0VlLA-lK-PN81otvTdGK8fDNvTim1oH8FT3dWQs8hsTZDczMN3xo1F33jhXvOF7OXcqq3WB03u9qi6nNtESdgQTSeTABaOj7pk_87jqHgF1C--U5mNyFi24ooH_uPhXjc6HiT_jGGgyS7WuIfP-spZVSkzNg/w1200-h630-p-k-no-nu/eight.gif",
+    "og:description": "C каждым годом становится все меньше железа, на которое можно установить Windows 7. Очень многие современные материнские платы позволяют уст...",
+    "og:url": "https://w17.monkrus.ws/2025/11/windows-81-rus-eng-x86-x64-20in1.html",
     "og:type": ""
   },
   {
@@ -31197,6 +32099,28 @@
   },
   {
     "hostname": "windowsreport.com",
+    "url": "https://windowsreport.com/kb5070300-brings-much-needed-updates-for-smart-app-control-quick-machine-recovery/",
+    "title": "KB5070300 Brings Much-needed Updates for Smart App Control & Quick Machine Recovery",
+    "date": "2025-11-08T21:59:50.595+06:00",
+    "og:title": "KB5070300 Brings Much-needed Updates for Smart App Control & Quick Machine Recovery",
+    "og:image": "https://windowsreport.com/wp-content/uploads/2025/05/Windows-11-25H2-feature-banner.png",
+    "og:description": "KB5070300 update for Windows 11 25H2 brings Quick Machine Recovery fixes and Smart App Control enhancements for faster, safer PC recovery.",
+    "og:url": "https://windowsreport.com/kb5070300-brings-much-needed-updates-for-smart-app-control-quick-machine-recovery/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "windowsreport.com",
+    "url": "https://windowsreport.com/kb5070300-makes-it-easier-for-you-to-see-who-modified-files-in-file-manager/",
+    "title": "KB5070300 Makes it Easier for You to See Who Modified Files in File Manager",
+    "date": "2025-11-08T21:59:50.634+06:00",
+    "og:title": "KB5070300 Makes it Easier for You to See Who Modified Files in File Manager",
+    "og:image": "https://windowsreport.com/wp-content/uploads/2025/04/Windows-11-25H2-update-feature-banner.png",
+    "og:description": "Microsoft's Windows 11 Insider Build 26220.7070 (KB5070300) comes with some small but handy File Explorer improvements.",
+    "og:url": "https://windowsreport.com/kb5070300-makes-it-easier-for-you-to-see-who-modified-files-in-file-manager/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "windowsreport.com",
     "url": "https://windowsreport.com/kb5070349-oobe-update-for-windows-11-24h2-and-25h2-released/",
     "title": "KB5070349 OOBE Update for Windows 11 24H2 and 25H2 Released",
     "date": "2025-11-04T06:08:03.784+06:00",
@@ -31204,6 +32128,17 @@
     "og:image": "https://windowsreport.com/wp-content/uploads/2025/08/Get-ready-for-OOBE-update-screen-2.png",
     "og:description": "KB5070349 enhances the Windows 11 out-of-box setup, improving driver and patch handling during installation.",
     "og:url": "https://windowsreport.com/kb5070349-oobe-update-for-windows-11-24h2-and-25h2-released/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "windowsreport.com",
+    "url": "https://windowsreport.com/keyboard-screenshot-key/",
+    "title": "Keyboard Screenshot Key in Windows 11: How to Use It",
+    "date": "2025-11-08T21:59:51.307+06:00",
+    "og:title": "Keyboard Screenshot Key in Windows 11: How to Use It",
+    "og:image": "https://windowsreport.com/wp-content/uploads/2025/11/keyboard-screenshot-key.jpg",
+    "og:description": "Learn all Windows screenshot shortcuts using the keyboard screenshot key. Capture full screen, active windows, or custom areas easily.",
+    "og:url": "https://windowsreport.com/keyboard-screenshot-key/",
     "og:type": "article"
   },
   {
@@ -31340,6 +32275,17 @@
   },
   {
     "hostname": "windowsreport.com",
+    "url": "https://windowsreport.com/microsoft-edge-puts-copilot-front-and-center-on-the-new-tab-page-but-with-a-twist/",
+    "title": "Microsoft Edge Tests New Copilot Layouts on the New Tab Page",
+    "date": "2025-11-08T21:59:50.052+06:00",
+    "og:title": "Microsoft Edge Puts Copilot Front and Center on the New Tab Page but With a Twist",
+    "og:image": "https://windowsreport.com/wp-content/uploads/2025/11/Microsoft-Edge-Tests-New-Copilot-Layouts-including-sidebar-on-the-New-Tab-Page.png",
+    "og:description": "Microsoft is testing new Copilot layouts in Edge Canary on the New Tab Page with a left sidebar and no settings icon on the right.",
+    "og:url": "https://windowsreport.com/microsoft-edge-puts-copilot-front-and-center-on-the-new-tab-page-but-with-a-twist/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "windowsreport.com",
     "url": "https://windowsreport.com/microsoft-expands-edges-scareware-blocker-to-shield-more-users-from-online-scams/",
     "title": "Microsoft Expands Edge’s Scareware Blocker to Shield More Users from Online Scams",
     "date": "2025-11-04T06:08:03.268+06:00",
@@ -31395,6 +32341,17 @@
   },
   {
     "hostname": "windowsreport.com",
+    "url": "https://windowsreport.com/microsoft-is-moving-photos-viewing-out-of-phone-link-app-to-file-explorer/",
+    "title": "Microsoft is Moving Photos Viewing Out of Phone Link App to File Explorer",
+    "date": "2025-11-08T21:59:50.718+06:00",
+    "og:title": "Microsoft is Moving Photos Viewing Out of Phone Link App to File Explorer",
+    "og:image": "https://windowsreport.com/wp-content/uploads/2025/11/Phone-Link-photo-viewing-moving-to-file-explorer.png",
+    "og:description": "Microsoft is phasing out photo viewing in the Phone Link app, moving the feature to File Explorer for Windows 11 users.",
+    "og:url": "https://windowsreport.com/microsoft-is-moving-photos-viewing-out-of-phone-link-app-to-file-explorer/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "windowsreport.com",
     "url": "https://windowsreport.com/microsoft-launches-anonymous-portal-for-employees-to-raise-concerns-about-its-tech/",
     "title": "Microsoft Launches Anonymous Portal for Employees to Raise Concerns About its Tech",
     "date": "2025-11-07T02:36:49.92+06:00",
@@ -31424,6 +32381,17 @@
     "og:image": "https://windowsreport.com/wp-content/uploads/2025/08/Microsoft-logo.png",
     "og:description": "Microsoft releases SSMS 22 Preview 5 with GitHub Copilot fixes and clarifies its support and update policy for developers.",
     "og:url": "https://windowsreport.com/microsoft-releases-ssms-22-preview-5-with-github-copilot-fixes/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "windowsreport.com",
+    "url": "https://windowsreport.com/microsoft-starts-testing-windows-11-26h1-with-canary-build-28000/",
+    "title": "Microsoft Starts Testing Windows 11 26H1 With Canary Build 28000",
+    "date": "2025-11-08T21:59:50.189+06:00",
+    "og:title": "Microsoft Starts Testing Windows 11 26H1 With Canary Build 28000",
+    "og:image": "https://windowsreport.com/wp-content/uploads/2025/10/Windows-11-26H1.png",
+    "og:description": "Windows 11 version 26H1 enters testing phase with Canary Build 28000, adding platform improvements and key stability fixes for Insiders.",
+    "og:url": "https://windowsreport.com/microsoft-starts-testing-windows-11-26h1-with-canary-build-28000/",
     "og:type": "article"
   },
   {
@@ -31490,6 +32458,17 @@
     "og:image": "https://windowsreport.com/wp-content/uploads/2024/05/Windows-10-wallpaper-1.png",
     "og:description": "A Windows 10 Settings bug incorrectly shows an “End of Support” alert on fully supported systems after KB5066791.",
     "og:url": "https://windowsreport.com/microsoft-windows-10-settings-falsely-shows-an-end-of-support-alert-after-installing-kb5066791/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "windowsreport.com",
+    "url": "https://windowsreport.com/microsofts-october-gdk-update-adds-unified-input-playfab-packaging-tools-more/",
+    "title": "Microsoft’s October GDK Update Adds Unified Input, PlayFab, Packaging Tools & More",
+    "date": "2025-11-08T21:59:51.578+06:00",
+    "og:title": "Microsoft’s October GDK Update Adds Unified Input, PlayFab, Packaging Tools & More",
+    "og:image": "https://windowsreport.com/wp-content/uploads/2025/11/October2025GDK_Hero-1.png",
+    "og:description": "Microsoft and Xbox often release updates for developers, but they don’t always get much attention. This one is different, though. We’re talking about the October 2025 Microsoft Game Development Kit (GDK) release, the latest update for GDK. This release brings improved input, packaging, automated capture, PlayFab, and cross-device user support. Microsoft says this update aims […]",
+    "og:url": "https://windowsreport.com/microsofts-october-gdk-update-adds-unified-input-playfab-packaging-tools-more/",
     "og:type": "article"
   },
   {
@@ -31703,6 +32682,17 @@
   },
   {
     "hostname": "windowsreport.com",
+    "url": "https://windowsreport.com/steam-store-pages-just-become-wider-and-more-cleaner/",
+    "title": "Steam Store Pages Just Become Wider and More Cleaner",
+    "date": "2025-11-08T21:59:50.1+06:00",
+    "og:title": "Steam Store Pages Just Become Wider and More Cleaner",
+    "og:image": "https://windowsreport.com/wp-content/uploads/2025/05/steam_banner_image.jpg",
+    "og:description": "Steam’s latest update widens store pages, improves visuals, and brings consistent layouts across game, search, and bundle sections.",
+    "og:url": "https://windowsreport.com/steam-store-pages-just-become-wider-and-more-cleaner/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "windowsreport.com",
     "url": "https://windowsreport.com/svchost-exe-what-is-it/",
     "title": "What Is Svchost.exe And How to Fix High CPU Usage",
     "date": "2025-11-01T02:16:39.962+06:00",
@@ -31710,6 +32700,17 @@
     "og:image": "https://windowsreport.com/wp-content/uploads/2025/10/svchost.exe-what-is-it.jpg",
     "og:description": "Learn what svchost.exe is, why it runs multiple times in Task Manager, and how to check for malware safely.",
     "og:url": "https://windowsreport.com/svchost-exe-what-is-it/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "windowsreport.com",
+    "url": "https://windowsreport.com/system-maintenance-troubleshooter/",
+    "title": "How to Use Windows 11 System Maintenance Troubleshooter",
+    "date": "2025-11-08T21:59:51.354+06:00",
+    "og:title": "How to Use Windows 11 System Maintenance Troubleshooter",
+    "og:image": "https://windowsreport.com/wp-content/uploads/2025/11/system-maintenance-troubleshooter.jpg",
+    "og:description": "Learn how to run the System Maintenance Troubleshooter on Windows 11 to fix performance and system issues automatically.",
+    "og:url": "https://windowsreport.com/system-maintenance-troubleshooter/",
     "og:type": "article"
   },
   {
@@ -31809,6 +32810,17 @@
     "og:image": "https://windowsreport.com/wp-content/uploads/2025/11/Windows-11-feature-image.png",
     "og:description": "Windows 11’s October update KB5067036 causes Task Manager to stay running in the background and won't quit, impacting performance.",
     "og:url": "https://windowsreport.com/windows-11-kb5067036-keeps-task-manager-running-in-the-background-users-cant-quit-process/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "windowsreport.com",
+    "url": "https://windowsreport.com/windows-11-kb5070300-updates-widget-board-adds-numbered-badges-to-dashboard-icons/",
+    "title": "Windows 11 KB5070300 Updates Widget Board & Adds Numbered Badges to Dashboard Icons",
+    "date": "2025-11-08T21:59:50.591+06:00",
+    "og:title": "Windows 11 KB5070300 Updates Widget Board & Adds Numbered Badges to Dashboard Icons",
+    "og:image": "https://windowsreport.com/wp-content/uploads/2025/11/Windows-11-feature-image.png",
+    "og:description": "KB5070300 updates Windows 11's Widget Board for customization and adds numbered badges to dashboard icons.",
+    "og:url": "https://windowsreport.com/windows-11-kb5070300-updates-widget-board-adds-numbered-badges-to-dashboard-icons/",
     "og:type": "article"
   },
   {
@@ -32172,6 +33184,17 @@
     "og:image": "https://assets.awwwards.com/awards/submissions/2025/09/68d3bbda420b5091092924.jpg",
     "og:description": "Kaleida is an award winning global experiential company with a unique specialism in holographic and immersive experiences.",
     "og:url": "https://www.awwwards.com/sites/kaleida",
+    "og:type": "website"
+  },
+  {
+    "hostname": "www.awwwards.com",
+    "url": "https://www.awwwards.com/sites/mantis",
+    "title": "Mantis - Awwwards SOTD",
+    "date": "2025-11-08T22:10:20.603+06:00",
+    "og:title": "Mantis - Awwwards SOTD",
+    "og:image": "https://assets.awwwards.com/awards/submissions/2025/09/68c64e4e483c8907475446.png",
+    "og:description": "Mantis is an experience studio based out of New York City. We specialize in experiential, digital, and brand, partnering with clients to create deep connections...",
+    "og:url": "https://www.awwwards.com/sites/mantis",
     "og:type": "website"
   },
   {
@@ -34629,6 +35652,28 @@
   },
   {
     "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/art/digital-art/is-the-new-xencelabs-pen-display-16-lite-the-best-4k-oled-tablet-for-digital-artists",
+    "title": "Is the new Xencelabs Pen Display 16 Lite the best 4K OLED tablet for digital artists? | Creative Bloq",
+    "date": "2025-11-08T22:10:22.83+06:00",
+    "og:title": "The battle of 4K OLEDs: Xencelabs joins Wacom and XPPen in the premium drawing tablet race",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/P7vAErZag5qc3k2DsQMWZA-1152-80.jpg",
+    "og:description": "Which bigger, sharper, brighter tablet is best?",
+    "og:url": "https://www.creativebloq.com/art/digital-art/is-the-new-xencelabs-pen-display-16-lite-the-best-4k-oled-tablet-for-digital-artists",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/art/digital-art/you-can-now-get-the-xencelabs-pen-display-16-for-the-price-of-an-ipad-air",
+    "title": "You can now get the Xencelabs Pen Display 16 for the price of an iPad Air | Creative Bloq",
+    "date": "2025-11-08T22:10:22.418+06:00",
+    "og:title": "You can now get the Xencelabs Pen Display 16 for the price of an iPad Air",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/nnDrY7vRCv85QngNqqHgqL-1152-80.jpg",
+    "og:description": "There's a new, cheaper way to get our favourite drawing tablet – but there's a catch.",
+    "og:url": "https://www.creativebloq.com/art/digital-art/you-can-now-get-the-xencelabs-pen-display-16-for-the-price-of-an-ipad-air",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
     "url": "https://www.creativebloq.com/art/digital-art/your-christmas-tree-design-could-be-projected-onto-battersea-power-station",
     "title": "This Apple competition could see your art on an iconic London building | Creative Bloq",
     "date": "2025-11-04T12:24:59.931+06:00",
@@ -34728,6 +35773,17 @@
   },
   {
     "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/design/advertising/sydney-sweeney-finally-addresses-the-backlash-to-that-jeans-ad",
+    "title": "Sydney Sweeney finally addresses the backlash to that jeans ad | Creative Bloq",
+    "date": "2025-11-08T22:10:21.648+06:00",
+    "og:title": "Sydney Sweeney's jeans ad comments reignite the controversy all over again",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/8vMn6t4TGAMbpntJXcbVbb-1152-80.jpg",
+    "og:description": "And the internet is predictably enraged.",
+    "og:url": "https://www.creativebloq.com/design/advertising/sydney-sweeney-finally-addresses-the-backlash-to-that-jeans-ad",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
     "url": "https://www.creativebloq.com/design/branding/5-ways-brands-can-truly-engage-gen-alpha-according-to-a-pro",
     "title": "5 ways brands can truly engage Gen Alpha, according to a pro | Creative Bloq",
     "date": "2025-11-04T12:40:44.573+06:00",
@@ -34735,6 +35791,17 @@
     "og:image": "https://cdn.mos.cms.futurecdn.net/KdfTEJ6djSApixNLYSbLsb-2121-80.jpg",
     "og:description": "How to seem 'cool' to the next generation.",
     "og:url": "https://www.creativebloq.com/design/branding/5-ways-brands-can-truly-engage-gen-alpha-according-to-a-pro",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/design/branding/from-meta-to-pepsico-when-does-a-company-outgrow-its-biggest-brand",
+    "title": "From Meta to PepsiCo: when does a company outgrow its biggest brand? | Creative Bloq",
+    "date": "2025-11-08T22:10:19.596+06:00",
+    "og:title": "When does a company outgrow its biggest brand?",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/CaRgCjLYDf8VJcWf9gyFeJ-1474-80.jpg",
+    "og:description": "Is PepsiCo still just Pepsi to most?",
+    "og:url": "https://www.creativebloq.com/design/branding/from-meta-to-pepsico-when-does-a-company-outgrow-its-biggest-brand",
     "og:type": "article"
   },
   {
@@ -34849,6 +35916,17 @@
   },
   {
     "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/design/graphic-design/new-york-mayor-zohran-mamdanis-branding-is-a-graphic-design-masterclass",
+    "title": "New York mayor Zohran Mamdani's branding is a graphic design masterclass | Creative Bloq",
+    "date": "2025-11-08T22:10:18.188+06:00",
+    "og:title": "Zohran Mamdani's branding is a graphic design masterclass",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/vFwFrA4CaV2yCKUPtbz7kS-1920-80.jpg",
+    "og:description": "Mamdani didn’t just run for office; he built a visual identity.",
+    "og:url": "https://www.creativebloq.com/design/graphic-design/new-york-mayor-zohran-mamdanis-branding-is-a-graphic-design-masterclass",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
     "url": "https://www.creativebloq.com/design/logos-icons/apple-tvs-new-sonic-logo-is-a-certified-banger",
     "title": "Apple TV's new sonic logo is a certified banger | Creative Bloq",
     "date": "2025-11-06T07:56:34.193+06:00",
@@ -34871,6 +35949,17 @@
   },
   {
     "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/design/logos-icons/making-of-video-shows-the-new-apple-tv-logo-is-a-real-glass-act",
+    "title": "Making of video shows the new Apple TV logo is a real glass act | Creative Bloq",
+    "date": "2025-11-08T22:10:19.73+06:00",
+    "og:title": "Making of video shows the new Apple TV logo is a real glass act",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/YjBgwnN48UkgkGH2Rss5QS-1000-80.jpg",
+    "og:description": "Big tech still sees value in craftmanship.",
+    "og:url": "https://www.creativebloq.com/design/logos-icons/making-of-video-shows-the-new-apple-tv-logo-is-a-real-glass-act",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
     "url": "https://www.creativebloq.com/design/logos-icons/quiz-how-well-do-you-know-the-apple-logo",
     "title": "Quiz: How well do you know the Apple logo? | Creative Bloq",
     "date": "2025-11-04T12:24:50.075+06:00",
@@ -34889,6 +35978,17 @@
     "og:image": "https://cdn.mos.cms.futurecdn.net/D7vW97t6giouYaxDpC633m-469-80.jpg",
     "og:description": "Tamagotchi Care Bears are now less than $20.",
     "og:url": "https://www.creativebloq.com/design/product-design/care-bears-digital-pets-might-be-peak-nostalgia-but-im-here-for-it",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/design/product-design/the-3-most-beautiful-pens-in-the-world",
+    "title": "The most beautiful coffee machines in the world | Creative Bloq",
+    "date": "2025-11-08T22:10:19.861+06:00",
+    "og:title": "The 3 most beautiful pens in the world",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/bBbqtvstyD5rXPkqnVENrb-1920-80.jpg",
+    "og:description": "The most stylish writing implements money can buy – and some affordable dupes.",
+    "og:url": "https://www.creativebloq.com/design/product-design/the-3-most-beautiful-pens-in-the-world",
     "og:type": "article"
   },
   {
@@ -34948,6 +36048,17 @@
   },
   {
     "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/entertainment/gaming/nintendo-switch-2-deals-hit-like-a-blue-shell-to-the-back-bumper",
+    "title": "Nintendo Switch 2 deals hit like a blue shell to the back bumper | Creative Bloq",
+    "date": "2025-11-08T22:10:20.413+06:00",
+    "og:title": "Nintendo Switch 2 deals hit like a blue shell to the back bumper",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/dDaQHiJAMDfdXELg6e7Kxi-2560-80.jpg",
+    "og:description": "Get money off consoles, games and accessories at Currys",
+    "og:url": "https://www.creativebloq.com/entertainment/gaming/nintendo-switch-2-deals-hit-like-a-blue-shell-to-the-back-bumper",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
     "url": "https://www.creativebloq.com/entertainment/ive-spent-all-morning-trying-to-beat-the-pac-man-halloween-google-doodle-and-im-not-sorry",
     "title": "I’ve spent all morning trying to beat the Pac-Man Halloween Google Doodle, and I’m not sorry | Creative Bloq",
     "date": "2025-11-01T04:22:12.376+06:00",
@@ -34955,6 +36066,17 @@
     "og:image": "https://cdn.mos.cms.futurecdn.net/VCkdfE7wp5BBXdJ3KYCfnm-1152-80.jpg",
     "og:description": "Retro game fans will love this Google Doodle.",
     "og:url": "https://www.creativebloq.com/entertainment/ive-spent-all-morning-trying-to-beat-the-pac-man-halloween-google-doodle-and-im-not-sorry",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/entertainment/vfx/how-deadpools-director-went-from-drawing-playboy-centrefolds-to-making-hit-movies-and-series",
+    "title": "How Deadpool's director went from drawing Playboy centrefolds to making hit movies and series | Creative Bloq",
+    "date": "2025-11-08T22:10:19.316+06:00",
+    "og:title": "How Deadpool's director went from drawing Playboy centrefolds to making hit movies and series",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/RunpueM9UmS2dFiFjnMzwT-1700-80.jpg",
+    "og:description": "Tim Miller explains how his career evolved and offers some advice for emerging artists.",
+    "og:url": "https://www.creativebloq.com/entertainment/vfx/how-deadpools-director-went-from-drawing-playboy-centrefolds-to-making-hit-movies-and-series",
     "og:type": "article"
   },
   {
@@ -34988,6 +36110,17 @@
     "og:image": "https://cdn.mos.cms.futurecdn.net/mASzjPCinVfuUwUZShXiCH-2560-80.jpg",
     "og:description": "Made by the OG gaming chair makers, the DXRacer Master is a gaming chair for grown ups.",
     "og:url": "https://www.creativebloq.com/tech/chairs-desks/im-not-usually-a-fan-of-gaming-chairs-but-this-one-is-surprisingly-great",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/tech/headphones-earbuds/a-month-with-airpods-pro-3-how-do-they-hold-up",
+    "title": "A month with AirPods Pro 3 – how do they hold up? | Creative Bloq",
+    "date": "2025-11-08T22:10:22.711+06:00",
+    "og:title": "A month with AirPods Pro 3 – how do they hold up?",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/hdnE74YSJN3nhLoBxGxiCA-1400-80.jpg",
+    "og:description": "Not perfect... but almost.",
+    "og:url": "https://www.creativebloq.com/tech/headphones-earbuds/a-month-with-airpods-pro-3-how-do-they-hold-up",
     "og:type": "article"
   },
   {
@@ -35278,6 +36411,17 @@
   },
   {
     "hostname": "www.csswinner.com",
+    "url": "https://www.csswinner.com/details/more-nutrition/18928",
+    "title": "More Nutrition - CSS Winner",
+    "date": "2025-11-08T22:10:20.182+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.csswinner.com",
     "url": "https://www.csswinner.com/details/overseas/18916",
     "title": "Overseas - CSS Winner",
     "date": "2025-11-02T05:23:29.889+06:00",
@@ -35362,6 +36506,17 @@
     "og:image": "https://imagescdn.designweek.co.uk/uploads/2025/07/composit_app_screenshot_02.jpg?fit=crop&crop=faces&q=45&auto=compress,format&cs=origin&w=1024&h=756",
     "og:description": "Designer Craig Ward has created a colour-led moodboarding tool to recapture the serendipity of creative work. The Bath-based design director first made Composit for himself…",
     "og:url": "https://www.designweek.co.uk/craig-wards-moodboard-tool-aims-to-recreate-old-school-serendipity/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/blog/2023/09/23/uup-dump-down-hier-die-ersatz-loesung/",
+    "title": "UUP Dump down - Here the (replacement) solution [Update] - Deskmodder.de",
+    "date": "2025-11-08T16:01:03.091+06:00",
+    "og:title": "UUP Dump down - Hier die (Ersatz) Lösung [Update]",
+    "og:image": "https://www.deskmodder.de/blog/wp-content/uploads/2022/12/uup-dump-down-uupdump-win32-001.jpg",
+    "og:description": "[Update 23.09.2023]: Da uupdump.net weiterhin down, also nicht erreichbar ist und im Netz einige China-Clone der Seite herumgeistern, hole ich diesen Artikel noch einmal hoch und habe ihn aktualisiert. Denn Paul hat in der Zwischenzeit einiges verändert und vereinfacht. Aber…",
+    "og:url": "https://www.deskmodder.de/blog/2023/09/23/uup-dump-down-hier-die-ersatz-loesung/",
     "og:type": "article"
   },
   {
@@ -35751,6 +36906,17 @@
   },
   {
     "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/blog/2025/11/07/fritzbox-6670-cable-mit-einem-update-aus-dem-labor-zum-wochenende/",
+    "title": "FRITZ! Box 6670 Cable with an update from the lab for the weekend - Deskmodder.de",
+    "date": "2025-11-08T16:01:02.892+06:00",
+    "og:title": "FRITZ!Box 6670 Cable mit einem Update aus dem Labor zum Wochenende",
+    "og:image": "https://www.deskmodder.de/blog/wp-content/uploads/2024/07/fritzbox-6670-cable-labor-neu.jpg",
+    "og:description": "Gestern gab es schon einen Schwung an Updates für die FRITZ!Boxen unter anderem die 6690 Cable und heute folgt dann auch die zweite Kabelbox (FRITZ!Box 6670 Cable) mit einem Labor-Update. Mal sehen ob noch weitere Boxen heute folgen werden. Die…",
+    "og:url": "https://www.deskmodder.de/blog/2025/11/07/fritzbox-6670-cable-mit-einem-update-aus-dem-labor-zum-wochenende/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.deskmodder.de",
     "url": "https://www.deskmodder.de/blog/2025/11/07/gta-6-rockstar-verschiebt-veroeffentlichung-auf-november-2026/",
     "title": "GTA 6: Rockstar postpones release on November 2026 - Deskmodder.de",
     "date": "2025-11-07T09:33:24.672+06:00",
@@ -35758,6 +36924,17 @@
     "og:image": "https://www.deskmodder.de/blog/wp-content/uploads/2025/11/gta6.jpg",
     "og:description": "Rockstar Games verschiebt GTA 6 auf November 2026. Die Entwickler wollen mehr Feinschliff und versprechen ein technisch wie erzählerisch ausgereiftes Spiel – Vice City kehrt zurück.",
     "og:url": "https://www.deskmodder.de/blog/2025/11/07/gta-6-rockstar-verschiebt-veroeffentlichung-auf-november-2026/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/blog/2025/11/07/kb5070300-windows-11-25h2-manueller-download-als-26220-7070-zum-wochenende/",
+    "title": "KB5070300 Windows 11 25H2 [Manual download] as 26220.7070 for the weekend - Deskmodder.de",
+    "date": "2025-11-08T16:01:02.888+06:00",
+    "og:title": "KB5070300 Windows 11 25H2 [Manueller Download] als 26220.7070 zum Wochenende",
+    "og:image": "https://www.deskmodder.de/blog/wp-content/uploads/2022/10/update-logo-beta.png",
+    "og:description": "Gerade erst vorgestern gab es ein Test-Update für die Windows 11 25H2 26220 Beta (und noch Dev). Heute folgt dafür wieder ein richtiges Update. Denn durch die KB 5070300 wird die Versionsnummer auf die Windows 11 25H2 26220.7070 erhöht. Gibt…",
+    "og:url": "https://www.deskmodder.de/blog/2025/11/07/kb5070300-windows-11-25h2-manueller-download-als-26220-7070-zum-wochenende/",
     "og:type": "article"
   },
   {
@@ -35770,6 +36947,50 @@
     "og:description": "Gestern Abend hat Microsoft für den Edge Browser ein neues Update auf die Version 142.0.3595.65 bereitgestellt. Anders als beim Google Chrome wurden hier „nur“ drei Sicherheitslücken geschlossen. Das liegt daran, dass der Edge keine Chrome-Dienste beinhaltet. Nachdem vor einer Woche…",
     "og:url": "https://www.deskmodder.de/blog/2025/11/07/microsoft-edge-142-0-3595-65-korrigiert-3-sicherheitsluecken-und-unterstuetzt-jetzt-die-inline-pureview-richtlinien/",
     "og:type": "article"
+  },
+  {
+    "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/blog/2025/11/07/windows-11-26h1-28000-als-neue-insider-im-canary-kanal/",
+    "title": "Windows 11 26H1 28000 as new insiders in the Canary channel - Deskmodder.de",
+    "date": "2025-11-08T16:01:02.885+06:00",
+    "og:title": "Windows 11 26H1 28000 als neue Insider im Canary Kanal",
+    "og:image": "https://www.deskmodder.de/blog/wp-content/uploads/2023/03/insider-logo-canary.png",
+    "og:description": "Die Canary erhält endlich mal eine runde Nummer. Microsoft hat die neue Insider Build Windows 11 28000.1, genauer die 10.0.28000.1 br_release zum Download bereitgestellt. Kompiliert wurde sie am 3.11.25. Also noch ganz frisch. Bei dieser Version könnte es sich durchaus…",
+    "og:url": "https://www.deskmodder.de/blog/2025/11/07/windows-11-26h1-28000-als-neue-insider-im-canary-kanal/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/blog/2025/11/08/intel-grafiktreiber-32-0-101-7080-whql-fuer-die-11-14-cpu-generation-wurde-veroeffentlicht/",
+    "title": "Intel graphics driver 32.0.101.7080 WHQL for the 11.-14. CPU generation has been released - Deskmodder.de",
+    "date": "2025-11-08T16:01:02.877+06:00",
+    "og:title": "Intel Grafiktreiber 32.0.101.7080 WHQL für die 11.-14. CPU-Generation wurde veröffentlicht",
+    "og:image": "https://www.deskmodder.de/blog/wp-content/uploads/2021/08/intel-logo-neu-500x327-1.jpg",
+    "og:description": "Intel hat für die 11.-14. CPU-Generation einen neuen Grafiktreiber bereitgestellt. Es handelt sich dabei um die Version 32.0.101.7080, die als WHQL veröffentlicht wurde. Viel gibt es nicht zu berichten. Denn ein Problem in DOTA 2 wurde korrigiert. Dafür bleiben aber…",
+    "og:url": "https://www.deskmodder.de/blog/2025/11/08/intel-grafiktreiber-32-0-101-7080-whql-fuer-die-11-14-cpu-generation-wurde-veroeffentlicht/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/blog/2025/11/08/windows-11-26h1-28000-iso-esd-deutsch-english/",
+    "title": "Windows 11 26H1 28000 ISO / ESD (German, english) - Deskmodder.de",
+    "date": "2025-11-08T16:01:02.864+06:00",
+    "og:title": "Windows 11 26H1 28000 ISO / ESD (deutsch, english)",
+    "og:image": "https://www.deskmodder.de/blog/wp-content/uploads/2021/10/windows-11-logo-2-500x281-1.jpg",
+    "og:description": "Es wird sicherlich viele verwirren, eine H1 zu sehen. Denn Microsoft hatte ja gesagt, es wird nur noch eine xxH2 geben. Dabei bleibt es aber auch. Denn die 26H1 ist eine spezielle Version, die nur unter anderem Qualcomms Snapdragon X2…",
+    "og:url": "https://www.deskmodder.de/blog/2025/11/08/windows-11-26h1-28000-iso-esd-deutsch-english/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/wiki/index.php?title=Windows_11_oder_10_ISO_selbst_erstellen_Anleitung",
+    "title": "Windows 11 or 10 ISO Create your own manual Deskmodder Wiki",
+    "date": "2025-11-08T16:01:02.908+06:00",
+    "og:title": "Windows 11 oder 10 ISO selbst erstellen Anleitung",
+    "og:image": "https://www.deskmodder.de/wiki/skins/common/images/wiki.png",
+    "og:description": "",
+    "og:url": "https://www.deskmodder.de/wiki/index.php?title=Windows_11_oder_10_ISO_selbst_erstellen_Anleitung",
+    "og:type": ""
   },
   {
     "hostname": "www.digitalinformationworld.com",
@@ -38589,6 +39810,17 @@
   },
   {
     "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/products/ai-context-flow",
+    "title": "AI Context Flow: Reusable AI Memory for Smarter Prompts Anywhere | Product Hunt",
+    "date": "2025-11-08T21:59:56.35+06:00",
+    "og:title": "AI Context Flow: Reusable AI Memory for Smarter Prompts Anywhere | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/5922757d-245a-43ec-bb53-0ba9b842a0e7.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "Stop explaining yourself to every AI like it's the first day of school. Over 1 billion users repeat the same context everywhere. AI Context Flow lets you save it once, and use it anywhere: ChatGPT, Claude, Gemini, and more. Smarter chats, zero repetition. Finally.",
+    "og:url": "https://www.producthunt.com/products/ai-context-flow",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.producthunt.com",
     "url": "https://www.producthunt.com/products/ai-powered-form-that-fills-itself",
     "title": "Aden: Workforce certification by AI training agent | Product Hunt",
     "date": "2025-11-04T05:12:55.213+06:00",
@@ -38776,6 +40008,17 @@
   },
   {
     "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/products/compyle-2",
+    "title": "Compyle: AI coding agent that actually collaborates with you | Product Hunt",
+    "date": "2025-11-08T21:59:53.784+06:00",
+    "og:title": "Compyle: AI coding agent that actually collaborates with you | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/e69f830a-8ce2-4bd1-bc45-2a7e3e374970.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "Compyle is a question-driven coding agent built for complex, open-ended work. Unlike other agents that run wild with assumptions, Compyle asks before it builds - clarifying requirements, confirming decisions, and keeping you in control. The result? Code you actually understand and can build on. No more 2k-line black boxes or complete rewrites. Perfect for building features, products, or working in existing codebases where understanding matters.",
+    "og:url": "https://www.producthunt.com/products/compyle-2",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.producthunt.com",
     "url": "https://www.producthunt.com/products/context-link",
     "title": "Context Link: Personal URLs for sharing context with AI | Product Hunt",
     "date": "2025-11-05T08:57:52.268+06:00",
@@ -38908,6 +40151,28 @@
   },
   {
     "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/products/focusdrive",
+    "title": "FocusDrive: Simulate car journeys for deep focus sessions | Product Hunt",
+    "date": "2025-11-08T21:59:53.864+06:00",
+    "og:title": "FocusDrive: Simulate car journeys for deep focus sessions | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/9ade57c3-00d5-4b92-a797-4635b076b680.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "Plan a route, start a drive, and stay focused with simulated car journeys.",
+    "og:url": "https://www.producthunt.com/products/focusdrive",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/products/gempod",
+    "title": "Gempod: A treasure chest for your bookmarks | Product Hunt",
+    "date": "2025-11-08T21:59:54.424+06:00",
+    "og:title": "Gempod: A treasure chest for your bookmarks | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/0a2623db-6fb8-4819-9b70-ada54131362f.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "Save, organize, and find your bookmarks with AI-powered tagging. Private, secure, and free. Available for iPhone, iPad, and Mac with on-device AI.",
+    "og:url": "https://www.producthunt.com/products/gempod",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.producthunt.com",
     "url": "https://www.producthunt.com/products/gitlaw",
     "title": "GitLaw: Agent + templates + workflow. Making legal documents free. | Product Hunt",
     "date": "2025-11-05T08:57:52.1+06:00",
@@ -38937,6 +40202,17 @@
     "og:image": "https://ph-files.imgix.net/038de622-0a1e-4dbf-944a-c6783cb60804.png?auto=format&fit=crop&frame=1&h=512&w=1024",
     "og:description": "Groodles is an art-based therapeutic app promoting mindfulness and self-discovery. It offers guided exercises on a user-friendly canvas, with voice instructions and hundreds of illustrations. Get into a state of calm and unlock a better you.",
     "og:url": "https://www.producthunt.com/products/groodles-art-therapy-app",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/products/gta-radio-2",
+    "title": "GTA Radio: Listen to GTA V radio stations in your browser anytime | Product Hunt",
+    "date": "2025-11-08T21:59:53.859+06:00",
+    "og:title": "GTA Radio: Listen to GTA V radio stations in your browser anytime | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/3c995d56-0faf-48c5-982e-f2962dcb5ced.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "Stream all your favorite GTA V radio stations in your browser. Interactive radio wheel interface with 17 stations. Works on desktop and mobile as a PWA.",
+    "og:url": "https://www.producthunt.com/products/gta-radio-2",
     "og:type": "article"
   },
   {
@@ -38981,6 +40257,17 @@
     "og:image": "https://ph-files.imgix.net/d6521148-10e5-4dca-88a9-773faca15fdb.png?auto=format&fit=crop&frame=1&h=512&w=1024",
     "og:description": "Jinna.ai is built to get you paid faster. Talk, type, or upload a file to create an invoice. Make it yours: add a logo, photo, video, signature, even music. Include bank details or a Stripe payment link for instant payment. Jinna sends it via link or crafts a friendly email to your client. When needed, she follows up automatically with smart AI chasing, simple reminder rules, and your chosen tone of voice and timing.",
     "og:url": "https://www.producthunt.com/products/jinna-ai-2",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/products/jolt-3",
+    "title": "Jolt: Track your writing like you track your runs on Strava | Product Hunt",
+    "date": "2025-11-08T21:59:53.853+06:00",
+    "og:title": "Jolt: Track your writing like you track your runs on Strava | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/d4bd7f1a-4ad5-4c82-b97d-55d7fb4f903f.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "Jolt is a new tool for writers to track their flow, focus, and momentum. Combining real-time analytics and motivation, Jolt helps writers show up consistently and bring their stories to life--all without AI writing or suggestions.",
+    "og:url": "https://www.producthunt.com/products/jolt-3",
     "og:type": "article"
   },
   {
@@ -39113,6 +40400,17 @@
     "og:image": "https://ph-files.imgix.net/44741af4-1136-40b4-8948-9fae86a0baff.png?auto=format&fit=crop&frame=1&h=512&w=1024",
     "og:description": "Odyssey is a new AI lab launching a research preview of real-time interactive video. Powered by a world model, it generates explorable video experiences you can influence.",
     "og:url": "https://www.producthunt.com/products/odyssey-5",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/products/onesnap",
+    "title": "OneSnap!: Link your phones, snap better pictures together | Product Hunt",
+    "date": "2025-11-08T21:59:54.313+06:00",
+    "og:title": "OneSnap!: Link your phones, snap better pictures together | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/5db413e0-9305-4b04-ade5-142fe34697eb.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "Not getting the shot right? With OneSnap!, you can preview your friend’s camera view in real time and guide the pose and framing. Capture the moment—perfectly, together. OneSnap! recreates the “remote preview + shutter” experience from Apple Watch, but extends it to two phones: You see the frame here. They shoot over there. Clear communication, better photos, together.",
+    "og:url": "https://www.producthunt.com/products/onesnap",
     "og:type": "article"
   },
   {
@@ -39271,6 +40569,17 @@
   },
   {
     "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/products/shadcnblocks-2",
+    "title": "Shadcnblocks: The ultimate block set for shadcn/ui, Tailwind, and React | Product Hunt",
+    "date": "2025-11-08T21:59:54.428+06:00",
+    "og:title": "Shadcnblocks: The ultimate block set for shadcn/ui, Tailwind, and React | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/3b2296df-895d-4c2b-b32f-1c349bf2066f.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "Explore a premium collection of uniquely crafted blocks and components, custom-built for shadcn/ui, Tailwind, and React. Designed, developed and reviewed by our team, these high-quality, interactive, and fully responsive components are ready to copy and paste seamlessly into your project or install via the shadcn CLI.",
+    "og:url": "https://www.producthunt.com/products/shadcnblocks-2",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.producthunt.com",
     "url": "https://www.producthunt.com/products/sidemail-io",
     "title": "Sidemail: Email delivery made simple for startups | Product Hunt",
     "date": "2025-11-04T05:12:56.647+06:00",
@@ -39344,6 +40653,17 @@
     "og:image": "https://ph-files.imgix.net/818c2de5-1a1a-4fde-9d1a-4e9d79363510.webp?auto=format&fit=crop&frame=1&h=512&w=1024",
     "og:description": "SpotiDost is a fast and simple Spotify to MP3 downloader for tracks, albums and playlists. Paste a Spotify link, click Download, and grab the songs you love. Currently SpotiDost supports Single Tracks, Playlists & Album Songs! You can download unlimited number of Spotify Songs using our tool.",
     "og:url": "https://www.producthunt.com/products/spotidost",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/products/storymotion",
+    "title": "StoryMotion: Engaging Animated Diagrams, Flowcharts Made Easy | Product Hunt",
+    "date": "2025-11-08T21:59:54.432+06:00",
+    "og:title": "StoryMotion: Engaging Animated Diagrams, Flowcharts Made Easy | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/d36a744a-8aa3-43a2-a959-98601b3194a6.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "Create animated diagrams and flowcharts with hand-drawn style. Export as videos for presentations, courses, and social media",
+    "og:url": "https://www.producthunt.com/products/storymotion",
     "og:type": "article"
   },
   {
@@ -39432,6 +40752,17 @@
     "og:image": "https://ph-files.imgix.net/d9406a58-03a8-479b-a405-16f39fcb313d.png?auto=format&fit=crop&frame=1&h=512&w=1024",
     "og:description": "Theysaid is more than a survey, it's an opportunity to engage your customers, employees, donors, and etc. Training AI takes less than 1 min by pointing it to URL or internal doc. Your audience can answer and ask questions as if they are talking to you!",
     "og:url": "https://www.producthunt.com/products/theysaid",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/products/turbo-ai-turbolearn-ai-2",
+    "title": "Turbo AI: Turn anything into notes, flashcards, quizzes, and more! | Product Hunt",
+    "date": "2025-11-08T21:59:56.9+06:00",
+    "og:title": "Turbo AI: Turn anything into notes, flashcards, quizzes, and more! | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/36b71702-db23-43dd-bcf4-4709e6528565.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "Turbo AI, also known as Turbolearn AI, is a note taking and study platform with over 5 million users. It generates notes, flashcards, quizzes, and podcasts from any audio, PDFs, and YouTube videos. Try it yourself at www.turbo.ai.",
+    "og:url": "https://www.producthunt.com/products/turbo-ai-turbolearn-ai-2",
     "og:type": "article"
   },
   {
@@ -39575,6 +40906,28 @@
     "og:image": "https://www.quicksprout.com/wp-content/uploads/2025/11/image-6.png",
     "og:description": "AI website builders promise a lot: “Describe your business in a sentence and we’ll generate a beautiful, high-converting site in 30 seconds.” Sometimes you actually get something usable. A lot of the time, you get a generic template with lorem ipsum swapped out for slightly better lorem ipsum. If you’re […]",
     "og:url": "https://www.quicksprout.com/ai-website-builders/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.quicksprout.com",
+    "url": "https://www.quicksprout.com/blog-post-structure-for-ai/",
+    "title": "How to Structure Blog Posts So AI Assistants Actually Cite You",
+    "date": "2025-11-08T22:09:46.868+06:00",
+    "og:title": "How to Structure Blog Posts So AI Assistants Actually Cite You",
+    "og:image": "",
+    "og:description": "Most blog posts are written like someone will read them top-to-bottom. AI assistants don’t read like that. They skim, chunk, and summarize. They’re trying to answer a question in a few seconds by pulling the clearest, most self-contained pieces from the web. If your post is just “pretty good writing,” […]",
+    "og:url": "https://www.quicksprout.com/blog-post-structure-for-ai/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.quicksprout.com",
+    "url": "https://www.quicksprout.com/caching-vs-cdn-vs-web-hosting/",
+    "title": "Caching vs CDN vs Web Hosting: What to Use (and When) for a Faster Website",
+    "date": "2025-11-08T22:09:46.907+06:00",
+    "og:title": "Caching vs CDN vs Web Hosting: What to Use (and When) for a Faster Website",
+    "og:image": "",
+    "og:description": "If you want a faster website, you’ll eventually run into the same three pieces of advice: The problem: almost nobody explains how caching, CDNs, and web hosting actually work together—or which one will make the biggest difference for your site. If you care about website speed optimization, Core Web Vitals, […]",
+    "og:url": "https://www.quicksprout.com/caching-vs-cdn-vs-web-hosting/",
     "og:type": "article"
   },
   {
@@ -39754,6 +41107,17 @@
     "og:type": ""
   },
   {
+    "hostname": "www.sitepoint.com",
+    "url": "https://www.sitepoint.com/measuring-developer-productivity/?utm_source=feedly",
+    "title": "Measuring developer productivity, the old and new",
+    "date": "2025-11-08T22:10:21.806+06:00",
+    "og:title": "Measuring developer productivity, the old and new",
+    "og:image": "https://uploads.sitepoint.com/wp-content/uploads/medium_Measuring_developer_productivity_the_old_and_new_7ef157ab00.png",
+    "og:description": "Learn how to measure developer productivity effectively using DORA metrics instead of traditional methods like ticket counts and story points.",
+    "og:url": "https://www.sitepoint.com/measuring-developer-productivity/",
+    "og:type": ""
+  },
+  {
     "hostname": "www.slo.ru",
     "url": "https://www.slo.ru/files/audio_edit/ocenaudio",
     "title": "ocenaudio - Скачать для Windows и Linux",
@@ -39762,6 +41126,17 @@
     "og:image": "https://www.slo.ru/img/64/ocenaudio.gif",
     "og:description": "Несложный полнофункциональный аудиоредактор. Подойдет широкой аудитории без лишних затруднений отредактировать аудиофайл.",
     "og:url": "https://www.slo.ru/files/audio_edit/ocenaudio",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.slo.ru",
+    "url": "https://www.slo.ru/files/audio_players/dopamine",
+    "title": "Dopamine - Скачать аудиоплеер",
+    "date": "2025-11-08T21:49:26.907+06:00",
+    "og:title": "",
+    "og:image": "https://www.slo.ru/img/64/dopamine.gif",
+    "og:description": "Dopamine — это простой и удобный аудиоплеер, который не содержит излишнего функционала и понравится широкой аудитории.",
+    "og:url": "https://www.slo.ru/files/audio_players/dopamine",
     "og:type": "article"
   },
   {
@@ -39812,7 +41187,7 @@
     "hostname": "www.slo.ru",
     "url": "https://www.slo.ru/files/browsers/microsoft_edge",
     "title": "Microsoft Edge - Скачать бесплатно браузер",
-    "date": "2025-11-07T02:04:50.378+06:00",
+    "date": "2025-11-08T21:49:25.989+06:00",
     "og:title": "Microsoft Edge - Скачать бесплатно браузер",
     "og:image": "https://www.slo.ru/img/64/microsoft_edge.gif",
     "og:description": "Новый браузер от корпорации Microsoft, который теперь построен на основе проекта Chromium компании Google.",
@@ -39942,6 +41317,17 @@
   },
   {
     "hostname": "www.slo.ru",
+    "url": "https://www.slo.ru/files/mail/spark_mail",
+    "title": "Spark Mail - Скачать почтовый клиент",
+    "date": "2025-11-08T21:49:28.605+06:00",
+    "og:title": "Spark Mail - Скачать почтовый клиент",
+    "og:image": "https://www.slo.ru/img/64/spark_mail.gif",
+    "og:description": "Spark Mail — популярный почтовый клиент. Кроссплатформенный, полнофункциональный, с современным интерфейсом.",
+    "og:url": "https://www.slo.ru/files/mail/spark_mail",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.slo.ru",
     "url": "https://www.slo.ru/files/office/typora",
     "title": "Typora - Скачать текстовый процессор",
     "date": "2025-11-01T02:07:57.013+06:00",
@@ -39960,6 +41346,17 @@
     "og:image": "https://www.slo.ru/img/64/bitcomet.gif",
     "og:description": "Торрент-клиент. Программа для работы в P2P-сети BitTorrent. Включает много настроек на все случаи жизни.",
     "og:url": "https://www.slo.ru/files/p2p/bitcomet",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.slo.ru",
+    "url": "https://www.slo.ru/files/p2p/tixati",
+    "title": "Tixati - Скачать бесплатно торрент-клиент",
+    "date": "2025-11-08T21:49:26.516+06:00",
+    "og:title": "Tixati - Скачать бесплатно торрент-клиент",
+    "og:image": "https://www.slo.ru/img/64/tixati.gif",
+    "og:description": "Простой, но функциональный битторрент-клиент. Включает широкие функции управления торрентами и много мелких удобств.",
+    "og:url": "https://www.slo.ru/files/p2p/tixati",
     "og:type": "article"
   },
   {
@@ -40015,6 +41412,28 @@
     "og:image": "https://www.slo.ru/img/64/davinci_resolve.gif",
     "og:description": "Профессиональный видеоредактор. Разработчик — BlackMagic Design — производитель оборудования для видеопроизводства.",
     "og:url": "https://www.slo.ru/files/video_edit/davinci_resolve",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.slo.ru",
+    "url": "https://www.slo.ru/files/video_edit/kdenlive",
+    "title": "Kdenlive - Скачать бесплатно (Windows, Linux)",
+    "date": "2025-11-08T21:49:27.481+06:00",
+    "og:title": "Kdenlive - Скачать бесплатно (Windows, Linux)",
+    "og:image": "https://www.slo.ru/img/64/kdenlive.gif",
+    "og:description": "Kdenlive — полупрофессиональный видеоредактор. Полностью бесплатная программа, построенная на основе открытых проектов.",
+    "og:url": "https://www.slo.ru/files/video_edit/kdenlive",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.slo.ru",
+    "url": "https://www.slo.ru/files/video_edit/losslesscut",
+    "title": "LosslessCut - Скачать для Windows и Linux",
+    "date": "2025-11-08T21:49:26.159+06:00",
+    "og:title": "LosslessCut - Скачать для Windows и Linux",
+    "og:image": "https://www.slo.ru/img/64/losslesscut.gif",
+    "og:description": "LosslessCut — несложный, но мощный инструмент для обрезки видеороликов без потери качества.",
+    "og:url": "https://www.slo.ru/files/video_edit/losslesscut",
     "og:type": "article"
   },
   {
@@ -40081,6 +41500,17 @@
     "og:image": "https://www.slo.ru/news_pics/5681/small.png",
     "og:description": "Компания Samsung выпустила тестовую версию своего нового веб-браузера для Windows. Новинка адресована закоренелым пользователям мобильных устройств от Samsung с их разветвленной инфраструктурой. ",
     "og:url": "https://www.slo.ru/news/entry/5681",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.slo.ru",
+    "url": "https://www.slo.ru/news/entry/5682",
+    "title": "Dopamine 3.0 — важное обновление аудиоплеера. Теперь с версией для GNU/Linux",
+    "date": "2025-11-08T21:49:26.143+06:00",
+    "og:title": "Dopamine 3.0 — важное обновление аудиоплеера. Теперь с версией для GNU/Linux",
+    "og:image": "https://www.slo.ru/news_pics/5682/small.png",
+    "og:description": "Спустя шесть лет разработки выпущена первая стабильная версия аудиоплеера Dopamine 3.0. Главное — появление версии для GNU/Linux.",
+    "og:url": "https://www.slo.ru/news/entry/5682",
     "og:type": "article"
   },
   {
@@ -40455,6 +41885,17 @@
     "og:image": "https://files.smashing.media/articles/key-components-ux-strategy/practical-guide-ux-strategy.jpg",
     "og:description": "Let’s dive into the building blocks of UX strategy and see how it speaks the language of product and business strategy to create user value while achieving company goals. Part of the Measure UX & Design Impact (use the code 🎟 IMPACT to save 20% off today).",
     "og:url": "https://www.smashingmagazine.com/2025/11/practical-guide-ux-strategy/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.smashingmagazine.com",
+    "url": "https://www.smashingmagazine.com/2025/11/smashing-animations-part-6-svgs-css-custom-properties/",
+    "title": "Smashing Animations Part 6: Magnificent SVGs With <use> And CSS Custom Properties — Smashing Magazine",
+    "date": "2025-11-08T22:10:22.22+06:00",
+    "og:title": "Smashing Animations Part 6: Magnificent SVGs With <use> And CSS Custom Properties — Smashing Magazine",
+    "og:image": "https://files.smashing.media/articles/smashing-animations-part-6-svgs-css-custom-properties/smashing-animations-part-6-svgs-css-custom-properties.jpg",
+    "og:description": "SVG is one of those web technologies that’s both elegant and, at times, infuriating. In this article, pioneering author and web designer Andy Clarke explains his technique for animating SVG elements that are hidden in the Shadow DOM.",
+    "og:url": "https://www.smashingmagazine.com/2025/11/smashing-animations-part-6-svgs-css-custom-properties/",
     "og:type": "article"
   },
   {
@@ -41346,6 +42787,17 @@
     "og:image": "https://studio.uxpincdn.com/studio/wp-content/uploads/2025/11/image_ae2f5c46619fd65d9f2d31a7393841b5.jpeg.webp",
     "og:description": "Explore how React Hooks enable effective device orientation tracking, enhancing user experiences in web applications with real-time data integration.",
     "og:url": "https://www.uxpin.com/studio/blog/using-react-hooks-for-device-orientation/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.uxpin.com",
+    "url": "https://www.uxpin.com/studio/blog/why-handoff-tools-matter-for-ux-quality/",
+    "title": "Why Handoff Tools Matter for UX Quality | UXPin",
+    "date": "2025-11-08T22:09:47.689+06:00",
+    "og:title": "Why Handoff Tools Matter for UX Quality",
+    "og:image": "https://studio.uxpincdn.com/studio/wp-content/uploads/2025/11/image_f5791987665122ba91c345ade2100a1d.jpeg.webp",
+    "og:description": "Explore how effective handoff tools improve collaboration between design and development, enhancing user experience and reducing errors.",
+    "og:url": "https://www.uxpin.com/studio/blog/why-handoff-tools-matter-for-ux-quality/",
     "og:type": "article"
   },
   {
