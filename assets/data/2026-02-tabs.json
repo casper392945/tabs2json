@@ -7800,6 +7800,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/992532/",
+    "title": "Организация производства Информационных систем. Часть 4. Предпроектное исследование. 4.1. Предмет автоматизации / Хабр",
+    "date": "2026-02-04T10:17:31.309+06:00",
+    "og:title": "Организация производства Информационных систем. Часть 4. Предпроектное исследование. 4.1. Предмет автоматизации",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/88b/d0e/0e1/88bd0e0e1c247e868c82259c418e39ee.png",
+    "og:description": "Содержание курса Предмет исследования Варианты организации производства Жизненный цикл производства информационных систем Предпроектное исследование. Предмет автоматизации Предпроектное исследование....",
+    "og:url": "https://habr.com/ru/articles/992532/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/articles/992542/",
     "title": "Чтение и запись физической памяти по протоколу UDS / Хабр",
     "date": "2026-02-04T09:38:44.819+06:00",
@@ -7855,6 +7866,94 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/992602/",
+    "title": "Требования к программному обеспечению / Хабр",
+    "date": "2026-02-04T10:17:33.945+06:00",
+    "og:title": "Требования к программному обеспечению",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/9da/561/220/9da5612208d619b7d6a61dfb8b1d1219.png",
+    "og:description": "Первое упоминание компьютерной программе было сделано практически век назад и датировано еще далеким 1833 годом. С тем пор были изобретены множество языков программирования, начиная от машинных и до...",
+    "og:url": "https://habr.com/ru/articles/992602/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/992604/",
+    "title": "Как измерить работу системного аналитика: метрики, которые говорят на языке бизнеса / Хабр",
+    "date": "2026-02-04T10:17:34.007+06:00",
+    "og:title": "Как измерить работу системного аналитика: метрики, которые говорят на языке бизнеса",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/567/0a7/98c/5670a798c4c4c29bdafc5e94b6532147.png",
+    "og:description": "Введение: почему метрики важны Бизнес, как правило, не гонится за красивыми словами про &quot;выявление скрытых требований&quot; и &quot;улучшение user experience&quot;. Бизнесу нужны цифры. Нужны рубли, копейки,...",
+    "og:url": "https://habr.com/ru/articles/992604/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/992612/",
+    "title": "Эмоциональная нагрузка тимлида: то, о чем редко говорят вслух / Хабр",
+    "date": "2026-02-04T10:17:33.976+06:00",
+    "og:title": "Эмоциональная нагрузка тимлида: то, о чем редко говорят вслух",
+    "og:image": "https://habr.com/share/publication/992612/acf35ae8b027bd7aa148046e7433f97b/",
+    "og:description": "Формальные обязанности тимлида описаны в бесчисленных гайдах: расстановка приоритетов, планирование, технический надзор, развитие команды. Однако за этим фасадом скрывается пласт невидимой, но крайне...",
+    "og:url": "https://habr.com/ru/articles/992612/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/992614/",
+    "title": "Любительское программирование, как оптимизация рабочих процессов / Хабр",
+    "date": "2026-02-04T10:17:33.878+06:00",
+    "og:title": "Любительское программирование, как оптимизация рабочих процессов",
+    "og:image": "https://habr.com/share/publication/992614/ee482426b4894d2cbe2d4d96d63413c8/",
+    "og:description": "Стандартная реакция «закаленных» рабочих о теме статьи Моя основная профессиональная деятельность&nbsp;— машиностроение и она, как&nbsp;и люди в&nbsp;ней работающие, как&nbsp;правило, очень далеки...",
+    "og:url": "https://habr.com/ru/articles/992614/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/992618/",
+    "title": "Компетенции как траектория роста: как выстроить процесс без потери людей / Хабр",
+    "date": "2026-02-04T10:17:33.843+06:00",
+    "og:title": "Компетенции как траектория роста: как выстроить процесс без потери людей",
+    "og:image": "https://habr.com/share/publication/992618/51b02e8deff0ee0bd4673cfcf5f84048/",
+    "og:description": "«Простота часто выглядит примитивной, но именно в ней скрыта сила масштабируемости». (Вдохновлено идеями Алана Купера о балансе между работоспособностью и элегантностью) Количество участников в...",
+    "og:url": "https://habr.com/ru/articles/992618/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/992626/",
+    "title": "Почему психоанализ может быть неэффективным и даже опасным? Разбираю на личном примере / Хабр",
+    "date": "2026-02-04T10:17:33.742+06:00",
+    "og:title": "Почему психоанализ может быть неэффективным и даже опасным? Разбираю на личном примере",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/ddf/a99/e01/ddfa99e01db99853a1d531274f062c87.png",
+    "og:description": "От автора Telegram-канала « Аналитика и Growth mind-set ». Кому может быть интересна статья: Тем, кто работает или планирует работать с психоаналитиком Тем, кто работает или планирует работать с...",
+    "og:url": "https://habr.com/ru/articles/992626/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/992630/",
+    "title": "Почему у большинства продуктов есть поставки, но нет улучшений / Хабр",
+    "date": "2026-02-04T10:17:33.675+06:00",
+    "og:title": "Почему у большинства продуктов есть поставки, но нет улучшений",
+    "og:image": "https://habr.com/share/publication/992630/e35ba148455cf7839fb1cf66766e4098/",
+    "og:description": "И на какие вопросы должна отвечать концепция развития продукта (Strategy Product Vision), чтобы закрыть разрыв между корпоративной стратегией и операционным управлением . Кейс, который много чего...",
+    "og:url": "https://habr.com/ru/articles/992630/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/992640/",
+    "title": "Как не утонуть в выборе софта: уроки рынка BIM и Сред Общих Данных / Хабр",
+    "date": "2026-02-04T10:17:31.28+06:00",
+    "og:title": "Как не утонуть в выборе софта: уроки рынка BIM и Сред Общих Данных",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/eda/5f2/938/eda5f2938550edcf72f03ef5b60e508c.png",
+    "og:description": "Исследование о том, почему компании годами не могут выбрать IT-решение, и к чему это приводит. Выбор сложного корпоративного ПО — всегда головная боль. А если рынок молодой, отечественный, а решения...",
+    "og:url": "https://habr.com/ru/articles/992640/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/agima/posts/992220/",
     "title": "Пост @editor_agima — Блог компании AGIMA — 03.02 16:55 / Хабр",
     "date": "2026-02-04T02:43:21.151+06:00",
@@ -7868,7 +7967,7 @@
     "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/aktiv-company/articles/992334/",
     "title": "Внедрение мер ГОСТ 57580.1 в 2026 году / Хабр",
-    "date": "2026-02-04T09:38:44.338+06:00",
+    "date": "2026-02-04T10:17:32.141+06:00",
     "og:title": "Внедрение мер ГОСТ 57580.1 в 2026 году",
     "og:image": "https://habrastorage.org/getpro/habr/upload_files/331/3fd/57c/3313fd57caa3483cb41963dbb2966c9d.jpg",
     "og:description": "Всем привет, это снова я&nbsp;— Сторож Алексей, ведущий консультант AKTIV.CONSULTING ! И, перед тем как&nbsp;продолжить, напомню&nbsp;— данный текст является продолжением большой статьи, в связи с чем...",
@@ -8691,6 +8790,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/first/articles/992508/",
+    "title": "Почему я отказался от облачных ASR и собрал инструмент для распознавания речи сам / Хабр",
+    "date": "2026-02-04T10:17:33.609+06:00",
+    "og:title": "Почему я отказался от облачных ASR и собрал инструмент для распознавания речи сам",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/fa9/538/bab/fa9538babe1ef32dbd7da73e5318104d.png",
+    "og:description": "Распознавание речи решает многие проблемы. Например, улучшает обслуживание клиентов за счёт автоматизированного анализа работы службы поддержки, ускоряет приём пациентов за счет заполнения документов...",
+    "og:url": "https://habr.com/ru/companies/first/articles/992508/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/flant/articles/989938/",
     "title": "Ригонда 2.0: как я Алису на радиоле женил, или Две причины вскрыть советский музыкальный центр / Хабр",
     "date": "2026-02-03T07:58:32.847+06:00",
@@ -8768,6 +8878,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/ggsel/articles/992620/",
+    "title": "Самые необычные соулслайки / Хабр",
+    "date": "2026-02-04T10:17:33.796+06:00",
+    "og:title": "Самые необычные соулслайки",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/18c/0cc/076/18c0cc076a186499c56dc74b4f7080c7.jpg",
+    "og:description": "Термином soulslike называют игры, похожие на творения знаменитой японской студии FromSoftware. Жанр уже практически добил классические слэшеры, а его элементы проникли во многие современные action-RPG...",
+    "og:url": "https://habr.com/ru/companies/ggsel/articles/992620/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/globalsign/articles/991590/",
     "title": "Бэкап мессенджеров: сохранение архивов / Хабр",
     "date": "2026-02-02T02:27:54.762+06:00",
@@ -8830,6 +8951,17 @@
     "og:image": "https://habrastorage.org/getpro/habr/upload_files/1ad/1a8/50b/1ad1a850ba4a7a713e1e691fc76f7f64.png",
     "og:description": "Когда мы разрабатывали Connekt — наш HTTP Client — один из вопросов, который встал перед нами: как правильно работать с секретами? API-ключи, токены, пароли — разработчики постоянно используют их при...",
     "og:url": "https://habr.com/ru/companies/haulmont/articles/990732/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/haulmont/articles/992138/",
+    "title": "Почему AI-агенты такие медленные? Часть 1: Путь вайбкодера / Хабр",
+    "date": "2026-02-04T10:17:33.915+06:00",
+    "og:title": "Почему AI-агенты такие медленные? Часть 1: Путь вайбкодера",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/c7b/868/fa1/c7b868fa1642188bbbaaf4a52bde5eca.png",
+    "og:description": "Странный вопрос, не правда ли? У AI-агентов, конечно, есть разные проблемы, но вряд ли их можно обвинить в медлительности. Спросите, как говорится, любого, какие у него ощущения от AI, и первое, что...",
+    "og:url": "https://habr.com/ru/companies/haulmont/articles/992138/",
     "og:type": "article"
   },
   {
@@ -8911,6 +9043,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/infowatch/news/992638/",
+    "title": "Запатентована технология ГК InfoWatch для распознавания текста на сложных изображениях / Хабр",
+    "date": "2026-02-04T10:17:32.801+06:00",
+    "og:title": "Запатентована технология ГК InfoWatch для распознавания текста на сложных изображениях",
+    "og:image": "https://habr.com/share/publication/992638/8862cbb8a102805b5e383a9eff5320ae/",
+    "og:description": "ГК InfoWatch получила от Федеральной службы по интеллектуальной собственности патент на изобретение «Способ подготовки текстовых зон, выявленных из изображений нейронной сетью, к распознаванию текста...",
+    "og:url": "https://habr.com/ru/companies/infowatch/news/992638/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/infowatch/posts/992252/",
     "title": "Пост @InfoWatch — Блог компании InfoWatch — 03.02 18:05 / Хабр",
     "date": "2026-02-04T02:43:21.082+06:00",
@@ -8973,6 +9116,17 @@
     "og:image": "https://habrastorage.org/getpro/habr/upload_files/62b/873/538/62b873538e7b7e7abbbc05fb348a63e7.png",
     "og:description": "Компании К2Тех и Nova EPM объявили о начале партнерства в области внедрения отечественной системы бюджетирования и планирования человеческих ресурсов. В рамках сотрудничества компания К2Тех будет...",
     "og:url": "https://habr.com/ru/companies/k2tech/news/990896/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/k2tech/news/992608/",
+    "title": "ГК «Айсберри» переходит к гибридной ИТ-инфраструктуре и размещает 1С:ERP в K2 Облаке / Хабр",
+    "date": "2026-02-04T10:17:33.071+06:00",
+    "og:title": "ГК «Айсберри» переходит к гибридной ИТ-инфраструктуре и размещает 1С:ERP в K2 Облаке",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/a5b/8fa/473/a5b8fa4736f90c9d229227abf9082068.jpg",
+    "og:description": "Группа компаний «Айсберри», крупнейший российский производитель мороженого, начал переход к гибридной ИТ-инфраструктуре и перенес ERP-систему на базе 1С в K2 Облако.&nbsp; До начала проекта «Айсберри»...",
+    "og:url": "https://habr.com/ru/companies/k2tech/news/992608/",
     "og:type": "article"
   },
   {
@@ -9243,7 +9397,7 @@
     "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/oleg-bunin/articles/991950/",
     "title": "Эволюция PostgreSQL-хранилища размещений в Авито / Хабр",
-    "date": "2026-02-04T09:38:43.792+06:00",
+    "date": "2026-02-04T10:17:31.789+06:00",
     "og:title": "Эволюция PostgreSQL-хранилища размещений в Авито",
     "og:image": "https://habrastorage.org/getpro/habr/upload_files/55b/5c4/fe3/55b5c4fe3062d430550ba1b3a3e662ca.jpg",
     "og:description": "Что делать, если сервис, который вырос из транзакции в монолите, за несколько лет стал входной точкой во все размещения на Авито? Когда через PostgreSQL проходят миллионы объявлений в день, привычные...",
@@ -9813,6 +9967,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/runity/posts/992610/",
+    "title": "Пост @runity — Блог компании Рунити — 04.02 15:11 / Хабр",
+    "date": "2026-02-04T10:17:33.245+06:00",
+    "og:title": "Пост @runity — Блог компании Рунити  — 04.02 15:11",
+    "og:image": "https://habr.com/share/publication/992610/c6b5ea1f3f0ccf5002ae9309929b363d/",
+    "og:description": "Что такое Portainer и зачем он нужен для управления Docker Ранее мы уже разбирали базовые команды Docker и повседневную работу с контейнерами. Следующий логичный шаг — упростить управление окружениями...",
+    "og:url": "https://habr.com/ru/companies/runity/posts/992610/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/ruvds/articles/960216/",
     "title": "Самый доступный из настоящих Телекастеров / Хабр",
     "date": "2026-02-02T09:33:46.711+06:00",
@@ -10132,6 +10297,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/solarsecurity/news/992628/",
+    "title": "Аналогов нет: Solar webProxy контролирует работу с ИИ-сервисами и защищает от ИИ-угроз / Хабр",
+    "date": "2026-02-04T10:17:31.536+06:00",
+    "og:title": "Аналогов нет: Solar webProxy контролирует работу с ИИ-сервисами и защищает от ИИ-угроз",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/e57/4ec/9d1/e574ec9d1410d49e70fca0382fb48184.jpg",
+    "og:description": "ГК «Солар», архитектор комплексной кибербезопасности, усиливает продуктовый портфель решений с учетом актуальных рисков, связанных с ИИ. Ряд актуальных проблем для информационной безопасности связаны...",
+    "og:url": "https://habr.com/ru/companies/solarsecurity/news/992628/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/sportmaster_lab/articles/991086/",
     "title": "Как человечество подтверждало «это — моё» / Хабр",
     "date": "2026-02-03T04:29:57.62+06:00",
@@ -10440,6 +10616,28 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/vktech/articles/991808/",
+    "title": "Миграция с VMware в 2026. Архитектурное сравнение альтернатив / Хабр",
+    "date": "2026-02-04T10:17:31.279+06:00",
+    "og:title": "Миграция с VMware в 2026. Архитектурное сравнение альтернатив",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/60d/aaf/517/60daaf517fb88d94a69dcf251151915a.jpg",
+    "og:description": "По оценкам iKS-Consulting, в 2018 году платформу VMware использовали 78,8% компаний , которые применяют виртуализацию. Весной 2025 года в аналогичном исследовании указано, что доля отечественных...",
+    "og:url": "https://habr.com/ru/companies/vktech/articles/991808/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/vktech/posts/992590/",
+    "title": "Пост @Zoran-1975 — Блог компании VK Tech — 04.02 14:48 / Хабр",
+    "date": "2026-02-04T10:17:33.401+06:00",
+    "og:title": "Пост @Zoran-1975 — Блог компании VK Tech  — 04.02 14:48",
+    "og:image": "https://habr.com/share/publication/992590/cc122b7b4f97e1274d04ed75fc4bc26a/",
+    "og:description": "Дайджест обновлений VK HR Tek за январь Всем привет! Рассказываем, что нового появилось в VK HR Tek — модульной платформе с готовыми кадровыми сервисами (КЭДО, график отпусков, ЛНА, командировки,...",
+    "og:url": "https://habr.com/ru/companies/vktech/posts/992590/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/vtb/articles/992298/",
     "title": "Миграция системы Бизнес-планирования с Oracle на PostgreSQL: уложиться в 18 часов с минимальными рисками / Хабр",
     "date": "2026-02-04T02:47:13.894+06:00",
@@ -10506,6 +10704,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/yandex_praktikum/posts/992582/",
+    "title": "Пост @ira-k — Блог компании Яндекс Практикум — 04.02 15:00 / Хабр",
+    "date": "2026-02-04T10:17:33.326+06:00",
+    "og:title": "Пост @ira-k — Блог компании Яндекс Практикум  — 04.02 15:00",
+    "og:image": "https://habr.com/share/publication/992582/d30df5314ecc564323014c5106774c6a/",
+    "og:description": "Подборка бесплатных курсов для опытных и начинающих програмистов Бесплатные курсы помогут познакомиться с конкретным направлением и попробовать формат обучения в Практикуме. Даже если пока не уверены...",
+    "og:url": "https://habr.com/ru/companies/yandex_praktikum/posts/992582/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/yandex/articles/991144/",
     "title": "EMNLP 2025 глазами аналитика из Яндекса: мировые тренды и наши решения / Хабр",
     "date": "2026-02-03T07:58:31.526+06:00",
@@ -10524,6 +10733,17 @@
     "og:image": "https://habrastorage.org/getpro/habr/upload_files/20a/58e/4b3/20a58e4b367982c469356237716516f9.jpeg",
     "og:description": "Привет, Хабр! Как вы думаете, с чего начинается путь самурая пользователя? Правильно, с онбординга. Онбординг — это не просто анкета «для галочки», а первый диалог продукта с пользователем. От того,...",
     "og:url": "https://habr.com/ru/companies/yoomoney/articles/991712/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/yoomoney/posts/992616/",
+    "title": "Пост @yooteam — Блог компании ЮMoney — 04.02 15:16 / Хабр",
+    "date": "2026-02-04T10:17:33.152+06:00",
+    "og:title": "Пост @yooteam — Блог компании ЮMoney  — 04.02 15:16",
+    "og:image": "https://habr.com/share/publication/992616/1f79e09c093a9a78678f33734aa74633/",
+    "og:description": "Как сломать языковой барьер в клиентском сервисе с помощью нейротехнологий? Недавно мы в ЮMoney внедрили систему языкового перевода диалогов пользователей и службы поддержки. Она распознаёт 25 языков...",
+    "og:url": "https://habr.com/ru/companies/yoomoney/posts/992616/",
     "og:type": "article"
   },
   {
@@ -12684,6 +12904,50 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/news/992598/",
+    "title": "Coinbase подтвердила утечку скриншотов небольшой части клиентов из службы поддержки / Хабр",
+    "date": "2026-02-04T10:17:31.661+06:00",
+    "og:title": "Coinbase подтвердила утечку скриншотов небольшой части клиентов из службы поддержки",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/ac8/0cd/b88/ac80cdb88fa7b4dc28d414a0b0b2efcc.JPG",
+    "og:description": "Компания Coinbase подтвердила утечку данных, произошедшую в декабре, когда подрядчик неправомерно получил доступ к данным примерно тридцати клиентов. «В прошлом году наша команда безопасности...",
+    "og:url": "https://habr.com/ru/news/992598/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/news/992606/",
+    "title": "Участники Google Meet смогут присоединиться к командным конференциям Microsoft Teams / Хабр",
+    "date": "2026-02-04T10:17:32.886+06:00",
+    "og:title": "Участники Google Meet смогут присоединиться к командным конференциям Microsoft Teams",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/fb1/d66/2be/fb1d662be717c3b812ded08ede86b821.jpg",
+    "og:description": "Google объявила о поддержке совместимости Google Meet с Microsoft Teams. Это позволит участникам конференций присоединяться к собраниям Microsoft Teams из Google Meet и наоборот. Для присоединения к...",
+    "og:url": "https://habr.com/ru/news/992606/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/news/992624/",
+    "title": "«Physical AI — следующий рубеж»: Nvidia и Dassault создадут промышленный ИИ / Хабр",
+    "date": "2026-02-04T10:17:32.971+06:00",
+    "og:title": "«Physical AI — следующий рубеж»: Nvidia и Dassault создадут промышленный ИИ",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/f72/a44/0ba/f72a440baa1ca4b5c1be26e41d867f72.jpg",
+    "og:description": "Nvidia и Dassault Systèmes&nbsp; объявили &nbsp;о стратегическом партнерстве для создания Industry World Models — &quot;мировых моделей&quot; для промышленности, основанных на физике и валидированных научных...",
+    "og:url": "https://habr.com/ru/news/992624/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/news/992634/",
+    "title": "Минцифры обновило список сайтов и сервисов, которые будут работать во время блокировок мобильного интернета / Хабр",
+    "date": "2026-02-04T10:17:31.405+06:00",
+    "og:title": "Минцифры обновило список сайтов и сервисов, которые будут работать во время блокировок мобильного интернета",
+    "og:image": "https://habrastorage.org/getpro/habr/upload_files/0f4/048/590/0f40485900eb1d48e3581f5cfe250a37.jpg",
+    "og:description": "4 февраля 2026 года Минцифры обновило список сайтов и сервисов, которые будут работать во время блокировок мобильного интернета. Белый список ведомства дополнен российскими банками, СМИ, службами...",
+    "og:url": "https://habr.com/ru/news/992634/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/posts/990928/",
     "title": "Пост @CloudlyNosound — Социальные сети — 30.01 15:36 / Хабр",
     "date": "2026-02-01T09:59:09.248+06:00",
@@ -13329,6 +13593,28 @@
     "og:image": "https://habr.com/share/publication/992486/00b371332fcbd184878014262b3aba91/",
     "og:description": "В соцсетях рассказали, как выявить сайт, который продаёт и сливает персональные данные — достаточно при регистрации написать в строке «Отчество» его название.",
     "og:url": "https://habr.com/ru/posts/992486/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/posts/992504/",
+    "title": "Пост @denis-19 — Go — 04.02 13:06 / Хабр",
+    "date": "2026-02-04T10:17:33.542+06:00",
+    "og:title": "Пост @denis-19 — Go  — 04.02 13:06",
+    "og:image": "https://habr.com/share/publication/992504/babdd83e85fc373f0c6a302c969464eb/",
+    "og:description": "Открытый проект Go Katas поможет освоить язык программирования прямо Go. В репозитории решения есть сборник сотен ежедневных упражнений, чтобы довести навыки кодинга на Go до автоматизма, изучить...",
+    "og:url": "https://habr.com/ru/posts/992504/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/posts/992566/",
+    "title": "Пост @vontot-digital — Growth Hacking — 04.02 14:20 / Хабр",
+    "date": "2026-02-04T10:17:33.477+06:00",
+    "og:title": "Пост @vontot-digital — Growth Hacking  — 04.02 14:20",
+    "og:image": "https://habr.com/share/publication/992566/b2c64b07dedd2a1491a53dc82266181f/",
+    "og:description": "Почему шаблон коммерческого предложения и сметы — это плохо, особенно в услугах Когда ко мне приходит новый проект, всё начинается не с формального КП или сметы, а с разговора и предварительного...",
+    "og:url": "https://habr.com/ru/posts/992566/",
     "og:type": "article"
   },
   {
