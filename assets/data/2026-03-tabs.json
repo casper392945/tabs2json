@@ -606,6 +606,17 @@
   },
   {
     "hostname": "adamtheautomator.com",
+    "url": "https://adamtheautomator.com/deploy-enterprise-powershell-modules-using-azure/",
+    "title": "Deploy Enterprise PowerShell Modules Using Azure Artifacts",
+    "date": "2026-03-09T17:58:02.338+06:00",
+    "og:title": "Deploy Enterprise PowerShell Modules Using Azure Artifacts",
+    "og:image": "https://adamtheautomator.com/wp-content/uploads/2026/03/featured_image-1.webp",
+    "og:description": "Build a private PowerShell repository using Azure Artifacts with automated CI/CD publishing, semantic versioning, code signing, and JEA integration for secure enterprise module distribution.",
+    "og:url": "https://adamtheautomator.com/deploy-enterprise-powershell-modules-using-azure/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "adamtheautomator.com",
     "url": "https://adamtheautomator.com/supply-chain-security-azure-devops/",
     "title": "Prove Every Artifact: Supply Chain Security in Azure DevOps",
     "date": "2026-03-03T04:23:41.867+06:00",
@@ -3158,6 +3169,17 @@
   },
   {
     "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/ironclaw",
+    "title": "IronClaw: Deploy AI agents securely in encrypted enclaves | BetaList",
+    "date": "2026-03-09T17:51:51.461+06:00",
+    "og:title": "IronClaw: Deploy AI agents securely in encrypted enclaves",
+    "og:image": "https://resize.imagekit.co/H92sFav_MtbLIZj9jOhxgLtMG6UASbG7nMp7_smM5Sg/plain/s3://betalist-production/63hhxluwqldjh8fm4urb5di8gjx2",
+    "og:description": "Deploy AI agents securely in encrypted enclaves",
+    "og:url": "https://betalist.com/startups/ironclaw",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
     "url": "https://betalist.com/startups/kaomojiya",
     "title": "Kaomojiya: Copy thousands of Japanese text emoticons with | BetaList",
     "date": "2026-03-06T03:34:24.911+06:00",
@@ -4048,6 +4070,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "blog.codepen.io",
+    "url": "https://blog.codepen.io/2026/03/09/chris-corner-anchors/",
+    "title": "Chris’ Corner: Anchors – CodePen",
+    "date": "2026-03-09T17:54:48.739+06:00",
+    "og:title": "Chris’ Corner: Anchors",
+    "og:image": "https://s0.wp.com/i/blank.jpg",
+    "og:description": "As of January, with Firefox 147’s release, Anchor Positioning is supported across all major browsers. I’m happy about that, of course. I think Anchor Positioning is really powerful and …",
+    "og:url": "https://blog.codepen.io/2026/03/09/chris-corner-anchors/",
+    "og:type": "article"
+  },
+  {
     "hostname": "blog.mozilla.org",
     "url": "https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/",
     "title": "Hardening Firefox with Anthropic’s Red Team ",
@@ -4738,6 +4771,160 @@
     "og:image": "https://bugaga.ru/uploads/posts/2026-03/photo_1_2026-03-05_22-22-00.jpg",
     "og:description": "Читайте Просто мемы на сегодня — лёгкую подборку шуток, которые отлично подходят для короткого перерыва. Иногда всё, что нужно, — это несколько смешных картинок подряд. Интернет умеет превращать простые моменты в повод для улыбки. На Bugaga вы найдете лучшие фото, мемы и приколы. Читайте Просто",
     "og:url": "https://bugaga.ru/jokes/1146792603-prosto-memy-na-segodnja-smeshnye-fotomemyprikoly-bugaga.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "bugaga.ru",
+    "url": "https://bugaga.ru/jokes/1146792604-momentalnyj-zarjad-nastroenija-smeshnye-fotomemyprikoly-bugaga.html",
+    "title": "Моментальный заряд настроения — смешные фото/мемы/приколы | Bugaga",
+    "date": "2026-03-09T18:05:18.117+06:00",
+    "og:title": "Моментальный заряд настроения — смешные фото/мемы/приколы | Bugaga",
+    "og:image": "https://bugaga.ru/uploads/posts/2026-03/photo_1_2026-03-06_23-42-14.jpg",
+    "og:description": "Читайте Моментальный заряд настроения — подборка мемов, которые появляются в самый нужный момент и бьют точно в чувство юмора. Здесь немного абсурда, щепотка жизненности и тонна интернет-креатива. Иногда один мем говорит больше, чем длинная история. На Bugaga вы найдете лучшие фото, мемы и приколы.",
+    "og:url": "https://bugaga.ru/jokes/1146792604-momentalnyj-zarjad-nastroenija-smeshnye-fotomemyprikoly-bugaga.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "bugaga.ru",
+    "url": "https://bugaga.ru/jokes/1146792605-internet-segodnja-v-udare-smeshnye-fotomemyprikoly-bugaga.html",
+    "title": "Интернет сегодня в ударе — смешные фото/мемы/приколы | Bugaga",
+    "date": "2026-03-09T18:05:17.831+06:00",
+    "og:title": "Интернет сегодня в ударе — смешные фото/мемы/приколы | Bugaga",
+    "og:image": "https://bugaga.ru/uploads/posts/2026-03/photo_1_2026-03-06_23-43-56.jpg",
+    "og:description": "Читайте Интернет сегодня в ударе — свежая порция шуток, случайных гениальностей и странных ситуаций из сети. Этот сборник словно прогулка по самому веселому уголку интернета. Мемы тут живут своей жизнью и постоянно придумывают новые способы рассмешить. На Bugaga вы найдете лучшие фото, мемы и",
+    "og:url": "https://bugaga.ru/jokes/1146792605-internet-segodnja-v-udare-smeshnye-fotomemyprikoly-bugaga.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "bugaga.ru",
+    "url": "https://bugaga.ru/jokes/1146792606-smeh-bez-prichiny-i-s-prichinoj-tozhe-smeshnye-fotomemyprikoly-bugaga.html",
+    "title": "Смех без причины (и с причиной тоже) — смешные фото/мемы/приколы | Bugaga",
+    "date": "2026-03-09T18:05:17.714+06:00",
+    "og:title": "Смех без причины (и с причиной тоже) — смешные фото/мемы/приколы | Bugaga",
+    "og:image": "https://bugaga.ru/uploads/posts/2026-03/photo_1_2026-03-06_23-45-13.jpg",
+    "og:description": "Читайте Смех без причины (и с причиной тоже) — коллекция мемов, которые неожиданно попадают прямо в настроение. Здесь соседствуют странные мысли, знакомые ситуации и немного хаоса. Иногда достаточно одного взгляда, чтобы понять шутку. На Bugaga вы найдете лучшие фото, мемы и приколы. Читайте Смех",
+    "og:url": "https://bugaga.ru/jokes/1146792606-smeh-bez-prichiny-i-s-prichinoj-tozhe-smeshnye-fotomemyprikoly-bugaga.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "bugaga.ru",
+    "url": "https://bugaga.ru/jokes/1146792607-porcija-internet-jumora-na-segodnja-smeshnye-fotomemyprikoly-bugaga.html",
+    "title": "Порция интернет-юмора на сегодня — смешные фото/мемы/приколы | Bugaga",
+    "date": "2026-03-09T18:05:06.859+06:00",
+    "og:title": "Порция интернет-юмора на сегодня — смешные фото/мемы/приколы | Bugaga",
+    "og:image": "https://bugaga.ru/uploads/posts/2026-03/photo_1_2026-03-06_23-46-53.jpg",
+    "og:description": "Читайте Порция интернет-юмора на сегодня — свежий набор мемов, где каждая картинка будто маленький комедийный скетч. Здесь можно встретить все: от житейских наблюдений до чистого абсурда. Листать такую подборку — как быстрое путешествие по мемной вселенной. На Bugaga вы найдете лучшие фото, мемы и",
+    "og:url": "https://bugaga.ru/jokes/1146792607-porcija-internet-jumora-na-segodnja-smeshnye-fotomemyprikoly-bugaga.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "bugaga.ru",
+    "url": "https://bugaga.ru/jokes/1146792608-sbornik-sluchajnogo-veselja-smeshnye-fotomemyprikoly-bugaga.html",
+    "title": "Сборник случайного веселья — смешные фото/мемы/приколы | Bugaga",
+    "date": "2026-03-09T18:04:58.496+06:00",
+    "og:title": "Сборник случайного веселья — смешные фото/мемы/приколы | Bugaga",
+    "og:image": "https://bugaga.ru/uploads/posts/2026-03/photo_1_2026-03-06_23-48-13.jpg",
+    "og:description": "Читайте Сборник случайного веселья — подборка мемов, которые объединяет только одно: они действительно смешные. Никакой логики, только настроение и интернет-фантазия. Иногда самые неожиданные шутки оказываются самыми точными. На Bugaga вы найдете лучшие фото, мемы и приколы. Читайте Сборник",
+    "og:url": "https://bugaga.ru/jokes/1146792608-sbornik-sluchajnogo-veselja-smeshnye-fotomemyprikoly-bugaga.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "bugaga.ru",
+    "url": "https://bugaga.ru/jokes/1146792609-lenta-horoshego-nastroenija-smeshnye-fotomemyprikoly-bugaga.html",
+    "title": "Лента хорошего настроения — смешные фото/мемы/приколы | Bugaga",
+    "date": "2026-03-09T18:04:55.385+06:00",
+    "og:title": "Лента хорошего настроения — смешные фото/мемы/приколы | Bugaga",
+    "og:image": "https://bugaga.ru/uploads/posts/2026-03/photo_1_2026-03-06_23-49-38.jpg",
+    "og:description": "Читайте Лента хорошего настроения — подборка мемов, которые легко скроллить и сложно забыть. Тут есть и ирония, и самоирония, и немного интернет-магии. Мемы собираются в один веселый поток, который просто приятно смотреть. На Bugaga вы найдете лучшие фото, мемы и приколы. Читайте Лента хорошего",
+    "og:url": "https://bugaga.ru/jokes/1146792609-lenta-horoshego-nastroenija-smeshnye-fotomemyprikoly-bugaga.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "bugaga.ru",
+    "url": "https://bugaga.ru/jokes/1146792610-svezhaja-partija-internet-shutok-smeshnye-fotomemyprikoly-bugaga.html",
+    "title": "Свежая партия интернет-шуток — смешные фото/мемы/приколы | Bugaga",
+    "date": "2026-03-09T18:04:54.579+06:00",
+    "og:title": "Свежая партия интернет-шуток — смешные фото/мемы/приколы | Bugaga",
+    "og:image": "https://bugaga.ru/uploads/posts/2026-03/photo_1_2026-03-06_23-51-19.jpg",
+    "og:description": "Читайте Свежая партия интернет-шуток — коллекция мемов, где каждый кадр словно маленький комедийный момент. Здесь встречаются неожиданные идеи, знакомые эмоции и немного мемного безумия. Иногда именно такие подборки спасают день. На Bugaga вы найдете лучшие фото, мемы и приколы. Читайте Свежая",
+    "og:url": "https://bugaga.ru/jokes/1146792610-svezhaja-partija-internet-shutok-smeshnye-fotomemyprikoly-bugaga.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "bugaga.ru",
+    "url": "https://bugaga.ru/jokes/1146792611-memnyj-zarjad-na-ves-den-smeshnye-memy-bugaga.html",
+    "title": "Мемный заряд на весь день — смешные мемы | Bugaga",
+    "date": "2026-03-09T18:04:53.634+06:00",
+    "og:title": "Мемный заряд на весь день — смешные мемы | Bugaga",
+    "og:image": "https://bugaga.ru/uploads/posts/2026-03/photo_1_2026-03-08_22-30-19.jpg",
+    "og:description": "Читайте Мемной заряд на весь день — сборник случайных шуток, абсурда и жизненных наблюдений, которые идеально ложатся в формат мемов. Иногда одна картинка может сказать больше, чем длинная история. А иногда просто вызывает неконтролируемый смех. На Bugaga вы найдете лучшие мемы. Читайте Мемный",
+    "og:url": "https://bugaga.ru/jokes/1146792611-memnyj-zarjad-na-ves-den-smeshnye-memy-bugaga.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "bugaga.ru",
+    "url": "https://bugaga.ru/jokes/1146792612-porcija-internet-jumora-smeshnye-foto-bugaga.html",
+    "title": "Порция интернет-юмора — смешные фото | Bugaga",
+    "date": "2026-03-09T18:04:52.041+06:00",
+    "og:title": "Порция интернет-юмора — смешные фото | Bugaga",
+    "og:image": "https://bugaga.ru/uploads/posts/2026-03/photo_1_2026-03-08_22-31-49.jpg",
+    "og:description": "Читайте Порция интернет-юмора — подборку картинок, которые будто специально созданы для короткого перерыва и громкого хихиканья. Здесь всё: от странных ситуаций до идеально пойманных моментов. Никакой логики — только настроение. На Bugaga вы найдете лучшие фото. Читайте Порция интернет-юмора —",
+    "og:url": "https://bugaga.ru/jokes/1146792612-porcija-internet-jumora-smeshnye-foto-bugaga.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "bugaga.ru",
+    "url": "https://bugaga.ru/jokes/1146792613-sluchajnaja-doza-veselja-prikoly-bugaga.html",
+    "title": "Случайная доза веселья — приколы | Bugaga",
+    "date": "2026-03-09T18:04:51.616+06:00",
+    "og:title": "Случайная доза веселья — приколы | Bugaga",
+    "og:image": "https://bugaga.ru/uploads/posts/2026-03/photo_1_2026-03-08_22-32-47.jpg",
+    "og:description": "Читайте Случайная доза веселья — подборку мемов и картинок, которые объединяет только одно: способность поднимать настроение. Интернет умеет превращать любые мелочи в шутки. И иногда делает это гениально. На Bugaga вы найдете лучшие приколы. Читайте Случайная доза веселья — подборку мемов и",
+    "og:url": "https://bugaga.ru/jokes/1146792613-sluchajnaja-doza-veselja-prikoly-bugaga.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "bugaga.ru",
+    "url": "https://bugaga.ru/jokes/1146792614-internet-snova-poshutil-smeshnye-memy-bugaga.html",
+    "title": "Интернет снова пошутил — смешные мемы | Bugaga",
+    "date": "2026-03-09T18:04:50.956+06:00",
+    "og:title": "Интернет снова пошутил — смешные мемы | Bugaga",
+    "og:image": "https://bugaga.ru/uploads/posts/2026-03/photo_1_2026-03-08_22-34-29.jpg",
+    "og:description": "Читайте Интернет снова пошутил — коллекцию мемов, которые разлетелись по чатам быстрее утреннего кофе. Здесь есть всё: нелепость, ирония и немного чистого хаоса. Именно за это мы и любим мемы. На Bugaga вы найдете лучшие мемы. Читайте Интернет снова пошутил — коллекцию мемов, которые разлетелись по",
+    "og:url": "https://bugaga.ru/jokes/1146792614-internet-snova-poshutil-smeshnye-memy-bugaga.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "bugaga.ru",
+    "url": "https://bugaga.ru/jokes/1146792615-kollekcija-horoshego-nastroenija-smeshnye-foto-bugaga.html",
+    "title": "Коллекция хорошего настроения — смешные фото | Bugaga",
+    "date": "2026-03-09T18:04:50.541+06:00",
+    "og:title": "Коллекция хорошего настроения — смешные фото | Bugaga",
+    "og:image": "https://bugaga.ru/uploads/posts/2026-03/photo_1_2026-03-08_22-36-32.jpg",
+    "og:description": "Читайте Коллекция хорошего настроения — подборку картинок, которые легко превращают обычный день в чуть более веселый. Иногда достаточно одной смешной фотографии, чтобы настроение стало лучше. А если их много — эффект усиливается. На Bugaga вы найдете лучшие смешные фото. Читайте Коллекция хорошего",
+    "og:url": "https://bugaga.ru/jokes/1146792615-kollekcija-horoshego-nastroenija-smeshnye-foto-bugaga.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "bugaga.ru",
+    "url": "https://bugaga.ru/jokes/1146792616-svezhaja-podborka-iz-interneta-prikoly-bugaga.html",
+    "title": "Свежая подборка из интернета — приколы | Bugaga",
+    "date": "2026-03-09T18:04:32.756+06:00",
+    "og:title": "Свежая подборка из интернета — приколы | Bugaga",
+    "og:image": "https://bugaga.ru/uploads/posts/2026-03/photo_1_2026-03-08_22-38-37.jpg",
+    "og:description": "Читайте Свежая подборка из интернета — микс мемов, случайных кадров и шуток, которые невозможно воспринимать серьезно. Здесь логика отдыхает, а юмор работает на полную. Просто листайте и ловите улыбку. На Bugaga вы найдете лучшие приколы. Читайте Свежая подборка из интернета — микс мемов, случайных",
+    "og:url": "https://bugaga.ru/jokes/1146792616-svezhaja-podborka-iz-interneta-prikoly-bugaga.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "bugaga.ru",
+    "url": "https://bugaga.ru/jokes/1146792617-arhiv-sluchajnogo-jumora-smeshnye-memy-bugaga.html",
+    "title": "Архив случайного юмора — смешные мемы | Bugaga",
+    "date": "2026-03-09T18:04:32.584+06:00",
+    "og:title": "Архив случайного юмора — смешные мемы | Bugaga",
+    "og:image": "https://bugaga.ru/uploads/posts/2026-03/photo_1_2026-03-08_22-40-00.jpg",
+    "og:description": "Читайте Архив случайного юмора — подборку мемов, которые будто собраны со всех уголков интернета. Они разные по стилю, теме и настроению, но одинаково хорошо работают как антистресс. Иногда хаос — это и есть лучший юмор. На Bugaga вы найдете лучшие мемы. Читайте Архив случайного юмора — подборку",
+    "og:url": "https://bugaga.ru/jokes/1146792617-arhiv-sluchajnogo-jumora-smeshnye-memy-bugaga.html",
     "og:type": "article"
   },
   {
@@ -6425,6 +6612,17 @@
   },
   {
     "hostname": "designbeep.com",
+    "url": "https://designbeep.com/2026/03/09/midable-font/",
+    "title": "Midable Font FREE Download",
+    "date": "2026-03-09T17:54:48.903+06:00",
+    "og:title": "Midable Font FREE Download",
+    "og:image": "https://designbeep.com/wp-content/uploads/2026/03/Midable-Font-featured-image.jpg",
+    "og:description": "Midable by Youthlabs Studio is a high-impact bold marker font that brings raw, hand-crafted energy to every character without sacrificing professional polish.",
+    "og:url": "https://designbeep.com/2026/03/09/midable-font/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "designbeep.com",
     "url": "https://designbeep.com/2026/03/09/mluvka-grotesk-font/",
     "title": "Mluvka Grotesk Font FREE Download",
     "date": "2026-03-09T13:36:01.152+06:00",
@@ -7395,10 +7593,10 @@
     "hostname": "exler.es",
     "url": "https://exler.es/blog/shchedraya-mercadona.htm",
     "title": "Щедрая Mercadona",
-    "date": "2026-03-09T17:27:27.459+06:00",
+    "date": "2026-03-09T17:51:55.236+06:00",
     "og:title": "Щедрая Mercadona",
     "og:image": "https://exler.es/small/blog/image/20260309/69aee7d6d420b.jpg",
-    "og:description": "\n\nMercadona - чисто испанская сеть супермаркетов, самая крупная в стране: ее доля рынка составляет %27, и она значительно опережает другие крупные сети, такие как французский Carrefour и немецкий Lidl.\n\nЯ люблю Mercadona, и это основной и практически единственный супермаркет, в котором моя семья закупает примерно 80% того, что нам нужно. Остальное - в небольших магазинах с овощами и фруктами, а также в мясной лавке.&nbsp;\n\nMercadona - это единственная сеть супермаркетов (по крайней мере из тех, что я видел), где практически все сотрудники в любой момент могут сесть за кассу. Поэтому у них там почти не бывает очередей: как только кто-то из сидящих на кассе видит, что народу в кассы прибавилось, они вызывают других сотрудников и открывают закрытые кассы.&nbsp;\n\nТакже в Mercadona отличный рыбный отдел плюс есть большая стойка с уже расфасованной рыбой и морепродуктами, что тоже очень удобно.&nbsp;\n\nЕдинственное, что там очень так себе - это выбор вина, но есть пара марок хорошего белого (одно из них, альбариньо, недорогое и классное, и его можно купить только в Mercadona), марки три хорошего красного и пара марок нормального игристого - в общем, жить можно.&nbsp;\n\nДа, там маркетолухи переодически переставляют часть продуктов, и потом приходится искать, куда они на этот раз засунули соевый соус, растертые помидоры, орехи и сливки, но такой дурдом, насколько я знаю, принят в большинстве супермаркетов.&nbsp;\n\nКстати, обратил внимание на то, что в этих магазинах - небольшая текучка кадров. Многих сотрудников и сотрудниц Mercadona я вижу в течение лет десяти. А если кто-то из них вдруг пропадает, то потом обнаруживается в другом магазине этой сети.&nbsp;\n\nА тут попалась статья, в которой пишут Mercadona решила распределить 780 миллионов евро среди более 112000 своих работников.&nbsp;\n\nРаспределение осуществляется с помощью системы премий, связанных со стажем работы сотрудника. Как пояснила компания, работники со стажем работы в компании менее четырех лет получают эквивалент двух месячных зарплат, а те, кто проработал в компании дольше, получают три дополнительных месячных зарплаты. Вторая группа составляет более 70 % персонала, что отражает высокую степень стабильности в компании.\n\nВ некоторых случаях чистая сумма может достигать примерно 7250 евро, включая как переменную часть за достижение целей, так и соответствующую заработную плату. Это очень серьезная сумма!&nbsp;&nbsp;\n\nТакже пишут о том, что компания увеличила годовой отпуск для своих сотрудников с 30 до 37 дней, что означает дополнительную неделю. Это решение обходится компании примерно в 100 миллионов евро в год, но они на это пошли - &quot;для улучшения баланса между работой и личной жизнью сотрудников&quot;.\n\nНу что тут сказать - молодцы, действительно очень щедро.&nbsp;\n\n\n&nbsp;",
+    "og:description": "\n\nMercadona - чисто испанская сеть супермаркетов, самая крупная в стране: ее доля рынка составляет %27, и она значительно опережает другие крупные сети, такие как французский Carrefour и немецкий Lidl.\n\nЯ люблю Mercadona, и это основной и практически единственный супермаркет, в котором моя семья закупает примерно 80% того, что нам нужно. Остальное - в небольших магазинах с овощами и фруктами, а также в мясной лавке.&nbsp;\n\nMercadona - это единственная сеть супермаркетов (по крайней мере из тех, что я видел), где практически все сотрудники в любой момент могут сесть за кассу. Поэтому у них там почти не бывает очередей: как только кто-то из сидящих на кассе видит, что народу в кассы прибавилось, они вызывают других сотрудников и открывают закрытые кассы.&nbsp;\n\nТакже в Mercadona отличный рыбный отдел плюс есть большая стойка с уже расфасованной рыбой и морепродуктами, что тоже очень удобно.&nbsp;\n\nЕдинственное, что там очень так себе - это выбор вина, но есть пара марок хорошего белого (одно из них, альбариньо, недорогое и классное, и его можно купить только в Mercadona), марки три хорошего красного и пара марок нормального игристого - в общем, жить можно.&nbsp;\n\nДа, там маркетолухи периодически переставляют часть продуктов, и потом приходится искать, куда они на этот раз засунули соевый соус, растертые помидоры, орехи и сливки, но такой дурдом, насколько я знаю, принят в большинстве супермаркетов.&nbsp;\n\nКстати, обратил внимание на то, что в этих магазинах - небольшая текучка кадров. Многих сотрудников и сотрудниц Mercadona я вижу в течение лет десяти. А если кто-то из них вдруг пропадает, то потом обнаруживается в другом магазине этой сети.&nbsp;\n\nА тут попалась статья, в которой пишут Mercadona решила распределить 780 миллионов евро среди более 112000 своих работников.&nbsp;\n\nРаспределение осуществляется с помощью системы премий, связанных со стажем работы сотрудника. Как пояснила компания, работники со стажем работы в компании менее четырех лет получают эквивалент двух месячных зарплат, а те, кто проработал в компании дольше, получают три дополнительных месячных зарплаты. Вторая группа составляет более 70 % персонала, что отражает высокую степень стабильности в компании.\n\nВ некоторых случаях чистая сумма может достигать примерно 7250 евро, включая как переменную часть за достижение целей, так и соответствующую заработную плату. Это очень серьезная сумма!&nbsp;&nbsp;\n\nТакже пишут о том, что компания увеличила годовой отпуск для своих сотрудников с 30 до 37 дней, что означает дополнительную неделю. Это решение обходится компании примерно в 100 миллионов евро в год, но они на это пошли - &quot;для улучшения баланса между работой и личной жизнью сотрудников&quot;.\n\nНу что тут сказать - молодцы, действительно очень щедро.&nbsp;\n\n\n&nbsp;",
     "og:url": "https://exler.es/blog/shchedraya-mercadona.htm",
     "og:type": "article"
   },
@@ -7664,6 +7862,17 @@
     "og:image": "https://cdn.fishki.net/upload/post/2026/03/02/5008623/6988uggewntn.jpg",
     "og:description": "Подборка демотиваторов на самые разные темы, чтобы рабочий день недели был лёгким и позитивным – Самые лучшие и интересные демотиваторы по теме: Демотиваторы, Прикол, Юмор на развлекательном портале Fishki.net",
     "og:url": "https://fishki.net/demotivation/5008623-demotivatory-kotorye-udarjat-pozitivom.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "fishki.net",
+    "url": "https://fishki.net/demotivation/5012229-demotivatory-zarjazhennye-pozitivom.html",
+    "title": "Демотиваторы заряженные позитивом",
+    "date": "2026-03-09T18:05:18.957+06:00",
+    "og:title": "Демотиваторы заряженные позитивом",
+    "og:image": "https://cdn.fishki.net/upload/post/2026/03/09/5012229/2-ckt8ba9-dpioprfjpa1p--rpwql9qekcfycmuodnlvf52pjtrowr-p-rfqaxyhxi-luwjjx-mygag4lzg0vvec.jpg",
+    "og:description": "Подборка демотиваторов на самые разные темы, чтобы рабочий день недели был лёгким и позитивным – Самые лучшие и интересные демотиваторы по теме: Демотиваторы, Прикол, Юмор на развлекательном портале Fishki.net",
+    "og:url": "https://fishki.net/demotivation/5012229-demotivatory-zarjazhennye-pozitivom.html",
     "og:type": "article"
   },
   {
@@ -22781,6 +22990,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "ia.net",
+    "url": "https://ia.net/topics/separate-writing-and-formatting",
+    "title": "Separate Writing and Formatting",
+    "date": "2026-03-09T17:48:01.236+06:00",
+    "og:title": "Separate Writing and Formatting",
+    "og:image": "https://ia.net/wp-content/uploads/2025/04/break-out-of-word-ui-768x368.png",
+    "og:description": "Get focused",
+    "og:url": "https://ia.net/topics/separate-writing-and-formatting",
+    "og:type": "article"
+  },
+  {
     "hostname": "iamglad.ai",
     "url": "https://iamglad.ai/",
     "title": "Glad AI: Your Automated LinkedIn Marketing Assistant",
@@ -23691,6 +23911,17 @@
     "og:image": "https://i127.fastpic.org/big/2026/0308/bc/c56f5f59900694da8ec9a74c82cf9fbc.png",
     "og:description": "Версия программы: 12.24Официальный сайт: Fineprint SoftwareЯзык интерфейса: Русский, Английский и другиеЛечение: не требуется (инсталлятор уже пролечен)Размер архива: 11.9 mbСистемные требования:Windows 11, 10, 8, 7, Vista (x86/x64)Описание: FinePrint - многофункциональный драйвер для принтеров,",
     "og:url": "https://kadets.net/244200-fineprint-1224-repack-by-kpojiuk-multi-ru.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "kadets.net",
+    "url": "https://kadets.net/244229-wiztree-enterprise-430-portable-multi-ru.html",
+    "title": "WizTree Enterprise 4.30 + Portable Multi/Ru » Kadets.Net",
+    "date": "2026-03-09T17:51:51.371+06:00",
+    "og:title": "WizTree Enterprise 4.30 + Portable Multi/Ru",
+    "og:image": "https://i127.fastpic.org/big/2026/0309/8c/e9721c779362892001268a401e4ad48c.png",
+    "og:description": "Версия программы: 4.30Официальный сайт: Antibody Software LimitedЯзык интерфейса: Русский, Английский и другиеЛечение: в комплектеТип лекарства: кейгенРазмер архива: 12.9 mbСистемные требования:Windows 11/10/8.1/8/7/Vista/XP (32/64-bit)Описание:WizTree - небольшая и полезная утилита для определения",
+    "og:url": "https://kadets.net/244229-wiztree-enterprise-430-portable-multi-ru.html",
     "og:type": "article"
   },
   {
@@ -26324,6 +26555,17 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/@daniausman24/building-a-random-password-generator-with-javascript-fb82e1df1d59",
+    "title": "Building a Random Password Generator with JavaScript | by Dania Usman | Mar, 2026 | Medium",
+    "date": "2026-03-09T17:54:49.233+06:00",
+    "og:title": "Building a Random Password Generator with JavaScript",
+    "og:image": "https://miro.medium.com/v2/resize:fit:569/1*PWJmJjyVEEqv5VhJLMoQfw.png",
+    "og:description": "Passwords are the first line of defence for any online account. Yet most people still use weak, reused passwords like “password123” or…",
+    "og:url": "https://medium.com/@daniausman24/building-a-random-password-generator-with-javascript-fb82e1df1d59",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/@darkmoon21170/the-day-i-discovered-the-power-of-relayout-design-3a9aad591b61",
     "title": "The Day I Discovered the Power of Relayout Design | by Abay krishna | Mar, 2026 | Medium",
     "date": "2026-03-09T16:04:44.812+06:00",
@@ -27453,6 +27695,17 @@
     "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*Nn9unSgzFN9Qwrf81osz6Q.png",
     "og:description": "Herkese merhaba! Bu hafta Closure konusunu ele almak istiyorum. Aslında oldukça basit bir mantığı var ama mülakatlarda çok sık sorulduğunu…",
     "og:url": "https://medium.com/@yarenerol1/closure-nedir-8a2768dcae03",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
+    "url": "https://medium.com/@yusufylmaz15/azure-web-app-deployment-guide-automation-with-github-actions-and-docker-0c752f73727a",
+    "title": "Azure Web App Deployment Guide: Automation with GitHub Actions and Docker | by Yusuf Yılmaz | Mar, 2026 | Medium",
+    "date": "2026-03-09T17:54:49.086+06:00",
+    "og:title": "Azure Web App Deployment Guide: Automation with GitHub Actions and Docker",
+    "og:image": "https://miro.medium.com/v2/resize:fit:900/1*l4ePrEHVG4S-nVGk86Eyyg.webp",
+    "og:description": "Hello! Today, we will explore how to Dockerize web applications built with Next.js, host them on Azure Container Registry (ACR), and deploy…",
+    "og:url": "https://medium.com/@yusufylmaz15/azure-web-app-deployment-guide-automation-with-github-actions-and-docker-0c752f73727a",
     "og:type": "article"
   },
   {
@@ -33452,6 +33705,17 @@
   },
   {
     "hostname": "webflow.com",
+    "url": "https://webflow.com/blog/agent-skills",
+    "title": "Agent skills: What, why, and Webflow",
+    "date": "2026-03-09T17:54:48.886+06:00",
+    "og:title": "Agent skills: What, why, and Webflow | Webflow Blog",
+    "og:image": "https://cdn.prod.website-files.com/687e8d1b96312cc631cafec7/69af064a116352f448607a09_AI-BlogHeader_5-1.jpg",
+    "og:description": "An introduction to generative AI skills and what Webflow is doing with them to help our users.",
+    "og:url": "https://webflow.com/blog/agent-skills",
+    "og:type": "website"
+  },
+  {
+    "hostname": "webflow.com",
     "url": "https://webflow.com/blog/contact-us-page",
     "title": "Contact us page design: Best practices and 14 inspiring examples",
     "date": "2026-03-05T05:37:17.662+06:00",
@@ -35135,6 +35399,17 @@
   },
   {
     "hostname": "www.calend.ru",
+    "url": "https://www.calend.ru/holidays/0/0/1512/",
+    "title": "Всемирный день диджея - 9 марта. История и особенности праздника в проекте Календарь Праздников 2026",
+    "date": "2026-03-09T18:05:20.918+06:00",
+    "og:title": "Всемирный день диджея",
+    "og:image": "https://www.calend.ru/img/content/i1/1512.jpg",
+    "og:description": "Всемирный день диджея (англ. World DJ Day) — это скорее не официальный праздник представителей этой творческой профессии, а важная благотворительная кампания, которая проводится с 2002 года от имени Международной клубной индустрии. Каждый год во ...",
+    "og:url": "https://www.calend.ru/holidays/0/0/1512/",
+    "og:type": "website"
+  },
+  {
+    "hostname": "www.calend.ru",
     "url": "https://www.calend.ru/holidays/0/0/1619/",
     "title": "День памяти князя Игоря - 3 марта. История и особенности праздника в проекте Календарь Праздников 2026",
     "date": "2026-03-02T06:15:59.854+06:00",
@@ -35157,6 +35432,17 @@
   },
   {
     "hostname": "www.calend.ru",
+    "url": "https://www.calend.ru/holidays/0/0/18/",
+    "title": "Международный женский день - 8 марта. История и особенности праздника в проекте Календарь Праздников 2026",
+    "date": "2026-03-09T18:05:22.347+06:00",
+    "og:title": "Международный женский день",
+    "og:image": "https://www.calend.ru/img/content/i0/18.jpg",
+    "og:description": "Любимые женщины приходят к нам веснами, Они неожиданны, как дождь или снег. Любимые женщины приходят к нам звездами, Когда открываем мы одну среди всех.«Любимые женщины» музыка С. Туликова, слова М. Пляцковского8 марта — Международный ж...",
+    "og:url": "https://www.calend.ru/holidays/0/0/18/",
+    "og:type": "website"
+  },
+  {
+    "hostname": "www.calend.ru",
     "url": "https://www.calend.ru/holidays/0/0/1803/",
     "title": "День независимости Боснии и Герцеговины - 1 марта. История и особенности праздника в проекте Календарь Праздников 2026",
     "date": "2026-03-02T06:16:03.36+06:00",
@@ -35175,6 +35461,17 @@
     "og:image": "https://www.calend.ru/img/content/i1/1864.jpg",
     "og:description": "Козельщанская икона Божией Матери принадлежит к числу наиболее почитаемых икон.Считается, что эта икона итальянского происхождения, которая была привезена в Россию одной из придворных императрицы Елизаветы Петровны (1709—1762). Владелица иконы вы...",
     "og:url": "https://www.calend.ru/holidays/0/0/1864/",
+    "og:type": "website"
+  },
+  {
+    "hostname": "www.calend.ru",
+    "url": "https://www.calend.ru/holidays/0/0/1865/",
+    "title": "День памяти священномученика Поликарпа, епископа Смирнского - 8 марта. История и особенности праздника в проекте Календарь Праздников 2026",
+    "date": "2026-03-09T18:05:23.196+06:00",
+    "og:title": "День памяти священномученика Поликарпа, епископа Смирнского",
+    "og:image": "https://www.calend.ru/img/content/i1/1865.jpg",
+    "og:description": "Святитель Поликарп, епископ Смирнский, родился примерно в 80 году и проживал в городе Смирне Малой Азии. Рано оставшись сиротой, Поликарп был воспитан, по указанию Ангела, благочестивой вдовой Каллистой. После смерти нареченной матери Поликарп ра...",
+    "og:url": "https://www.calend.ru/holidays/0/0/1865/",
     "og:type": "website"
   },
   {
@@ -35263,6 +35560,17 @@
     "og:image": "https://www.calend.ru/img/content/i0/227.jpg",
     "og:description": "4 марта — памятная дата в истории белорусской милиции. В этот день личный состав Министерства внутренних дел Республики отмечает свой профессиональный праздник — День милиции, официально утвержденный указом Президента Республики Беларусь № 157 от 26 ...",
     "og:url": "https://www.calend.ru/holidays/0/0/227/",
+    "og:type": "website"
+  },
+  {
+    "hostname": "www.calend.ru",
+    "url": "https://www.calend.ru/holidays/0/0/2374/",
+    "title": "День учителя в Ливане - 9 марта. История и особенности праздника в проекте Календарь Праздников 2026",
+    "date": "2026-03-09T18:05:22.044+06:00",
+    "og:title": "День учителя в Ливане",
+    "og:image": "https://www.calend.ru/img/content/i2/2374.jpg",
+    "og:description": "День учителя в Ливане (Teachers' Day in Lebanon) — один из самых любимых профессиональных праздников, заслуженно пользующихся признанием. Интересно, что празднования начинаются 3 марта и продолжаются целую неделю, кульминационно завершаясь 9 марта. \n...",
+    "og:url": "https://www.calend.ru/holidays/0/0/2374/",
     "og:type": "website"
   },
   {
@@ -35421,6 +35729,17 @@
   },
   {
     "hostname": "www.calend.ru",
+    "url": "https://www.calend.ru/holidays/0/0/3197/",
+    "title": "День обретения мощей блаженной Матроны Московской - 8 марта. История и особенности праздника в проекте Календарь Праздников 2026",
+    "date": "2026-03-09T18:05:22.961+06:00",
+    "og:title": "День обретения мощей блаженной Матроны Московской",
+    "og:image": "https://www.calend.ru/img/content/i3/3197.jpg",
+    "og:description": "В этот день Русская Православная церковь отмечает день обретения мощей святой блаженной старицы Матроны Московской, одной из самых почитаемых в России святых. Блаженная Матрона (Матрона Димитриевна Никонова) родилась в 1885 году в селе Себино Тул...",
+    "og:url": "https://www.calend.ru/holidays/0/0/3197/",
+    "og:type": "website"
+  },
+  {
+    "hostname": "www.calend.ru",
     "url": "https://www.calend.ru/holidays/0/0/3231/",
     "title": "Международный день спички - 2 марта. История и особенности праздника в проекте Календарь Праздников 2026",
     "date": "2026-03-02T06:16:01.455+06:00",
@@ -35553,6 +35872,28 @@
   },
   {
     "hostname": "www.calend.ru",
+    "url": "https://www.calend.ru/holidays/0/0/3784/",
+    "title": "День домашних насекомых - 9 марта. История и особенности праздника в проекте Календарь Праздников 2026",
+    "date": "2026-03-09T18:05:21.587+06:00",
+    "og:title": "День домашних насекомых",
+    "og:image": "https://www.calend.ru/img/content/i3/3784.jpg",
+    "og:description": "Среди прочих домашних питомцев, которые скрашивают одиночество человека, расширяют его мир и радуют глаз, всё большее распространение начали получать домашние насекомые. Именно им и посвящён День домашних насекомых, отмечаемый ежегодно 9 марта.Вр...",
+    "og:url": "https://www.calend.ru/holidays/0/0/3784/",
+    "og:type": "website"
+  },
+  {
+    "hostname": "www.calend.ru",
+    "url": "https://www.calend.ru/holidays/0/0/3785/",
+    "title": "День нестандартно мыслящих людей - 9 марта. История и особенности праздника в проекте Календарь Праздников 2026",
+    "date": "2026-03-09T18:05:20.483+06:00",
+    "og:title": "День нестандартно мыслящих людей",
+    "og:image": "https://www.calend.ru/img/content/i3/3785.jpg",
+    "og:description": "9 марта отмечается День нестандартно мыслящих людей. А значит, это праздник изобретателей, инженеров, писателей, музыкантов, художников... и всех, кто умеет находить необычное в повседневном.Выходящих за рамки стандартного или шаблонного мышления...",
+    "og:url": "https://www.calend.ru/holidays/0/0/3785/",
+    "og:type": "website"
+  },
+  {
+    "hostname": "www.calend.ru",
     "url": "https://www.calend.ru/holidays/0/0/383/",
     "title": "День святого Дэвида - 1 марта. История и особенности праздника в проекте Календарь Праздников 2026",
     "date": "2026-03-02T06:16:03.378+06:00",
@@ -35575,6 +35916,17 @@
   },
   {
     "hostname": "www.calend.ru",
+    "url": "https://www.calend.ru/holidays/0/0/3869/",
+    "title": "День корректуры - 8 марта. История и особенности праздника в проекте Календарь Праздников 2026",
+    "date": "2026-03-09T18:05:22.602+06:00",
+    "og:title": "День корректуры",
+    "og:image": "https://www.calend.ru/img/content/i3/3869.jpg",
+    "og:description": "8 марта, конечно же, прежде всего известно как Международный женский день. Но на эту дату приходится и еще один интересный международный праздник – День корректуры (англ. Proofreading Day) или День корректорской правки, посвященный грамотному и безош...",
+    "og:url": "https://www.calend.ru/holidays/0/0/3869/",
+    "og:type": "website"
+  },
+  {
+    "hostname": "www.calend.ru",
     "url": "https://www.calend.ru/holidays/0/0/3935/",
     "title": "День первого шага к полезной привычке - 1 марта. История и особенности праздника в проекте Календарь Праздников 2026",
     "date": "2026-03-02T06:16:03.077+06:00",
@@ -35593,6 +35945,17 @@
     "og:image": "https://www.calend.ru/img/content/i3/3937.jpg",
     "og:description": "7 марта отмечается весьма необычный и хулиганский праздник – День прогуливания уроков. Пожалуй, в мире не существует людей, которые хотя бы раз в жизни не пропустили ни одного урока. Но это именно сознательно и по собственному желанию, а не по болезн...",
     "og:url": "https://www.calend.ru/holidays/0/0/3937/",
+    "og:type": "website"
+  },
+  {
+    "hostname": "www.calend.ru",
+    "url": "https://www.calend.ru/holidays/0/0/3938/",
+    "title": "День диетолога - 10 марта. История и особенности праздника в проекте Календарь Праздников 2026",
+    "date": "2026-03-09T18:05:20.014+06:00",
+    "og:title": "День диетолога",
+    "og:image": "https://www.calend.ru/img/content/i3/3938.jpg",
+    "og:description": "10 марта в ряде стран отмечается профессиональный праздник специалистов, занимающихся вопросами правильного и здорового питания, – День диетолога. Он был учрежден в 2008 году членами Академии питания и диетологии (англ. Academy of Nutrition and Diete...",
+    "og:url": "https://www.calend.ru/holidays/0/0/3938/",
     "og:type": "website"
   },
   {
@@ -35718,6 +36081,17 @@
   },
   {
     "hostname": "www.calend.ru",
+    "url": "https://www.calend.ru/holidays/0/0/669/",
+    "title": "День архивов в России - 10 марта. История и особенности праздника в проекте Календарь Праздников 2026",
+    "date": "2026-03-09T18:05:19.157+06:00",
+    "og:title": "День архивов в России",
+    "og:image": "https://www.calend.ru/img/content/i0/669.jpg",
+    "og:description": "10 марта ежегодно в России отмечается День архивов — неофициальный профессиональный праздник работников архивов, учреждённый Решением коллегии Федеральной архивной службы РФ 5 марта 2003 года.Выбранная дата связана с событием, произошедшим (28 фе...",
+    "og:url": "https://www.calend.ru/holidays/0/0/669/",
+    "og:type": "website"
+  },
+  {
+    "hostname": "www.calend.ru",
     "url": "https://www.calend.ru/holidays/0/0/928/",
     "title": "Праздник Девятнадцатого дня месяца Ала - 2 марта. История и особенности праздника в проекте Календарь Праздников 2026",
     "date": "2026-03-02T06:16:01.532+06:00",
@@ -35802,6 +36176,39 @@
     "og:image": "https://www.calend.ru/img/content_events/i6/6516.jpg",
     "og:description": "Дата по старому стилю: 22 февраля. Праздник получил название в память о христианских святых, живших в 3-4 веках, — мучениках Апамейских, Маврикии и 70 воинах.В народе считалось, что именно на Маврикия прилетают домой грачи, скворцы и ласточки. Пр...",
     "og:url": "https://www.calend.ru/narod/6516/",
+    "og:type": "website"
+  },
+  {
+    "hostname": "www.calend.ru",
+    "url": "https://www.calend.ru/narod/6517/",
+    "title": "Поликарпов день",
+    "date": "2026-03-09T18:05:23.641+06:00",
+    "og:title": "Поликарпов день",
+    "og:image": "https://www.calend.ru/img/content_events/i6/6517.jpg",
+    "og:description": "Дата по старому стилю: 23 февраля. Святой Поликарп был учеником апостола Иоанна, впоследствии стал епископом Смирнским. Его иногда называли «вождем всей Азии в христианстве». Из сочинений Поликарпа сохранилось «Послание к филиппийцам», в котором епис...",
+    "og:url": "https://www.calend.ru/narod/6517/",
+    "og:type": "website"
+  },
+  {
+    "hostname": "www.calend.ru",
+    "url": "https://www.calend.ru/narod/6518/",
+    "title": "Иванов день",
+    "date": "2026-03-09T18:05:22.125+06:00",
+    "og:title": "Иванов день",
+    "og:image": "https://www.calend.ru/img/content_events/i6/6518.jpg",
+    "og:description": "Дата по старому стилю: 24 февраля. Иванов день — это, по церковному календарю, день обретения главы Иоанна Предтечи. Иоанн, известный также как Креститель, считается ближайшим предшественником Иисуса Христа, предсказавшим его пришествие. Он жил в пус...",
+    "og:url": "https://www.calend.ru/narod/6518/",
+    "og:type": "website"
+  },
+  {
+    "hostname": "www.calend.ru",
+    "url": "https://www.calend.ru/narod/6519/",
+    "title": "Тарас Бессонный",
+    "date": "2026-03-09T18:05:20.139+06:00",
+    "og:title": "Тарас Бессонный",
+    "og:image": "https://www.calend.ru/img/content_events/i6/6519.jpg",
+    "og:description": "Дата по старому стилю: 25 февраля. Святой Тарасий, чья память отмечается в этот день, был патриархом Константинопольским в конце 8 – начале 9 веков. По преданию, он отличался исключительной добротой: был отцом нищих и сирот, утешителем скорбящих, защ...",
+    "og:url": "https://www.calend.ru/narod/6519/",
     "og:type": "website"
   },
   {
@@ -36960,6 +37367,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=19837",
+    "title": "Apple выпустила четвёртые бета-версии iOS 26.4, iPadOS 26.4 и macOS Tahoe 26.4 для разработчиков",
+    "date": "2026-03-09T17:47:21.919+06:00",
+    "og:title": "Apple выпустила четвёртые бета-версии iOS 26.4, iPadOS 26.4 и macOS Tahoe 26.4 для разработчиков",
+    "og:image": "https://cdn.comss.ru/img/012026/ios-26-4-pastel.jpg",
+    "og:description": "Apple распространила четвёртые бета-версии iOS 26.4, iPadOS 26.4 и macOS Tahoe 26.4 среди разработчиков. Обновления продолжают тестирование новых функций, включая Playlist Playground в Музыке, видеоподкасты, сквозное шифрование RCS между iPhone и Android, а также новые возможности для Mac",
+    "og:url": "https://www.comss.ru/page.php?id=19837",
+    "og:type": "article"
+  },
+  {
     "hostname": "www.copods.co",
     "url": "https://www.copods.co/case-studies/ai-driven-e-commerce-platform/",
     "title": "AI-Powered Solutions for E-Commerce | Copods Case Study",
@@ -37342,6 +37760,17 @@
     "og:image": "https://cdn.mos.cms.futurecdn.net/E42UzQTSjVPvts8M9kpoX5-2062-80.jpg",
     "og:description": "Who will actually make change?",
     "og:url": "https://www.creativebloq.com/creative-inspiration/how-can-brands-and-agencies-put-their-money-where-their-mouth-is-this-iwd",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/creative-inspiration/rosalia-broke-the-branding-rulebook-and-won-heres-what-creatives-can-learn-from-her",
+    "title": "Rosalía broke every branding rule and won – here's what creatives can learn from her | Creative Bloq",
+    "date": "2026-03-09T17:54:48.875+06:00",
+    "og:title": "Rosalía broke every branding rule and won – here's what creatives can learn from her",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/CDgTBFdB5KMUiqQmVsyi69-1120-80.jpg",
+    "og:description": "From flamenco to avant-garde, singer Rosalía proves that mastering tradition is the key to creative reinvention.",
+    "og:url": "https://www.creativebloq.com/creative-inspiration/rosalia-broke-the-branding-rulebook-and-won-heres-what-creatives-can-learn-from-her",
     "og:type": "article"
   },
   {
@@ -38772,6 +39201,17 @@
     "og:image": "https://www.deskmodder.de/blog/wp-content/uploads/2026/03/handbrake-1110-net-10.jpg",
     "og:description": "HandBrake ist ein kleiner, vielseitiger und auch portabler Video-Encoder. Man kann Videos umwandeln, Tonspuren entfernen und vieles mehr. Jetzt steht ein neues Update auf die Version 1.11.0 (2026030800). In der Windows-Version steht ein Wechsel von .NET 8 auf .NET 10…",
     "og:url": "https://www.deskmodder.de/blog/2026/03/09/handbrake-1-11-0-benoetigt-jetzt-net-10-kommt-mit-vielen-encodern-und-mehr/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/blog/2026/03/09/windows-11-kalendereintraege-im-info-bereich-kalender-kommt-in-den-naechsten-monaten/",
+    "title": "Windows 11 Calendar entries in the info area (calendar) will arrive in the next few months - Deskmodder.de",
+    "date": "2026-03-09T17:39:05.996+06:00",
+    "og:title": "Windows 11 Kalendereinträge im Info-Bereich (Kalender) kommt in den nächsten Monaten",
+    "og:image": "https://www.deskmodder.de/blog/wp-content/uploads/2026/03/info-center-kalender-eintraege-scaled.jpg",
+    "og:description": "Im November 2025 kündigte Microsoft an, dass man im Benachrichtigungsbereich (Info-Center) zum Kalender, der derzeit keine Funktion hat, die Kalendereinträge wieder integrieren will. Das sollte im Dezember 2025 passieren, kam aber nicht. Jetzt soll es aber wirklich kommen. Ich muss…",
+    "og:url": "https://www.deskmodder.de/blog/2026/03/09/windows-11-kalendereintraege-im-info-bereich-kalender-kommt-in-den-naechsten-monaten/",
     "og:type": "article"
   },
   {
@@ -45035,6 +45475,17 @@
   },
   {
     "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/products/wideframe",
+    "title": "Wideframe: AI Coworker for Video Editors | Product Hunt",
+    "date": "2026-03-09T17:51:55.195+06:00",
+    "og:title": "Wideframe: AI Coworker for Video Editors | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/fc6fe98b-0518-4818-b34b-a56ac4ccb04b.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "Wideframe is an AI coworker for video editors. It automates the searching, labeling, organizing, and sequencing so editors can ship videos faster.",
+    "og:url": "https://www.producthunt.com/products/wideframe",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.producthunt.com",
     "url": "https://www.producthunt.com/products/willow-voice",
     "title": "Willow Voice: Voice dictation that actually works | Product Hunt",
     "date": "2026-03-05T08:47:08.807+06:00",
@@ -47617,6 +48068,17 @@
     "og:description": "It's objectively unnecessary, and I regret nothing.",
     "og:url": "https://www.xda-developers.com/windows-server-2025-is-overkill-for-my-home-lab-and-i-love-it/",
     "og:type": "article"
+  },
+  {
+    "hostname": "www.youtube.com",
+    "url": "https://www.youtube.com/shorts/50vObPjISww",
+    "title": "(2) Solve this JavaScript code golf challenge: write a function that replaces variables in a string. Go! - YouTube",
+    "date": "2026-03-09T17:51:51.366+06:00",
+    "og:title": "Solve this JavaScript code golf challenge: write a function that replaces variables in a string. Go!",
+    "og:image": "https://i.ytimg.com/vi/50vObPjISww/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCamJW-obauiRdMOQ54-qhHFD-byg&usqp=CCk",
+    "og:description": "A small but practical challenge. Write a function that replaces variables in a string using values from an object or dictionary. We’ve got a compact JavaScri...",
+    "og:url": "https://www.youtube.com/shorts/50vObPjISww",
+    "og:type": "video.other"
   },
   {
     "hostname": "www.youtube.com",
