@@ -22,6 +22,17 @@
     "og:type": ""
   },
   {
+    "hostname": "1app.energy",
+    "url": "https://1app.energy/",
+    "title": "1app.energy | Stop Octopus Daytime EV Battery Drain",
+    "date": "2026-04-05T14:54:50.572+06:00",
+    "og:title": "Stop Octopus Daytime EV Charging from Draining Your Home Battery | 1app.energy",
+    "og:image": "https://1app.energy/opengraph-image?6e46ff1df71e316d",
+    "og:description": "Stop Octopus Intelligent Go from draining your home battery during daytime EV charging. Protect solar-stored energy and maximise your UK home savings.",
+    "og:url": "https://1app.energy",
+    "og:type": "website"
+  },
+  {
     "hostname": "2baksa.ws",
     "url": "https://2baksa.ws/software/windows/3417-reclaim-time-focusme-7681.html",
     "title": "Reclaim Time FocusMe 7.6.9.1 » 2baksa.ws - fresh software versions hub",
@@ -1046,6 +1057,17 @@
   },
   {
     "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/aiphotogenerator",
+    "title": "AI Photo Generator: Studio-quality AI photos without the | BetaList",
+    "date": "2026-04-05T02:10:51.489+06:00",
+    "og:title": "AI Photo Generator: Studio-quality AI photos without the studio",
+    "og:image": "https://resize.imagekit.co/C2qYlIF6DQIteORw2xVcTZhEjUPzApy5ByN9R-xkIv4/plain/s3://betalist-production/4o6qedr56wngmfqz7v88p2mvlckq",
+    "og:description": "Studio-quality AI photos without the studio",
+    "og:url": "https://betalist.com/startups/aiphotogenerator",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
     "url": "https://betalist.com/startups/anvevoice",
     "title": "AnveVoice: Add voice AI that navigates your site and | BetaList",
     "date": "2026-04-01T02:22:24.436+06:00",
@@ -1064,6 +1086,28 @@
     "og:image": "https://resize.imagekit.co/RSZJHAlV6ERSYoxv6fduNPtgaNI2WLFGuQV0k60L-wE/plain/s3://betalist-production/f6fzlcrd1wtxpkqm18j3ewfnm7dn",
     "og:description": "Drag and drop files to get a shareable link in seconds",
     "og:url": "https://betalist.com/startups/anytourl",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/applybtn",
+    "title": "ApplyBtn: Autofill job applications with AI on any job page | BetaList",
+    "date": "2026-04-05T02:11:03.054+06:00",
+    "og:title": "ApplyBtn: Autofill job applications with AI on any job page",
+    "og:image": "https://resize.imagekit.co/iko-tIXhw4oTKRAP_s1VGV_R9zxFGHYpX4VV776iBCc/plain/s3://betalist-production/fi496m6s2572mlvhwzcl3fefq313",
+    "og:description": "Autofill job applications with AI on any job page",
+    "og:url": "https://betalist.com/startups/applybtn",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/arcway",
+    "title": "Arcway: Practice interviews with real-time AI feedback and | BetaList",
+    "date": "2026-04-05T02:11:00.438+06:00",
+    "og:title": "Arcway: Practice interviews with real-time AI feedback and voice",
+    "og:image": "https://resize.imagekit.co/syJnG1VxJM5eXjIA2hGHwoEdoSLnxznyfQ5Lh7yVbqo/plain/s3://betalist-production/h0h10zxv5iu5t4f47zhl0232s59k",
+    "og:description": "Practice interviews with real-time AI feedback and voice analysis",
+    "og:url": "https://betalist.com/startups/arcway",
     "og:type": "article,"
   },
   {
@@ -1101,6 +1145,17 @@
   },
   {
     "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/blitzsupport",
+    "title": "BlitzSupport: AI helpdesk that prepares and resolves | BetaList",
+    "date": "2026-04-05T02:10:49.355+06:00",
+    "og:title": "BlitzSupport: AI helpdesk that prepares and resolves tickets before",
+    "og:image": "https://resize.imagekit.co/ILz35XFRgiEtLU_UDe2-CgWQ5g-6_z1nOwkeHeSMT58/plain/s3://betalist-production/gmohyuxmgkh51asbhiux9oicgn2o",
+    "og:description": "AI helpdesk that prepares and resolves tickets before you open them",
+    "og:url": "https://betalist.com/startups/blitzsupport",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
     "url": "https://betalist.com/startups/bondary",
     "title": "Bondary: AI dating copilot that helps you see who someone | BetaList",
     "date": "2026-04-01T02:22:24.902+06:00",
@@ -1108,6 +1163,39 @@
     "og:image": "https://resize.imagekit.co/GKxlUbqkpA7pAk7Ojq1BGMyEbXp3droXW_JM8zMATV8/plain/s3://betalist-production/ttu88ym5px1wdagzp86fruxly4gd",
     "og:description": "AI dating copilot that helps you see who someone is before it gets serious",
     "og:url": "https://betalist.com/startups/bondary",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/casasplus",
+    "title": "Casasplus: Search homes for sale and rent across Panama | BetaList",
+    "date": "2026-04-05T02:10:44.191+06:00",
+    "og:title": "Casasplus: Search homes for sale and rent across Panama",
+    "og:image": "https://resize.imagekit.co/gC1NLSmcDWD623jSHoXvpzxdVSKJiWXqaQsGWy8-7B4/plain/s3://betalist-production/pfovnurfmqvwxjz432bshzxl5z57",
+    "og:description": "Search homes for sale and rent across Panama",
+    "og:url": "https://betalist.com/startups/casasplus",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/caseclock",
+    "title": "CaseClock: Capture billable time by voice and sync to Clio | BetaList",
+    "date": "2026-04-05T02:10:51.786+06:00",
+    "og:title": "CaseClock: Capture billable time by voice and sync to Clio or CSV",
+    "og:image": "https://resize.imagekit.co/CWwu0GqB_nqlUdiyNMP5hc9ru2rai7GdRpz6Ro-jniQ/plain/s3://betalist-production/jul7ugyabaclktkkpo99crdmw3u7",
+    "og:description": "Capture billable time by voice and sync to Clio or CSV",
+    "og:url": "https://betalist.com/startups/caseclock",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/cashflowy-ai",
+    "title": "Cashflowy.ai: Get AI bookkeeping and human support to see | BetaList",
+    "date": "2026-04-05T02:10:52.201+06:00",
+    "og:title": "Cashflowy.ai: Get AI bookkeeping and human support to see where your",
+    "og:image": "https://resize.imagekit.co/iNv3seqoiOCC7F_h3rNqqt20Kd01lGuROTOvainBFz4/plain/s3://betalist-production/0zmmqqbyh23ojybvj1btq255qcck",
+    "og:description": "Get AI bookkeeping and human support to see where your money goes",
+    "og:url": "https://betalist.com/startups/cashflowy-ai",
     "og:type": "article,"
   },
   {
@@ -1134,6 +1222,17 @@
   },
   {
     "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/clawly-2",
+    "title": "Clawly: Run your OpenClaw agent 24/7 with one-click deploy | BetaList",
+    "date": "2026-04-05T02:10:51.69+06:00",
+    "og:title": "Clawly: Run your OpenClaw agent 24/7 with one-click deploy and cost",
+    "og:image": "https://resize.imagekit.co/8als8oe-gNiO6GfRMzz4LJBslZt7h643Q18qjGDbKlk/plain/s3://betalist-production/h6pczjbfe9f6me49ulo0n6c48vxu",
+    "og:description": "Run your OpenClaw agent 24/7 with one-click deploy and cost tracking",
+    "og:url": "https://betalist.com/startups/clawly-2",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
     "url": "https://betalist.com/startups/cleansmart",
     "title": "CleanSmart: Automatically fix duplicates, formats, and | BetaList",
     "date": "2026-04-02T08:24:04.659+06:00",
@@ -1141,6 +1240,17 @@
     "og:image": "https://resize.imagekit.co/o7ct9IRSS_zmZxsbHmWy_X2fEnfzLfG6cvpTbYmgWkE/plain/s3://betalist-production/nu9ozese90gcgjn1oypnma6a9ejl",
     "og:description": "Automatically fix duplicates, formats, and missing values",
     "og:url": "https://betalist.com/startups/cleansmart",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/coltvibe",
+    "title": "ColtVibe: Platform where AI agents compete and build | BetaList",
+    "date": "2026-04-05T02:10:53.303+06:00",
+    "og:title": "ColtVibe: Platform where AI agents compete and build verifiable",
+    "og:image": "https://resize.imagekit.co/_4R7lcv2qi3ftwXsg7US5uipF2yhXJf4ZMYZPywGBkc/plain/s3://betalist-production/wggi3xq6a2lwz5hly2oe3yti3pq1",
+    "og:description": "Platform where AI agents compete and build verifiable reputations",
+    "og:url": "https://betalist.com/startups/coltvibe",
     "og:type": "article,"
   },
   {
@@ -1244,6 +1354,17 @@
   },
   {
     "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/familoo",
+    "title": "Familoo: Shared family calendar with only one member | BetaList",
+    "date": "2026-04-05T02:10:57.151+06:00",
+    "og:title": "Familoo: Shared family calendar with only one member needing an",
+    "og:image": "https://resize.imagekit.co/TYUJnpJvnGFzmPKzsykzQHahUFwyQb_CGWlLqSF6jGo/plain/s3://betalist-production/kp7q2i9qgjb722c17z8f5tn1vb6a",
+    "og:description": "Shared family calendar with only one member needing an account",
+    "og:url": "https://betalist.com/startups/familoo",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
     "url": "https://betalist.com/startups/familyfeed",
     "title": "FamilyFeed: Your family's smart assistant with bots and | BetaList",
     "date": "2026-04-03T02:49:20.364+06:00",
@@ -1321,6 +1442,17 @@
   },
   {
     "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/guide-iq",
+    "title": "Guide IQ: Upgrade any AI to be your expert marketer | BetaList",
+    "date": "2026-04-05T02:11:00.963+06:00",
+    "og:title": "Guide IQ: Upgrade any AI to be your expert marketer",
+    "og:image": "https://resize.imagekit.co/grvR0h2WEUCqM6uNgvTlorfQjF1lAuzMiKWHaE6uSco/plain/s3://betalist-production/6kvz7xqv64qxlu3wcgbrc9j3angj",
+    "og:description": "Upgrade any AI to be your expert marketer",
+    "og:url": "https://betalist.com/startups/guide-iq",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
     "url": "https://betalist.com/startups/hankring",
     "title": "HankRing: Find and rate dishes you crave, not venues, and | BetaList",
     "date": "2026-04-01T09:45:37.442+06:00",
@@ -1339,6 +1471,39 @@
     "og:image": "https://resize.imagekit.co/BOcOXwMLc-DyQYGUvinRMBUfXuTHI5JYdxAXc5gIKLI/plain/s3://betalist-production/zt3wsgfgrbprtnxzfns9tc7fwytw",
     "og:description": "Automated deal alerts for used hardware",
     "og:url": "https://betalist.com/startups/hardware-hunter",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/helpview",
+    "title": "Helpview: Turn Notion into a branded help center with fast | BetaList",
+    "date": "2026-04-05T02:10:57.433+06:00",
+    "og:title": "Helpview: Turn Notion into a branded help center with fast search and",
+    "og:image": "https://resize.imagekit.co/nKIy0lrk6m9NCyzVaI1bNFy7vjGCHF2rUa4wPfEDAFg/plain/s3://betalist-production/mtcn9gtqqe7vlxzbcmusfn0ern3r",
+    "og:description": "Turn Notion into a branded help center with fast search and polished themes",
+    "og:url": "https://betalist.com/startups/helpview",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/hummingdeck",
+    "title": "HummingDeck: Share decks and proposals and track views and | BetaList",
+    "date": "2026-04-05T02:10:49.8+06:00",
+    "og:title": "HummingDeck: Share decks and proposals and track views and clicks in",
+    "og:image": "https://resize.imagekit.co/g4m3Qo3K3q-bRuXc5PRAv5DdpGu5ijwu3XGzAmYSMeA/plain/s3://betalist-production/4ysi3cn5bpi1d158a9wgkot1g8ad",
+    "og:description": "Share decks and proposals and track views and clicks in real time",
+    "og:url": "https://betalist.com/startups/hummingdeck",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/klyne",
+    "title": "Klyne: Track workday emotions and navigate challenges with | BetaList",
+    "date": "2026-04-05T02:10:44.446+06:00",
+    "og:title": "Klyne: Track workday emotions and navigate challenges with clarity",
+    "og:image": "https://resize.imagekit.co/aftbGFDM_46DRAkEVBBsSNMtF61HZB_HGwnwKEXFezo/plain/s3://betalist-production/6twp9veijhn7y36agx57t2x8awvd",
+    "og:description": "Track workday emotions and navigate challenges with clarity",
+    "og:url": "https://betalist.com/startups/klyne",
     "og:type": "article,"
   },
   {
@@ -1409,6 +1574,28 @@
   },
   {
     "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/mockly",
+    "title": "Mockly: Design realistic fake chats, posts, comments, and | BetaList",
+    "date": "2026-04-05T02:10:58.221+06:00",
+    "og:title": "Mockly: Design realistic fake chats, posts, comments, and stories fast",
+    "og:image": "https://resize.imagekit.co/gWyUwXTRIYav4zpxRT6DFMcyK_zDHJ8d5YQLvMLunaM/plain/s3://betalist-production/23sos9zqlef4o0891eb7swjwlfhp",
+    "og:description": "Design realistic fake chats, posts, comments, and stories fast",
+    "og:url": "https://betalist.com/startups/mockly",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/myfinances",
+    "title": "MyFinances: Privacy-first wealth tracking without linking | BetaList",
+    "date": "2026-04-05T02:10:52.331+06:00",
+    "og:title": "MyFinances: Privacy-first wealth tracking without linking your bank",
+    "og:image": "https://resize.imagekit.co/Y26l60n5xF735fJlzZP4VjTo6uvYhhhSBofAvhp4NOg/plain/s3://betalist-production/fzgvr9af69k2s5tq6bnxxwrp7uui",
+    "og:description": "Privacy-first wealth tracking without linking your bank account",
+    "og:url": "https://betalist.com/startups/myfinances",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
     "url": "https://betalist.com/startups/n-one",
     "title": "N+One: Your AI cycling coach that adapts training to daily | BetaList",
     "date": "2026-04-03T02:49:20.294+06:00",
@@ -1442,6 +1629,28 @@
   },
   {
     "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/oriaflow",
+    "title": "OriaFlow: Get a ranked shortlist and tailored applications | BetaList",
+    "date": "2026-04-05T02:10:44.111+06:00",
+    "og:title": "OriaFlow: Get a ranked shortlist and tailored applications for roles",
+    "og:image": "https://resize.imagekit.co/OuSr1q9S2j0EkvkVFO57KuCTpsElmQbQMu0gqAHIC3o/plain/s3://betalist-production/lueu2o8jyf82ghfauvs4sibqsy8h",
+    "og:description": "Get a ranked shortlist and tailored applications for roles that fit",
+    "og:url": "https://betalist.com/startups/oriaflow",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/outsprinter",
+    "title": "Outsprinter: Align goals, KPIs, projects, tasks, and weekly | BetaList",
+    "date": "2026-04-05T02:10:57.886+06:00",
+    "og:title": "Outsprinter: Align goals, KPIs, projects, tasks, and weekly execution",
+    "og:image": "https://resize.imagekit.co/WbILYF_i3ZFDbACXFzSdZkAd4CqtJy6cbAm25MJFGio/plain/s3://betalist-production/2mfu1rs37vky47d3h6ajwi5xsagp",
+    "og:description": "Align goals, KPIs, projects, tasks, and weekly execution in one system",
+    "og:url": "https://betalist.com/startups/outsprinter",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
     "url": "https://betalist.com/startups/painkiller-ideas",
     "title": "Painkiller Ideas: Discover and validate real startup ideas | BetaList",
     "date": "2026-04-01T02:22:24.085+06:00",
@@ -1449,6 +1658,17 @@
     "og:image": "https://resize.imagekit.co/AE-x76iYm0DUZ7asLrpu95kaYJp1S_61Y6RAYYuqoG8/plain/s3://betalist-production/gof3gf2ste3dqhg8ar1ynm91jvfw",
     "og:description": "Discover and validate real startup ideas with AI-driven research",
     "og:url": "https://betalist.com/startups/painkiller-ideas",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/pencil-d",
+    "title": "Pencil'd: Virtual receptionist to answer your customer | BetaList",
+    "date": "2026-04-05T02:10:52.815+06:00",
+    "og:title": "Pencil'd: Virtual receptionist to answer your customer calls when",
+    "og:image": "https://resize.imagekit.co/nUrw6cLMMrBSmpEcWYgmIRJIVH5PQ0IR4lH8q1Zw3B8/plain/s3://betalist-production/fhxnavivz7nznggssat6njf3tdfw",
+    "og:description": "Virtual receptionist to answer your customer calls when you're not there",
+    "og:url": "https://betalist.com/startups/pencil-d",
     "og:type": "article,"
   },
   {
@@ -1482,6 +1702,17 @@
     "og:image": "https://resize.imagekit.co/YJxv9v95iT3apdslG0ldTnw-cAJ6TPpxDhyvA_Av-GY/plain/s3://betalist-production/aovueh1kglw0hxlpvwn31bmpptel",
     "og:description": "Create a drama with AI",
     "og:url": "https://betalist.com/startups/plot-party",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/portifa",
+    "title": "Portifa: Create an artist portfolio in minutes and see who | BetaList",
+    "date": "2026-04-05T02:10:50.992+06:00",
+    "og:title": "Portifa: Create an artist portfolio in minutes and see who views it",
+    "og:image": "https://resize.imagekit.co/AWlXcJ3R3J6TtgCVCaAtgFh5rygaNclIDw3WuKFUQHE/plain/s3://betalist-production/3nmuqnysg9rjt4l9smbd5dm0d1id",
+    "og:description": "Create an artist portfolio in minutes and see who views it",
+    "og:url": "https://betalist.com/startups/portifa",
     "og:type": "article,"
   },
   {
@@ -1530,6 +1761,28 @@
   },
   {
     "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/sansara",
+    "title": "Sansara: Keep your mental health private with on-device AI | BetaList",
+    "date": "2026-04-05T02:11:03.856+06:00",
+    "og:title": "Sansara: Keep your mental health private with on-device AI that",
+    "og:image": "https://resize.imagekit.co/KinDWLRN3JzTrb929iyz_udmG3fJ5or6vFf4NQFdptg/plain/s3://betalist-production/4785hecsd17vp79gjwr40toysm7j",
+    "og:description": "Keep your mental health private with on-device AI that listens",
+    "og:url": "https://betalist.com/startups/sansara",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/scanskinai",
+    "title": "ScanSkinAI: Check skin for 80+ conditions with instant AI | BetaList",
+    "date": "2026-04-05T02:11:00.904+06:00",
+    "og:title": "ScanSkinAI: Check skin for 80+ conditions with instant AI results and",
+    "og:image": "https://resize.imagekit.co/jdUIFn3qqPKHpALIJ4LLUdl5ctnlXZyhves-En79OqE/plain/s3://betalist-production/u3xp5ebswywrsswg2pz833drrkk9",
+    "og:description": "Check skin for 80+ conditions with instant AI results and guidance",
+    "og:url": "https://betalist.com/startups/scanskinai",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
     "url": "https://betalist.com/startups/servo",
     "title": "Servo: Helps founders figure out how to explain what they | BetaList",
     "date": "2026-04-02T02:46:50.13+06:00",
@@ -1541,6 +1794,28 @@
   },
   {
     "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/simplecourse",
+    "title": "SimpleCourse: The simplest way to create and sell online | BetaList",
+    "date": "2026-04-05T02:10:56.836+06:00",
+    "og:title": "SimpleCourse: The simplest way to create and sell online courses",
+    "og:image": "https://resize.imagekit.co/5O1kbpHPZKTcE04aHa-NcXm83jkwfc-1JufndDWaCic/plain/s3://betalist-production/yvkasmd40is9qrrmha7wqghrqt7e",
+    "og:description": "The simplest way to create and sell online courses",
+    "og:url": "https://betalist.com/startups/simplecourse",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/simuser-ai",
+    "title": "SimUser AI: Uncover UX issues with AI personas that explore | BetaList",
+    "date": "2026-04-05T02:10:57.892+06:00",
+    "og:title": "SimUser AI: Uncover UX issues with AI personas that explore your web",
+    "og:image": "https://resize.imagekit.co/maBTznyhX1mquZUWuEhm5bRpQnhlnA3re2CjWvyt49k/plain/s3://betalist-production/60vn28cnz8ftwpyux8o9qqwqufc7",
+    "og:description": "Uncover UX issues with AI personas that explore your web app",
+    "og:url": "https://betalist.com/startups/simuser-ai",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
     "url": "https://betalist.com/startups/skedly",
     "title": "Skedly: Receive, filter, retry, and replay webhooks | BetaList",
     "date": "2026-04-03T02:49:20.24+06:00",
@@ -1548,6 +1823,28 @@
     "og:image": "https://resize.imagekit.co/N4c0f7bO6VujVG4TkRor-huWi4nrTsPsowve1D75R90/plain/s3://betalist-production/0msb0et3h26rh5meo5kfsnfjb6bh",
     "og:description": "Receive, filter, retry, and replay webhooks reliably",
     "og:url": "https://betalist.com/startups/skedly",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/solvryns",
+    "title": "Solvryns: Run small-business accounting with AI bank feeds, | BetaList",
+    "date": "2026-04-05T02:10:51.824+06:00",
+    "og:title": "Solvryns: Run small-business accounting with AI bank feeds, invoicing,",
+    "og:image": "https://resize.imagekit.co/XLdjM8wspcOHf44vqxFZ813cCSyc1WGRVt6ei3DOGxU/plain/s3://betalist-production/xgfcxsq1mbstvci3dg0z86gsuylc",
+    "og:description": "Run small-business accounting with AI bank feeds, invoicing, and reports",
+    "og:url": "https://betalist.com/startups/solvryns",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/sora-watermark-remover",
+    "title": "Sora Watermark Remover: Paste your Sora link to download | BetaList",
+    "date": "2026-04-05T02:11:00.507+06:00",
+    "og:title": "Sora Watermark Remover: Paste your Sora link to download",
+    "og:image": "https://resize.imagekit.co/xubBAsXp6fJwft_sCvH2PCF_fT1WEk6KtJBLKUC4G0E/plain/s3://betalist-production/pcc1rvtpbti1wogmqsjilkff7dnv",
+    "og:description": "Paste your Sora link to download watermark-free videos in minutes",
+    "og:url": "https://betalist.com/startups/sora-watermark-remover",
     "og:type": "article,"
   },
   {
@@ -1570,6 +1867,17 @@
     "og:image": "https://resize.imagekit.co/K4iIZLgKL-IzghMuITCbIfgZsM7N-GpxvYFZqBhhLAE/plain/s3://betalist-production/97x5l5clhzz2kqwfl4ugd2274feu",
     "og:description": "Plan sprints, align async, and ship faster with AI insights",
     "og:url": "https://betalist.com/startups/sprintdrip",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/stratbase-ai",
+    "title": "StratBase.ai: No-code AI backtesting platform, describe | BetaList",
+    "date": "2026-04-05T02:10:44.183+06:00",
+    "og:title": "StratBase.ai: No-code AI backtesting platform, describe ideas and get",
+    "og:image": "https://resize.imagekit.co/f2SyqOWvUXVBl3SPp5hhNCc34IAVbgJ7SJvwVZGy1vU/plain/s3://betalist-production/uu151j59b0q1xh0cnlz81y0zqy4u",
+    "og:description": "No-code AI backtesting platform, describe ideas and get testable strategies",
+    "og:url": "https://betalist.com/startups/stratbase-ai",
     "og:type": "article,"
   },
   {
@@ -1607,6 +1915,28 @@
   },
   {
     "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/tendto-ai",
+    "title": "TendTo.ai: Coordinate bills, meds, and appointments with an | BetaList",
+    "date": "2026-04-05T02:11:00.959+06:00",
+    "og:title": "TendTo.ai: Coordinate bills, meds, and appointments with an AI",
+    "og:image": "https://resize.imagekit.co/mYwyEp0FvSBOethUb17RroCAcka0gE2zGCQfhgqfS-o/plain/s3://betalist-production/nuljud743lwu58k274t2y6rz9iyc",
+    "og:description": "Coordinate bills, meds, and appointments with an AI companion",
+    "og:url": "https://betalist.com/startups/tendto-ai",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/tether-ai",
+    "title": "Tether AI: A personal AI agent with zero setup that acts | BetaList",
+    "date": "2026-04-05T02:11:00.705+06:00",
+    "og:title": "Tether AI: A personal AI agent with zero setup that acts for you",
+    "og:image": "https://resize.imagekit.co/Xmmt9rTi4e8fVYLOpesVFJ9L-R-dj1qG8U6xMsELGR0/plain/s3://betalist-production/i9h5lcil4wqa7d3zvdbbj2gr809l",
+    "og:description": "A personal AI agent with zero setup that acts for you",
+    "og:url": "https://betalist.com/startups/tether-ai",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
     "url": "https://betalist.com/startups/the-card-shop-store",
     "title": "The Card Shop Store: Buy, sell, vault, and fractionally own | BetaList",
     "date": "2026-04-01T02:22:24.281+06:00",
@@ -1629,6 +1959,17 @@
   },
   {
     "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/tick-dog",
+    "title": "Tick Dog: Surveys, forms, and automated user testing with | BetaList",
+    "date": "2026-04-05T02:11:01.912+06:00",
+    "og:title": "Tick Dog: Surveys, forms, and automated user testing with usage-based",
+    "og:image": "https://resize.imagekit.co/tGmb7z9ImfIurgfCQntRuy0w636Z0MLgKc95AJ0C7GQ/plain/s3://betalist-production/19idnq2nbcq17kym01dqk5091iua",
+    "og:description": "Surveys, forms, and automated user testing with usage-based pricing",
+    "og:url": "https://betalist.com/startups/tick-dog",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
     "url": "https://betalist.com/startups/tonimus-ai",
     "title": "Tonimus AI: Automate content, posting, and engagement while | BetaList",
     "date": "2026-04-01T02:22:24.36+06:00",
@@ -1636,6 +1977,28 @@
     "og:image": "https://resize.imagekit.co/qyyCUWddZs1aN9-kkQZ5EE6UoMS1JNdDR4pKTQyeGu0/plain/s3://betalist-production/u9jd24iv4cxow2ec4nhjyj2d95wy",
     "og:description": "Automate content, posting, and engagement while tracking real revenue",
     "og:url": "https://betalist.com/startups/tonimus-ai",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/ubezon",
+    "title": "Ubezon: Launch your own branded delivery platform with | BetaList",
+    "date": "2026-04-05T02:10:52.132+06:00",
+    "og:title": "Ubezon: Launch your own branded delivery platform with tracking and",
+    "og:image": "https://resize.imagekit.co/tL7vjZloYQ-EJuwmkOE4d_TKH9KkJWH30YIUSoOy1uk/plain/s3://betalist-production/ef4p7kv980i9vke5mzokvf998ooe",
+    "og:description": "Launch your own branded delivery platform with tracking and payouts",
+    "og:url": "https://betalist.com/startups/ubezon",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/ugh-design",
+    "title": "Ugh Design: Generate striking geometric graphics with | BetaList",
+    "date": "2026-04-05T02:11:02.838+06:00",
+    "og:title": "Ugh Design: Generate striking geometric graphics with precise,",
+    "og:image": "https://resize.imagekit.co/m9bAP1F7lt26PANG6Uu7-WyNOfIPhFKfFx3t05KtD5Y/plain/s3://betalist-production/zgtpdicjlkxc2jzquu4jjsag7jeu",
+    "og:description": "Generate striking geometric graphics with precise, real-time controls",
+    "og:url": "https://betalist.com/startups/ugh-design",
     "og:type": "article,"
   },
   {
@@ -1658,6 +2021,28 @@
     "og:image": "https://resize.imagekit.co/qc0GILWWhAq_UWi8Z6S4F3tOic-h7qfTyBtCX5Vehk0/plain/s3://betalist-production/xgpiwjkx2kwuureg0cjupf3ky2dt",
     "og:description": "Turn YouTube videos into viral Shorts with AI in minutes",
     "og:url": "https://betalist.com/startups/video-clipper",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/webauditflash",
+    "title": "WebAuditFlash: Get a complete SEO, website, and UX audit | BetaList",
+    "date": "2026-04-05T02:10:58.215+06:00",
+    "og:title": "WebAuditFlash: Get a complete SEO, website, and UX audit with an",
+    "og:image": "https://resize.imagekit.co/bnRuFOy1vQER4RXCjWjVRG396PIhUc2FwqWxQ4KhyK8/plain/s3://betalist-production/9cyp7doo457j5991z9byzi02tkco",
+    "og:description": "Get a complete SEO, website, and UX audit with an action plan in minutes",
+    "og:url": "https://betalist.com/startups/webauditflash",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/whacka",
+    "title": "Whacka: Turn any idea into your own mobile app with no code | BetaList",
+    "date": "2026-04-05T02:11:03.844+06:00",
+    "og:title": "Whacka: Turn any idea into your own mobile app with no code from your",
+    "og:image": "https://resize.imagekit.co/V5YZmhMfZL7O8nSiP_HIkEF_v3rro69-R2ExXeNWveE/plain/s3://betalist-production/bujoz81ky0dmbycdi7o77hpjm9as",
+    "og:description": "Turn any idea into your own mobile app with no code from your phone",
+    "og:url": "https://betalist.com/startups/whacka",
     "og:type": "article,"
   },
   {
@@ -1746,6 +2131,17 @@
     "og:image": "https://betanews.com/wp-content/uploads/2024/09/Business-cyberattack-50x50.jpg",
     "og:description": "",
     "og:url": "https://betanews.com/article/application-abuse-and-what-to-do-about-it-qa/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "betanews.com",
+    "url": "https://betanews.com/article/artemis-ii-four-astronauts-moon-journey/",
+    "title": "Artemis II sends four astronauts on historic moon journey",
+    "date": "2026-04-05T02:24:16.06+06:00",
+    "og:title": "Artemis II crew heads for moon in first deep-space trip since 1972",
+    "og:image": "https://betanews.com/wp-content/themes/betanews/images/authors/staff_smallthumb.png",
+    "og:description": "NASA’s Artemis II launched four astronauts on a 10-day Orion mission around the Moon, the first crewed trip beyond low-Earth orbit since Apollo in 1972.",
+    "og:url": "https://betanews.com/article/artemis-ii-four-astronauts-moon-journey/",
     "og:type": "article"
   },
   {
@@ -1867,6 +2263,17 @@
     "og:image": "https://betanews.com/wp-content/uploads/2019/06/powershell-50x50.jpg",
     "og:description": "Fans of PowerShell were frustrated and confused by the delayed release of the most recent Long Term Support edition. PowerShell 7.6 LTS was only released",
     "og:url": "https://betanews.com/article/microsoft-explains-why-we-had-to-wait-to-long-for-powershell-7-6-lts/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "betanews.com",
+    "url": "https://betanews.com/article/microsoft-has-started-issuing-publisher-retirement-notifications/",
+    "title": "Microsoft has started issuing Publisher retirement notifications - BetaNews",
+    "date": "2026-04-05T02:24:16.56+06:00",
+    "og:title": "Microsoft has started issuing Publisher retirement notifications",
+    "og:image": "https://betanews.com/wp-content/uploads/2024/02/Microsoft-Publisher-on-laptop-50x50.webp",
+    "og:description": "For people who entered the world of desktop computing at a certain time, Microsoft Publisher was a revolution. Combining the power of high-end desktop",
+    "og:url": "https://betanews.com/article/microsoft-has-started-issuing-publisher-retirement-notifications/",
     "og:type": "article"
   },
   {
@@ -2054,6 +2461,50 @@
     "og:image": "https://winblogs.thesourcemediaassets.com/sites/44/2021/08/social-media-graphic.png",
     "og:description": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26220.8138 (KB 5079491",
     "og:url": "https://blogs.windows.com/windows-insider/2026/03/30/announcing-windows-11-insider-preview-build-26220-8138-beta-channel/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "blogs.windows.com",
+    "url": "https://blogs.windows.com/windows-insider/2026/04/03/announcing-windows-11-insider-preview-build-26220-8148-beta-channel/",
+    "title": "Announcing Windows 11 Insider Preview Build 26220.8148 (Beta Channel) | Windows Insider Blog",
+    "date": "2026-04-05T03:40:37.249+06:00",
+    "og:title": "Announcing Windows 11 Insider Preview Build 26220.8148 (Beta Channel)",
+    "og:image": "https://winblogs.thesourcemediaassets.com/sites/44/2021/08/social-media-graphic.png",
+    "og:description": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26220.8148 (KB 5083825) to the Beta Channel.\n\nChanges in Beta Channel builds and updates are documented in two buckets: new features, and improvements (i",
+    "og:url": "https://blogs.windows.com/windows-insider/2026/04/03/announcing-windows-11-insider-preview-build-26220-8148-beta-channel/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "blogs.windows.com",
+    "url": "https://blogs.windows.com/windows-insider/2026/04/03/announcing-windows-11-insider-preview-build-26300-8155-dev-channel/",
+    "title": "Announcing Windows 11 Insider Preview Build 26300.8155 (Dev Channel) | Windows Insider Blog",
+    "date": "2026-04-05T03:40:36.775+06:00",
+    "og:title": "Announcing Windows 11 Insider Preview Build 26300.8155 (Dev Channel)",
+    "og:image": "https://winblogs.thesourcemediaassets.com/sites/44/2021/08/social-media-graphic.png",
+    "og:description": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26300.8155 (KB 5083822) to the Dev Channel.\n\nChanges in Dev Channel builds and updates are documented in two buckets: new features, and improvements (inc",
+    "og:url": "https://blogs.windows.com/windows-insider/2026/04/03/announcing-windows-11-insider-preview-build-26300-8155-dev-channel/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "blogs.windows.com",
+    "url": "https://blogs.windows.com/windows-insider/2026/04/03/announcing-windows-11-insider-preview-build-28020-1803-canary-channel/",
+    "title": "Announcing Windows 11 Insider Preview Build 28020.1803 (Canary Channel) | Windows Insider Blog",
+    "date": "2026-04-05T03:40:36.177+06:00",
+    "og:title": "Announcing Windows 11 Insider Preview Build 28020.1803 (Canary Channel)",
+    "og:image": "https://winblogs.thesourcemediaassets.com/sites/44/2021/08/social-media-graphic.png",
+    "og:description": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 28020.1803 to the Canary Channel. (KB 5083824)\nWhat’s new in Canary Build 28020.1803\nChanges and Improvements g",
+    "og:url": "https://blogs.windows.com/windows-insider/2026/04/03/announcing-windows-11-insider-preview-build-28020-1803-canary-channel/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "blogs.windows.com",
+    "url": "https://blogs.windows.com/windows-insider/2026/04/03/announcing-windows-11-insider-preview-build-for-canary-channel-29560-1000/",
+    "title": "Announcing Windows 11 Insider Preview Build for Canary Channel 29560.1000 | Windows Insider Blog",
+    "date": "2026-04-05T03:40:36.474+06:00",
+    "og:title": "Announcing Windows 11 Insider Preview Build for Canary Channel 29560.1000",
+    "og:image": "https://winblogs.thesourcemediaassets.com/sites/44/2021/08/social-media-graphic.png",
+    "og:description": "Hello Windows Insiders, today we’re releasing Windows Insider Preview Build 29560.1000 to the Windows 11 Insider Canary Channel on the optional 29500 build series.\nWhat’s new in Canary Build 29560.1000\nChange",
+    "og:url": "https://blogs.windows.com/windows-insider/2026/04/03/announcing-windows-11-insider-preview-build-for-canary-channel-29560-1000/",
     "og:type": "article"
   },
   {
@@ -3169,6 +3620,17 @@
   },
   {
     "hostname": "exler.es",
+    "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-263.htm",
+    "title": "Делимся находками из китайских магазинов",
+    "date": "2026-04-05T16:57:50.124+06:00",
+    "og:title": "Делимся находками из китайских магазинов",
+    "og:image": "https://exler.es/img/aliexpress/05-04-2026/thumb.jpg",
+    "og:description": "Как обычно, различные полезные устройства для дома и некоторые гаджеты.&nbsp;\n",
+    "og:url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-263.htm",
+    "og:type": "article"
+  },
+  {
+    "hostname": "exler.es",
     "url": "https://exler.es/bannizm/chestnye-massazhopy-sploshnogo-gortanobesiya.htm",
     "title": "Честные массажопы сплошного гортанобесия",
     "date": "2026-04-04T22:05:41.97+06:00",
@@ -3187,6 +3649,17 @@
     "og:image": "https://exler.es/s/640/blog/image/20260401/69cd50c46e732.webp",
     "og:description": "Ровно 50 лет назад, 1 апреля 1976 года, Стив Джобс, Стив Возняк и Рональд Уэйн основали компанию Apple Computer. И эта компания оказала огромное влияние на всю компьютерную индустрию.\n\n\n&nbsp;",
     "og:url": "https://exler.es/blog/50-let-nazad.htm",
+    "og:type": "article"
+  },
+  {
+    "hostname": "exler.es",
+    "url": "https://exler.es/blog/administratsiya-trampa-rassleduyet-delo-noelii-kastilo.htm",
+    "title": "Администрация Трампа расследует дело Ноэлии Кастильо",
+    "date": "2026-04-05T16:57:48.01+06:00",
+    "og:title": "Администрация Трампа расследует дело Ноэлии Кастильо",
+    "og:image": "https://exler.es/s/600/blog/image/20260405/69d221e37b222.jpg",
+    "og:description": "\n\nЯ аж кофе поперхнулся, когда увидел ссылку на статью о том, что администрация Трампа расследует смерть Ноэлии Кастильо Рамос в результате эвтаназии и упрекает Испанию в &quot;нарушениях прав человека&quot;. Сначала подумал, что это хохма на 1 апреля. Но статья&nbsp;в New York Post вышла 31 марта.\n\n\nАдминистрация Трампа требует от Испании объяснений через неделю после того, как 25-летней жертве сексуального насилия Ноэлии Кастильо разрешили умереть посредством эвтаназии.\n\nУтечка дипломатической депеши, полученной The Post, показывает, что Госдепартамент поручил посольству США в Мадриде во вторник начать расследование действий испанских правоохранительных органов в связи с неоднократными сексуальными нападениями, включая групповые изнасилования, против Кастильо, приведшими к ее трагической смерти.\n\nВысшим должностным лицам посольства США также было поручено довести до сведения испанского правительства &laquo;серьезную озабоченность&raquo; администрации Трампа по поводу &laquo;многочисленных системных нарушений прав человека&raquo;, которые привели Кастильо к решению обратиться за помощью в совершении самоубийства и позволили осуществить этот смертельный акт даже после того, как она, по сообщениям, &laquo;выразила колебания&raquo; в последние часы своей жизни.\n\n&laquo;Мы глубоко обеспокоены утверждениями о том, что г-жа Кастильо неоднократно подвергалась сексуальному насилию, находясь под опекой государства, и что ни один из преступников не был привлечен к ответственности&raquo;, &mdash; говорится в телеграмме.\n\n&laquo;Нам также известно о сообщениях, что г-жа Кастильо в последние часы своей жизни выражала колебания по поводу эвтаназии, но эти признаки были проигнорированы&raquo;, &mdash; продолжается сообщение. &laquo;Этот случай вызывает серьезную озабоченность в отношении применения испанского закона об эвтаназии, особенно в случаях, связанных с психическими расстройствами и нетерминальными страданиями&raquo;.\n\nКастильо решила легально покончить с собой в прошлый четверг в соответствии с испанским законом о праве на смерть, принятым в 2021 году.\n\nВ результате предыдущей попытки самоубийства Кастильо осталась парализованной ниже пояса.\n\nГосударственный департамент выразил озабоченность тем, что Кастильо, возможно, испытывала сомнения по поводу смерти незадолго до того, как ей была проведена эвтаназия.\n\nЭта молодая женщина &mdash; чей отец вел длительную судебную тяжбу, пытаясь помешать ее ассистированному самоубийству &mdash; была травмирована многочисленными сексуальными посягательствами, которым она подвергалась до 21 года.\n\nГосударственный департамент указал, что, по его мнению, нестрогие иммиграционные законы Испании могут быть виновны в этих сексуальных посягательствах.\n\n&nbsp;",
+    "og:url": "https://exler.es/blog/administratsiya-trampa-rassleduyet-delo-noelii-kastilo.htm",
     "og:type": "article"
   },
   {
@@ -3220,6 +3693,17 @@
     "og:image": "https://exler.es/small/blog/image/20260401/69cd6cff9bec4.jpg",
     "og:description": "Реклама (текст предоставлен рекламодателем)\n\n\n\nDOOGEE S300 Plus уже в продаже: с 200-мегапиксельной камерой, 1 ТБ памяти и программируемой подсветкой Mini-LED\n\n\n\tкупить этот смартфон на Озоне;\n\tкупить этот смартфон на Aliexpress.\n\n\nСерия S от DOOGEE известна своим характерным механистическом дизайном и исключительной прочностью. Опираясь на опыт серии S200, новая серия S300 предлагает значительные улучшения в плане производительности, профессиональных инструментов, камеры и фирменного дизайна.\n\nS300 Plus, лидер линейки, оснащен флагманской камерой на 200 Мп, чипсетом MediaTek Dimensity 8300 и первой в отрасли программируемой подсветкой Mini-LED, что обеспечивает высокую производительность и творческие возможности для профессионалов в сфере строительства, энергетики, полевых осмотров, исследований на открытом воздухе и создания контента.\n\n\n\nОгромный объем памяти 1 ТБ для всех ваших файлов\n\nS300 Plus оснащен впечатляющим внутренним хранилищем объемом 1 ТБ, что дает вам возможность хранить тысячи фотографий высокого разрешения, видео 4K, объемные приложения и профессиональные файлы, не беспокоясь о нехватке места. Благодаря поддержке расширяемой памяти до 2 ТБ, устройство отвачает любым потребностям в данных для работы, путешествий и создания контента.\n\nУстройство работает на чипсете MediaTek Dimensity 8300 5G, изготовленном по передовой 4-нм технологии с пиковой частотой 3,35 ГГц. В сочетании с 48 ГБ оперативной памяти (12 ГБ + до 36 ГБ расширенной) телефон обеспечивает плавную многозадачность и стабильную производительность даже при выполнении ресурсоемких задач.\n\n\n\nФлагманская камера на 200 Мп для сверхдетальной съемки\n\nS300 Plus оснащен флагманской основной камерой на 200 Мп, способной запечатлевать невероятные детали в любой обстановке. Благодаря технологии объединения пикселей 16 в 1, яркой диафрагме F/1,8 и обработке изображений с помощью ИИ она обеспечивает четкие снимки, улучшенную съемку при слабом освещении и точную цветопередачу при съемке пейзажей, архитектуры и полевой документации. Специальная кнопка управления камерой также позволяет мгновенно открыть камеру простым двойным нажатием.\n\nДля съемки в более сложных условиях на открытом воздухе S300 Plus также оснащен 8-мегапиксельным телеобъективом с 3-кратным оптическим зумом и гиперзумом до 50&times;, что позволяет пользователям снимать удаленные объекты, дикую природу или пейзажи с впечатляющей четкостью. Кроме того, телефон оснащен 20-мегапиксельной камерой ночного видения, а также 8-мегапиксельными сверхширокоугольным и макрообъективами для съемки в темных условиях, съемки широких сцен или фокусировки на мелких деталях, что делает устройство универсальным инструментом для съемки как в профессиональной работе, так и при создании творческого контента.\n\n\n\nПервая в отрасли подсветка Mini-LED\n\nОдной из наиболее отличительных особенностей S300 Plus является первая в отрасли программируемая подсветка Mini-LED.\n\nБлагодаря 341 встроенному светодиоду, модуль подсветки может отображать пользовательские анимации и персонализированные узоры, оставаясь при этом полностью скрытым, когда не используется.\n\nСистема Mini-LED также реагирует на повседневные взаимодействия, включая:\n\n&bull; Воспроизведение музыки\n\n&bull; Входящие звонки\n\n&bull; Уведомления о сообщениях\n\n&bull; Состояние зарядки\n\n&bull; Обратный отсчет камеры\n\n&bull; Активация экрана\n\nЭта динамическая подсветка добавляет уникальный уровень самовыражения и интерактивной обратной связи, редко встречающийся в защищенных смартфонах.\n\n\n\nДизайн в механистическом стиле, созданный для экстремальных условий\n\nS300 Plus отличается смелым внешним видом, разработанным с учетом как эстетики, так и прочности.\n\nУстройство, сертифицированное по стандартам IP68, IP69K и MIL-STD-810H, устойчиво к воздействию воды, пыли, падений и экстремальных условий на открытом воздухе.\n\nЕго усиленная конструкция включает:\n\n&bull; Слои из поликарбоната (PC), термопластичного полиуретана (TPU) и композитных материалов для защиты от ударов\n\n&bull; Рамку из аэрокосмического алюминиево-титанового сплава, обеспечивающую прочность и отвод тепла\n\n&bull; Герметизацию методом литья под давлением для повышенной прочности и водонепроницаемости\n\nЭта прочная конструкция гарантирует надежную работу на строительных площадках, в промышленных условиях и в удаленных местах на открытом воздухе.\n\n\n\nСоздан для долгих дней в полевых условиях\n\nS300 Plus оснащен кремний-углеродным аккумулятором емкостью 11000 мАч для длительного использования в течение напряженных рабочих дней.\n\nДополнительные функции включают:\n\n&bull; 6,78-дюймовый дисплей FHD+ с частотой обновления 120 Гц\n\n&bull; Связь по рации POC\n\n&bull; Умный инфракрасный пульт дистанционного управления\n\nВ совокупности эти возможности превращают S300 Plus в универсальный инструмент как для работы, так и для творческих поисков.\n\n\n\nНовое поколение защищенных смартфонов\n\nДоступный в цветах &laquo;Тень-серый&raquo;, &laquo;Титановое золото&raquo; и &laquo;Обсидиан-черный&raquo;, DOOGEE S300 Plus сочетает в себе флагманскую производительность, профессиональную съемку и высокую прочность в отличительном дизайне, вдохновленном механикой.\n\nОснащенный процессором Dimensity 8300, флагманской камерой на 200 Мп и первой в отрасли программируемой подсветкой Mini-LED, S300 Plus представляет собой новое поколение защищенных смартфонов, созданных для профессионалов, исследователей и создателей контента.\n\nDOOGEE S300 Plus уже доступен. Узнайте больше и оцените новый уровень инноваций в области защищенных устройств на официальном сайте DOOGEE и в глобальных розничных сетях.\n\n\n\tкупить этот смартфон на Озоне;\n\tкупить этот смартфон на Aliexpress.\n\n\n\n&nbsp;",
     "og:url": "https://exler.es/blog/doogee-s300-plus-uzhe-v-prodazhe.htm",
+    "og:type": "article"
+  },
+  {
+    "hostname": "exler.es",
+    "url": "https://exler.es/blog/el-shkandal-sredi-khamasolyubov.htm",
+    "title": "Эль шкандаль среди хамасолюбов",
+    "date": "2026-04-05T16:57:48.572+06:00",
+    "og:title": "Эль шкандаль среди хамасолюбов",
+    "og:image": "https://exler.es/img/blog/image/20260405/69d211f2302d1.jpg",
+    "og:description": "Кейт Бекинсейл в трусах и шубе, Марк Раффало с микрофоном\n\nСреди голливудских хамасолюбов - легкий жабогадюкинг. Актриса Кейт Бекинсейл разразилась гневным посланием в адрес Марка Раффало. Дело в том, что агент Кейт Бекинсейл и Сюзен Сэрендон отказался работать с этими актрисами после их очередного прохамасовского и антиизраильского выступления. Однако тот же агент работает с, наверное, самым активным хамасолюбом Голливуда Марком Раффало (в Испании по уровню безграничной любви к Хамасу с ним может сравниться только Хавьер Бардем), и вот с Раффало агент контракт не расторгал.\n\nКейт Бекинсейл пыталась связаться с Раффало, чтобы понять причину такого неравенства, но Раффало ее полностью проигнорировал, и Бекинсейл пришла к выводу, что с ним продолжили работать, потому что у него есть хер, а так как у нее самой и у Сюзен Сэрендон хера нет, а есть только вагины - вот поэтому с ними и перестали сотрудничать.&nbsp;\n\nВсе это вызвало большое напряжение в киносообществе и породило дискуссию о гендерном неравенстве в среде хамасолюбов.&nbsp;\n\nВот одна из статей по этому поводу.&nbsp;\n\n\nКейт Бекинсейл критикует Марка Раффало после того, как с ней разорвал контракт агент: &laquo;Похоже, в Голливуде действительно имеет значение наличие пениса&raquo;\n\nКейт Бекинсейл была уволена своим агентством за то, что якобы поставила лайк под постом в поддержку прекращения огня в Газе. В ответ на это она написала: &laquo;Боже, должно быть, так приятно, когда тебя не увольняет твой агент за то, что ты поставила лайк под постом о прекращении огня и не поддерживаешь убийство детей&raquo;.\n\nБекинсейл не сдерживалась, указывая на то, что она описала как гендерное неравенство в индустрии. &laquo;Похоже, в Голливуде наличие пениса действительно много значит&raquo;, &mdash; написала она, намекая на то, что Раффало, у которого тот же агент, не понес никаких последствий за аналогичные взгляды. Она добавила: &laquo;Потому что тебя не уволил тот же агент, что и меня, и она прислала мне подарок за неделю до этого, так что у нас не было никаких разногласий, но я лайкнула пост о прекращении огня и меня уволили в тот же день, что и Сьюзан Сэрендон, через два дня после окончания забастовки, после девяти месяцев, когда ни один из нас не мог работать вообще&raquo;.\n\nОна также заявила, что решение было принято внезапно, положив конец многолетним профессиональным отношениям. Актриса упомянула, что, по сообщениям, это произошло примерно в то время, когда завершилась забастовка SAG-AFTRA 2023 года.\n\nБекинсейл также добавила: &laquo;Я справлялась с тем, что, помимо того, что моей матери поставили диагноз рак мозга и сказали, что ей осталось жить шесть недель, и я ухаживала за ними обоими, за день до этого мой отчим перенес тяжелый инсульт, к тому же страдая от двух видов рака&raquo;.\n\nЕще одной ключевой частью заявления Бекинсейл было ее утверждение, что Раффало не ответил, когда она обратилась к нему в частном порядке. Она написала: &laquo;Меня уволили двумя предложениями после 12 лет дружбы с моим агентом и твоим, который очень близок к своим пожилым родителям и определенно знал, с чем я имею дело, будучи в одиночестве&raquo;.\n\n&laquo;Я писала тебе об этом в личку несколько месяцев назад, но ты меня проигнорировал&raquo;, &mdash; написала она, выражая разочарование отсутствием ответа от Марка Раффало.\n\nВ комментарии к сообщению другого пользователя она пояснила, что &laquo;даже не винит Марка в этом&raquo;, но отмечает, что &laquo;мужские привилегии присутствуют даже у хороших парней&raquo;. Она написала: &laquo;Это настолько очевидно, что, конечно же, я не получила ответа, и я искренне поддерживаю Марка Раффало и всё, что он делает, но нет, я не получу ответа &mdash; ни здесь, ни когда-либо&raquo;.\n\n\n\n\n\n&nbsp;",
+    "og:url": "https://exler.es/blog/el-shkandal-sredi-khamasolyubov.htm",
     "og:type": "article"
   },
   {
@@ -3275,6 +3759,28 @@
     "og:image": "https://exler.es/img/blog/image/20260331/69cbf991d6892.jpg",
     "og:description": "\n\nМиллиардер Дерипаска, который, конечно же, каждый день убивается на работе, предложил перейти на 12-часовой рабочий день 6 дней в неделю. Не, ну а чо? Экономику надо ускорять, а то всякие дерипаски недополучают свои миллиарды. А рюсски народ - покорный народ. Скажешь ему - а ну, давай, корячься так, чтобы света белого не видеть - он и будет корячиться. Причем за те же деньги, ведь платить-то толком - нечем, дерипаски должны поддерживать свои уровни.&nbsp;\n\nНу и я молчу, что это мышление типичного рабовладельца. Даже идиоты хорошо понимают, что нужно прежде всего увеличивать производительность, а не время работы. Но до таких дерипасок подобное не доходит по определению.\n\nПрелестно совершенно.&nbsp;\n\n\nМиллиардер Олег Дерипаска предложил &laquo;ускорить&raquo; экономику за счёт людей: перейти на график с 8:00 до 20:00 и работать ещё и по субботам.\n\nЛогика простая: других ресурсов, по его словам, нет.\n\n&laquo;Ресурсов у нас не так много. Если точнее, только один, и связан он с нашей национальной особенностью: в тяжелые минуты мы умеем собраться и работать больше. И чем быстрее мы сами перейдем на этот новый график &mdash; с восьми до восьми, включая субботу, &mdash; тем быстрее пройдем эту трансформацию&raquo;. (Отсюда.)\n\n\n\n&nbsp;",
     "og:url": "https://exler.es/blog/menshe-kormit-i-bolshe-doit.htm",
+    "og:type": "article"
+  },
+  {
+    "hostname": "exler.es",
+    "url": "https://exler.es/blog/mordorskiye-budni.htm",
+    "title": "Мордорские будни",
+    "date": "2026-04-05T16:57:48.016+06:00",
+    "og:title": "Мордорские будни",
+    "og:image": "https://exler.es/small/blog/image/20260405/69d215f80c6cc.jpg",
+    "og:description": "\n\n\nДербентский городской суд Дагестана признал &laquo;публичной демонстрацией символики экстремистской организации&raquo; ссылку на Instagram-рилс с логотипом этой соцсети, обратила внимание &laquo;Вёрстка&raquo;.\n\nКак говорится в судебном решении, у местного жителя в статусе личного аккаунта в заблокированном на территории России WhatsApp &laquo;в свободном доступе&raquo; была размещена &laquo;ссылка перехода в социальную сеть instаgram.com/reel/&raquo;, с указанием значка (логотипа) социальной сети instаgram, которая признана экстремистской организацией&raquo;.\n\nДербентский городской суд Дагестана признал &laquo;публичной демонстрацией символики экстремистской организации&raquo; ссылку на Instagram-рилс\n\nСсылку обнаружил оперуполномоченный местной полиции &laquo;в ходе мониторинга в сети интернет&raquo;. &laquo;Акт исследования интернет-ресурса&raquo; был составлен 5 марта 2026 года.\n\nСуд признал жителя Дагестана виновным в публичной демонстрации экстремистской символики (часть 1 статьи 20.3 КоАП) и оштрафовал его на 2 тысячи рублей. (Отсюда.)\n\n\nМордорское &quot;правосудие&quot; в действии - штраф за ссылку на рилс в Instagram. А что, бдительный опер провел мониторинг, суд вынес вердикт - все при деле.&nbsp;\n\nКстати, опер на самом деле не такой уж и бдительный. Ссылка-то где была? В WhatsApp. Который принадлежит Meta. А Meta эти недоумки признали &quot;Экстремистской организацией&quot;. Поэтому надо было два раза штрафовать!\n&nbsp;",
+    "og:url": "https://exler.es/blog/mordorskiye-budni.htm",
+    "og:type": "article"
+  },
+  {
+    "hostname": "exler.es",
+    "url": "https://exler.es/blog/net-detey-na-svo.htm",
+    "title": "Нет детей? На СВО!",
+    "date": "2026-04-05T16:57:48.005+06:00",
+    "og:title": "Нет детей? На СВО!",
+    "og:image": "https://exler.es/small/blog/image/20260405/69d2358480ad5.jpg",
+    "og:description": "\n\nВ минувшую пятницу прошел Всероссийский демографический форум, где в очередной раз обсуждались проблемы и перспективы молодых семей в России.\n\nОсобое внимание собравшихся привлекла речь депутатши Натальи Березиной о культуре эгоизма.\n\nУ нас, к сожалению, сложилась такая культура эгоизма. Только и слышно &laquo;я&raquo;, &laquo;я&raquo;, &laquo;мне&raquo;, а когда речь заходит о деторождении, такие граждане в истерике кричат, что условий нет, денег мало, жилья и так далее. Не голодаешь, не на улице спишь &mdash; значит, есть условия. Еще смешнее слышать такое от людей, которые каждый год с новым айфоном и по заграницам мотаются.\n\nВот только время эгоистов закончилось. Сегодня каждый должен спросить себя: а зачем он нужен стране? Не хочешь детей, так иди на СВО, служи стране. Все условия государство предоставило. Что вам еще надо?\n\nНу, логично. Зачем ты нужен этой стране? Или чтобы произвел пушечное мясо, или чтобы сам в качестве пушечного мяса пошел на сывыо - защищать путинские золотые унитазы от зловредной НАТЫ.&nbsp;\n&nbsp;",
+    "og:url": "https://exler.es/blog/net-detey-na-svo.htm",
     "og:type": "article"
   },
   {
@@ -3345,6 +3851,17 @@
   },
   {
     "hostname": "exler.es",
+    "url": "https://exler.es/blog/roskomgovno-opyat-vse-polomalo.htm",
+    "title": "Роскомговно опять все поломало",
+    "date": "2026-04-05T16:57:50.119+06:00",
+    "og:title": "Роскомговно опять все поломало",
+    "og:image": "https://exler.es/s/600/blog/image/20260404/69d1421f02d30.jpg",
+    "og:description": "\n\nПомните, как в 2018 году Роскомговно пыталось заблокировать Телеграм, и в результате обрушило работу кучи сервисов, включая кассовые аппараты, банкоматы и так далее?&nbsp;\n\nСейчас повторяется та же самая картина - они пытаются заблокировать VPN-сервисы и Телеграм, и в Мордоре постепенно отрубается все что угодно.&nbsp;\n\nТретьего апреля сообщали о масштабнейшем сбое в работе банков - не отправлялись переводы, не принимались карты, нельзя было снять наличные.&nbsp;\n\nВчера сообщили о массовом сбое в&nbsp;POS-терминалах Vendista, которые используют малый и средний бизнес для приема бесконтактной оплаты в магазинах, заведениях общепита и еды навынос, в салонах услуг, гостиничном бизнесе и других сферах.\n\nНу, вполне знакомая картина.&nbsp;\n\nИ тут было особенно прикольно, что против Роскомговна выступили даже такие насквозь провластные и сидящие на огромных бюджетных деньгах персонажи, как Наталья Касперская, которая написала в своем ТГ, цитирую:\n\n\nВчера в угаре борьбы с обходом блокировок Роскомнадзор (сокращённо РКН) обрушил половину сервисов Рунета.\n\nНет, это не вражеский налёт и не атака внешних акторов или злых иностранных хакеров. Это - наш родной РКН наконец-то&nbsp; взялся не по-детски бороться с сервисами туннелирования и защиты трафика, также известными, как VPN.&nbsp;\n\nПоясню для непосвященных.&nbsp;\n\nВиртуальная частная сеть (от англ. Virtual Private Network) &mdash; это способ организовать защищённый канал связи поверх общего интернета. По сути, VPN создаёт &quot;туннель&quot; внутри глобальной сети, через которую данные пользователя проходят в зашифрованном виде. Первый протокол для туннелирования трафика появился в 1996 году. То есть это довольно уже зрелая технология. За 30 лет она стала широко используемой - её применяют как частные лица, так и коммерческие компании и госсектор. Как я писала вчера, госсектор РФ только в прошлом году закупил VPN на сумму в 20 млрд рублей.&nbsp;\n\nШирокое использование VPN означает, что VPN-тоннели пронизывают весь трафик Сети, используя различные протоколы. Часто эти протоколы совпадают с используемыми, например, банками. Если попробовать заблокировать эти протоколы, то получится то, что мы наблюдали вчера. Ну это, как если заблокировать лимфатическую систему, чтобы не допустить&nbsp; лимфомы. Долго ли протянет организм после такой &ldquo;помощи&quot;?&nbsp;\n\nВообще современный Интернет имеет несколько сложно-переплетенных фундаментальных слоев. Попытайся убрать какой-то из них - и ляжет вся система. А другого Интернета, который не был бы так переплётен с мировым, у нас пока не сделали.&nbsp;\n\nВчера мы 1,5 часа обсуждали эту проблему с технарями, которые хорошо разбираются в трафике. Их вердикт однозначен - не существует технической возможности заблокировать VPN, не нарушив работу всего Интернета. И - важно! - чем больше усилий и ресурсов будет вложено в блокировщик DPI, тем хуже всё будет работать.&nbsp;\n\n\n\nНаталья Касперская осуждаэ\n\nПравда, после этого поста Касперской явно сурово указали, после чего она опубликовала извинительный пост, где пролепетала, что ей сам руководитель Роскомговна объяснил, почему банковский сбой был вызван не действиями Роскомговна, а &quot;сбоем в Сбербанке, повлиявшем на остальные банки&quot;, ну и Касперская стала униженно извиняться и говорить, что им, дескать, не хватает коммуникации с государством.&nbsp;\n\n\nЧто тут хочется сказать?&nbsp;\n\nВо-первых, принести извинение уважаемому ведомству за мои поспешные&nbsp; выводы.\n\nВо-вторых, важно заметить, что гражданам очень не хватает прямой коммуникации с государством &ndash; с ведомствами, которые принимают или исполняют решения о блокировках. Ни Минцифры, ни РКН не выступили с публичными разъяснениями случившегося. Объяснения Сбербанка очень скупые и закрытые, из них нельзя понять, что случилось.\n\nВ-третьих, по времени сбой совпал с заявлениями министра по блокировкам VPN-ов. Поэтому логическая связь между этими событиями родилась не только у меня.\n\n\nНу как же не хватает, Наталья? Вон же коммуникация случилась! Вам сурово указали - вы тут же дали заднюю. Именно так эти коммуникации и работают в Мордоре, вы же в курсе.\n\nРедкостный паноптикум, конечно.&nbsp;\n&nbsp;",
+    "og:url": "https://exler.es/blog/roskomgovno-opyat-vse-polomalo.htm",
+    "og:type": "article"
+  },
+  {
+    "hostname": "exler.es",
     "url": "https://exler.es/blog/rossiyskiy-shpion-na-zarplate.htm",
     "title": "Российский шпион на зарплате",
     "date": "2026-04-01T03:33:16.86+06:00",
@@ -3396,6 +3913,17 @@
     "og:image": "",
     "og:description": "Дерипаска же не зря заявил о том, что недорогим россиянам пора переходить на шестидневную рабочую неделю по 16 часов.&nbsp;\n\nТеперь в Мордоре организуется широкая народная поддержка этой важной инициативы. Доярки, трактористки и стриптизерши должны дружно это дело поддержать.&nbsp;\n\nНу и вот лицедейка Эвелина Блёданс в стенах госдурки уже заявила, что она и так блёдансит по 12 часов 6 дней в неделю, так что недорогим россиянам это все будет только на пользу.\n\n\n&nbsp;\n\n\n\n\n\n&nbsp;",
     "og:url": "https://exler.es/blog/shestidnevka-po-12-chasov.htm",
+    "og:type": "article"
+  },
+  {
+    "hostname": "exler.es",
+    "url": "https://exler.es/blog/silnoye-zayavleniye-2.htm",
+    "title": "Сильное заявление",
+    "date": "2026-04-05T16:57:47.829+06:00",
+    "og:title": "Сильное заявление",
+    "og:image": "https://exler.es/s/600/blog/image/20260405/69d2753696fac.jpg",
+    "og:description": "ПРЕЗИДЕНТ СОЕДИНЕННЫХ ШТАТОВ АМЕРИКИ ДОНАЛЬД ДЖ. ТРАМП в специальном послании благодарит всех за внимание к этому вопросу.&nbsp;\n\n\n\nВо вторник в Иране будет одновременно и &laquo;День электростанции&raquo;, и &laquo;День моста&raquo;. Ничего подобного еще не было!!! Откройте, блядь, пролив, вы, сумасшедшие ублюдки, или вам придется жить в аду &mdash; ПОСМОТРИТЕ САМИ! Хвала Аллаху. Президент ДОНАЛЬД ДЖ. ТРАМП\n\n\nМне кажется, что он забыл какие-то таблеточки принять...\n&nbsp;",
+    "og:url": "https://exler.es/blog/silnoye-zayavleniye-2.htm",
     "og:type": "article"
   },
   {
@@ -3473,6 +4001,17 @@
     "og:image": "",
     "og:description": "Не знаю, чего там ожидал Питун от визита Пашиняна - видимо, ожидал каких-то извинений за выход из ОДКБ и так далее. Вместо этого Пашинян рассказал Питуну о том, что Армения - демократическая страна, и в ней все совсем не так, как в этом гребаном путинском Мордоре.&nbsp;\n\nПосмотрите на рожу Питуна - кажется, что он сожрал ведро лимонов.&nbsp;\n\nПашиняну - респект и уважение!\n\n\n&nbsp;\n\n\n\n&nbsp;",
     "og:url": "https://exler.es/blog/vizit-pashinyana-k-putinu.htm",
+    "og:type": "article"
+  },
+  {
+    "hostname": "exler.es",
+    "url": "https://exler.es/blog/voskresnaya-pesenka-24.htm",
+    "title": "Воскресная песенка",
+    "date": "2026-04-05T17:16:43.146+06:00",
+    "og:title": "Воскресная песенка",
+    "og:image": "",
+    "og:description": "Scarlet And Black - You Don&#39;t Know. В США эта песня была в первой двадцатке в 1988 году.&nbsp;\n\n\n\n\n&nbsp;",
+    "og:url": "https://exler.es/blog/voskresnaya-pesenka-24.htm",
     "og:type": "article"
   },
   {
@@ -12397,6 +12936,28 @@
     "og:type": "article"
   },
   {
+    "hostname": "itstechbased.com",
+    "url": "https://itstechbased.com/new-windows-11-26h2-build-26300-8155-huge-feature-new-xbox-mode-and-fixes-dev/",
+    "title": "New Windows 11 26H2 Build 26300.8155 – Huge Feature, New Xbox Mode and Fixes (Dev) - Tech Based",
+    "date": "2026-04-05T02:24:15.666+06:00",
+    "og:title": "New Windows 11 26H2 Build 26300.8155 – Huge Feature, New Xbox Mode and Fixes (Dev) - Tech Based",
+    "og:image": "https://itstechbased.com/wp-content/uploads/2021/09/cropped-cropped-techbased_profilepic-1.png",
+    "og:description": "In this article, we will talk about the latest Preview Build for Windows 11 26H2 in the Dev Channel, which is the Build 26300.8155. Starting recently, the Dev Channel is jumping ahead to receive 26300 series builds. This means that the window to switch from the Dev Channel to the Beta Channel is closed once Build 26300.7674 is",
+    "og:url": "https://itstechbased.com/new-windows-11-26h2-build-26300-8155-huge-feature-new-xbox-mode-and-fixes-dev/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "itstechbased.com",
+    "url": "https://itstechbased.com/new-windows-11-vnext-build-29558-new-features-for-the-next-version-of-windows-canary/",
+    "title": "New Windows 11 vNext Build 29558 – New Features for the Next Version of Windows (Canary) - Tech Based",
+    "date": "2026-04-05T02:24:20.592+06:00",
+    "og:title": "New Windows 11 vNext Build 29558 – New Features for the Next Version of Windows (Canary) - Tech Based",
+    "og:image": "https://itstechbased.com/wp-content/uploads/2021/09/cropped-cropped-techbased_profilepic-1.png",
+    "og:description": "In this article, we will talk about the latest Windows 11 Insider Preview Build for the Canary Channel, which is the Build 29558. Microsoft has split the Canary Channel in 2 different Update paths. As Microsoft is stating, this will help them validate platform changes at different stages while continuing to deliver new features and",
+    "og:url": "https://itstechbased.com/new-windows-11-vnext-build-29558-new-features-for-the-next-version-of-windows-canary/",
+    "og:type": "article"
+  },
+  {
     "hostname": "joebaraban.com",
     "url": "https://joebaraban.com/blog/food-for-digital-thought-do-you-remember-your-first-photo/",
     "title": "Food For digital Thought: Do you remember your first photo? | Joe Baraban Photography",
@@ -12878,6 +13439,94 @@
     "og:image": "https://i127.fastpic.org/big/2026/0404/94/dd2038d36e957a65fe00c2aadd5c6394.png",
     "og:description": "Версия программы: 2.16.54.2Официальный сайт: Christian List &amp; Dean GrimmЯзык интерфейса: Русский, Английский, другиеЛечение: не требуетсяРазмер архива: 91.4 mbСистемные требования:• 32-bit installer: Microsoft Windows XP SP3 и новее• 64-bit installer: Microsoft Windows 7 и новее• Microsoft",
     "og:url": "https://kadets.net/245359-winmerge-216542-portable-multi-ru.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "kadets.net",
+    "url": "https://kadets.net/245366-visual-studio-code-11140-portable-multi-ru.html",
+    "title": "Visual Studio Code 1.114.0 + Portable Multi/Ru » Kadets.Net",
+    "date": "2026-04-05T16:37:29.125+06:00",
+    "og:title": "Visual Studio Code 1.114.0 + Portable Multi/Ru",
+    "og:image": "https://i127.fastpic.org/big/2026/0405/69/c0efe161c52f3ecf1b210bf48be14669.png",
+    "og:description": "Версия программы: 1.114.0Официальный сайт: MicrosoftЯзык интерфейса: Русский, Английский, другиеЛечение: не требуетсяРазмер архива: 906.7 mbСистемные требования:ОС: Windows 10 and 11 (64-bit)CPU: 1.6 GHz or faster processorRAM: 1 GBОписание:Visual Studio Code – визуальный редактор кода от компании",
+    "og:url": "https://kadets.net/245366-visual-studio-code-11140-portable-multi-ru.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "kadets.net",
+    "url": "https://kadets.net/245367-core-temp-120-portable-multi-ru.html",
+    "title": "Core Temp 1.20 + Portable Multi/Ru » Kadets.Net",
+    "date": "2026-04-05T16:37:29.501+06:00",
+    "og:title": "Core Temp 1.20 + Portable Multi/Ru",
+    "og:image": "https://i127.fastpic.org/big/2026/0405/12/5b52b777899cb8e463b1da1a4c0f0312.jpg",
+    "og:description": "Версия программы: 1.20Официальный сайт: Arthur LibermanЯзык интерфейса: Русский, Английский и другиеЛечение: не требуетсяРазмер архива: 7.2 mbСистемные требования:Windows 11, 10, 8/8.1, 7, XPServer 2025 / 2022 / 2019 / 2016 / 2012 / 2008 / 2003Processor: Intel, AMD or VIA x86 based",
+    "og:url": "https://kadets.net/245367-core-temp-120-portable-multi-ru.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "kadets.net",
+    "url": "https://kadets.net/245370-soft-organizer-pro-1036-repack-amp-portable-by-dodakaedr-multi-ru.html",
+    "title": "Soft Organizer Pro 10.36 RePack (& Portable) by Dodakaedr Multi/Ru » Kadets.Net",
+    "date": "2026-04-05T16:37:29.722+06:00",
+    "og:title": "Soft Organizer Pro 10.36 RePack (& Portable) by Dodakaedr Multi/Ru",
+    "og:image": "https://i127.fastpic.org/big/2026/0405/d6/aad8d5b4e0aa9e99d82f4fe650f854d6.png",
+    "og:description": "Версия программы: 10.36Официальный сайт: ChemTableЯзык интерфейса: Русский, Английский, другиеЛечение: не требуется (инсталлятор уже пролечен)Размер архива: 15.9 mbСистемные требования:Windows 11 / 10 / 8.1 / 8 / 7 (32|64-bit)Описание:Зачастую после удаления программ в системе остаются следы от",
+    "og:url": "https://kadets.net/245370-soft-organizer-pro-1036-repack-amp-portable-by-dodakaedr-multi-ru.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "kadets.net",
+    "url": "https://kadets.net/245376-passcape-reset-windows-password-930937-advanced-edition-bootcd-multi-ru.html",
+    "title": "Passcape Reset Windows Password 9.3.0.937 Advanced Edition BootCD Multi/Ru » Kadets.Net",
+    "date": "2026-04-05T16:37:29.809+06:00",
+    "og:title": "Passcape Reset Windows Password 9.3.0.937 Advanced Edition BootCD Multi/Ru",
+    "og:image": "https://i127.fastpic.org/big/2026/0405/b1/da2b19d2a4db943f3350f70cbe2f03b1.jpg",
+    "og:description": "Версия программы: 9.3.0.937Официальный сайт: ссылкаЯзык интерфейса: Русский, Английский и другиеЛечение: не требуетсяРазмер архива: 348.2 mbСистемные требования:x64 процессор, 1 ГБ ОЗУ, CD-ROM или USB диск.Размер загрузочного USB диска должен не менее 2 ГБ.BIOS компьютера должен поддерживать",
+    "og:url": "https://kadets.net/245376-passcape-reset-windows-password-930937-advanced-edition-bootcd-multi-ru.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "kadets.net",
+    "url": "https://kadets.net/245384-greenfish-icon-editor-pro-45-portable-multi-ru.html",
+    "title": "Greenfish Icon Editor Pro 4.5 + Portable Multi/Ru » Kadets.Net",
+    "date": "2026-04-05T16:37:30.17+06:00",
+    "og:title": "Greenfish Icon Editor Pro 4.5 + Portable Multi/Ru",
+    "og:image": "https://i127.fastpic.org/big/2026/0405/92/d1d63c00448ff775001e1b195e28ed92.png",
+    "og:description": "Версия программы: 4.5Официальный сайт: GreenFishSoftwareЯзык интерфейса: Русский, Английский, другиеЛечение: не требуетсяРазмер архива: 121.8 mbСистемные требования:Windows 11 / 10 / 8.1 / 8 / 7 (32|64-bit)Описание:Greenfish Icon Editor Pro является мощным инструментом для редактирования иконок,",
+    "og:url": "https://kadets.net/245384-greenfish-icon-editor-pro-45-portable-multi-ru.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "kadets.net",
+    "url": "https://kadets.net/245388-foxit-pdf-editor-pro-subscription-20261036452-portable-by-7997-multi-ru.html",
+    "title": "Foxit PDF Editor Pro Subscription 2026.1.0.36452 Portable by 7997 Multi/Ru » Kadets.Net",
+    "date": "2026-04-05T16:37:30.557+06:00",
+    "og:title": "Foxit PDF Editor Pro Subscription 2026.1.0.36452 Portable by 7997 Multi/Ru",
+    "og:image": "https://i127.fastpic.org/big/2026/0405/cb/2b258ee95d36317d4bceb26ca22ce6cb.png",
+    "og:description": "Версия программы: 2026.1.0.36452Официальный сайт: Foxit Software IncorporatedЯзык интерфейса: Русский, Английский и другиеЛечение: не требуется (инсталлятор уже пролечен)Размер архива: 733.5 mbСистемные требования:• Windows 10 / 11 (32|64-bit)• Microsoft Office® 2013 или более поздних версий",
+    "og:url": "https://kadets.net/245388-foxit-pdf-editor-pro-subscription-20261036452-portable-by-7997-multi-ru.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "kadets.net",
+    "url": "https://kadets.net/245391-mediahuman-youtube-to-mp3-converter-3919-1803-multi-ru.html",
+    "title": "MediaHuman YouTube to MP3 Converter 3.9.19 (1803) Multi/Ru » Kadets.Net",
+    "date": "2026-04-05T16:37:30.448+06:00",
+    "og:title": "MediaHuman YouTube to MP3 Converter 3.9.19 (1803) Multi/Ru",
+    "og:image": "https://i127.fastpic.org/big/2026/0405/3e/7aa0308e641cd72b79fe73fae3a3b93e.png",
+    "og:description": "Версия программы: 3.9.19 (1803)Официальный сайт: MediaHumanЯзык интерфейса: Русский, Английский и другиеЛечение: в комплектеТип лекарства: *.reg файл + готовый серийник + кейгенРазмер архива: 154.3 mbСистемные требования:Соединение с ИнтернетомWindows 7 / 8 / 8.1 / 10 / 11 (32|64-bit)Около 120 Мб",
+    "og:url": "https://kadets.net/245391-mediahuman-youtube-to-mp3-converter-3919-1803-multi-ru.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "kadets.net",
+    "url": "https://kadets.net/245393-adobe-bridge-2026-160321-repack-by-kpojiuk-multi-ru.html",
+    "title": "Adobe Bridge 2026 16.0.3.21 RePack by KpoJIuK Multi/Ru » Kadets.Net",
+    "date": "2026-04-05T17:28:43.238+06:00",
+    "og:title": "Adobe Bridge 2026 16.0.3.21 RePack by KpoJIuK Multi/Ru",
+    "og:image": "https://i127.fastpic.org/big/2026/0405/12/69b9d5c1a0202348c4212897ae997712.jpg",
+    "og:description": "Версия программы: 2026 16.0.3.21Официальный сайт: ADOBEЯзык интерфейса: Русский, Английский и другиеЛечение: не требуется (инсталлятор уже пролечен)Размер архива: 2 gbСистемные требования:• Процессор: Процессоры Intel® 6-го поколения или более новые, процессоры серии AMD Ryzen™ 1000 или более",
+    "og:url": "https://kadets.net/245393-adobe-bridge-2026-160321-repack-by-kpojiuk-multi-ru.html",
     "og:type": "article"
   },
   {
@@ -14730,6 +15379,17 @@
   },
   {
     "hostname": "onmsft.com",
+    "url": "https://onmsft.com/news/elsa-launches-gigaio-gryf-portable-ai-system-with-modular-design/",
+    "title": "ELSA Launches GigaIO Gryf Portable AI System with Modular Design - OnMSFT",
+    "date": "2026-04-05T03:40:32.547+06:00",
+    "og:title": "ELSA Launches GigaIO Gryf Portable AI System with Modular Design - OnMSFT",
+    "og:image": "https://onmsft.com/wp-content/uploads/2026/04/ELSA-Launches-GigaIO-Gryf-Portable-AI-System-with-Modular-Design.png",
+    "og:description": "GigaIO Gryf is a portable edge AI system with modular design, powerful GPUs, and scalable storage for on-site deployment anywhere.",
+    "og:url": "https://onmsft.com/news/elsa-launches-gigaio-gryf-portable-ai-system-with-modular-design/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "onmsft.com",
     "url": "https://onmsft.com/news/firefox-on-android-now-supports-tab-groups-with-names-and-colors-in-nightly/",
     "title": "Firefox on Android now supports tab groups with names and colors in Nightly - OnMSFT",
     "date": "2026-04-01T05:20:57.465+06:00",
@@ -14785,6 +15445,17 @@
   },
   {
     "hostname": "onmsft.com",
+    "url": "https://onmsft.com/news/h-264-licensing-fees-rise-to-4-5-million-for-streaming-platforms-in-2026/",
+    "title": "H.264 Licensing Fees Rise to $4.5 Million for Streaming Platforms in 2026 - OnMSFT",
+    "date": "2026-04-05T03:40:29.398+06:00",
+    "og:title": "H.264 Licensing Fees Rise to $4.5 Million for Streaming Platforms in 2026 - OnMSFT",
+    "og:image": "https://onmsft.com/wp-content/uploads/2026/04/H.264-Licensing-Fees-Rise-to-4.5-Million-for-Streaming-Platforms-in-2026.png",
+    "og:description": "H.264 streaming fees rise to $4.5 million in 2026, increasing costs for new OTT, social, and cloud gaming platforms worldwide.",
+    "og:url": "https://onmsft.com/news/h-264-licensing-fees-rise-to-4-5-million-for-streaming-platforms-in-2026/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "onmsft.com",
     "url": "https://onmsft.com/news/intel-arc-pro-b70-delivers-up-to-80-ai-inference-boost-in-mlperf-v6-0-benchmarks/",
     "title": "Intel Arc Pro B70 Delivers Up to 80% AI Inference Boost in MLPerf v6.0 Benchmarks - OnMSFT",
     "date": "2026-04-03T02:52:32.675+06:00",
@@ -14792,6 +15463,28 @@
     "og:image": "https://onmsft.com/wp-content/uploads/2026/04/intel-arc.png",
     "og:description": "Intel Arc Pro B70 delivers up to 80% faster AI inference in MLPerf v6.0 benchmarks, with strong GPU and CPU performance gains.",
     "og:url": "https://onmsft.com/news/intel-arc-pro-b70-delivers-up-to-80-ai-inference-boost-in-mlperf-v6-0-benchmarks/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "onmsft.com",
+    "url": "https://onmsft.com/news/intel-bartlett-lake-cpu-boots-on-z790-after-bios-trick-runs-windows-successfully/",
+    "title": "Intel Bartlett Lake CPU Boots on Z790 After BIOS Trick, Runs Windows Successfully - OnMSFT",
+    "date": "2026-04-05T03:40:38.663+06:00",
+    "og:title": "Intel Bartlett Lake CPU Boots on Z790 After BIOS Trick, Runs Windows Successfully - OnMSFT",
+    "og:image": "https://onmsft.com/wp-content/uploads/2026/04/Intel-Bartlett-Lake-CPU-Boots-on-Z790-After-BIOS-Trick-Runs-Windows-Successfully-1024x576.png",
+    "og:description": "Intel Bartlett Lake CPU boots on Z790 motherboard after BIOS trick, runs Windows successfully despite no official support from Intel or vendors.",
+    "og:url": "https://onmsft.com/news/intel-bartlett-lake-cpu-boots-on-z790-after-bios-trick-runs-windows-successfully/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "onmsft.com",
+    "url": "https://onmsft.com/news/intel-cpu-prices-set-to-rise-up-to-30-in-2026-as-ai-demand-reshapes-supply/",
+    "title": "Intel CPU prices set to rise up to 30% in 2026 as AI demand reshapes supply - OnMSFT",
+    "date": "2026-04-05T03:40:39.152+06:00",
+    "og:title": "Intel CPU prices set to rise up to 30% in 2026 as AI demand reshapes supply - OnMSFT",
+    "og:image": "https://onmsft.com/wp-content/uploads/2026/04/Intel-CPU-prices-set-to-rise-up-to-30-in-2026-as-AI-demand-reshapes-supply.png",
+    "og:description": "Intel plans up to 30% CPU price hikes in 2026 as AI demand rises, supply tightens, and consumer chip costs increase worldwide.",
+    "og:url": "https://onmsft.com/news/intel-cpu-prices-set-to-rise-up-to-30-in-2026-as-ai-demand-reshapes-supply/",
     "og:type": "article"
   },
   {
@@ -14818,6 +15511,28 @@
   },
   {
     "hostname": "onmsft.com",
+    "url": "https://onmsft.com/news/legion-go-2-now-costs-1999-at-best-buy-pricing-no-longer-makes-sense/",
+    "title": "Legion Go 2 now costs $1,999 at Best Buy, pricing no longer makes sense - OnMSFT",
+    "date": "2026-04-05T03:40:32.001+06:00",
+    "og:title": "Legion Go 2 now costs $1,999 at Best Buy, pricing no longer makes sense - OnMSFT",
+    "og:image": "https://onmsft.com/wp-content/uploads/2026/04/Legion-Go-2-now-costs-1999-at-Best-Buy-pricing-no-longer-makes-sense.png",
+    "og:description": "Lenovo Legion Go 2 price jumps to $1,999 on Best Buy, raising concerns as it now costs nearly double its launch price.",
+    "og:url": "https://onmsft.com/news/legion-go-2-now-costs-1999-at-best-buy-pricing-no-longer-makes-sense/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "onmsft.com",
+    "url": "https://onmsft.com/news/memory-costs-surge-to-30-of-ai-spending-nvidia-holds-an-advantage/",
+    "title": "Memory costs surge to 30% of AI spending, NVIDIA holds an advantage - OnMSFT",
+    "date": "2026-04-05T03:40:35.155+06:00",
+    "og:title": "Memory costs surge to 30% of AI spending, NVIDIA holds an advantage - OnMSFT",
+    "og:image": "https://onmsft.com/wp-content/uploads/2026/03/Nvidia-CEO-Jensen-Huang-sees-1-trillion-demand-for-Blackwell-and-Rubin-AI-chips.png",
+    "og:description": "DRAM prices surge as hyperscalers spend more on AI infrastructure, while NVIDIA secures supply advantage and avoids rising memory cost pressure.",
+    "og:url": "https://onmsft.com/news/memory-costs-surge-to-30-of-ai-spending-nvidia-holds-an-advantage/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "onmsft.com",
     "url": "https://onmsft.com/news/men-are-switching-from-tv-to-youtube-as-ai-use-grows-and-social-media-fades/",
     "title": "Men are switching from TV to YouTube as AI use grows and social media fades - OnMSFT",
     "date": "2026-04-03T02:52:31.994+06:00",
@@ -14840,6 +15555,17 @@
   },
   {
     "hostname": "onmsft.com",
+    "url": "https://onmsft.com/news/microsoft-publisher-will-shut-down-in-october-2026-and-users-are-not-happy/",
+    "title": "Microsoft Publisher Will Shut Down in October 2026 and Users Are Not Happy - OnMSFT",
+    "date": "2026-04-05T03:40:33.635+06:00",
+    "og:title": "Microsoft Publisher Will Shut Down in October 2026 and Users Are Not Happy - OnMSFT",
+    "og:image": "https://onmsft.com/wp-content/uploads/2026/04/State-of-Decay-3-Returns-With-Alpha-Playtests-After-Years-of-Silence.png",
+    "og:description": "Microsoft Publisher will shut down in October 2026, leaving users frustrated over lost file access, limited alternatives, and complex export workarounds.",
+    "og:url": "https://onmsft.com/news/microsoft-publisher-will-shut-down-in-october-2026-and-users-are-not-happy/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "onmsft.com",
     "url": "https://onmsft.com/news/microsoft-updates-bing-maps-after-years-with-major-address-upgrade/",
     "title": "Microsoft updates Bing Maps after years with major address upgrade - OnMSFT",
     "date": "2026-04-03T02:52:32.077+06:00",
@@ -14858,6 +15584,61 @@
     "og:image": "https://onmsft.com/wp-content/uploads/2026/04/Moss-Developer-Polyarc-Cuts-Jobs-After-Funding-Falls-Through-1024x576.png",
     "og:description": "Polyarc lays off staff after failed funding attempt, raising concerns about Moss developer future and ongoing instability across the VR gaming industry.",
     "og:url": "https://onmsft.com/news/moss-creator-polyarc-cuts-jobs-after-losing-project-funding/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "onmsft.com",
+    "url": "https://onmsft.com/news/nasa-artemis-ii-astronauts-face-outlook-issues-in-space-as-mission-hits-unexpected-software-glitch/",
+    "title": "NASA Artemis II astronauts face Outlook issues in space as mission hits unexpected software glitch - OnMSFT",
+    "date": "2026-04-05T03:40:33.072+06:00",
+    "og:title": "NASA Artemis II astronauts face Outlook issues in space as mission hits unexpected software glitch - OnMSFT",
+    "og:image": "https://onmsft.com/wp-content/uploads/2026/04/NASA-Artemis-II-astronauts-face-Outlook-issues-in-space-as-mission-hits-unexpected-software-glitch.png",
+    "og:description": "NASA Artemis II astronauts report Outlook not working in space as both versions fail during historic lunar mission testing and operations.",
+    "og:url": "https://onmsft.com/news/nasa-artemis-ii-astronauts-face-outlook-issues-in-space-as-mission-hits-unexpected-software-glitch/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "onmsft.com",
+    "url": "https://onmsft.com/news/new-intel-leak-shows-bigger-nova-lake-desktop-cpu-with-44-cores/",
+    "title": "New Intel Leak Shows Bigger Nova Lake Desktop CPU with 44 Cores - OnMSFT",
+    "date": "2026-04-05T03:40:28.273+06:00",
+    "og:title": "New Intel Leak Shows Bigger Nova Lake Desktop CPU with 44 Cores - OnMSFT",
+    "og:image": "https://onmsft.com/wp-content/uploads/2026/04/New-Intel-Leak-Shows-Bigger-Nova-Lake-Desktop-CPU-with-44-Cores.png",
+    "og:description": "Intel Nova Lake leak reveals new 44 core desktop CPU, updated lineup, and possible 2027 launch with new platform and chipset support.",
+    "og:url": "https://onmsft.com/news/new-intel-leak-shows-bigger-nova-lake-desktop-cpu-with-44-cores/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "onmsft.com",
+    "url": "https://onmsft.com/news/new-rowhammer-attacks-turn-nvidia-gpus-into-a-system-level-security-risk/",
+    "title": "New Rowhammer Attacks Turn NVIDIA GPUs Into a System-Level Security Risk - OnMSFT",
+    "date": "2026-04-05T03:40:27.329+06:00",
+    "og:title": "New Rowhammer Attacks Turn NVIDIA GPUs Into a System-Level Security Risk - OnMSFT",
+    "og:image": "https://onmsft.com/wp-content/uploads/2026/04/New-Rowhammer-Attacks-Turn-NVIDIA-GPUs-Into-a-System-Level-Security-Risk.png",
+    "og:description": "New Rowhammer attacks target NVIDIA GPUs, exposing GDDR memory and enabling hackers to gain full system access and root control.",
+    "og:url": "https://onmsft.com/news/new-rowhammer-attacks-turn-nvidia-gpus-into-a-system-level-security-risk/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "onmsft.com",
+    "url": "https://onmsft.com/news/new-ryzen-9-9950x3d2-loses-performance-on-air-cooling/",
+    "title": "New Ryzen 9 9950X3D2 loses performance on air cooling - OnMSFT",
+    "date": "2026-04-05T03:40:31.569+06:00",
+    "og:title": "New Ryzen 9 9950X3D2 loses performance on air cooling - OnMSFT",
+    "og:image": "https://onmsft.com/wp-content/uploads/2026/03/AMD-Ryzen-9-9950X3D2.png",
+    "og:description": "Ryzen 9 9950X3D2 needs strong cooling to maintain boost speeds, as air cooling limits performance under heavy workloads and sustained usage.",
+    "og:url": "https://onmsft.com/news/new-ryzen-9-9950x3d2-loses-performance-on-air-cooling/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "onmsft.com",
+    "url": "https://onmsft.com/news/new-uncharted-game-teased-as-naughty-dog-director-shares-research-photo/",
+    "title": "New Uncharted Game Teased as Naughty Dog Director Shares ‘Research’ Photo - OnMSFT",
+    "date": "2026-04-05T03:40:38.451+06:00",
+    "og:title": "New Uncharted Game Teased as Naughty Dog Director Shares ‘Research’ Photo - OnMSFT",
+    "og:image": "https://onmsft.com/wp-content/uploads/2026/04/New-Uncharted-Game-Teased-as-Naughty-Dog-Director-Shares-‘Research-Photo-1024x576.png",
+    "og:description": "New Uncharted game teased as Naughty Dog director shares research photo, hinting at possible return of PlayStation’s iconic adventure franchise.",
+    "og:url": "https://onmsft.com/news/new-uncharted-game-teased-as-naughty-dog-director-shares-research-photo/",
     "og:type": "article"
   },
   {
@@ -14895,6 +15676,17 @@
   },
   {
     "hostname": "onmsft.com",
+    "url": "https://onmsft.com/news/nvidia-neural-rendering-reduces-vram-from-6-5gb-to-970mb-without-losing-detail/",
+    "title": "NVIDIA Neural Rendering Reduces VRAM From 6.5GB to 970MB Without Losing Detail - OnMSFT",
+    "date": "2026-04-05T03:40:28.795+06:00",
+    "og:title": "NVIDIA Neural Rendering Reduces VRAM From 6.5GB to 970MB Without Losing Detail - OnMSFT",
+    "og:image": "https://onmsft.com/wp-content/uploads/2026/04/NVIDIA-Neural-Rendering-Reduces-VRAM-From-6.5GB-to-970MB-Without-Losing-Detail.png",
+    "og:description": "NVIDIA shows neural rendering cuts VRAM use, reduces game storage, and improves performance without changing visual quality for gamers.",
+    "og:url": "https://onmsft.com/news/nvidia-neural-rendering-reduces-vram-from-6-5gb-to-970mb-without-losing-detail/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "onmsft.com",
     "url": "https://onmsft.com/news/nvidia-shows-the-witcher-4-forest-demo-running-5-trillion-triangles-with-rtx-mega-geometry/",
     "title": "NVIDIA Runs The Witcher 4 Forest Demo at 4K 80FPS Using RTX Mega Geometry - OnMSFT",
     "date": "2026-04-03T02:52:30.84+06:00",
@@ -14902,6 +15694,39 @@
     "og:image": "https://onmsft.com/wp-content/uploads/2026/04/NVIDIA-Shows-The-Witcher-4-Forest-Demo-Running-5-Trillion-Triangles-With-RTX-Mega-Geometry-1024x576.png",
     "og:description": "NVIDIA showcases The Witcher 4 demo using RTX Mega Geometry, featuring massive forests, path tracing, and high performance on modern GPUs.",
     "og:url": "https://onmsft.com/news/nvidia-shows-the-witcher-4-forest-demo-running-5-trillion-triangles-with-rtx-mega-geometry/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "onmsft.com",
+    "url": "https://onmsft.com/news/pc-shortages-push-companies-to-drop-budget-models-and-chase-premium-buyers/",
+    "title": "PC shortages push companies to drop budget models and chase premium buyers - OnMSFT",
+    "date": "2026-04-05T03:40:35.842+06:00",
+    "og:title": "PC shortages push companies to drop budget models and chase premium buyers - OnMSFT",
+    "og:image": "https://onmsft.com/wp-content/uploads/2026/04/PC-shortages-push-companies-to-drop-budget-models-and-chase-premium-buyers.png",
+    "og:description": "Budget PCs face sharp decline as shortages and rising costs push manufacturers toward premium devices, leaving fewer affordable options for buyers.",
+    "og:url": "https://onmsft.com/news/pc-shortages-push-companies-to-drop-budget-models-and-chase-premium-buyers/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "onmsft.com",
+    "url": "https://onmsft.com/news/peak-players-want-more-updates-but-landfall-says-extra-content-is-a-bonus-not-a-right/",
+    "title": "PEAK Players Want More Updates, But Landfall Says Extra Content Is “a Bonus not a Right” - OnMSFT",
+    "date": "2026-04-05T03:40:35.427+06:00",
+    "og:title": "PEAK Players Want More Updates, But Landfall Says Extra Content Is “a Bonus not a Right” - OnMSFT",
+    "og:image": "https://onmsft.com/wp-content/uploads/2026/04/PEAK-Players-Want-More-Updates-But-Landfall-Says-Extra-Content-Is-a-Bonus-not-a-Right-1024x576.png",
+    "og:description": "PEAK players demand more updates, but Landfall responds clearly, saying the indie hit was never meant to be a live service game.",
+    "og:url": "https://onmsft.com/news/peak-players-want-more-updates-but-landfall-says-extra-content-is-a-bonus-not-a-right/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "onmsft.com",
+    "url": "https://onmsft.com/news/playstation-6-leaks-point-to-handheld-console-lower-pricing-and-early-transition-plans/",
+    "title": "PlayStation 6 leaks point to handheld console, lower pricing, and early transition plans - OnMSFT",
+    "date": "2026-04-05T03:40:37.8+06:00",
+    "og:title": "PlayStation 6 leaks point to handheld console, lower pricing, and early transition plans - OnMSFT",
+    "og:image": "https://onmsft.com/wp-content/uploads/2026/03/PlayStation-6.png",
+    "og:description": "PlayStation 6 leaks reveal handheld console plans, new PlayGo system, and a cheaper design as Sony prepares for next-gen transition soon.",
+    "og:url": "https://onmsft.com/news/playstation-6-leaks-point-to-handheld-console-lower-pricing-and-early-transition-plans/",
     "og:type": "article"
   },
   {
@@ -14917,6 +15742,39 @@
   },
   {
     "hostname": "onmsft.com",
+    "url": "https://onmsft.com/news/red-magic-11-runs-pc-games-like-gta-5-and-cyberpunk-2077-on-android-at-60-fps/",
+    "title": "Red Magic 11 runs PC games like GTA 5 and Cyberpunk 2077 on Android at 60 FPS - OnMSFT",
+    "date": "2026-04-05T03:40:30.998+06:00",
+    "og:title": "Red Magic 11 runs PC games like GTA 5 and Cyberpunk 2077 on Android at 60 FPS - OnMSFT",
+    "og:image": "https://onmsft.com/wp-content/uploads/2026/04/PC-Game-Emulation-On-Android-Phone-Is-INSANE-9-50-screenshot-scaled.png",
+    "og:description": "Android phone with 24GB RAM runs GTA 5, Cyberpunk 2077 and RDR2 through emulation with stable high FPS performance.",
+    "og:url": "https://onmsft.com/news/red-magic-11-runs-pc-games-like-gta-5-and-cyberpunk-2077-on-android-at-60-fps/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "onmsft.com",
+    "url": "https://onmsft.com/news/sony-quietly-updates-playstation-studios-site-as-pc-plans-come-into-question/",
+    "title": "Sony quietly updates PlayStation Studios site as PC plans come into question - OnMSFT",
+    "date": "2026-04-05T03:40:30.06+06:00",
+    "og:title": "Sony quietly updates PlayStation Studios site as PC plans come into question - OnMSFT",
+    "og:image": "https://onmsft.com/wp-content/uploads/2026/04/Sony-quietly-updates-PlayStation-Studios-site-as-PC-plans-come-into-question-1-1024x576.png",
+    "og:description": "Sony updates PlayStation Studios site, removes PC mentions, raising questions about future PC ports for major single-player PlayStation games.",
+    "og:url": "https://onmsft.com/news/sony-quietly-updates-playstation-studios-site-as-pc-plans-come-into-question/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "onmsft.com",
+    "url": "https://onmsft.com/news/state-of-decay-3-returns-with-alpha-playtests-after-years-of-silence/",
+    "title": "State of Decay 3 Returns With Alpha Playtests After Years of Silence - OnMSFT",
+    "date": "2026-04-05T03:40:33.969+06:00",
+    "og:title": "State of Decay 3 Returns With Alpha Playtests After Years of Silence - OnMSFT",
+    "og:image": "https://onmsft.com/wp-content/uploads/2026/04/State-of-Decay-3-Returns-With-Alpha-Playtests-After-Years-of-Silence.jpg",
+    "og:description": "State of Decay 3 returns with alpha playtests, co-op gameplay, new systems, and evolved zombies as Undead Labs opens player signups now.",
+    "og:url": "https://onmsft.com/news/state-of-decay-3-returns-with-alpha-playtests-after-years-of-silence/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "onmsft.com",
     "url": "https://onmsft.com/news/steam-deck-2-release-could-slip-to-2028-due-to-ram-and-storage-issues/",
     "title": "Steam Deck 2 release could slip to 2028 due to RAM and storage issues - OnMSFT",
     "date": "2026-04-03T02:52:31.364+06:00",
@@ -14924,6 +15782,17 @@
     "og:image": "https://onmsft.com/wp-content/uploads/2026/04/Steam-Deck-2-release-could-slip-to-2028-due-to-RAM-and-storage-issues.png",
     "og:description": "Steam Deck 2 may launch in 2028 as Valve waits for major performance gains, next gen AMD hardware, and better memory supply conditions.",
     "og:url": "https://onmsft.com/news/steam-deck-2-release-could-slip-to-2028-due-to-ram-and-storage-issues/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "onmsft.com",
+    "url": "https://onmsft.com/news/titan-army-u275m-could-push-gaming-monitors-to-1060hz-with-dual-mode-display/",
+    "title": "Titan Army U275M could push gaming monitors to 1060Hz with dual-mode display - OnMSFT",
+    "date": "2026-04-05T03:40:27.712+06:00",
+    "og:title": "Titan Army U275M could push gaming monitors to 1060Hz with dual-mode display - OnMSFT",
+    "og:image": "https://onmsft.com/wp-content/uploads/2026/04/Titan-Army-teases-U275M-esports-monitor-with-565Hz-QHD-and-1060Hz-HD-mode.png",
+    "og:description": "Titan Army U275M monitor brings 565Hz QHD and 1060Hz HD dual mode, pushing esports displays closer to extreme 1000Hz performance levels.",
+    "og:url": "https://onmsft.com/news/titan-army-u275m-could-push-gaming-monitors-to-1060hz-with-dual-mode-display/",
     "og:type": "article"
   },
   {
@@ -14946,6 +15815,17 @@
     "og:image": "https://onmsft.com/wp-content/uploads/2026/03/TSMCs-Key-Production-Region-Hit-by-Taiwans-Worst-Rainfall-Deficit.png",
     "og:description": "TSMC plans a massive Arizona GigaFab expansion with 12 fabs, aiming to match Taiwan output and strengthen US semiconductor manufacturing capacity.",
     "og:url": "https://onmsft.com/news/tsmc-plans-massive-gigafab-expansion-in-arizona-to-match-taiwan-output/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "onmsft.com",
+    "url": "https://onmsft.com/news/tsmc-shifts-4nm-capacity-to-3nm-as-smartphone-demand-drops-and-memory-costs-surge/",
+    "title": "TSMC Shifts 4nm Capacity to 3nm as Smartphone Demand Drops and Memory Costs Surge - OnMSFT",
+    "date": "2026-04-05T03:40:38.164+06:00",
+    "og:title": "TSMC Shifts 4nm Capacity to 3nm as Smartphone Demand Drops and Memory Costs Surge - OnMSFT",
+    "og:image": "https://onmsft.com/wp-content/uploads/2026/04/TSMC-Shifts-4nm-Capacity-to-3nm-as-Smartphone-Demand-Drops-and-Memory-Costs-Surge-1024x576.png",
+    "og:description": "TSMC shifts 4nm capacity to 3nm as smartphone demand drops, while rising memory costs reshape pricing and production priorities globally.",
+    "og:url": "https://onmsft.com/news/tsmc-shifts-4nm-capacity-to-3nm-as-smartphone-demand-drops-and-memory-costs-surge/",
     "og:type": "article"
   },
   {
@@ -15510,6 +16390,39 @@
     "og:type": "website"
   },
   {
+    "hostname": "qna.habr.com",
+    "url": "https://qna.habr.com/q/1409760?utm_source=email_digest&utm_medium=email&utm_content=question&utm_campaign=weeklydigest020426",
+    "title": "\"Расшаривание\" 1С ключа USB на hyper-v? — Хабр Q&A",
+    "date": "2026-04-05T05:13:00.382+06:00",
+    "og:title": "\"Расшаривание\" 1С ключа USB на hyper-v?",
+    "og:image": "https://habrastorage.org/webt/5a/96/3b/5a963bc1c09ef822543509.png",
+    "og:description": "Ответили на вопрос 5 человек. Оцените лучшие ответы! И подпишитесь на вопрос, чтобы узнавать о появлении новых ответов.",
+    "og:url": "https://qna.habr.com/q/1409760?utm_source=email_digest&utm_medium=email&utm_content=question&utm_campaign=weeklydigest020426",
+    "og:type": "website"
+  },
+  {
+    "hostname": "qna.habr.com",
+    "url": "https://qna.habr.com/q/1409892?utm_source=email_digest&utm_medium=email&utm_content=question&utm_campaign=weeklydigest020426",
+    "title": "Как и чем правильно снять загрузочный образ Windows с загрузочной флешки? — Хабр Q&A",
+    "date": "2026-04-05T05:13:00.459+06:00",
+    "og:title": "Как и чем правильно снять загрузочный образ Windows с загрузочной флешки?",
+    "og:image": "https://habrastorage.org/webt/67/52/ba/6752ba6cecd70425142054.jpeg",
+    "og:description": "Ответили на вопрос 4 человека. Оцените лучшие ответы! И подпишитесь на вопрос, чтобы узнавать о появлении новых ответов.",
+    "og:url": "https://qna.habr.com/q/1409892?utm_source=email_digest&utm_medium=email&utm_content=question&utm_campaign=weeklydigest020426",
+    "og:type": "website"
+  },
+  {
+    "hostname": "qna.habr.com",
+    "url": "https://qna.habr.com/q/1409904?utm_source=email_digest&utm_medium=email&utm_content=question&utm_campaign=weeklydigest020426",
+    "title": "Как лучше практиковать сети, чтобы действительно хорошо всё закрепить? — Хабр Q&A",
+    "date": "2026-04-05T05:13:00.511+06:00",
+    "og:title": "Как лучше практиковать сети, чтобы действительно хорошо всё закрепить?",
+    "og:image": "https://habrastorage.org/webt/5a/22/6b/5a226b6515659379723960.png",
+    "og:description": "Ответили на вопрос 2 человека. Оцените лучшие ответы! И подпишитесь на вопрос, чтобы узнавать о появлении новых ответов.",
+    "og:url": "https://qna.habr.com/q/1409904?utm_source=email_digest&utm_medium=email&utm_content=question&utm_campaign=weeklydigest020426",
+    "og:type": "website"
+  },
+  {
     "hostname": "raw.studio",
     "url": "https://raw.studio/blog/how-amazon-uses-5-ux-principles-to-achieve-10-15-conversion-rates/",
     "title": "How Amazon Uses 5 UX Principles to Achieve 10–15% Conversion Rates | Raw.Studio",
@@ -15610,6 +16523,17 @@
   },
   {
     "hostname": "repack.me",
+    "url": "https://repack.me/software/repacks/multimedia/746-adobe-bridge-2026.html",
+    "title": "Adobe Bridge 2026 16.0.3.21 » REPACK.ME",
+    "date": "2026-04-05T16:26:18.335+06:00",
+    "og:title": "Adobe Bridge 2026 16.0.3.21 » REPACK.ME",
+    "og:image": "https://repack.me/uploads/posts/2020-07/1595162463_br.png",
+    "og:description": "Adobe Bridge предоставит вам централизованный доступ ко всем мультимедийным ресурсам, необходимым для творческих проектов. Вы сможете легко редактировать компоненты в пакетном режиме, редактировать цифровые изображения в формате RAW, работать с форматами IPTC и XMP, выставлять рейтинг",
+    "og:url": "https://repack.me/software/repacks/multimedia/746-adobe-bridge-2026.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "repack.me",
     "url": "https://repack.me/software/repacks/multimedia/747-adobe-illustrator-2026.html",
     "title": "Adobe Illustrator 2026 30.3.0.182 » REPACK.ME",
     "date": "2026-04-01T02:05:01.258+06:00",
@@ -15698,6 +16622,28 @@
   },
   {
     "hostname": "ru.giveawayoftheday.com",
+    "url": "https://ru.giveawayoftheday.com/hq-gif-maker-2-8-8-80-3/",
+    "title": "Giveaway of the Day in Russian. HQ GIF Maker 2.8.8.80 - HQ GIF Maker превращает все, что воспроизводится на экране, в GIF-анимацию.",
+    "date": "2026-04-05T16:26:18.02+06:00",
+    "og:title": "HQ GIF Maker превращает все, что воспроизводится на экране, в GIF-анимацию. БЕСПЛАТНО на GOTD!",
+    "og:image": "https://giveawayoftheday.com/wp-content/uploads/og/2020/09/03472d1184434dab042d0ad7df23411e.png",
+    "og:description": "HQ GIF Maker превращает все, что воспроизводится на экране, в анимированный GIF.  HQ GIF Maker также идеально подходит для записи пошаговых руководств в виде анимации.\n\nHQ...",
+    "og:url": "https://ru.giveawayoftheday.com/hq-gif-maker-2-8-8-80-3/",
+    "og:type": "website"
+  },
+  {
+    "hostname": "ru.giveawayoftheday.com",
+    "url": "https://ru.giveawayoftheday.com/ireashare-iphone-manager-2-1-23/",
+    "title": "Giveaway of the Day in Russian. iReaShare iPhone Manager 2.1.23 - Переносите и управляйте данными iOS на компьютере.",
+    "date": "2026-04-05T16:26:18.083+06:00",
+    "og:title": "Переносите и управляйте данными iOS на компьютере. БЕСПЛАТНО на GOTD!",
+    "og:image": "https://giveawayoftheday.com/wp-content/uploads/og/2024/11/3c853f4693f047aa715106bb6c5acbd5.png",
+    "og:description": "iPhone Manager — надежное средство передачи и управления данными для устройств iPhone, iPad и iPod touch, позволяющее переносить контакты iOS, управлять текстовыми...",
+    "og:url": "https://ru.giveawayoftheday.com/ireashare-iphone-manager-2-1-23/",
+    "og:type": "website"
+  },
+  {
+    "hostname": "ru.giveawayoftheday.com",
     "url": "https://ru.giveawayoftheday.com/minitool-shadowmaker-4-8-0-2/",
     "title": "Giveaway of the Day in Russian. MiniTool ShadowMaker Pro 4.8.0 - Надежная защита и восстановление данных.",
     "date": "2026-04-01T09:45:37.86+06:00",
@@ -15753,9 +16699,31 @@
   },
   {
     "hostname": "samlab.ws",
+    "url": "https://samlab.ws/soft/ccleaner/",
+    "title": "SamLab.ws - CCleaner 7.06.1275",
+    "date": "2026-04-05T17:30:32.606+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "samlab.ws",
     "url": "https://samlab.ws/soft/chromium/",
     "title": "SamLab.ws - Chromium 148.0.7768",
     "date": "2026-04-02T02:18:22.191+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "samlab.ws",
+    "url": "https://samlab.ws/soft/coretemp/",
+    "title": "SamLab.ws - Core Temp 1.20.0.145",
+    "date": "2026-04-05T17:30:31.564+06:00",
     "og:title": "",
     "og:image": "",
     "og:description": "",
@@ -15778,6 +16746,17 @@
     "url": "https://samlab.ws/soft/dopdf/",
     "title": "SamLab.ws - doPDF 11.9.523 - SamLab.ws Рекомендует!",
     "date": "2026-04-01T09:45:37.809+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "samlab.ws",
+    "url": "https://samlab.ws/soft/doubledcom/",
+    "title": "SamLab.ws - Double Commander 1.2.0.12842 Dev",
+    "date": "2026-04-05T17:30:33.161+06:00",
     "og:title": "",
     "og:image": "",
     "og:description": "",
@@ -15874,9 +16853,31 @@
   },
   {
     "hostname": "samlab.ws",
+    "url": "https://samlab.ws/soft/klite/",
+    "title": "SamLab.ws - K-Lite Codec Pack 19.6.6",
+    "date": "2026-04-05T17:30:32.611+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "samlab.ws",
     "url": "https://samlab.ws/soft/klitebeta/",
     "title": "SamLab.ws - K-Lite Codec Pack 19.6.5 Beta",
     "date": "2026-04-04T20:19:08.876+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "samlab.ws",
+    "url": "https://samlab.ws/soft/mkvtool/",
+    "title": "SamLab.ws - MKVToolNix 98.0",
+    "date": "2026-04-05T17:29:27.608+06:00",
     "og:title": "",
     "og:image": "",
     "og:description": "",
@@ -15932,6 +16933,28 @@
     "url": "https://samlab.ws/soft/siw/",
     "title": "SamLab.ws - SIW 2016 Build 16.03.03294e",
     "date": "2026-04-04T20:19:08.896+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "samlab.ws",
+    "url": "https://samlab.ws/soft/sumatrapdf/",
+    "title": "SamLab.ws - Sumatra PDF 3.7.18095 Dev",
+    "date": "2026-04-05T17:30:33.192+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "samlab.ws",
+    "url": "https://samlab.ws/soft/systemmech/",
+    "title": "SamLab.ws - System Mechanic 26.3.0.123",
+    "date": "2026-04-05T17:30:32.622+06:00",
     "og:title": "",
     "og:image": "",
     "og:description": "",
@@ -16028,6 +17051,17 @@
   },
   {
     "hostname": "samlab.ws",
+    "url": "https://samlab.ws/soft/win8codecs/",
+    "title": "SamLab.ws - Shark007 Codecs 20.6.4",
+    "date": "2026-04-05T17:30:31.557+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "samlab.ws",
     "url": "https://samlab.ws/soft/wine/",
     "title": "SamLab.ws - Wine 11.6 Beta",
     "date": "2026-04-04T20:19:08.939+06:00",
@@ -16036,6 +17070,17 @@
     "og:description": "",
     "og:url": "",
     "og:type": ""
+  },
+  {
+    "hostname": "shortodella.com",
+    "url": "https://shortodella.com/",
+    "title": "Shortodella - AI Video Generator & Image Generator",
+    "date": "2026-04-05T14:54:50.533+06:00",
+    "og:title": "Shortodella - AI Video & Image Generator",
+    "og:image": "https://shortodella.com/hero-bg.jpg",
+    "og:description": "Create stunning videos and images with AI. Just describe what you want.",
+    "og:url": "https://shortodella.com",
+    "og:type": "website"
   },
   {
     "hostname": "shubhamjangle.medium.com",
@@ -18525,6 +19570,17 @@
   },
   {
     "hostname": "thewincentral.com",
+    "url": "https://thewincentral.com/microsoft-is-finally-making-hidden-windows-11-features-easy-to-enable/",
+    "title": "Windows 11 Hidden Features Just Got Easier to Enable - WinCentral",
+    "date": "2026-04-05T02:24:15.735+06:00",
+    "og:title": "Windows 11 Hidden Features Just Got Easier to Enable - WinCentral",
+    "og:image": "https://thewincentral.com/wp-content/uploads/2024/01/Windows-11-Insider-Preview-Build-23612-Image.jpg",
+    "og:description": "Microsoft is making it easier to enable hidden and experimental features in Windows 11—no hacks or tools needed. - Read in Latest News on WinCentral",
+    "og:url": "https://thewincentral.com/microsoft-is-finally-making-hidden-windows-11-features-easy-to-enable/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "thewincentral.com",
     "url": "https://thewincentral.com/windows-11-canary-build-28020-1797-is-here-small-update-big-signals-for-2026/",
     "title": "Windows 11 Build 28020.1797 Released — Why This Matters - WinCentral",
     "date": "2026-04-01T08:20:41.467+06:00",
@@ -18543,6 +19599,28 @@
     "og:image": "https://thewincentral.com/wp-content/uploads/2026/02/Windows-11-26H2-update-preview.jpg",
     "og:description": "Microsoft rolls out Windows 11 Insider Preview Build 26300.8142 in the Dev Channel with performance upgrades, bug fixes, and early 26H2 changes. - Read in Latest News on WinCentral",
     "og:url": "https://thewincentral.com/windows-11-dev-channel-update-build-26300-8142-brings-quiet-upgrades-that-matter/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "thewincentral.com",
+    "url": "https://thewincentral.com/windows-11-just-added-a-new-security-warning-most-users-will-see-this-soon/",
+    "title": "Windows 11 Secure Boot Warning: What the New Certificate Alert Means - WinCentral",
+    "date": "2026-04-05T02:24:15.826+06:00",
+    "og:title": "Windows 11 Secure Boot Warning: What the New Certificate Alert Means - WinCentral",
+    "og:image": "https://thewincentral.com/wp-content/uploads/2026/03/Working-on-Windows-11-terminal.jpg",
+    "og:description": "Windows 11 will now warn you if your Secure Boot certificates need attention. Here’s what it means and why it matters in 2026. - Read in Latest News on WinCentral",
+    "og:url": "https://thewincentral.com/windows-11-just-added-a-new-security-warning-most-users-will-see-this-soon/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "thewincentral.com",
+    "url": "https://thewincentral.com/windows-emergency-update-kb5086672-released-fixes-critical-issues-you-shouldnt-ignore/",
+    "title": "Windows 11 Emergency Update KB5086672: Download link & fixes - WinCentral",
+    "date": "2026-04-05T02:24:16.277+06:00",
+    "og:title": "Windows 11 Emergency Update KB5086672: Download link & fixes - WinCentral",
+    "og:image": "https://thewincentral.com/wp-content/uploads/2026/04/Windows-11-emergency-update-issue-fix.jpeg",
+    "og:description": "Microsoft releases out-of-band update KB5086672 for Windows 11. Fixes crashes, security issues, and VPN bugs. Here’s why you should install it now. - Read in Software updates News on WinCentral",
+    "og:url": "https://thewincentral.com/windows-emergency-update-kb5086672-released-fixes-critical-issues-you-shouldnt-ignore/",
     "og:type": "article"
   },
   {
@@ -18829,6 +19907,17 @@
     "og:image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOpZkfkOPKPp8lpEr6oPGskLDQhtlXnuGqnSfle-CuXD4R3CXgrsdRZVFUXr81xETu4Vx3JvUSw8Rg-Tu4iBkSFWtTjvw3uL7W_2W7vubpQFH78aQvkE8ps0Qg8ai0Q0_VogwwErF8I7VX/w1200-h630-p-k-no-nu/acrobat2021.png",
     "og:description": "Adobe Acrobat  — это комплексное решение для работы с документами PDF на настольных ПК, мобильных устройствах и в веб-браузерах. Программа п...",
     "og:url": "https://w18.monkrus.ws/2026/04/adobe-acrobat-2026-v26121367-x86.html",
+    "og:type": ""
+  },
+  {
+    "hostname": "w18.monkrus.ws",
+    "url": "https://w18.monkrus.ws/2026/04/adobe-bridge-2026-v1603-multilingual.html",
+    "title": "Adobe Bridge 2026 (v16.0.3) Multilingual :: Варез от m0nkrus'a (Warez by m0nkrus)",
+    "date": "2026-04-05T16:26:17.671+06:00",
+    "og:title": "Adobe Bridge 2026 (v16.0.3) Multilingual",
+    "og:image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhL03-n8ZtyYUDLqpedTafAKfP_S5krDVzA0I_jUY73qxyLbfpI6oKmEQRfoB_89ssWZMGOJkDdb6uDJB__czweVBmigODc3eaOhxzUU7qjUQAXuIRmhuAsAMN3TWusCgViIbY1dahfvQ_/w1200-h630-p-k-no-nu/bridge2020.gif",
+    "og:description": "Adobe Bridge  — это мощное средство для управления творческими ресурсами, позволяющее быстро и легко просматривать, выбирать, организовывать...",
+    "og:url": "https://w18.monkrus.ws/2026/04/adobe-bridge-2026-v1603-multilingual.html",
     "og:type": ""
   },
   {
@@ -20680,6 +21769,39 @@
     "og:type": "article"
   },
   {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=20166",
+    "title": "Новый Copilot для Windows 11 использует встроенный Microsoft Edge и потребляет больше оперативной памяти",
+    "date": "2026-04-05T15:41:01.403+06:00",
+    "og:title": "Новый Copilot для Windows 11 использует встроенный Microsoft Edge и потребляет больше оперативной памяти",
+    "og:image": "https://cdn.comss.ru/img/2026-04-05/comss-microsoft-copilot-2026-04-05_1003.jpg",
+    "og:description": "Новая версия Copilot для Windows 11 перешла на веб-архитектуру и теперь включает встроенный Microsoft Edge. Это улучшает плавность интерфейса, но значительно увеличивает потребление оперативной памяти – до 1 ГБ при работе",
+    "og:url": "https://www.comss.ru/page.php?id=20166",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=20167",
+    "title": "Samsung прекратит работу приложения «Сообщения» в июле 2026 года",
+    "date": "2026-04-05T15:41:01.137+06:00",
+    "og:title": "Samsung прекратит работу приложения «Сообщения» в июле 2026 года",
+    "og:image": "https://cdn.comss.ru/img/2026-04-05/comss-samsung-2026-04-05_1206.jpg",
+    "og:description": "Компания опубликовала уведомление о закрытии сервиса Samsung «Сообщения» и рекомендует перейти на Google «Сообщения» с поддержкой RCS",
+    "og:url": "https://www.comss.ru/page.php?id=20167",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=20168",
+    "title": "Обновления Samsung Galaxy с 29 марта по 5 апреля 2026 года: бета One UI 8.5 вышла на Z Fold 6 и Z Flip 6",
+    "date": "2026-04-05T15:41:01.075+06:00",
+    "og:title": "Обновления Samsung Galaxy с 29 марта по 5 апреля 2026 года: бета One UI 8.5 вышла на Z Fold 6 и Z Flip 6",
+    "og:image": "https://cdn.comss.ru/img/032026/samsung-s26ultra.png",
+    "og:description": "Samsung запустила бета-программу One UI 8.5 для Galaxy Z Fold 6 и Z Flip 6. На тестовых серверах замечены сборки для Galaxy S23, Z Fold 5, A35 и A54 — бета-тестирование может начаться в ближайшие дни. Galaxy S26 первым получил апрельский патч безопасности 2026 года",
+    "og:url": "https://www.comss.ru/page.php?id=20168",
+    "og:type": "article"
+  },
+  {
     "hostname": "www.creativebloq.com",
     "url": "https://www.creativebloq.com/3d/3d-printing/elegoo-is-pretty-much-giving-away-3d-printers-with-its-easter-sale",
     "title": "Elegoo's Easter Sale has 3D printer deals with up to 47% off | Creative Bloq",
@@ -21392,6 +22514,39 @@
     "og:image": "https://www.deskmodder.de/blog/wp-content/uploads/2026/04/windows-terminal-1259230-und-124109210.jpg",
     "og:description": "Heute Nacht hat Microsoft das Windows Terminal wieder aktualisiert. Einmal wurde die Version 1.25.923.0 als Preview und einmal die 1.24.10921.0 als Stable freigegeben. Das Team rund um das Terminal hat sich wieder einen Spaß erlaubt bei den Release Notes. Bei…",
     "og:url": "https://www.deskmodder.de/blog/2026/04/04/windows-terminal-1-25-923-0-und-1-24-10921-0-wurden-veroeffentlicht/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/blog/2026/04/05/h-264-wird-ploetzlich-teuer-neue-streaming-gebuehren-treffen-grosse-plattformen-hart/",
+    "title": "H.264 suddenly becomes expensive: New streaming fees hit big platforms hard - Deskmodder.de",
+    "date": "2026-04-05T15:41:01.082+06:00",
+    "og:title": "H.264 wird plötzlich teuer: Neue Streaming-Gebühren treffen große Plattformen hart",
+    "og:image": "https://www.deskmodder.de/blog/wp-content/uploads/2026/04/streaming-symbolfoto-scaled.jpg",
+    "og:description": "Neue H.264-Gebühren ab 2026: Streaming wird deutlich teurer. Wer betroffen ist und was Plattformen jetzt beachten müssen.",
+    "og:url": "https://www.deskmodder.de/blog/2026/04/05/h-264-wird-ploetzlich-teuer-neue-streaming-gebuehren-treffen-grosse-plattformen-hart/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/blog/2026/04/05/media-player-classic-mpc-hc-2-7-0-kommt-mit-einigen-verbesserungen/",
+    "title": "Media Player Classic (MPC-HC) 2.7.0 comes with some improvements - Deskmodder.de",
+    "date": "2026-04-05T15:41:01.424+06:00",
+    "og:title": "Media Player Classic (MPC-HC) 2.7.0 kommt mit einigen Verbesserungen",
+    "og:image": "https://www.deskmodder.de/blog/wp-content/uploads/2025/02/media-player-classic-mpc-hc-neu.jpg",
+    "og:description": "Der Media Player Classic (MPC-HC) wurde gestern Abend in der Version 2.7.0 freigegeben. In den letzten Versionen wurden immer kleinere Korrekturen vorgenommen. In der heutigen kommen dann noch einige Verbesserungen (neben den Korrekturen) hinzu. Gibt ja immer wieder die Diskussion,…",
+    "og:url": "https://www.deskmodder.de/blog/2026/04/05/media-player-classic-mpc-hc-2-7-0-kommt-mit-einigen-verbesserungen/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/blog/2026/04/05/windows-11-24h2-wurde-von-microsoft-jetzt-aufs-abstellgleis-geschickt/",
+    "title": "Windows 11 24H2 has now been sent by Microsoft on the siding - Deskmodder.de",
+    "date": "2026-04-05T15:41:01.308+06:00",
+    "og:title": "Windows 11 24H2 wurde von Microsoft jetzt aufs Abstellgleis geschickt",
+    "og:image": "https://www.deskmodder.de/blog/wp-content/uploads/2024/02/windows-11-24h2-logo.png",
+    "og:description": "Windows 11 24H2 in der Consumer-Version (Home / Pro) erhält zwar noch bis zum 13. Oktober 2026 Updates. Aber Microsoft hat auf der Seite mit den bekannten Problemen schon einmal den Text umgestellt, dass man eben nach diesem Termin keine…",
+    "og:url": "https://www.deskmodder.de/blog/2026/04/05/windows-11-24h2-wurde-von-microsoft-jetzt-aufs-abstellgleis-geschickt/",
     "og:type": "article"
   },
   {
@@ -23375,6 +24530,28 @@
     "og:type": "article"
   },
   {
+    "hostname": "www.pixelwall.ca",
+    "url": "https://www.pixelwall.ca/news/why-net-caching-leaves-wordpress-redis-in-the-dust/",
+    "title": "Why .NET Caching Leaves WordPress + Redis in the Dust | Pixelwall",
+    "date": "2026-04-05T14:54:50.539+06:00",
+    "og:title": "Why .NET Caching Leaves WordPress + Redis in the Dust | Pixelwall",
+    "og:image": "https://media.pixelwall.ca/news/webfactory-ltd-CzShzocZtW0-unsplash.jpg",
+    "og:description": "WordPress needs Redis, W3 Total Cache, and a stack of plugins just to cache properly. .NET ships with all of it built in. Here's why that changes everything.",
+    "og:url": "https://www.pixelwall.ca/news/why-net-caching-leaves-wordpress-redis-in-the-dust/",
+    "og:type": "website"
+  },
+  {
+    "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/products/apimage",
+    "title": "APImage: The AI-API for Images | Product Hunt",
+    "date": "2026-04-05T02:10:56.064+06:00",
+    "og:title": "APImage: The AI-API for Images | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/a1fbf66d-5d45-4341-8eae-79abb2ba6321.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "Generate, edit, and enhance images with our suite of AI tools. Ideal for developers, designers, and content creators.",
+    "og:url": "https://www.producthunt.com/products/apimage",
+    "og:type": "article"
+  },
+  {
     "hostname": "www.producthunt.com",
     "url": "https://www.producthunt.com/products/atomic-5",
     "title": "Atomic: Turn scattered notes into a connected knowledge graph | Product Hunt",
@@ -23607,6 +24784,17 @@
   },
   {
     "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/products/donut-browser",
+    "title": "Open Source Anti-Detect Browser with Unlimited Profiles - Donut Browser | Product Hunt",
+    "date": "2026-04-05T02:10:56.288+06:00",
+    "og:title": "Open Source Anti-Detect Browser with Unlimited Profiles - Donut Browser | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/f186f05b-2ba8-4146-b0e1-de6a6460fb40.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "Open source anti-detect browser. Create unlimited local profiles with unique fingerprints, proxy support, and full browser automation.",
+    "og:url": "https://www.producthunt.com/products/donut-browser",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.producthunt.com",
     "url": "https://www.producthunt.com/products/duck-duck-duck-by-ideo",
     "title": "Duck, Duck, Duck! by IDEO: An opinionated robot rubber duck for Claude code | Product Hunt",
     "date": "2026-04-03T08:30:36.938+06:00",
@@ -23640,6 +24828,17 @@
   },
   {
     "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/products/faahh-app-that-roasts-you-back-to-work",
+    "title": "Slap your desk. Unplug distractions. Get back to focus. - Faahh | Product Hunt",
+    "date": "2026-04-05T02:10:55.581+06:00",
+    "og:title": "Slap your desk. Unplug distractions. Get back to focus. - Faahh | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/d50a8f0f-380b-45f4-ad81-2bce414c1bf2.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "Faahhh is a tiny focus app that interrupts you the moment you drift. Faahhh sits quietly in your menu bar — then hits you with a loud “Faahh…” (or any custom sound). Slap your desk to trigger it. Unplug something and your laptop screams. No blockers. No dashboards. Just instant awareness, chaos, and focus.",
+    "og:url": "https://www.producthunt.com/products/faahh-app-that-roasts-you-back-to-work",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.producthunt.com",
     "url": "https://www.producthunt.com/products/findthem",
     "title": "FindThem: AI Profile Search Across LinkedIn enriched with Web Data | Product Hunt",
     "date": "2026-04-03T08:30:36.614+06:00",
@@ -23647,6 +24846,17 @@
     "og:image": "https://ph-files.imgix.net/4bc7fbfd-d030-4090-8a09-2b21e88ca56a.png?auto=format&fit=crop&frame=1&h=512&w=1024",
     "og:description": "FindThem is an AI-powered search engine across 1B+ LinkedIn profiles enriched with Web Data. Find angel investors, sales prospects, hiring managers, and decision-makers with verified emails. Try free, credits per profile found & enrichment [No subscription].",
     "og:url": "https://www.producthunt.com/products/findthem",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/products/flipboard-surf",
+    "title": "Flipboard's new app for browsing the open social web | Flipboard Surf | Product Hunt",
+    "date": "2026-04-05T02:10:56.005+06:00",
+    "og:title": "Flipboard's new app for browsing the open social web | Flipboard Surf | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/239bbf4a-b4d9-4a2e-a485-81d8d60550a3.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "Social magazine app maker Flipboard is reinventing itself. Surf weaves Mastodon, Threads, Bluesky, RSS feeds, podcasts, and YouTube into something that wouldn’t have been possible until recently.",
+    "og:url": "https://www.producthunt.com/products/flipboard-surf",
     "og:type": "article"
   },
   {
@@ -23669,6 +24879,17 @@
     "og:image": "https://ph-files.imgix.net/259082fd-25ab-46a9-9dee-a769005a7b40.png?auto=format&fit=crop&frame=1&h=512&w=1024",
     "og:description": "Flowith is the AI for deep work. Surpassing traditional chat-based tools, it streamlines tasks on a multi-thread interface powered by a most advanced agent framework. The intuitive canvas and smart framework boost productivity, helping users stay in the flow.",
     "og:url": "https://www.producthunt.com/products/flowith",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/products/fluently-accurate-youtube-subtitles",
+    "title": "Fluently | AI subtitles & translations for YouTube. 20+ Languages. | Product Hunt",
+    "date": "2026-04-05T02:10:54.446+06:00",
+    "og:title": "Fluently | AI subtitles & translations for YouTube. 20+ Languages.  | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/a44080ee-6c83-4cc1-88b9-256385e83a03.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "Accurate subtitles & translations for YouTube, powered by AI. Translate 20+ languages with Dual subtitles. Better than YouTube auto-captions. Fluently uses AI to transcribe the raw audio and translate it properly with dedicated translation models, so you actually understand what's being said.",
+    "og:url": "https://www.producthunt.com/products/fluently-accurate-youtube-subtitles",
     "og:type": "article"
   },
   {
@@ -23838,6 +25059,17 @@
   },
   {
     "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/products/klick-1-ai-camera-assistant",
+    "title": "Real-time AI camera that teaches you composition live | Klick AI Camera Assistant | Product Hunt",
+    "date": "2026-04-05T02:10:56.826+06:00",
+    "og:title": "Real-time AI camera that teaches you composition live | Klick AI Camera Assistant | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/70d26e88-424f-48a1-bf92-8981396cfaaa.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "Klick is an AI camera that helps you shoot better photos instantly. Get live framing guidance, instant feedback, and simple visual tools that help you capture better photos — from your very first shot. Built for beginners, loved by creators.",
+    "og:url": "https://www.producthunt.com/products/klick-1-ai-camera-assistant",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.producthunt.com",
     "url": "https://www.producthunt.com/products/liinks",
     "title": "Liinks: Centralize your online presence with Liinks | Product Hunt",
     "date": "2026-04-01T08:17:42.454+06:00",
@@ -23867,6 +25099,17 @@
     "og:image": "https://ph-files.imgix.net/c79e23f4-dee5-431b-b52c-2191aa51d29d.png?auto=format&fit=crop&frame=1&h=512&w=1024",
     "og:description": "Microsoft AI is pioneering the future of what AI can do and what technology can be.",
     "og:url": "https://www.producthunt.com/products/mai-image-2-3",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/products/mercury-412",
+    "title": "Mercury: The First Commercial-Scale Diffusion LLM | Product Hunt",
+    "date": "2026-04-05T02:10:54.003+06:00",
+    "og:title": "Mercury: The First Commercial-Scale Diffusion LLM | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/40bae204-a882-4d5d-b7a6-eb2023c1a7d6.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "Mercury,from Inception Labs, is the first commercial diffusion LLM. Up to 10x faster than autoregressive models, with comparable or better quality on coding tasks.",
+    "og:url": "https://www.producthunt.com/products/mercury-412",
     "og:type": "article"
   },
   {
@@ -23937,6 +25180,17 @@
   },
   {
     "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/products/open-claude-in-chrome",
+    "title": "Open Claude in Chrome: Claude in Chrome, reverse-engineered, Jailbroken | Product Hunt",
+    "date": "2026-04-05T02:10:54.572+06:00",
+    "og:title": "Open Claude in Chrome: Claude in Chrome, reverse-engineered, Jailbroken | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/012d92f2-9d44-43c6-a466-2e877f9c9bd8.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "Claude in Chrome gives Claude Code full browser automation, but blocks 58 domains (banks, Tinder, Reddit, Robinhood, Bloomberg) and only works in Chrome/Edge. I reverse-engineered it from the tool schemas. Same 18 tools, same performance. No blocklist. Any Chromium browser. Open source.",
+    "og:url": "https://www.producthunt.com/products/open-claude-in-chrome",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.producthunt.com",
     "url": "https://www.producthunt.com/products/openai",
     "title": "OpenAI: APIs and tools for building AI products | Product Hunt",
     "date": "2026-04-03T08:30:36.331+06:00",
@@ -23966,6 +25220,28 @@
     "og:image": "https://ph-files.imgix.net/dc140d19-757d-4e01-8e5a-1fd761ff26fc.png?auto=format&fit=crop&frame=1&h=512&w=1024",
     "og:description": "OpenBox provides a trust platform for agentic AI, delivering runtime governance, cryptographic verification, and enterprise-grade compliance. Integrates via a single SDK with LangChain, LangGraph, Temporal, n8n, Mastra, and more. Available to every organization with no usage limits.",
     "og:url": "https://www.producthunt.com/products/openbox",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/products/opengyver",
+    "title": "Turn CLI / AI agents into McGyver | OpenGyver | Product Hunt",
+    "date": "2026-04-05T02:10:56.284+06:00",
+    "og:title": "Turn CLI / AI agents into McGyver | OpenGyver | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/8004ec06-79de-413c-abd4-d03d61cfb8b2.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "Stop going to obscure websites, just to convert files, generate UUIDs, work with JSON/HTML data, and encode/decode strings. With OpenGyver, you can convert files/units/weather/movies/audio from your terminal. Pipe your results for automation, or use OpenGyver skill to let Claude Code do all these as a tool. OpenGyver is 100% free and open source, created just for the betterment of the future AI overlords.",
+    "og:url": "https://www.producthunt.com/products/opengyver",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/products/openrouter",
+    "title": "OpenRouter Model Fusion: Run many models side by side and fuse the best answer | Product Hunt",
+    "date": "2026-04-05T02:10:54.19+06:00",
+    "og:title": "OpenRouter Model Fusion: Run many models side by side and fuse the best answer | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/dc718e9c-13d0-423d-8767-3264b46be40e.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "Model Fusion is a new public experiment from OpenRouter Labs. It runs your prompt through multiple models, analyzes their outputs, and uses a customizable \"judge\" model to fuse the best aspects into a single, superior response.",
+    "og:url": "https://www.producthunt.com/products/openrouter",
     "og:type": "article"
   },
   {
@@ -24146,6 +25422,17 @@
   },
   {
     "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/products/sleek-analytics",
+    "title": "See who's on your site. Right now. | Sleek Analytics | Product Hunt",
+    "date": "2026-04-05T02:10:53.915+06:00",
+    "og:title": "See who's on your site. Right now. | Sleek Analytics | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/749a8167-9086-4c2d-a2dc-12516840c01e.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "We built Sleek because analytics shouldn't require a PhD. Paste one line of code, and within seconds you're watching real visitors move through your site live. No setup headaches, no cookie banners, no noise. Just your data, clean and simple.",
+    "og:url": "https://www.producthunt.com/products/sleek-analytics",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.producthunt.com",
     "url": "https://www.producthunt.com/products/slide2video-2",
     "title": "Slide2Video: Turn slides into narrated videos | Product Hunt",
     "date": "2026-04-03T08:30:36.92+06:00",
@@ -24307,6 +25594,17 @@
     "og:image": "https://ph-files.imgix.net/f5378fa5-8667-4285-b5ea-cc0fae7dcbf2.png?auto=format&fit=crop&frame=1&h=512&w=1024",
     "og:description": "Velo creates professionally edited product demos presented by an AI avatar that looks and sounds like you.",
     "og:url": "https://www.producthunt.com/products/velo-3",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.producthunt.com",
+    "url": "https://www.producthunt.com/products/vista-4",
+    "title": "Vista: The image viewer macOS should have built. | Product Hunt",
+    "date": "2026-04-05T02:10:56.798+06:00",
+    "og:title": "Vista: The image viewer macOS should have built. | Product Hunt",
+    "og:image": "https://ph-files.imgix.net/faa26e96-6fb7-441c-8ae5-9a8ca37e475f.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "og:description": "Preview can't browse folders. Quick Look vanishes when you click. Every alternative is Electron bloat or a full editing suite. Vista just shows the image — fast. Arrow keys, that's it. Simple on the surface, obsessively refined underneath. Every detail you'd expect from a native Mac app, and a few you wouldn't. Free.",
+    "og:url": "https://www.producthunt.com/products/vista-4",
     "og:type": "article"
   },
   {
@@ -24553,6 +25851,17 @@
   },
   {
     "hostname": "www.slo.ru",
+    "url": "https://www.slo.ru/files/codecs/klite_codec_pack",
+    "title": "K-Lite Codec Pack - Скачать для Windows",
+    "date": "2026-04-05T16:26:17.778+06:00",
+    "og:title": "K-Lite Codec Pack - Скачать для Windows",
+    "og:image": "https://www.slo.ru/img/64/klite_codec_pack.gif",
+    "og:description": "K-Lite Codec Pack — популярный набор видео и аудио кодеков. Имеет 4 варианта, различающихся количеством кодеков. Скачать кодеки.",
+    "og:url": "https://www.slo.ru/files/codecs/klite_codec_pack",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.slo.ru",
     "url": "https://www.slo.ru/files/firewalls/windows_firewall_control",
     "title": "Windows Firewall Control - Скачать для Windows",
     "date": "2026-04-03T08:41:36.422+06:00",
@@ -24560,6 +25869,17 @@
     "og:image": "https://www.slo.ru/img/64/windows_firewall_control.gif",
     "og:description": "Windows Firewall Control — бесплатная программа для управления фаерволом операционной системы Windows.",
     "og:url": "https://www.slo.ru/files/firewalls/windows_firewall_control",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.slo.ru",
+    "url": "https://www.slo.ru/files/hardware/core_temp",
+    "title": "Core Temp - Скачать программу для мониторинга процессора",
+    "date": "2026-04-05T16:26:17.938+06:00",
+    "og:title": "Core Temp - Скачать программу для мониторинга процессора",
+    "og:image": "https://www.slo.ru/img/64/core_temp.gif",
+    "og:description": "Core Temp — это крошечная программа для анализа и мониторинга текущего состояния процессора компьютера.",
+    "og:url": "https://www.slo.ru/files/hardware/core_temp",
     "og:type": "article"
   },
   {
@@ -24588,7 +25908,7 @@
     "hostname": "www.slo.ru",
     "url": "https://www.slo.ru/files/im/telegram",
     "title": "Telegram - Скачать бесплатно мессенджер",
-    "date": "2026-04-04T20:19:13.728+06:00",
+    "date": "2026-04-05T16:26:17.713+06:00",
     "og:title": "Telegram - Скачать бесплатно мессенджер",
     "og:image": "https://www.slo.ru/img/64/telegram.gif",
     "og:description": "Telegram — клиент для стремительно набирающего популярность сервиса обмена сообщениями. Чат, звонки, информационные каналы и прочее.",
@@ -24670,6 +25990,17 @@
     "og:image": "https://www.slo.ru/img/64/jellyfin.gif",
     "og:description": "Jellyfin — медиасервер — программа для управления и трансляции различного медиаконтента (видео, аудио, фото) на любые устройства.",
     "og:url": "https://www.slo.ru/files/video_players/jellyfin",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.slo.ru",
+    "url": "https://www.slo.ru/files/video_players/media_player_classic",
+    "title": "Media Player Classic - Скачать видеоплеер",
+    "date": "2026-04-05T16:26:17.844+06:00",
+    "og:title": "Media Player Classic - Скачать видеоплеер",
+    "og:image": "https://www.slo.ru/img/64/media_player_classic.gif",
+    "og:description": "Отличный видеоплеер с открытыми исходными кодами. Удобный интерфейс, понятное управление, масса функций, кодеки и фильтры.",
+    "og:url": "https://www.slo.ru/files/video_players/media_player_classic",
     "og:type": "article"
   },
   {
@@ -25136,6 +26467,39 @@
   },
   {
     "hostname": "www.thurrott.com",
+    "url": "https://www.thurrott.com/a-i/334501/chatgpt-is-now-available-in-apple-carplay-for-ios-26-4-users",
+    "title": "ChatGPT is Now available in Apple CarPlay for iOS 26.4 Users",
+    "date": "2026-04-05T02:24:21.262+06:00",
+    "og:title": "ChatGPT is Now available in Apple CarPlay for iOS 26.4 Users",
+    "og:image": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/04/ChatGPT-CarPlay.jpg",
+    "og:description": "ChatGPT is now available via Apple's CarPlay infotainment system for iPhone users who have already installed iOS 26.4.",
+    "og:url": "https://www.thurrott.com/a-i/334501/chatgpt-is-now-available-in-apple-carplay-for-ios-26-4-users",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.thurrott.com",
+    "url": "https://www.thurrott.com/a-i/334505/google-gemini-in-android-auto-starts-rolling-out-more-widely",
+    "title": "Google Gemini in Android Auto Starts Rolling Out More Widely",
+    "date": "2026-04-05T02:24:20.58+06:00",
+    "og:title": "Google Gemini in Android Auto Starts Rolling Out More Widely",
+    "og:image": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/04/Google-Gemini-Android-Auto.jpg",
+    "og:description": "Google appears to be finally expanding the availability of its Gemini AI on its Android Auto platform, but not all users are positive about the experience.",
+    "og:url": "https://www.thurrott.com/a-i/334505/google-gemini-in-android-auto-starts-rolling-out-more-widely",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.thurrott.com",
+    "url": "https://www.thurrott.com/a-i/334513/openai-acquires-live-tech-talk-show-tbpn",
+    "title": "OpenAI Acquires Live Tech Talk Show TBPN",
+    "date": "2026-04-05T02:24:16.27+06:00",
+    "og:title": "OpenAI Acquires Live Tech Talk Show TBPN",
+    "og:image": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/04/OpenAI-TBPN.jpg",
+    "og:description": "OpenAI is acquiring Technology Business Programming Network (TBPN), a daily live tech podcast popular among people working in the Silicon Valley ecosystem.",
+    "og:url": "https://www.thurrott.com/a-i/334513/openai-acquires-live-tech-talk-show-tbpn",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.thurrott.com",
     "url": "https://www.thurrott.com/a-i/anthropic/334498/anthropic-brings-claude-computer-use-to-windows",
     "title": "Anthropic Brings Claude Computer Use to Windows - Thurrott.com",
     "date": "2026-04-03T02:59:33.744+06:00",
@@ -25235,6 +26599,17 @@
   },
   {
     "hostname": "www.thurrott.com",
+    "url": "https://www.thurrott.com/dev/334564/winuipad-mop-up-in-aisle-winui-3",
+    "title": "WinUIpad: Mop Up in Aisle WinUI 3 ⭐ - Thurrott.com",
+    "date": "2026-04-05T02:24:15.927+06:00",
+    "og:title": "WinUIpad: Mop Up in Aisle WinUI 3 ⭐",
+    "og:image": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/04/winuipad-mop-up-thumb.jpg",
+    "og:description": "This is a minor update, but I added Zoom and Recent files support to WinUIpad and fixed a few bugs.",
+    "og:url": "https://www.thurrott.com/dev/334564/winuipad-mop-up-in-aisle-winui-3",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.thurrott.com",
     "url": "https://www.thurrott.com/games/334475/xbox-announces-more-upcoming-fanfest-events-around-the-world",
     "title": "Xbox Announces More Upcoming FanFest Events Around the World",
     "date": "2026-04-03T02:59:34.029+06:00",
@@ -25268,6 +26643,28 @@
   },
   {
     "hostname": "www.thurrott.com",
+    "url": "https://www.thurrott.com/linux/334538/switcher-2026-fedora-workstation",
+    "title": "Switcher 2026: Fedora Workstation ⭐️ - Thurrott.com",
+    "date": "2026-04-05T02:24:16.165+06:00",
+    "og:title": "Switcher 2026: Fedora Workstation ⭐️",
+    "og:image": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/04/fedora-workspace-thumb.jpg",
+    "og:description": "Fedora Workstation 43 is a happy surprise, a stable, modern, and refined take on the Linux desktop.",
+    "og:url": "https://www.thurrott.com/linux/334538/switcher-2026-fedora-workstation",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.thurrott.com",
+    "url": "https://www.thurrott.com/linux/334556/switcher-2026-linux-gaming-first-steps",
+    "title": "Switcher 2026: Linux Gaming First Steps ⭐️ - Thurrott.com",
+    "date": "2026-04-05T02:24:15.965+06:00",
+    "og:title": "Switcher 2026: Linux Gaming First Steps ⭐️",
+    "og:image": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/04/linux-gaming.jpg",
+    "og:description": "Thanks to Valve's work on SteamOS and its underlying Proton compatibility engine, Linux can be viable as a Windows alternative for gaming.",
+    "og:url": "https://www.thurrott.com/linux/334556/switcher-2026-linux-gaming-first-steps",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.thurrott.com",
     "url": "https://www.thurrott.com/mobile/chrome-os/334409/switcher-2026-chrome-os-flex-is-probably-not-flexible-enough",
     "title": "Switcher 2026: Chrome OS Flex is Probably Not Flexible Enough ⭐ - Thurrott.com",
     "date": "2026-04-01T04:22:34.742+06:00",
@@ -25286,6 +26683,17 @@
     "og:image": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/04/cb-open.jpg",
     "og:description": "It provides Android app compatibility, Phone Hub for Android smartphone integration, Quick Share, and other features missing from Chrome OS Flex.",
     "og:url": "https://www.thurrott.com/mobile/chrome-os/chromebook/334463/switcher-2026-so-i-bought-a-chromebook",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.thurrott.com",
+    "url": "https://www.thurrott.com/paul/334516/ask-paul-april-3-2",
+    "title": "Ask Paul: April 3 ⭐️ - Thurrott.com",
+    "date": "2026-04-05T02:24:16.293+06:00",
+    "og:title": "Ask Paul: April 3 ⭐️",
+    "og:image": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/04/snow-near-cdmx.jpg",
+    "og:description": "Happy Friday! Let's kick off the weekend a bit early with some great reader questions.",
+    "og:url": "https://www.thurrott.com/paul/334516/ask-paul-april-3-2",
     "og:type": "article"
   },
   {
@@ -25334,6 +26742,17 @@
   },
   {
     "hostname": "www.thurrott.com",
+    "url": "https://www.thurrott.com/smart-tech/smart-home/334509/google-home-app-now-supports-google-workspace-accounts",
+    "title": "Google Home App Now Supports Google Workspace Accounts",
+    "date": "2026-04-05T02:24:16.308+06:00",
+    "og:title": "Google Home App Now Supports Google Workspace Accounts",
+    "og:image": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/04/Google-Home-app.jpg",
+    "og:description": "Google has updated its Home app to add support for paid Google Workspace accounts, which can now fully participate in smart home management.",
+    "og:url": "https://www.thurrott.com/smart-tech/smart-home/334509/google-home-app-now-supports-google-workspace-accounts",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.thurrott.com",
     "url": "https://www.thurrott.com/uncategorized/334422/new-windows-11-emergency-patch-addresses-march-optional-update-installation-error",
     "title": "New Windows 11 Emergency Patch Addresses March Optional Update Installation Error",
     "date": "2026-04-01T08:38:26.603+06:00",
@@ -25363,6 +26782,17 @@
     "og:image": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2025/11/Windows-11-logo.jpg",
     "og:description": "Microsoft is forming a new team dedicated to building high-quality, \"100% native\" Windows apps.",
     "og:url": "https://www.thurrott.com/windows/334377/microsoft-is-forming-new-team-tasked-with-building-100-native-windows-apps",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.thurrott.com",
+    "url": "https://www.thurrott.com/windows/334537/xbox-full-screen-experience-becomes-xbox-mode-in-latest-windows-11-insider-builds",
+    "title": "Xbox Full Screen Experience Becomes 'Xbox mode' in Latest Windows 11 Insider Builds",
+    "date": "2026-04-05T02:24:16.206+06:00",
+    "og:title": "Xbox Full Screen Experience Becomes 'Xbox mode' in Latest Windows 11 Insider Builds",
+    "og:image": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2025/11/Xbox-full-screen-experience.jpg",
+    "og:description": "The new Xbox Mode on Windows 11, previously known as the Xbox Full Screen Experience, is rolling out to Windows Insiders on the Dev and Beta Channels.",
+    "og:url": "https://www.thurrott.com/windows/334537/xbox-full-screen-experience-becomes-xbox-mode-in-latest-windows-11-insider-builds",
     "og:type": "article"
   },
   {
@@ -25521,6 +26951,17 @@
   },
   {
     "hostname": "www.windowscentral.com",
+    "url": "https://www.windowscentral.com/gaming/halo/a-new-halo-leak-claims-the-campaign-is-content-complete-but-the-customization-details-raise-bigger-questions",
+    "title": "A new Halo leak claims the campaign is content‑complete — but the customization details raise bigger questions | Windows Central",
+    "date": "2026-04-05T02:24:15.522+06:00",
+    "og:title": "Halo’s campaign is reportedly content‑complete, and the customization leak hints at deeper player identity",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/pyJsrhE4GjpA7DbpNzxvW9-2560-80.jpg",
+    "og:description": "Fresh details indicate Halo Campaign Evolved is progressing quickly, with customization options and a full showcase planned for Xbox’s June event this year.",
+    "og:url": "https://www.windowscentral.com/gaming/halo/a-new-halo-leak-claims-the-campaign-is-content-complete-but-the-customization-details-raise-bigger-questions",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.windowscentral.com",
     "url": "https://www.windowscentral.com/gaming/halo/halo-studios-says-campaign-evolved-wont-include-a-shop-but-cosmetic-skins-will-still-be-available-cue-the-arguments",
     "title": "Halo Studios says Campaign Evolved won’t include a shop, but cosmetic skins will still be available — cue the arguments | Windows Central",
     "date": "2026-04-01T04:22:34.988+06:00",
@@ -25539,6 +26980,17 @@
     "og:image": "https://cdn.mos.cms.futurecdn.net/fijkahLAHzMPsebj7K2aDi-2560-80.jpg",
     "og:description": "A new Halo report outlines prequel missions, Covenant changes, and ties to Reach, offering fresh insight into Halo Campaign Evolved and what players can expect.",
     "og:url": "https://www.windowscentral.com/gaming/halo/new-halo-campaign-evolved-leak-hints-at-prequel-missions-returning",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.windowscentral.com",
+    "url": "https://www.windowscentral.com/gaming/halo/threatened-retaliation-on-first-contact-as-i-dig-into-a-former-halo-art-directors-claims-im-left-questioning-what-else-microsoft-didnt-want-anyone-to-see",
+    "title": "“Threatened retaliation on first contact”: As I dig into a former Halo art director’s claims, I’m left questioning what else Microsoft didn’t want anyone to see. | Windows Central",
+    "date": "2026-04-05T02:24:15.543+06:00",
+    "og:title": "The more I investigate these Halo Studio allegations, the more I realize something bigger may be hiding behind them",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/DVAR8w4vGKxHWdowEyTL2V-1024-80.jpg",
+    "og:description": "A former Halo Studios art director has publicly alleged misconduct, harassment, and internal failures, raising concerns about the studio and Microsoft.",
+    "og:url": "https://www.windowscentral.com/gaming/halo/threatened-retaliation-on-first-contact-as-i-dig-into-a-former-halo-art-directors-claims-im-left-questioning-what-else-microsoft-didnt-want-anyone-to-see",
     "og:type": "article"
   },
   {
@@ -25598,6 +27050,17 @@
   },
   {
     "hostname": "www.windowscentral.com",
+    "url": "https://www.windowscentral.com/gaming/pc-gaming/upcoming-indie-game-boxroom-emulates-physical-game-collections",
+    "title": "Upcoming indie game Boxroom emulates physical game collections with your Steam library: \"Economic depression simulator\" | Windows Central",
+    "date": "2026-04-05T02:24:16.907+06:00",
+    "og:title": "\"Microsoft Bob for video games\": This indie game recreates physical collections using your entire Steam library for pure nostalgia",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/iMrYrLb2NVWxxTGKnyJSin-1920-80.jpg",
+    "og:description": "Boxroom transforms your digital collection into a visual, interactive space, letting you display and explore your games in a more personal way.",
+    "og:url": "https://www.windowscentral.com/gaming/pc-gaming/upcoming-indie-game-boxroom-emulates-physical-game-collections",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.windowscentral.com",
     "url": "https://www.windowscentral.com/gaming/pc-gaming/woot-corsair-vengeance-ddr5-ram-deal",
     "title": "32GB of Corsair Vengeance DDR5 RAM is 33% off today only — This superb memory deal for PC gamers might sell out before midnight | Windows Central",
     "date": "2026-04-02T02:39:48.402+06:00",
@@ -25616,6 +27079,39 @@
     "og:image": "https://cdn.mos.cms.futurecdn.net/64nfsgX3DMi624CFv9PxKB-1025-80.jpg",
     "og:description": "SPOILERS: World of Warcraft's latest expansion is already proving controversial for re-treading some of the game's most hated lore.",
     "og:url": "https://www.windowscentral.com/gaming/pc-gaming/world-of-warcraft-midnight-season-1-story-end-suggests-to-me-that-blizzard-really-needs-to-rethink-its-story-design-processes",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.windowscentral.com",
+    "url": "https://www.windowscentral.com/gaming/xbox/cd-projekt-ceo-weighs-in-on-the-impact-of-xbox-game-pass-and-asha-sharma",
+    "title": "CD Projekt CEO weighs in on the impact of Xbox Game Pass and Asha Sharma's new role: \"She’s a super smart person.\" | Windows Central",
+    "date": "2026-04-05T02:24:16.957+06:00",
+    "og:title": "\"Game Pass allows us to bridge that gap\": CD Projekt weighs in on the impact of Xbox Game Pass and what it signals for players",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/e9MRzN6k6a6YemYvpHVBeU-2048-80.jpg",
+    "og:description": "CD Projekt Red explains how Game Pass helps introduce The Witcher 3 to a new players, while also sharing early thoughts on Xbox leadership changes.",
+    "og:url": "https://www.windowscentral.com/gaming/xbox/cd-projekt-ceo-weighs-in-on-the-impact-of-xbox-game-pass-and-asha-sharma",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.windowscentral.com",
+    "url": "https://www.windowscentral.com/gaming/xbox/state-of-decay-3-details-revealed",
+    "title": "“We’re finally ready to show more”: The more I explore this State of Decay 3 info, the more I’m left wondering how far Undead Labs is willing to go. | Windows Central",
+    "date": "2026-04-05T02:24:15.505+06:00",
+    "og:title": "State of Decay 3 finally breaks cover with new details, and it’s sounding like the series’ biggest leap yet",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/ku6knVn8eeGq8dfwCBV5jP-1920-80.jpg",
+    "og:description": "State of Decay 3 looks set to be something of a sleeper hit. Microsoft's Undead Labs has finally broken cover with the announce of its Alpha Test phase.",
+    "og:url": "https://www.windowscentral.com/gaming/xbox/state-of-decay-3-details-revealed",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.windowscentral.com",
+    "url": "https://www.windowscentral.com/gaming/xbox/this-fan-made-xbox-website-brings-back-the-golden-era-of-xbox-360-voice-chat-messages",
+    "title": "This fan-made Xbox website brings back the golden era of Xbox 360 voice chat messages — its distortion makes your mic sound just as bad as it did 20 years ago | Windows Central",
+    "date": "2026-04-05T02:24:16.005+06:00",
+    "og:title": "This fan-made Xbox website brings back the golden era of Xbox 360 voice chat messages",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/RKvvAiiLTqdWZyjaDVARYc-2155-80.jpg",
+    "og:description": "If you've ever wanted to relive the days of Xbox 360 voice chat messaging, you now can thanks to an awesome new fan-made site that recreates it.",
+    "og:url": "https://www.windowscentral.com/gaming/xbox/this-fan-made-xbox-website-brings-back-the-golden-era-of-xbox-360-voice-chat-messages",
     "og:type": "article"
   },
   {
@@ -25664,6 +27160,28 @@
   },
   {
     "hostname": "www.windowscentral.com",
+    "url": "https://www.windowscentral.com/gaming/xbox/you-can-finally-play-this-long-awaited-xbox-game-soon-its-studio-is-hosting-alpha-playtests-next-month",
+    "title": "You can finally play this long-awaited Xbox game soon — its studio is hosting alpha playtests next month, and you can sign up for them now | Windows Central",
+    "date": "2026-04-05T02:24:16.258+06:00",
+    "og:title": "Xbox's State of Decay 3 will finally be playable soon thanks to inbound alpha playtests",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/ku6knVn8eeGq8dfwCBV5jP-1920-80.jpg",
+    "og:description": "Six years after it was announced, Xbox's State of Decay 3 will finally be playable soon as Undead Labs prepares to kick off alpha playtests this year.",
+    "og:url": "https://www.windowscentral.com/gaming/xbox/you-can-finally-play-this-long-awaited-xbox-game-soon-its-studio-is-hosting-alpha-playtests-next-month",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.windowscentral.com",
+    "url": "https://www.windowscentral.com/gaming/zenimax-bethesda/ex-bethesda-dev-on-fallout-and-skyrim-says-todd-howard-has-too-many-yes-men-around-him",
+    "title": "Ex-Bethesda dev on Fallout and Skyrim says Todd Howard has too many yes men around him — \"A lot of people were afraid to say no to Todd, and I think that hurt him\" | Windows Central",
+    "date": "2026-04-05T02:24:16.034+06:00",
+    "og:title": "Bethesda's Todd Howard has too many yes men, says Fallout and Skyrim dev",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/YYonAoJNer6p4LeqZwtzBc-1920-80.jpg",
+    "og:description": "An ex-Fallout and Skyrim developer says Bethesda's Todd Howard might not be getting the best feedback from his teams, as they're \"afraid to say no to Todd.\"",
+    "og:url": "https://www.windowscentral.com/gaming/zenimax-bethesda/ex-bethesda-dev-on-fallout-and-skyrim-says-todd-howard-has-too-many-yes-men-around-him",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.windowscentral.com",
     "url": "https://www.windowscentral.com/gaming/zenimax-bethesda/fallout-season-2-massive-hit-for-prime-video",
     "title": "Fallout’s second season just rewrote Prime Video’s expectations — here’s what Amazon revealed | Windows Central",
     "date": "2026-04-02T02:39:48.89+06:00",
@@ -25693,6 +27211,17 @@
     "og:image": "https://cdn.mos.cms.futurecdn.net/t9E8RCV5pU9kP86iNGYy4G-2560-80.jpg",
     "og:description": "The Alienware Aurora Gaming Desktop is a solid gaming desktop that is capable of running games at 1440p with smooth 100+ fps, and it's now on sale 23% off.",
     "og:url": "https://www.windowscentral.com/hardware/desktops/our-friends-at-techradar-say-that-this-is-the-only-gaming-pc-you-need-and-with-its-advanced-specs-and-23-percent-discount-its-easy-to-see-why",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.windowscentral.com",
+    "url": "https://www.windowscentral.com/hardware/handheld-gaming-pc/the-more-affordable-xbox-ally-earns-a-rare-price-drop",
+    "title": "A rare price drop hits the budget Xbox Ally, and it changes the value equation in a big way: A true Windows-based answer to the Steam Deck | Windows Central",
+    "date": "2026-04-05T02:24:20.529+06:00",
+    "og:title": "\"One of the most direct competitors\" to Valve's Steam Deck earns a rare price drop: Somehow, the Xbox Ally avoids price hikes",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/S3cgqomZsTrSzAniTogLcK-2560-80.jpg",
+    "og:description": "The Xbox Ally is one of Microsoft best efforts to challenge the Steam Deck with a great performance, build, and a many other features that are now are 17% off.",
+    "og:url": "https://www.windowscentral.com/hardware/handheld-gaming-pc/the-more-affordable-xbox-ally-earns-a-rare-price-drop",
     "og:type": "article"
   },
   {
@@ -25862,6 +27391,17 @@
   },
   {
     "hostname": "www.windowscentral.com",
+    "url": "https://www.windowscentral.com/microsoft/windows-11/8-features-coming-with-the-april-2026-security-update-for-windows-11",
+    "title": "Windows 11’s April update packs 8 (mostly) meaningful improvements you won’t want to skip. Here's what you'll be getting. | Windows Central",
+    "date": "2026-04-05T02:24:15.511+06:00",
+    "og:title": "8 new Windows 11 features arriving in April that make everyday use a little easier",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/BqcEhQXWkChpZ7Ho4zmKFP-2560-80.jpg",
+    "og:description": "Microsoft refines Windows 11 with subtle upgrades in security, accessibility, and usability.",
+    "og:url": "https://www.windowscentral.com/microsoft/windows-11/8-features-coming-with-the-april-2026-security-update-for-windows-11",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.windowscentral.com",
     "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-is-building-a-windows-11-team-focused-on-creating-100-percent-native-windows-apps-and-experiences",
     "title": "Microsoft is building a Windows 11 team focused on creating \"100% native\" Windows apps and experiences | Windows Central",
     "date": "2026-04-01T04:22:37.403+06:00",
@@ -26024,6 +27564,94 @@
     "og:description": "",
     "og:url": "",
     "og:type": ""
+  },
+  {
+    "hostname": "www.windowsreport.com",
+    "url": "https://www.windowsreport.com/best-buy-lists-lenovo-legion-go-2-at-twice-the-price-of-the-rog-xbox-ally-x/",
+    "title": "Best Buy Lists Lenovo Legion Go 2 at Twice the Price of the ROG Xbox Ally X",
+    "date": "2026-04-05T03:40:38.846+06:00",
+    "og:title": "Best Buy Lists Lenovo Legion Go 2 at Twice the Price of the ROG Xbox Ally X",
+    "og:image": "https://www.windowsreport.com/wp-content/uploads/2026/03/legion-go-2-drivers.jpg",
+    "og:description": "Lenovo Legion Go 2 is now listed at nearly $1999.99, making it almost twice as expensive as the ROG Xbox Ally X with similar hardware.",
+    "og:url": "https://www.windowsreport.com/best-buy-lists-lenovo-legion-go-2-at-twice-the-price-of-the-rog-xbox-ally-x/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.windowsreport.com",
+    "url": "https://www.windowsreport.com/kb5083825-beta-kb5083822-dev-bring-xbox-mode-for-windows-11-insiders/",
+    "title": "KB5083825 (Beta) & KB5083822 (Dev) Bring Xbox Mode for Windows 11 Insiders",
+    "date": "2026-04-05T03:40:34.458+06:00",
+    "og:title": "KB5083825 (Beta) & KB5083822 (Dev) Bring Xbox Mode for Windows 11 Insiders",
+    "og:image": "https://www.windowsreport.com/wp-content/uploads/2026/03/Xbox-Mode-Windows-11.png",
+    "og:description": "KB5083825 (Beta) & KB5083822 (Dev) Bring Xbox Mode for Windows 11 Insiders bring Xbox Mode, haptic feedback, startup improvements, and more.",
+    "og:url": "https://www.windowsreport.com/kb5083825-beta-kb5083822-dev-bring-xbox-mode-for-windows-11-insiders/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.windowsreport.com",
+    "url": "https://www.windowsreport.com/microsoft-investigates-exchange-online-mailbox-access-issues-after-incident-returns/",
+    "title": "Microsoft Investigates Exchange Online Mailbox Access Issues After Incident Returns",
+    "date": "2026-04-05T03:40:39.289+06:00",
+    "og:title": "Microsoft Investigates Exchange Online Mailbox Access Issues After Incident Returns",
+    "og:image": "https://www.windowsreport.com/wp-content/uploads/2026/04/exchange-online-issues.jpg",
+    "og:description": "Microsoft investigates renewed Exchange Online issues causing intermittent mailbox access failures across Outlook mobile and Mac apps.",
+    "og:url": "https://www.windowsreport.com/microsoft-investigates-exchange-online-mailbox-access-issues-after-incident-returns/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.windowsreport.com",
+    "url": "https://www.windowsreport.com/microsoft-sends-publisher-retirement-notifications-triggers-backlash/",
+    "title": "Microsoft Sends Publisher Retirement Notifications, Triggers Backlash",
+    "date": "2026-04-05T03:40:39.462+06:00",
+    "og:title": "Microsoft Sends Publisher Retirement Notifications, Triggers Backlash",
+    "og:image": "https://www.windowsreport.com/wp-content/uploads/2026/04/publisher-retirement-backlash.jpg",
+    "og:description": "Microsoft is retiring Publisher in October 2026, and users aren’t happy, citing concerns over file access and limited alternatives.",
+    "og:url": "https://www.windowsreport.com/microsoft-sends-publisher-retirement-notifications-triggers-backlash/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.windowsreport.com",
+    "url": "https://www.windowsreport.com/microsoft-starts-upgrading-all-unmanaged-home-and-pro-24h2-pcs-to-windows-11-25h2/",
+    "title": "Microsoft Starts Upgrading All Unmanaged Home and Pro Windows 11 24H2 PCs to 25H2",
+    "date": "2026-04-05T03:40:39.415+06:00",
+    "og:title": "Microsoft Starts Upgrading All Unmanaged Home and Pro Windows 11 24H2 PCs to 25H2",
+    "og:image": "https://www.windowsreport.com/wp-content/uploads/2026/01/windows-11-25h2-size.jpg",
+    "og:description": "Microsoft is now automatically upgrading all unmanaged Windows 11 24H2 Home and Pro devices to 25H2 ahead of end of support in 2026.",
+    "og:url": "https://www.windowsreport.com/microsoft-starts-upgrading-all-unmanaged-home-and-pro-24h2-pcs-to-windows-11-25h2/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.windowsreport.com",
+    "url": "https://www.windowsreport.com/microsoft-teams-plans-chat-organization-overhaul-for-may-2026/",
+    "title": "Microsoft Teams Plans Chat Organization Overhaul for May 2026",
+    "date": "2026-04-05T03:40:39.028+06:00",
+    "og:title": "Microsoft Teams Plans Chat Organization Overhaul for May 2026",
+    "og:image": "https://www.windowsreport.com/wp-content/uploads/2026/04/teams-new-features-may.jpg",
+    "og:description": "Microsoft Teams is getting chat categories, unread toggles, and macOS improvements to reduce clutter and improve usability in May 2026.",
+    "og:url": "https://www.windowsreport.com/microsoft-teams-plans-chat-organization-overhaul-for-may-2026/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.windowsreport.com",
+    "url": "https://www.windowsreport.com/windows-11-canary-build-29560-fixes-system-freezes-usb-devices-not-working-issue/",
+    "title": "Windows 11 Canary Build 29560 Fixes System Freezes & USB Devices Not Working Issue",
+    "date": "2026-04-05T03:40:27.297+06:00",
+    "og:title": "Windows 11 Canary Build 29560 Fixes System Freezes & USB Devices Not Working Issue",
+    "og:image": "https://www.windowsreport.com/wp-content/uploads/2025/04/Windows-11-25H2-update-feature-banner.png",
+    "og:description": "Windows 11 Canary Build 29560 fixes freezes, resolves USB device issues, and improves screensaver reliability for Insiders.",
+    "og:url": "https://www.windowsreport.com/windows-11-canary-build-29560-fixes-system-freezes-usb-devices-not-working-issue/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.windowsreport.com",
+    "url": "https://www.windowsreport.com/xbox-backward-compatibility-may-be-returning-as-store-listings-spark-speculation/",
+    "title": "Xbox Backward Compatibility May Be Returning as Store Listings Spark Speculation",
+    "date": "2026-04-05T03:40:37.495+06:00",
+    "og:title": "Xbox Backward Compatibility May Be Returning as Store Listings Spark Speculation",
+    "og:image": "https://www.windowsreport.com/wp-content/uploads/2026/04/backwards-compatibility-spotted.jpg",
+    "og:description": "Classic Xbox titles appear and vanish from the store, sparking speculation about backward compatibility plans.",
+    "og:url": "https://www.windowsreport.com/xbox-backward-compatibility-may-be-returning-as-store-listings-spark-speculation/",
+    "og:type": "article"
   },
   {
     "hostname": "www.xda-developers.com",
