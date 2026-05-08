@@ -28689,6 +28689,17 @@
   },
   {
     "hostname": "petapixel.com",
+    "url": "https://petapixel.com/2026/05/08/court-revives-copyright-lawsuit-over-annie-leibovitzs-star-wars-photos/",
+    "title": "Court Revives Copyright Lawsuit Over Annie Leibovitz's ‘Star Wars’ Photos | PetaPixel",
+    "date": "2026-05-08T10:16:48.89+06:00",
+    "og:title": "Court Revives Copyright Lawsuit Over Annie Leibovitz's ‘Star Wars’ Photos",
+    "og:image": "https://petapixel.com/assets/uploads/2026/05/Annie-Leibovitz-1.jpg",
+    "og:description": "Judges ruled that the lower court misunderstood copyright law.",
+    "og:url": "https://petapixel.com/2026/05/08/court-revives-copyright-lawsuit-over-annie-leibovitzs-star-wars-photos/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "petapixel.com",
     "url": "https://petapixel.com/2026/05/08/curiosity-rover-got-its-arm-stuck-in-a-martian-rock/",
     "title": "Curiosity Rover Got its Arm Stuck in a Martian Rock | PetaPixel",
     "date": "2026-05-08T10:02:40.966+06:00",
@@ -49728,6 +49739,17 @@
     "og:image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/02/gemini-on-ipad.jpeg?w=1600&h=900&fit=crop",
     "og:description": "With my Google Drive as context, Gemini finally became the assistant I’d been trying to build all along.",
     "og:url": "https://www.xda-developers.com/gemini-google-drive-assistant/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.xda-developers.com",
+    "url": "https://www.xda-developers.com/gemini-notebooks-feature-solved-workflow-problem-i-didnt-know-i-had/",
+    "title": "Gemini's Notebooks feature solved a workflow problem I didn't know I had",
+    "date": "2026-05-08T10:16:48.885+06:00",
+    "og:title": "Gemini's Notebooks feature solved a workflow problem I didn't know I had",
+    "og:image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/05/gemini-notebooks-on-desktop-pc-lego-and-lamp-in-view.jpeg?w=1600&h=900&fit=crop",
+    "og:description": "They finally know that they're working on the same thing",
+    "og:url": "https://www.xda-developers.com/gemini-notebooks-feature-solved-workflow-problem-i-didnt-know-i-had/",
     "og:type": "article"
   },
   {
