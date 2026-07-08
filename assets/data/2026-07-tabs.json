@@ -31438,6 +31438,39 @@
     "og:type": "article"
   },
   {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=21193",
+    "title": "Android Quick Share получит бэкап на ПК, но не для Samsung Galaxy",
+    "date": "2026-07-08T13:05:07.66+06:00",
+    "og:title": "Android Quick Share получит бэкап на ПК, но не для Samsung Galaxy",
+    "og:image": "https://cdn.comss.ru/img/2026-07-08/comss-google-android-windows-2026-07-08_1258.jpg?class=cover",
+    "og:description": "Google расширяет резервное копирование в Android и переносит его в «Быструю отправку» на ПК с Windows. Владельцы Galaxy останутся в стороне: у Samsung уже есть Smart Switch с копированием на ПК, Mac и USB, хотя автоматического режима в нём пока нет. Общего решения две компании ещё не нашли",
+    "og:url": "https://www.comss.ru/page.php?id=21193",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=21194",
+    "title": "Релиз HWiNFO 8.50: мониторинг частот NVIDIA, предварительная поддержка Intel Nova Lake, контроль вентилятора MSI Claw 8",
+    "date": "2026-07-08T13:05:07.491+06:00",
+    "og:title": "Релиз HWiNFO 8.50: мониторинг частот NVIDIA, предварительная поддержка Intel Nova Lake, контроль вентилятора MSI Claw 8",
+    "og:image": "https://cdn.comss.ru/img/012025/hwinfo.png?class=cover",
+    "og:description": "HWiNFO 8.50 расширяет возможности мониторинга оборудования: добавлен мониторинг измеренных частот Core, Memory и XBAR на видеокартах NVIDIA, улучшена предварительная поддержка процессоров Intel Nova Lake, добавлен контроль скорости вентилятора на MSI Claw 8, отображение версии ACPI, настройка цвета фона OSD и ряд исправлений",
+    "og:url": "https://www.comss.ru/page.php?id=21194",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=21195",
+    "title": "Chrome окончательно отключит Manifest V2: Brave автоматически заменит uBlock Origin и другие расширения",
+    "date": "2026-07-08T13:05:07.45+06:00",
+    "og:title": "Chrome окончательно отключит Manifest V2: Brave автоматически заменит uBlock Origin и другие расширения",
+    "og:image": "https://cdn.comss.ru/img/062024/privacybr.jpg?class=cover",
+    "og:description": "Google Chrome 151 полностью прекратит поддержку расширений Manifest V2, включая uBlock Origin. Brave уже подготовил решение – браузер автоматически заменяет совместимые MV2-расширения своими версиями, позволяя продолжить их использование без ручной установки",
+    "og:url": "https://www.comss.ru/page.php?id=21195",
+    "og:type": "article"
+  },
+  {
     "hostname": "www.creativebloq.com",
     "url": "https://www.creativebloq.com/3d/i-wasnt-sure-the-creality-sermoon-p1-scanner-would-handle-shiny-objects-then-this-happened",
     "title": "Creality Sermoon P1 review: a standalone 3D scanner for portable projects | Creative Bloq",
@@ -32788,6 +32821,28 @@
     "og:image": "https://www.deskmodder.de/blog/wp-content/uploads/2024/10/thunderbird-android.jpg",
     "og:description": "Kurz notiert: Heute Nacht hat das Team rund um Thunderbird und K-9 Mail ein Wartungsupdate für den Mail-Klienten auf Android freigegeben. In der neuen Version 20.1 von Thunderbird und K-9 Mail wurden zwei Korrekturen vorgenommen. Jedenfalls die, von denen berichtet…",
     "og:url": "https://www.deskmodder.de/blog/2026/07/07/thunderbird-und-k-9-mail-20-1-fuer-android-korrigiert-zwei-fehler/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/blog/2026/07/08/foxit-pdf-reader-und-editor-2026-1-2-36540-korrigiert-28-sicherheitsluecken/",
+    "title": "Foxit PDF Reader and Editor 2026.1.2.36540 corrects 28 security vulnerabilities - Deskmodder.de",
+    "date": "2026-07-08T13:05:07.537+06:00",
+    "og:title": "Foxit PDF Reader und Editor 2026.1.2.36540 korrigiert 28 Sicherheitslücken",
+    "og:image": "https://www.deskmodder.de/blog/wp-content/uploads/2026/03/logo-foxit-scaled.png",
+    "og:description": "Für den Foxit PDF Reader und auch Foxit PDF Editor gibt es ein neues Sicherheitsupdate. Mit diesem Update wurden 28 Sicherheitslücken korrigiert. Viele davon wurden mit „Important“ gekennzeichnet, aber keine davon war in der freien Wildbahn. Diese Sicherheitslücken betreffen im…",
+    "og:url": "https://www.deskmodder.de/blog/2026/07/08/foxit-pdf-reader-und-editor-2026-1-2-36540-korrigiert-28-sicherheitsluecken/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/blog/2026/07/08/ugreen-nas-ssd-cache-upgrade-unter-ugos-1-1-7-kann-zu-problemen-fuehren-firmware-fix-angekuendigt/",
+    "title": "UGREEN NAS: SSD cache upgrade on UGOS 1.17.0.0094 can cause problems – Firmware-Fix announced - Deskmodder.de",
+    "date": "2026-07-08T13:05:07.596+06:00",
+    "og:title": "UGREEN NAS: SSD-Cache-Upgrade unter UGOS 1.17.0.0094 kann zu Problemen führen – Firmware-Fix angekündigt",
+    "og:image": "https://www.deskmodder.de/blog/wp-content/uploads/2026/03/idx6011pro-kickstarter.jpg",
+    "og:description": "UGREEN bestätigt einen Softwarefehler beim SSD-Cache-Upgrade unter UGOS 1.17. Nutzer sollten das Cache-Upgrade derzeit nicht durchführen.",
+    "og:url": "https://www.deskmodder.de/blog/2026/07/08/ugreen-nas-ssd-cache-upgrade-unter-ugos-1-1-7-kann-zu-problemen-fuehren-firmware-fix-angekuendigt/",
     "og:type": "article"
   },
   {
