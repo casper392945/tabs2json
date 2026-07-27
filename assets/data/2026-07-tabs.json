@@ -104137,6 +104137,50 @@
     "og:type": "article"
   },
   {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=21405",
+    "title": "Яндекс Контест впервые станет платформой Международной олимпиады по искусственному интеллекту",
+    "date": "2026-07-27T13:59:08.252+06:00",
+    "og:title": "Яндекс Контест впервые станет платформой Международной олимпиады по искусственному интеллекту",
+    "og:image": "https://cdn.comss.ru/img/2026-07-27/comss---2026-07-27_1308.png?class=cover",
+    "og:description": "Со 2 по 8 августа Международная олимпиада школьников по искусственному интеллекту (IOAI) впервые пройдет на платформе Яндекс Контест. Участники из 103 стран будут выполнять задания по машинному обучению, а система обеспечит автоматическую проверку решений и формирование итогового рейтинга.",
+    "og:url": "https://www.comss.ru/page.php?id=21405",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=21406",
+    "title": "Ограничение ADB в Android грозит работе Shizuku и Termux",
+    "date": "2026-07-27T13:59:08.204+06:00",
+    "og:title": "Ограничение ADB в Android грозит работе Shizuku и Termux",
+    "og:image": "https://cdn.comss.ru/img/2026-07-27/comss-google-adb-android--2026-07-27_1425.jpg?class=cover",
+    "og:description": "Поводом стала уязвимость CVE-2026-0073 в adbd, закрытая патчем безопасности Android 2026-05-01 для веток 14, 15, 16 и 16-qpr2. Сопровождающий ADB предложил оставить только интерфейс wlan0, что отключит локальные подключения через 127.0.0.1.",
+    "og:url": "https://www.comss.ru/page.php?id=21406",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=21407",
+    "title": "На форумах Steam распространяют криптомайнер XMRig под видом исправлений",
+    "date": "2026-07-27T13:59:08.162+06:00",
+    "og:title": "На форумах Steam распространяют криптомайнер XMRig под видом исправлений",
+    "og:image": "https://cdn.comss.ru/img/072026/steam-header-new.jpg?class=cover",
+    "og:description": "Злоумышленники публикуют на форумах Steam поддельные инструкции по устранению проблем с играми и Windows, убеждая пользователей запускать вредоносные команды PowerShell. В результате на компьютер устанавливается криптомайнер XMRig, который закрепляется в системе и использует ресурсы устройства для скрытого майнинга",
+    "og:url": "https://www.comss.ru/page.php?id=21407",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=21408",
+    "title": "One UI 9 блокирует Galaxy навсегда после 13 ошибок ввода Pin-кода",
+    "date": "2026-07-27T13:59:08.124+06:00",
+    "og:title": "One UI 9 блокирует Galaxy навсегда после 13 ошибок ввода Pin-кода",
+    "og:image": "https://cdn.comss.ru/img/2026-07-22/comss-samsung-one-ui-9-android-17-2026-07-22_1749.png?class=cover",
+    "og:description": "В One UI 9 Samsung сократила число допустимых неверных попыток разблокировки: временные блокировки начинаются с пятой ошибки и растут до суток, а тринадцатая подряд блокирует смартфон окончательно. Вернуть доступ можно только сбросом до заводских настроек, при этом требуются прежние аккаунты Samsung и Google",
+    "og:url": "https://www.comss.ru/page.php?id=21408",
+    "og:type": "article"
+  },
+  {
     "hostname": "www.creativebloq.com",
     "url": "https://www.creativebloq.com/3d/3d-artists-are-so-blown-away-by-blenders-latest-update-its-hard-to-believe-its-free-software",
     "title": "3D artists are so blown away by Blender's latest update, it's hard to believe it's free software | Creative Bloq",
