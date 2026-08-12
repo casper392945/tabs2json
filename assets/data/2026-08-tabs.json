@@ -27149,6 +27149,17 @@
   },
   {
     "hostname": "kadets.net",
+    "url": "https://kadets.net/249864-tovarisch-sbornik-iz-120-receptov.html",
+    "title": "Товарищ сборник из 120 рецептов » Kadets.Net",
+    "date": "2026-08-12T13:39:09.143+06:00",
+    "og:title": "Товарищ сборник из 120 рецептов",
+    "og:image": "https://i128.fastpic.org/big/2026/0812/24/451a62f4598e2269ffd2b37eaaa94224.jpg",
+    "og:description": "Вы узнаете, с чего начать, как выбрать продукты и как правильно их подготовить. В сборнике подробные пошаговые рецепты, с которыми справится даже новичок. Отличный старт для того, чтобы наконец начать питаться здорово. Больше не надо есть одну гречку с брокколи. В сборнике 120 разнообразных",
+    "og:url": "https://kadets.net/249864-tovarisch-sbornik-iz-120-receptov.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "kadets.net",
     "url": "https://kadets.net/95786-adobe-photoshop-lightroom-classic-cc-2019-82110-portable-by-xpuct.html",
     "title": "Adobe Photoshop Lightroom Classic 2026 15.5.0.8 RePack by KpoJIuK Multi/Ru » Kadets.Net",
     "date": "2026-08-05T09:48:47.916+06:00",
@@ -44008,6 +44019,39 @@
     "og:image": "https://cdn.comss.ru/img/062024/privacybr.jpg?class=cover",
     "og:description": "Google рассказала о многоуровневой защите Chrome от вредоносных и навязчивых уведомлений. В первом квартале 2026 года механизмы браузера ежедневно предотвращали более 7 млрд нежелательных уведомлений на Android",
     "og:url": "https://www.comss.ru/page.php?id=21580",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=21581",
+    "title": "Разработчики GNOME показали девять задумок для GNOME Shell",
+    "date": "2026-08-12T13:37:35.368+06:00",
+    "og:title": "Разработчики GNOME показали девять задумок для GNOME Shell",
+    "og:image": "https://cdn.comss.ru/img/2026-08-12/comss--gnome-gnome-shell-2026-08-12_1257.jpg?class=cover",
+    "og:description": "Команда дизайнеров GNOME собрала в одной публикации девять задумок по интерфейсу GNOME Shell: результаты поиска поверх обзора, редактируемые быстрые настройки, перенос уведомлений в системное меню, мозаичная компоновка окон Mosaic, сетка на экране входа и прозрачная панель",
+    "og:url": "https://www.comss.ru/page.php?id=21581",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=21582",
+    "title": "Релиз дистрибутива Manjaro 26.1 Bian-May: Что нового",
+    "date": "2026-08-12T13:37:35.277+06:00",
+    "og:title": "Релиз дистрибутива Manjaro 26.1 Bian-May: Что нового",
+    "og:image": "https://cdn.comss.ru/img/2026-08-12/comss--manjaro-26-1-bian-may--2026-08-12_1416.jpg?class=cover",
+    "og:description": "Обновление стабильной ветки Manjaro от 12 августа завершило подготовку выпуска 26.1 «Bian-May» и сопровождается установочными образами 26.1.0 для Xfce, GNOME и KDE. Переустановка не нужна: система приходит к новому составу пакетов обычным полным обновлением, а среди изменений — смена ядра, свежие рабочие окружения и переход на Python 3.14",
+    "og:url": "https://www.comss.ru/page.php?id=21582",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=21583",
+    "title": "Windows 11 получила новые обновления: улучшения меню «Пуск», Проводника, поиска и Windows Hello",
+    "date": "2026-08-12T13:37:35.152+06:00",
+    "og:title": "Windows 11 получила новые обновления: улучшения меню «Пуск», Проводника, поиска и Windows Hello",
+    "og:image": "https://cdn.comss.ru/img/082026/w11-new.jpg?class=cover",
+    "og:description": "Microsoft выпустила обновление Windows 11 для версий 25H2 и 24H2 за август 2026 года. Оно улучшают Проводник, поиск, меню «Пуск», Windows Hello, голосовой ввод, жесты сенсорной панели и управление питанием, а также позволяет удалять ИИ-модель на Copilot+ ПК.",
+    "og:url": "https://www.comss.ru/page.php?id=21583",
     "og:type": "article"
   },
   {
