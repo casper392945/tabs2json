@@ -103752,6 +103752,61 @@
     "og:type": "article"
   },
   {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=21755",
+    "title": "Как в Windows 11, версия 26H2 перейти с канала Experimental на Release Preview – без переустановки системы",
+    "date": "2026-08-28T13:38:58.756+06:00",
+    "og:title": "Как в Windows 11, версия 26H2 перейти с канала Experimental на Release Preview – без переустановки системы",
+    "og:image": "https://cdn.comss.ru/img/072022/win-insider.png?class=cover",
+    "og:description": "Инсайдерская сборка 26340 канала Experimental не станет общедоступной: перевести компьютер на Windows 11, версия 26H2 сборки 26300 канала Release Preview можно без переустановки системы",
+    "og:url": "https://www.comss.ru/page.php?id=21755",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=21756",
+    "title": "Android 17 будет скрывать посещаемые сайты от провайдеров с помощью ECH",
+    "date": "2026-08-28T13:38:58.597+06:00",
+    "og:title": "Android 17 будет скрывать посещаемые сайты от провайдеров с помощью ECH",
+    "og:image": "https://cdn.comss.ru/img/082026/amanz-doU1XnyBvCk-unsplash.jpg?class=cover",
+    "og:description": "Encrypted Client Hello в Android 17 шифрует имя сайта в TLS-рукопожатии и закрывает его от интернет-провайдера и владельца точки доступа. Вместе с ECH Google включила проверку сертификатов по умолчанию, отдельное разрешение на доступ к локальной сети и передала операторам связи отключение 2G",
+    "og:url": "https://www.comss.ru/page.php?id=21756",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=21757",
+    "title": "Google Chrome может получить официальную поддержку Flatpak в Linux",
+    "date": "2026-08-28T13:38:58.479+06:00",
+    "og:title": "Google Chrome может получить официальную поддержку Flatpak в Linux",
+    "og:image": "https://cdn.comss.ru/img/032026/SCR-20260313-hoof.png?class=cover",
+    "og:description": "Сборочная система Chromium получила флаг enable_flatpak: он позволяет собрать Google Chrome в виде пакета Flatpak вместо DEB и RPM, но по умолчанию отключён. В Google подчёркивают, что это не обязательство официально поддерживать формат",
+    "og:url": "https://www.comss.ru/page.php?id=21757",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=21758",
+    "title": "Proton Experimental исправляет проблемы в Far Cry, Vermintide 2 и Dragon Age: Inquisition",
+    "date": "2026-08-28T13:38:58.39+06:00",
+    "og:title": "Proton Experimental исправляет проблемы в Far Cry, Vermintide 2 и Dragon Age: Inquisition",
+    "og:image": "https://cdn.comss.ru/img/042024/proton-ex.jpg?class=cover",
+    "og:description": "Сборка Proton Experimental от 28 августа основана на Proton 11.0-2: в Dragon Age: Inquisition снова определяются контроллеры, устранены пять регрессий Proton 11 в Far Cry, Warhammer: Vermintide 2, Mugsters, FLY'N и Surviving Deponia, добавлены две совместимые игры",
+    "og:url": "https://www.comss.ru/page.php?id=21758",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=21759",
+    "title": "В One UI 9 Beta 7 для Galaxy S26 добавили четыре ИИ-функции [Скриншоты]",
+    "date": "2026-08-28T13:38:58.341+06:00",
+    "og:title": "В One UI 9 Beta 7 для Galaxy S26 добавили четыре ИИ-функции [Скриншоты]",
+    "og:image": "https://cdn.comss.ru/img/2026-08-28/comss--one-ui-9-beta-7-galaxy-s26--2026-08-28_1423.jpg?class=cover",
+    "og:description": "Samsung выпустила One UI 9 Beta 7 для Galaxy S26, S26+ и S26 Ultra, оставив в списке изменений одну строку про новые ИИ-функции. В сборке нашли перекадрирование видео My FanCam, подсказки на экране звонка, пользовательские карточки в разделе Мой день и раздельные переключатели поисковых полей",
+    "og:url": "https://www.comss.ru/page.php?id=21759",
+    "og:type": "article"
+  },
+  {
     "hostname": "www.creativebloq.com",
     "url": "https://www.creativebloq.com/3d/3d-art/how-i-create-a-sprawling-cyberpunk-vista-using-cinema4d-and-photoshop",
     "title": "How I create sprawling cyberpunk vistas using Cinema4D and Photoshop | Creative Bloq",
@@ -108714,6 +108769,61 @@
   },
   {
     "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/blog/2026/08/28/creality-k3-zeigt-sich-auf-der-formnext-asia-preis-soll-unter-4-000-yuan-liegen/",
+    "title": "Creality K3 shows up at Formnext Asia – price should be below 4,000 yuan - Deskmodder.de",
+    "date": "2026-08-28T13:38:58.538+06:00",
+    "og:title": "Creality K3 zeigt sich auf der Formnext Asia – Preis soll unter 4.000 Yuan liegen",
+    "og:image": "https://www.deskmodder.de/blog/wp-content/uploads/2026/08/vlcsnap-2026-08-28-12h26m41s437-scaled.png",
+    "og:description": "Der Creality K3 zeigt sich auf der Formnext Asia mit KliTek-Düsenwechsel. Ein Mitarbeiter nennt zudem einen Preis von unter 4.000 Yuan.",
+    "og:url": "https://www.deskmodder.de/blog/2026/08/28/creality-k3-zeigt-sich-auf-der-formnext-asia-preis-soll-unter-4-000-yuan-liegen/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/blog/2026/08/28/fritzbox-5690-pro-und-5590-fiber-mit-einem-update-zum-wochenende/",
+    "title": "FRITZ! Box 5690 Pro and 5590 Fiber (Update FRITZ! Repeater after) with an update for the weekend - Deskmodder.de",
+    "date": "2026-08-28T13:38:58.644+06:00",
+    "og:title": "FRITZ!Box 5690 Pro und 5590 Fiber (Update FRITZ!Repeater hinterher) mit einem Update zum Wochenende",
+    "og:image": "https://www.deskmodder.de/blog/wp-content/uploads/2026/08/fritzbox-5690-pro-und-5590-fiber-labor-update.jpg",
+    "og:description": "Zwei Fritz!Boxen fehlten nach den zwei großen Updates noch für diese Woche. Einmal die FRITZ!Box 5690 Pro und die FRITZ!Box 5590 Fiber. Wie schon bei einigen anderen Boxen, wurden auch hier einige Korrekturen vorgenommen. Damit wurden alle FRITZ!Boxen innerhalb von…",
+    "og:url": "https://www.deskmodder.de/blog/2026/08/28/fritzbox-5690-pro-und-5590-fiber-mit-einem-update-zum-wochenende/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/blog/2026/08/28/fritzsmart-gateway-erhaelt-das-fritzos-8-50/",
+    "title": "FRITZ! Smart Gateway gets the FRITZ! OS 8.50 - Deskmodder.de",
+    "date": "2026-08-28T13:38:58.298+06:00",
+    "og:title": "FRITZ!Smart Gateway erhält das FRITZ!OS 8.50",
+    "og:image": "https://www.deskmodder.de/blog/wp-content/uploads/2026/08/fritzsmart-gateway-fritzos-850.jpg",
+    "og:description": "Einige Geräte sind noch im Labor mit dem FRITZ!OS 8.40 unterwegs. Heute hat das FRITZ!Smart Gateway das finale Update auf das FRITZ!OS 8.50 erhalten. Bislang war man hier mit dem FRITZ!OS 8.26 unterwegs. Mit dem Update kommen neue Funktionen und…",
+    "og:url": "https://www.deskmodder.de/blog/2026/08/28/fritzsmart-gateway-erhaelt-das-fritzos-8-50/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/blog/2026/08/28/gta-vi-auf-der-ps5-nur-mit-30-fps-rockstar-zeigt-fast-27-minuten-gameplay/",
+    "title": "GTA VI on the PS5 only with 30 FPS – Rockstar shows almost 27 minutes of gameplay - Deskmodder.de",
+    "date": "2026-08-28T13:38:58.443+06:00",
+    "og:title": "GTA VI auf der PS5 nur mit 30 FPS – Rockstar zeigt fast 27 Minuten Gameplay",
+    "og:image": "https://www.deskmodder.de/blog/wp-content/uploads/2025/11/gta6.jpg",
+    "og:description": "GTA VI läuft auf der PlayStation 5 derzeit mit 30 FPS. Rockstar zeigt erstmals fast 27 Minuten ausführliches Gameplay.",
+    "og:url": "https://www.deskmodder.de/blog/2026/08/28/gta-vi-auf-der-ps5-nur-mit-30-fps-rockstar-zeigt-fast-27-minuten-gameplay/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/blog/2026/08/28/ifa-2026-xtool-x1-neue-all-in-one-laserplattform-startet-ende-oktober-in-deutschland/",
+    "title": "IFA 2026: xTool X1 – New all-in-one laser platform to launch in Germany at the end of October - Deskmodder.de",
+    "date": "2026-08-28T13:38:58.255+06:00",
+    "og:title": "IFA 2026: xTool X1 – Neue All-in-One-Laserplattform startet Ende Oktober in Deutschland",
+    "og:image": "https://www.deskmodder.de/blog/wp-content/uploads/2026/08/xtool-x1.png",
+    "og:description": "xTool kündigt mit dem X1 eine neue All-in-One-Laserplattform an. Sie kombiniert CO₂- und Diodenlaser mit modularer Erweiterung.",
+    "og:url": "https://www.deskmodder.de/blog/2026/08/28/ifa-2026-xtool-x1-neue-all-in-one-laserplattform-startet-ende-oktober-in-deutschland/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.deskmodder.de",
     "url": "https://www.deskmodder.de/blog/2026/08/28/microsoft-edge-152-152-0-4191-52-als-neue-version-korrigiert-7-microsoft-spezifische-sicherheitsluecken-und-mehr/",
     "title": "Microsoft Edge 152 (152.0.4191.52) als neue Version korrigiert 7 Microsoft-spezifische Sicherheitslücken und mehr - Deskmodder.de",
     "date": "2026-08-28T09:22:55.32+06:00",
@@ -108721,6 +108831,17 @@
     "og:image": "https://www.deskmodder.de/blog/wp-content/uploads/2025/05/edge-logo.jpg",
     "og:description": "Der Microsoft Edge 152 ist gestern Abend freigegeben worden. Neben den bis zu 327 Sicherheitslücken aus Chromium, wurden auch noch sieben Microsoft-spezifische Sicherheitslücken geschlossen. Mit der neuen Version 152 wird auch die „Extended Stable“ dieses Update erhalten. Das „Unload“-Ereignis wird…",
     "og:url": "https://www.deskmodder.de/blog/2026/08/28/microsoft-edge-152-152-0-4191-52-als-neue-version-korrigiert-7-microsoft-spezifische-sicherheitsluecken-und-mehr/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/blog/2026/08/28/oppo-reno16-5g-im-test-kompakt-schnell-und-gute-kamera/",
+    "title": "OPPO Reno16 5G review: Compact, fast and good camera - Deskmodder.de",
+    "date": "2026-08-28T13:38:58.704+06:00",
+    "og:title": "OPPO Reno16 5G im Test: Kompakt, schnell und gute Kamera",
+    "og:image": "https://www.deskmodder.de/blog/wp-content/uploads/2026/08/img-6056-777x583.jpeg",
+    "og:description": "Das OPPO Reno16 5G im Test: 120 Hz AMOLED, 50 MP Kameras, 6.000 mAh Akku und 80 Watt Laden. Wir zeigen Stärken und Schwächen.",
+    "og:url": "https://www.deskmodder.de/blog/2026/08/28/oppo-reno16-5g-im-test-kompakt-schnell-und-gute-kamera/",
     "og:type": "article"
   },
   {
