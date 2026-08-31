@@ -7723,6 +7723,17 @@
   },
   {
     "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/certfleet",
+    "title": "CertFleet: SSL and HTTP uptime monitoring with live TLS | BetaList",
+    "date": "2026-08-31T04:53:00.758+06:00",
+    "og:title": "CertFleet: SSL and HTTP uptime monitoring with live TLS probes and",
+    "og:image": "https://resize.imagekit.co/fxGLU5IaZ_oEQE_VAipTtdzS8uebq09tZz8dO6Nse1Y/plain/s3://betalist-production/gkqqk8jkoyym133yhkul9y0foky0",
+    "og:description": "SSL and HTTP uptime monitoring with live TLS probes and alerts",
+    "og:url": "https://betalist.com/startups/certfleet",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
     "url": "https://betalist.com/startups/certyneo",
     "title": "Certyneo: Legally binding e-signatures with built-in AI | BetaList",
     "date": "2026-08-22T16:40:17.871+06:00",
@@ -10216,6 +10227,17 @@
     "og:image": "https://resize.imagekit.co/yTKwnSzdXtUoZ3aGjBAk9pxvmwIzhfKBrd_jNWXgghc/plain/s3://betalist-production/vo0u59nytzyyuso11oh7kglok8wo",
     "og:description": "Automate LinkedIn prospecting and fill your pipeline with leads",
     "og:url": "https://betalist.com/startups/pexio",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/phaserr",
+    "title": "Phaserr: Build training programs and share them with | BetaList",
+    "date": "2026-08-31T04:53:00.745+06:00",
+    "og:title": "Phaserr: Build training programs and share them with athletes",
+    "og:image": "https://resize.imagekit.co/3DRytBIyG1JRMx5IUadyZQCkf1Pzz1vpcJR1NXxxi_M/plain/s3://betalist-production/b83hpxxr6rtzt7i3tbo4i5gvxd79",
+    "og:description": "Build training programs and share them with athletes",
+    "og:url": "https://betalist.com/startups/phaserr",
     "og:type": "article,"
   },
   {
@@ -46179,6 +46201,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1076248/",
+    "title": "Данные без противоречий. Форма данных рисунком / Хабр",
+    "date": "2026-08-31T05:11:35.877+06:00",
+    "og:title": "Данные без противоречий. Форма данных рисунком",
+    "og:image": "https://habr.com/share/publication/1076248/6ff4ca9d0daf0fe21b40ed5602c2056d/",
+    "og:description": "Цикл “Данные без противоречий” - про TDCV2, открытый конструктор тестовых данных, который я пишу сам. Работает он так: вы описываете конфигом, какой файл вам нужен, а конструктор порождает его целиком...",
+    "og:url": "https://habr.com/ru/articles/1076248/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/articles/1076256/",
     "title": "Два года я был прав — и это ничего не меняло / Хабр",
     "date": "2026-08-31T02:21:17.28+06:00",
@@ -46494,6 +46527,17 @@
     "og:image": "https://habr.com/share/publication/1076488/d24544388296217bcd4be9cd73c57339/",
     "og:description": "Всем привет! Сегодня я хотел бы разобрать статью Implicit Maximum Likelihood Estimation : разобрать идею, математику, а также попробовать провести различные тесты и рассказать о применении этой...",
     "og:url": "https://habr.com/ru/articles/1076488/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1076494/",
+    "title": "Полгода мой резолвер не проверял DNSSEC: узнал об этом от чужого теста, а не от мониторинга / Хабр",
+    "date": "2026-08-31T05:11:35.887+06:00",
+    "og:title": "Полгода мой резолвер не проверял DNSSEC: узнал об этом от чужого теста, а не от мониторинга",
+    "og:image": "https://habr.com/share/publication/1076494/132bbac0ee7e9e4e9cef67bcbbba95de/",
+    "og:description": "Привет, Хабр! Я в одиночку делаю VantageDNS, рекурсивный DNS-резолвер с фильтрацией. На днях от нечего делать прогнал свой прод через публичный тест DNS-OARC. Рандомизация портов зелёная, рандомизация...",
+    "og:url": "https://habr.com/ru/articles/1076494/",
     "og:type": "article"
   },
   {
@@ -88276,6 +88320,17 @@
   },
   {
     "hostname": "searchenginewatch.com",
+    "url": "https://searchenginewatch.com/google-shopping-tab-lets-users-filter-products-by-trusted-review-sites/",
+    "title": "Google Shopping tab lets users filter products by trusted review sites",
+    "date": "2026-08-31T04:58:14.554+06:00",
+    "og:title": "Google Shopping tab lets users filter products by trusted review sites",
+    "og:image": "https://searchenginewatch.com/wp-content/uploads/2026/08/Google-Shopping-tab-lets-users-filter-products-by-trusted-review-sites.png",
+    "og:description": "Google Shopping tab is showing a new filter for users on mobile. Users can now filter products by website. I searched on google, upon opening the Shopping tab, saw a new filter labeled “Top Reviewed in 2026.” This lets users filter results by specific websites, including YouTube, Reddit, and several others. Here is the screenshot. […]",
+    "og:url": "https://searchenginewatch.com/google-shopping-tab-lets-users-filter-products-by-trusted-review-sites/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "searchenginewatch.com",
     "url": "https://searchenginewatch.com/google-sponsored-ads-now-show-star-ratings/",
     "title": "Google sponsored ads now show star ratings",
     "date": "2026-08-16T04:37:38.047+06:00",
@@ -88316,6 +88371,17 @@
     "og:image": "https://searchenginewatch.com/wp-content/uploads/2026/08/google-ads-1-1024x581.png",
     "og:description": "Google is testing AI-generated descriptions in Shopping and product ads. This follows a similar test spotted last...",
     "og:url": "https://searchenginewatch.com/google-tests-ai-generated-descriptions-in-shopping-ads/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "searchenginewatch.com",
+    "url": "https://searchenginewatch.com/google-tests-ai-generated-review-summaries-in-sponsored-results/",
+    "title": "Google tests AI-generated review summaries in sponsored results",
+    "date": "2026-08-31T04:58:14.545+06:00",
+    "og:title": "Google tests AI-generated review summaries in sponsored results",
+    "og:image": "https://searchenginewatch.com/wp-content/uploads/2026/08/Google-tests-AI-generated-review-summaries-in-sponsored-results.png",
+    "og:description": "Google is now testing AI-generated review summaries within sponsored results, shown under the heading “What Customers Love” followed by an AI-generated summary of reviews. Below that heading is a smaller label reading “AI-generated from the store ratings and reviews.” We’ve previously seen several other variations testing sponsored results and AI-generated summaries in Shopping ads, so […]",
+    "og:url": "https://searchenginewatch.com/google-tests-ai-generated-review-summaries-in-sponsored-results/",
     "og:type": "article"
   },
   {
@@ -90736,6 +90802,17 @@
     "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/dnevniki-trat-economim-fb.png",
     "og:description": "Опыт героев дневников трат",
     "og:url": "https://t-j.ru/dnevniki-trat-economim/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "t-j.ru",
+    "url": "https://t-j.ru/dnevniki-trat-vladeltsi-biznesa/",
+    "title": "Дневники трат предпринимателей: подборка историй о владельцах бизнесов",
+    "date": "2026-08-31T05:11:35.876+06:00",
+    "og:title": "Как живут предприниматели — герои дневников трат",
+    "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/dnevniki-trat-vladeltsi-biznesa-fb.png",
+    "og:description": "Истории из популярной рубрики",
+    "og:url": "https://t-j.ru/dnevniki-trat-vladeltsi-biznesa/",
     "og:type": "article"
   },
   {
@@ -93926,6 +94003,17 @@
     "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/b5MJidjVfB.night-cinema-2026.og_image.png",
     "og:description": "Ежегодная акция состоится 29 августа в Москве",
     "og:url": "https://t-j.ru/news/night-cinema-2026/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "t-j.ru",
+    "url": "https://t-j.ru/news/novosti-biznesa-september-26/",
+    "title": "Новости бизнеса в сентябре 2026 года",
+    "date": "2026-08-31T05:11:35.874+06:00",
+    "og:title": "Новые штрафы, изменения трудового кодекса и правил торговли: что ждет бизнес с сентября 2026 года",
+    "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/9tUdO71mzt.novosti-biznesa-september-26.og_image.png",
+    "og:description": "Ежемесячный бизнес-дайджест",
+    "og:url": "https://t-j.ru/news/novosti-biznesa-september-26/",
     "og:type": "article"
   },
   {
@@ -160392,6 +160480,17 @@
   },
   {
     "hostname": "www.xda-developers.com",
+    "url": "https://www.xda-developers.com/this-esp32-alarm-clock-comes-complete-with-a-built-in-night-light-and-wake-up-light/",
+    "title": "This ESP32 alarm clock comes complete with a built-in night light and wake-up light",
+    "date": "2026-08-31T04:53:00.766+06:00",
+    "og:title": "This ESP32 alarm clock comes complete with a built-in night light and wake-up light",
+    "og:image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/08/esp32-alarm-clock-underlight.jpg?w=1600&h=900&fit=crop",
+    "og:description": "It also looks the part.",
+    "og:url": "https://www.xda-developers.com/this-esp32-alarm-clock-comes-complete-with-a-built-in-night-light-and-wake-up-light/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.xda-developers.com",
     "url": "https://www.xda-developers.com/this-esp32-build-monitor-flights-space-launches/",
     "title": "This ESP32-S3 build lets you monitor overhead flights and space launches from your desk",
     "date": "2026-08-03T06:18:31.144+06:00",
@@ -161862,6 +161961,17 @@
     "og:image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/08/minecraft-snes-featured.jpg?w=1600&h=900&fit=crop",
     "og:description": "Now it's even blockier.",
     "og:url": "https://www.xda-developers.com/you-too-can-play-minecraft-on-the-snes-with-this-surprisingly-playable-version-of-the-hit-game/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.xda-developers.com",
+    "url": "https://www.xda-developers.com/you-too-can-squeeze-all-of-wikipedia-onto-a-cyd-with-this-project/",
+    "title": "You, too, can squeeze an offline Wikipedia onto an ESP32 CYD with this project",
+    "date": "2026-08-31T04:53:00.764+06:00",
+    "og:title": "You, too, can squeeze an offline Wikipedia onto an ESP32 CYD with this project",
+    "og:image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/11/esp32-cyd-marauder-firmware-wi-fi-scans.jpg?w=1600&h=900&fit=crop",
+    "og:description": "It actually doesn't take up much data.",
+    "og:url": "https://www.xda-developers.com/you-too-can-squeeze-all-of-wikipedia-onto-a-cyd-with-this-project/",
     "og:type": "article"
   },
   {
