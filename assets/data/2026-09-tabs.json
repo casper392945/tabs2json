@@ -2695,6 +2695,28 @@
     "og:type": "article"
   },
   {
+    "hostname": "diakov.net",
+    "url": "https://diakov.net/16197-dxo-photolab-10.html",
+    "title": "DxO PhotoLab 10.0.1.153",
+    "date": "2026-09-05T03:41:32.03+06:00",
+    "og:title": "DxO PhotoLab 10.0.1.153",
+    "og:image": "https://diakov.net/uploads/posts/2026-09/1788538770_dxo-photolab-10.jpg",
+    "og:description": "",
+    "og:url": "https://diakov.net/16197-dxo-photolab-10.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "diakov.net",
+    "url": "https://diakov.net/16199-cyberlink-photodirector-ultra-2027-v18008280.html",
+    "title": "CyberLink PhotoDirector Ultra 2027 v18.0.0828.0",
+    "date": "2026-09-05T03:41:31.99+06:00",
+    "og:title": "CyberLink PhotoDirector Ultra 2027 v18.0.0828.0",
+    "og:image": "https://diakov.net/uploads/posts/2026-09/thumbs/1788559214_cyberlink-photodirector-ultra-2027.png",
+    "og:description": "",
+    "og:url": "https://diakov.net/16199-cyberlink-photodirector-ultra-2027-v18008280.html",
+    "og:type": "article"
+  },
+  {
     "hostname": "distrowatch.com",
     "url": "https://distrowatch.com/?newsid=12943",
     "title": "Distribution Release: Linux From Scratch 13.1 (DistroWatch.com News)",
@@ -10604,6 +10626,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "kadets.net",
+    "url": "https://kadets.net/250512-wps-office-2026-121028485-multi-ru.html",
+    "title": "WPS Office 2026 12.1.0.28485 Multi/Ru » Kadets.Net",
+    "date": "2026-09-05T04:45:19.549+06:00",
+    "og:title": "WPS Office 2026 12.1.0.28485 Multi/Ru",
+    "og:image": "https://i128.fastpic.org/big/2026/0904/34/49353a3fc351e3c2bb8b43ac5df75734.png",
+    "og:description": "WPS Office — это офисный пакет с набором самых необходимых инструментов. Программа является полноценной альтернативой стандартному офисному пакету Microsoft Office. В состав пакета входит 3 программы: текстовый процессор Kingsoft Writer для работы с текстовыми документами, табличный процессор",
+    "og:url": "https://kadets.net/250512-wps-office-2026-121028485-multi-ru.html",
+    "og:type": "article"
+  },
+  {
     "hostname": "kinsta.com",
     "url": "https://kinsta.com/blog/ai-brand-discovery-trust/",
     "title": "Where consumers trust brands: how AI decides to cite you",
@@ -13784,6 +13817,17 @@
   },
   {
     "hostname": "samlab.ws",
+    "url": "https://samlab.ws/soft/ableton/",
+    "title": "SamLab.ws - Ableton Live 12.4.5",
+    "date": "2026-09-05T03:44:08.233+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "samlab.ws",
     "url": "https://samlab.ws/soft/aimp/",
     "title": "SamLab.ws - AIMP 6.00.3082 Beta 5 + 5.40.2726 Final - SamLab.ws Рекомендует!",
     "date": "2026-09-02T09:59:45.525+06:00",
@@ -13798,6 +13842,17 @@
     "url": "https://samlab.ws/soft/amd/",
     "title": "SamLab.ws - AMD Radeon Software Adrenalin Edition 26.9.1",
     "date": "2026-09-04T07:20:01.858+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "samlab.ws",
+    "url": "https://samlab.ws/soft/argenteutils/",
+    "title": "SamLab.ws - Argente Utilities 3.0.9.5",
+    "date": "2026-09-05T03:44:08.065+06:00",
     "og:title": "",
     "og:image": "",
     "og:description": "",
@@ -13875,6 +13930,17 @@
     "url": "https://samlab.ws/soft/drwebcd/",
     "title": "SamLab.ws - Dr.Web LiveDisk 9.0.1 (01.09.2026)",
     "date": "2026-09-01T06:30:10.177+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "samlab.ws",
+    "url": "https://samlab.ws/soft/easycd/",
+    "title": "SamLab.ws - EZ CD Audio Converter 13.2.0.1",
+    "date": "2026-09-05T03:44:08.008+06:00",
     "og:title": "",
     "og:image": "",
     "og:description": "",
@@ -14038,8 +14104,19 @@
   {
     "hostname": "samlab.ws",
     "url": "https://samlab.ws/soft/telegram/",
-    "title": "SamLab.ws - Telegram 7.1.4",
-    "date": "2026-09-02T07:07:36.785+06:00",
+    "title": "SamLab.ws - Telegram 7.2.5",
+    "date": "2026-09-05T03:44:08.035+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "samlab.ws",
+    "url": "https://samlab.ws/soft/thunderbird/",
+    "title": "SamLab.ws - Mozilla Thunderbird 155.0",
+    "date": "2026-09-05T03:44:08.13+06:00",
     "og:title": "",
     "og:image": "",
     "og:description": "",
@@ -14059,9 +14136,31 @@
   },
   {
     "hostname": "samlab.ws",
+    "url": "https://samlab.ws/soft/vmware/",
+    "title": "SamLab.ws - VMware Workstation 26H1u1",
+    "date": "2026-09-05T03:44:08.281+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "samlab.ws",
     "url": "https://samlab.ws/soft/winmerge/",
     "title": "SamLab.ws - WinMerge 2.16.58.2",
     "date": "2026-09-02T07:07:36.882+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "samlab.ws",
+    "url": "https://samlab.ws/soft/wysiwyg/",
+    "title": "SamLab.ws - WYSIWYG Web Builder 21.2.1",
+    "date": "2026-09-05T03:44:08.169+06:00",
     "og:title": "",
     "og:image": "",
     "og:description": "",
@@ -14381,6 +14480,28 @@
     "url": "https://strelec.ucoz.ru/forum/100-268102-1",
     "title": "Electronics Tools & Calculator 2.11 Mod (Pro) [Android] - Форум",
     "date": "2026-09-04T02:22:43.936+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "strelec.ucoz.ru",
+    "url": "https://strelec.ucoz.ru/forum/100-268105-1",
+    "title": "QR Code & Barcode Scanner Plus 1.9.6 Mod (Premium) [Android] - Форум",
+    "date": "2026-09-05T04:45:19.449+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "strelec.ucoz.ru",
+    "url": "https://strelec.ucoz.ru/forum/101-268104-1",
+    "title": "WPS Office 2026 12.1.0.28485 [Multi/Ru] - Форум",
+    "date": "2026-09-05T04:45:19.413+06:00",
     "og:title": "",
     "og:image": "",
     "og:description": "",
@@ -17139,6 +17260,17 @@
   },
   {
     "hostname": "wincmd.ru",
+    "url": "https://wincmd.ru/plugring/13954.html",
+    "title": "VisualSpace 2.0b - Все о Total Commander",
+    "date": "2026-09-05T03:44:53.123+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "wincmd.ru",
     "url": "https://wincmd.ru/plugring/ClipHistWFX.html",
     "title": "ClipHistWFX 0.1.2 - Все о Total Commander",
     "date": "2026-09-04T09:03:48.246+06:00",
@@ -17151,8 +17283,8 @@
   {
     "hostname": "wincmd.ru",
     "url": "https://wincmd.ru/plugring/GeoPhotoLister.html",
-    "title": "GeoPhotoLister 1.2.8 - Все о Total Commander",
-    "date": "2026-09-03T01:55:13.768+06:00",
+    "title": "GeoPhotoLister 1.3.1 - Все о Total Commander",
+    "date": "2026-09-05T03:44:53.092+06:00",
     "og:title": "",
     "og:image": "",
     "og:description": "",
@@ -17162,8 +17294,19 @@
   {
     "hostname": "wincmd.ru",
     "url": "https://wincmd.ru/plugring/tc-csvtab.html",
-    "title": "csvtab 2.0.12 - Все о Total Commander",
-    "date": "2026-09-04T02:18:26.561+06:00",
+    "title": "csvtab 2.0.13 - Все о Total Commander",
+    "date": "2026-09-05T03:44:53.153+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "wincmd.ru",
+    "url": "https://wincmd.ru/plugring/tc-jsontab.html",
+    "title": "jsontab2 2.1.0 - Все о Total Commander",
+    "date": "2026-09-05T03:44:53.041+06:00",
     "og:title": "",
     "og:image": "",
     "og:description": "",
@@ -17173,8 +17316,8 @@
   {
     "hostname": "wincmd.ru",
     "url": "https://wincmd.ru/plugring/tc-logviewer.html",
-    "title": "WLX LogViewer 1.2.8 - Все о Total Commander",
-    "date": "2026-09-04T02:18:26.551+06:00",
+    "title": "WLX LogViewer 1.2.9 - Все о Total Commander",
+    "date": "2026-09-05T03:44:53.066+06:00",
     "og:title": "",
     "og:image": "",
     "og:description": "",
@@ -18766,6 +18909,61 @@
     "og:type": "article"
   },
   {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=21849",
+    "title": "Вторник Патчей, 8 сентября 2026 года: обновления безопасности для Windows 11, ESU-обновления для Windows 10",
+    "date": "2026-09-05T03:37:16.937+06:00",
+    "og:title": "Вторник Патчей, 8 сентября 2026 года: обновления безопасности для Windows 11, ESU-обновления для Windows 10",
+    "og:image": "https://cdn.comss.ru/img/122023/tuesday-patch.jpg?class=cover",
+    "og:description": "8 сентября 2026 года в 20:00 по московскому времени в рамках «Вторника Патчей» (Patch Tuesday) Microsoft выпустит обязательные обновления безопасности для поддерживаемых версий Windows, включая Windows 11 и Windows Server 2025 (LTSC). Windows 10 получит очередные обновления по программе ESU",
+    "og:url": "https://www.comss.ru/page.php?id=21849",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=21850",
+    "title": "Intel может продлить поддержку сокета LGA1954 до 2028 года и добавить аналог AMD 3D V-Cache",
+    "date": "2026-09-05T03:37:16.835+06:00",
+    "og:title": "Intel может продлить поддержку сокета LGA1954 до 2028 года и добавить аналог AMD 3D V-Cache",
+    "og:image": "https://cdn.comss.ru/img/2026-09-04/comss-intel-lga1954-2028--2026-09-04_1418.png?class=cover",
+    "og:description": "Сокет Intel LGA1954 может поддерживать сразу несколько поколений процессоров – от Nova Lake-S до Hammer Lake. Старшие модели также могут получить до 288 МБ кэша bLLC, рассчитанного в том числе на конкуренцию с AMD 3D V-Cache",
+    "og:url": "https://www.comss.ru/page.php?id=21850",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=21851",
+    "title": "GPT-6 Astra вышла без доступа для платных подписчиков ChatGPT",
+    "date": "2026-09-05T03:37:16.886+06:00",
+    "og:title": "GPT-6 Astra вышла без доступа для платных подписчиков ChatGPT",
+    "og:image": "https://cdn.comss.ru/img/2026-09-04/comss-gpt-6-astra-chatgpt-2026-09-04_1422.jpg?class=cover",
+    "og:description": "Модель GPT-6 Astra открыли 3 сентября 2026 года только организациям программы Daybreak, а подписчики Plus, Pro, Business и Enterprise остались в очереди. В OpenAI извинились за беспорядочный выпуск и пообещали за каждый день ожидания начислять один накопленный сброс лимита",
+    "og:url": "https://www.comss.ru/page.php?id=21851",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=21852",
+    "title": "Tensor G6 против Snapdragon 8 Elite: результаты Geekbench, AnTuTu v11 и 3DMark",
+    "date": "2026-09-05T03:37:16.714+06:00",
+    "og:title": "Tensor G6 против Snapdragon 8 Elite: результаты Geekbench, AnTuTu v11 и 3DMark",
+    "og:image": "https://cdn.comss.ru/img/2026-09-04/comss-tensor-g6-snapdragon-8-elite-geekbench-antutu-v11-3dmark-2026-09-04_1509.jpg?class=cover",
+    "og:description": "Издание Gizmochina сравнило Pixel 11 Pro XL на Tensor G6 и Galaxy S25 Plus на Snapdragon 8 Elite в Geekbench 6, AnTuTu v11 и 3DMark. Чип Qualcomm двухлетней давности выиграл во всех прогонах: 3008 против 2671 балла в одном потоке и 9730 против 6802 во всех. Техпроцесс у обоих 3 нм",
+    "og:url": "https://www.comss.ru/page.php?id=21852",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=21853",
+    "title": "Microsoft представила Project Zenith: Windows 11 для разработчиков, оптимизированная под локальный запуск ИИ-моделей",
+    "date": "2026-09-05T03:37:16.568+06:00",
+    "og:title": "Microsoft представила Project Zenith: Windows 11 для разработчиков, оптимизированная под локальный запуск ИИ-моделей",
+    "og:image": "https://cdn.comss.ru/img/092026/projectzenith.jpg?class=cover",
+    "og:description": "Project Zenith поставляется с готовым набором инструментов для разработки и оптимизированными настройками Windows 11. Система рассчитана на локальный запуск ИИ-моделей с 30 млрд параметров и более",
+    "og:url": "https://www.comss.ru/page.php?id=21853",
+    "og:type": "article"
+  },
+  {
     "hostname": "www.creativebloq.com",
     "url": "https://www.creativebloq.com/3d/3d-art/this-3d-artist-uses-unreal-engine-5-and-blender-to-achieve-incredible-detail-in-heroic-character-designs",
     "title": "This 3D artist uses Unreal Engine 5 and Blender to achieve incredible detail in heroic character designs | Creative Bloq",
@@ -19724,6 +19922,39 @@
   },
   {
     "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/blog/2026/09/04/7-zip-26-03-korrigiert-einige-sicherheitsluecken-und-bietet-verbesserte-unterstuetzung/",
+    "title": "7-Zip 26.03 corrects some vulnerabilities and offers improved support - Deskmodder.de",
+    "date": "2026-09-05T03:37:16.987+06:00",
+    "og:title": "7-Zip 26.03 korrigiert einige Sicherheitslücken und bietet verbesserte Unterstützung",
+    "og:image": "https://www.deskmodder.de/blog/wp-content/uploads/2018/03/7-zip-logo.jpg",
+    "og:description": "Für 7-Zip steht ein neues Update bereit. Es wurde die Version 26.03 veröffentlicht. Vorrangig handelt es sich hier um ein Sicherheitsupdate. So wurde eine unter CVE-2026-58052 beschriebene Lücke korrigiert. Da werden dann so einige Programme und Tools ein weiteres Update…",
+    "og:url": "https://www.deskmodder.de/blog/2026/09/04/7-zip-26-03-korrigiert-einige-sicherheitsluecken-und-bietet-verbesserte-unterstuetzung/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/blog/2026/09/04/firefox-155-0-1-korrigiert-einige-fehler/",
+    "title": "Firefox 155.0.1 corrects some errors - Deskmodder.de",
+    "date": "2026-09-05T03:37:16.663+06:00",
+    "og:title": "Firefox 155.0.1 korrigiert einige Fehler",
+    "og:image": "https://www.deskmodder.de/blog/wp-content/uploads/2020/09/firefox-logo-2019-500x360-1.png",
+    "og:description": "Etwas ungewöhnlich, aber Mozilla hat schon heute das Wartungsupdate für den Firefox 155 als 155.0.1 bereitgestellt. Hängt sicherlich damit zusammen, dass in den USA am Montag der Labor Day ist. Es werden mit diesem Update ein paar Fehler korrigiert. Der…",
+    "og:url": "https://www.deskmodder.de/blog/2026/09/04/firefox-155-0-1-korrigiert-einige-fehler/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/blog/2026/09/04/fritzbox-5590-mit-einem-update-und-neu-dabei-fritzbox-6850-5g-und-v2-fritzbox-6850-4g-und-lte/",
+    "title": "FRITZ! Box 5590 with an update and new: FRITZ! Box 6850 5G (and V2), FRITZ! Box 6850 4G and LTE - Deskmodder.de",
+    "date": "2026-09-05T03:37:16.616+06:00",
+    "og:title": "FRITZ!Box 5590 mit einem Update und neu dabei: FRITZ!Box 6850 5G (und V2), FRITZ!Box 6850 4G und LTE",
+    "og:image": "https://www.deskmodder.de/blog/wp-content/uploads/2025/07/fritzbox-allgemein-logo.png",
+    "og:description": "In den Labor-Updates gibt es ordentlich Zuwachs. FRITZ! hat die mobilen Boxen 6850 5G (und V2), sowie FRITZ!Box 6850 4G und LTE mit hinzugefügt. Ein Update gab es dann zum Wochenende auch noch. Denn die FRITZ!Box 5590 hat ein weiteres…",
+    "og:url": "https://www.deskmodder.de/blog/2026/09/04/fritzbox-5590-mit-einem-update-und-neu-dabei-fritzbox-6850-5g-und-v2-fritzbox-6850-4g-und-lte/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.deskmodder.de",
     "url": "https://www.deskmodder.de/blog/2026/09/04/geforce-616-64-whql-grafiktreiber-mit-dlss-5-fuer-nba-2k27/",
     "title": "GeForce 616.64 (WHQL) Graphics Driver with DLSS 5 for NBA 2K27 - Deskmodder.de",
     "date": "2026-09-04T07:17:19.195+06:00",
@@ -19786,6 +20017,17 @@
     "og:image": "https://www.deskmodder.de/blog/wp-content/uploads/2025/09/ifa-2025-scaled.jpg",
     "og:description": "SwitchBot zeigt zur IFA 2026 den KI-Assistenten MindClip und das Lock Ultra Max Vision Pro Combo mit Gesichts- und Handvenenerkennung.",
     "og:url": "https://www.deskmodder.de/blog/?p=216501",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/blog/2026/09/04/ugreen-stellt-homeagent-und-neue-aiot-strategie-zur-ifa-2026-vor/",
+    "title": "UGREEN introduces HomeAgent and new AIoT strategy for IFA 2026 - Deskmodder.de",
+    "date": "2026-09-05T03:37:16.525+06:00",
+    "og:title": "UGREEN stellt HomeAgent und neue AIoT-Strategie zur IFA 2026 vor",
+    "og:image": "https://www.deskmodder.de/blog/wp-content/uploads/2026/09/img-2101-scaled.jpg",
+    "og:description": "UGREEN zeigt zur IFA 2026 HomeAgent, lokale KI, neue AIoT-Geräte, UGOS Pro sowie neue Nexode-Produkte und eine Honkai-Sonderedition.",
+    "og:url": "https://www.deskmodder.de/blog/2026/09/04/ugreen-stellt-homeagent-und-neue-aiot-strategie-zur-ifa-2026-vor/",
     "og:type": "article"
   },
   {
@@ -24256,6 +24498,17 @@
   },
   {
     "hostname": "www.slo.ru",
+    "url": "https://www.slo.ru/files/archivers/7zip",
+    "title": "7-Zip - Скачать архиватор",
+    "date": "2026-09-05T03:44:08.605+06:00",
+    "og:title": "7-Zip - Скачать архиватор",
+    "og:image": "https://www.slo.ru/img/64/7zip.gif",
+    "og:description": "7-Zip — популярный архиватор. В первую очередь, этот архиватор привлекателен своим собственным мощным форматом 7z.",
+    "og:url": "https://www.slo.ru/files/archivers/7zip",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.slo.ru",
     "url": "https://www.slo.ru/files/audio_edit/audacity",
     "title": "Audacity - Скачать для Windows и Linux",
     "date": "2026-09-04T02:17:10.618+06:00",
@@ -24274,6 +24527,17 @@
     "og:image": "https://www.slo.ru/img/64/aimp.gif",
     "og:description": "AIMP — популярнейший аудиоплеер. Универсальный — рассчитан на воспроизведение плейлистов и ведение коллекции.",
     "og:url": "https://www.slo.ru/files/audio_players/aimp",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.slo.ru",
+    "url": "https://www.slo.ru/files/browsers/firefox",
+    "title": "Firefox - Скачать браузер",
+    "date": "2026-09-05T03:44:08.443+06:00",
+    "og:title": "Firefox - Скачать браузер",
+    "og:image": "https://www.slo.ru/img/64/firefox.gif",
+    "og:description": "Firefox — это браузер от сообщества Mozilla. Открытый проект, успешно разрабатываемый огромным сообществом. Скачать браузер.",
+    "og:url": "https://www.slo.ru/files/browsers/firefox",
     "og:type": "article"
   },
   {
@@ -24324,7 +24588,7 @@
     "hostname": "www.slo.ru",
     "url": "https://www.slo.ru/files/browsers/vivaldi",
     "title": "Vivaldi - Скачать последнюю версию Vivaldi",
-    "date": "2026-09-04T02:17:10.591+06:00",
+    "date": "2026-09-05T03:44:08.645+06:00",
     "og:title": "Vivaldi - Скачать последнюю версию Vivaldi",
     "og:image": "https://www.slo.ru/img/64/vivaldi.gif",
     "og:description": "Vivaldi — новый проект от создателей старой версии Opera. Проект будет интересен любителям дополнительных удобств.",
@@ -24355,6 +24619,17 @@
   },
   {
     "hostname": "www.slo.ru",
+    "url": "https://www.slo.ru/files/firewalls/windows_firewall_control",
+    "title": "Windows Firewall Control - Скачать для Windows",
+    "date": "2026-09-05T03:44:08.364+06:00",
+    "og:title": "Windows Firewall Control - Скачать для Windows",
+    "og:image": "https://www.slo.ru/img/64/windows_firewall_control.gif",
+    "og:description": "Windows Firewall Control — бесплатная программа для управления фаерволом операционной системы Windows.",
+    "og:url": "https://www.slo.ru/files/firewalls/windows_firewall_control",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.slo.ru",
     "url": "https://www.slo.ru/files/hardware/burnintest",
     "title": "BurnInTest - Скачать последнюю версию BurnInTest",
     "date": "2026-09-04T02:17:10.549+06:00",
@@ -24379,7 +24654,7 @@
     "hostname": "www.slo.ru",
     "url": "https://www.slo.ru/files/im/telegram",
     "title": "Telegram - Скачать бесплатно мессенджер",
-    "date": "2026-09-03T01:54:57.845+06:00",
+    "date": "2026-09-05T03:44:08.56+06:00",
     "og:title": "Telegram - Скачать бесплатно мессенджер",
     "og:image": "https://www.slo.ru/img/64/telegram.gif",
     "og:description": "Telegram — клиент для стремительно набирающего популярность сервиса обмена сообщениями. Чат, звонки, информационные каналы и прочее.",
