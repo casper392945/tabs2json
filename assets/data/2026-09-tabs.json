@@ -8174,6 +8174,17 @@
   },
   {
     "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/findtourguide",
+    "title": "FindTourGuide: Find the right tour guide, plan better trips | BetaList",
+    "date": "2026-09-28T14:15:07.464+06:00",
+    "og:title": "FindTourGuide: Find the right tour guide, plan better trips",
+    "og:image": "https://resize.imagekit.co/L9moF5why3m4gWE4P2td18ul2h98_24kv5XlMM0B-Ak/plain/s3://betalist-production/e7d13e4nqubb4485q9ivpgc0sk5m",
+    "og:description": "Find the right tour guide, plan better trips",
+    "og:url": "https://betalist.com/startups/findtourguide",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
     "url": "https://betalist.com/startups/finhelm",
     "title": "FinHelm: See how much trust your forecast deserves and plan | BetaList",
     "date": "2026-09-02T03:00:31.628+06:00",
@@ -9923,6 +9934,17 @@
   },
   {
     "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/quickrefs",
+    "title": "Quickrefs: Save links in one click and publish collections | BetaList",
+    "date": "2026-09-28T14:15:07.419+06:00",
+    "og:title": "Quickrefs: Save links in one click and publish collections people can",
+    "og:image": "https://resize.imagekit.co/f3AD8CgHFHAGVBJeJmznkp95ts57Dv8O6MJl4E0g3IM/plain/s3://betalist-production/dmipre7fkfi5h5vtede7oz8dwi85",
+    "og:description": "Save links in one click and publish collections people can follow",
+    "og:url": "https://betalist.com/startups/quickrefs",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
     "url": "https://betalist.com/startups/radial-roots",
     "title": "Radial Roots: Build archival circular family trees with | BetaList",
     "date": "2026-09-01T04:09:58.854+06:00",
@@ -10359,6 +10381,17 @@
     "og:image": "https://resize.imagekit.co/vWvCHc0GtW3vtb1exMbS8fT4blpfssOEZJmciAyYJkk/plain/s3://betalist-production/ploxznw9ecb8wvyeokqhs5esj3td",
     "og:description": "Capture bugs with screenshots, video, and console details in one click",
     "og:url": "https://betalist.com/startups/session-replay",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/shora",
+    "title": "Shora: Get a guided meditation matched to your mood in | BetaList",
+    "date": "2026-09-28T14:15:07.38+06:00",
+    "og:title": "Shora: Get a guided meditation matched to your mood in minutes",
+    "og:image": "https://resize.imagekit.co/WOR7iDoFIV6QHHERilIktlMfQSDhK_0AfsOAq-tnHXo/plain/s3://betalist-production/j5h4ze6mgq6seuro5qlmf0fnzz83",
+    "og:description": "Get a guided meditation matched to your mood in minutes",
+    "og:url": "https://betalist.com/startups/shora",
     "og:type": "article,"
   },
   {
@@ -74580,6 +74613,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "mfgit.ru",
+    "url": "https://mfgit.ru/2026/09/28/docker-dlya-sysadmina/",
+    "title": "Docker для сисадмина: от первого контейнера до продакшена - Admin Future",
+    "date": "2026-09-28T14:09:08.779+06:00",
+    "og:title": "Docker для сисадмина: от первого контейнера до продакшена - Admin Future",
+    "og:image": "https://mfgit.ru/wp-content/uploads/2026/09/post-docker-dlya-sysadmina.png",
+    "og:description": "Как Docker устроен на самом деле — namespaces, cgroups, OverlayFS. Установка в 2026-м, Dockerfile и многоэтапная сборка, тома, сеть, Docker Compose, безопасность и продакшен-чеклист с разбором реального инцидента с переполнением диска.",
+    "og:url": "https://mfgit.ru/2026/09/28/docker-dlya-sysadmina/",
+    "og:type": "article"
+  },
+  {
     "hostname": "michaelheap.com",
     "url": "https://michaelheap.com/i-dont-want-the-details/",
     "title": "I don't want the details | michaelheap.com",
@@ -108307,6 +108351,39 @@
   },
   {
     "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=22195",
+    "title": "Honor представила Magic9 Pro Max, Magic9 и Super Edition: цены и отличия",
+    "date": "2026-09-28T14:09:08.857+06:00",
+    "og:title": "Honor представила Magic9 Pro Max, Magic9 и Super Edition: цены и отличия",
+    "og:image": "https://cdn.comss.ru/img/2026-09-28/comss-honor-magic9-pro-max-magic9-super-edition-2026-09-28_1222.jpg?class=cover",
+    "og:description": "Honor представила три смартфона серии Magic9. Pro Max и стандартный Magic9 получили по две камеры на 200 Мп и инструменты видео ARRI. Super Edition оснащён аккумулятором на 11 000 мАч и активным вентилятором. Сравниваем экраны, процессоры, камеры, зарядку и стартовые цены всех трёх моделей",
+    "og:url": "https://www.comss.ru/page.php?id=22195",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=22196",
+    "title": "Microsoft приостановила обновление KB5002907 из-за деактивации лицензий Office",
+    "date": "2026-09-28T14:09:08.818+06:00",
+    "og:title": "Microsoft приостановила обновление KB5002907 из-за деактивации лицензий Office",
+    "og:image": "https://cdn.comss.ru/img/2026-09-28/comss-microsoft-office-2026-09-28_1221.jpg?class=cover",
+    "og:description": "Необязательное обновление для устаревших установок Microsoft 365 попадало на компьютеры с бессрочными Office 2016 и Office 2019, сбрасывало активацию, а в отдельных случаях полностью удаляло офисный пакет. Microsoft остановила раздачу и начала расследование",
+    "og:url": "https://www.comss.ru/page.php?id=22196",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=22197",
+    "title": "Как управлять обновлениями приложений в Windows с помощью UniGetUI",
+    "date": "2026-09-28T14:09:08.744+06:00",
+    "og:title": "Как управлять обновлениями приложений в Windows с помощью UniGetUI",
+    "og:image": "https://cdn.comss.ru/img/092026/philip-oroni-iG9161YGJac-unsplash.jpg?class=cover",
+    "og:description": "Бесплатная утилита UniGetUI собирает обновления программ из WinGet, Scoop и Chocolatey в одном окне: проверку и установку можно поставить на расписание, включить автообновление для отдельных приложений и пропускать ненужные версии",
+    "og:url": "https://www.comss.ru/page.php?id=22197",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.comss.ru",
     "url": "https://www.comss.ru/page.php?id=3992",
     "title": "Windows 10 Enterprise LTSC 2021 - Скачать бесплатно. Операционные системы",
     "date": "2026-09-09T02:24:54.092+06:00",
@@ -114254,6 +114331,17 @@
     "og:image": "https://www.deskmodder.de/blog/wp-content/uploads/2026/09/0705-829-jannik-hammes-fotografie-scaled-1.jpg",
     "og:description": "Wir haben bei einem Branchenspezialisten nachgefragt, wie Refurbished-PCs geprüft, aufbereitet und für den erneuten Verkauf vorbereitet werden.",
     "og:url": "https://www.deskmodder.de/blog/?p=217667",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/blog/2026/09/28/firefox-157-153-4-esr-140-17-esr-und-115-42-0-esr-mit-sicherheitskorrekturen-und-nova-als-neues-design/",
+    "title": "Firefox 157, 153.4 ESR, 140.17 ESR and 115.42.0 ESR with security fixes and Nova as a new design - Deskmodder.de",
+    "date": "2026-09-28T14:13:07.023+06:00",
+    "og:title": "Firefox 157, 153.4 ESR, 140.17 ESR und 115.42.0 ESR mit Sicherheitskorrekturen und Nova als neues Design",
+    "og:image": "https://www.deskmodder.de/blog/wp-content/uploads/2026/09/firefox-157-nova.jpg",
+    "og:description": "Das zweiwöchentliche Update für alle vier Versionen vom Firefox hat Mozilla fertiggestellt. Diesmal bekommen ein Update der Firefox 157, 153.4 ESR, 140.17 ESR und 115.42.0 ESR. Wobei es für den Firefox 140 ESR das letzte Update ist. Mit dem nächsten…",
+    "og:url": "https://www.deskmodder.de/blog/2026/09/28/firefox-157-153-4-esr-140-17-esr-und-115-42-0-esr-mit-sicherheitskorrekturen-und-nova-als-neues-design/",
     "og:type": "article"
   },
   {
