@@ -51139,6 +51139,39 @@
     "og:type": "article"
   },
   {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=22388",
+    "title": "DroidDeck запускает Steam на Android: требования и установка",
+    "date": "2026-10-13T12:43:10.913+06:00",
+    "og:title": "DroidDeck запускает Steam на Android: требования и установка",
+    "og:image": "https://cdn.comss.ru/img/2026-10-13/comss-droiddeck-steam-android--2026-10-13_1319.jpg?class=cover",
+    "og:description": "Приложение DroidDeck запускает Linux-клиент Steam и Windows-игры через Proton прямо на устройстве, без root-доступа. Нужны Android 9 или новее и совместимая графика Adreno (730 и выше); Mali, Xclipse, PowerVR и Adreno 710 официально не поддерживаются. Linux-окружение занимает около 3 ГБ, а рабочий стол и эмуляторы требуют ещё 1,1 ГБ",
+    "og:url": "https://www.comss.ru/page.php?id=22388",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=22389",
+    "title": "Все сервисы Yandex Cloud будут бесплатными для текущих клиентов до конца октября",
+    "date": "2026-10-13T12:43:10.866+06:00",
+    "og:title": "Все сервисы Yandex Cloud будут бесплатными для текущих клиентов до конца октября",
+    "og:image": "https://cdn.comss.ru/img/102026/dmitrii-shirnin-6nkEPZla3tI-unsplash.jpg?class=cover",
+    "og:description": "Yandex Cloud не будет брать плату за использование всех сервисов в российских зонах доступности с 8 по 31 октября. Бесплатный период распространяется на текущих клиентов, а в счёте за октябрь останутся только расходы до 7 октября включительно",
+    "og:url": "https://www.comss.ru/page.php?id=22389",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=22390",
+    "title": "Linux Mint 27 «Adrien» выйдет к концу 2026 года",
+    "date": "2026-10-13T12:43:10.783+06:00",
+    "og:title": "Linux Mint 27 «Adrien» выйдет к концу 2026 года",
+    "og:image": "https://cdn.comss.ru/img/012025/Linux-Mint-22.1-release.png?class=cover",
+    "og:description": "Следующий релиз Linux Mint получит имя «Adrien» и номер 27, соответствующий наступающему 2027 году. После него выйдут версии 28 и 29, без промежуточных выпусков с номерами после точки. Годовой цикл даст разработчикам больше времени на крупные изменения и исправления ошибок; выпуск на базе Ubuntu 26.04 LTS планируют к концу 2026 года",
+    "og:url": "https://www.comss.ru/page.php?id=22390",
+    "og:type": "article"
+  },
+  {
     "hostname": "www.craigabbott.co.uk",
     "url": "https://www.craigabbott.co.uk/blog/2026/using-maths-to-balance-your-heading-styles/",
     "title": "Using maths to balance your heading styles - Craig Abbott",
@@ -53710,6 +53743,17 @@
     "og:image": "https://www.deskmodder.de/blog/wp-content/uploads/2026/10/yandex-symbolfoto-scaled.jpg",
     "og:description": "Nach ukrainischen Drohnenangriffen auf Yandex-Rechenzentren zeigen Cloudflare-Auswertungen einen Rückgang des Bot-Traffics um bis zu 94 Prozent.",
     "og:url": "https://www.deskmodder.de/blog/2026/10/12/yandex-cloudflare-registriert-deutlichen-rueckgang-des-bot-traffics-nach-drohnenangriffen/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/blog/2026/10/13/digitalminister-wildberger-warnt-openai-und-google-ki-darf-nicht-zum-sicherheitsrisiko-werden/",
+    "title": "Digital Minister Wildberger warns OpenAI and Google: AI must not become a security risk - Deskmodder.de",
+    "date": "2026-10-13T12:43:10.826+06:00",
+    "og:title": "Digitalminister Wildberger warnt OpenAI und Google: KI darf nicht zum Sicherheitsrisiko werden",
+    "og:image": "https://www.deskmodder.de/blog/wp-content/uploads/2026/10/250519-bmds-woithe-007-scaled.jpeg",
+    "og:description": "Digitalminister Karsten Wildberger plant ein deutsches KI-Sicherheitsinstitut und fordert strengere Kontrollen für OpenAI, Google und Anthropic.",
+    "og:url": "https://www.deskmodder.de/blog/2026/10/13/digitalminister-wildberger-warnt-openai-und-google-ki-darf-nicht-zum-sicherheitsrisiko-werden/",
     "og:type": "article"
   },
   {
