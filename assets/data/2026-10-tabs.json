@@ -320,6 +320,17 @@
   },
   {
     "hostname": "4sysops.com",
+    "url": "https://4sysops.com/archives/kb5127648-blocks-smart-app-control-on-weak-pcs-microsoft-offers-workarounds/",
+    "title": "KB5127648 blocks Smart App Control on weak PCs—Microsoft offers workarounds – 4sysops",
+    "date": "2026-10-19T09:20:13.096+06:00",
+    "og:title": "KB5127648 blocks Smart App Control on weak PCs—Microsoft offers workarounds – 4sysops",
+    "og:image": "https://4sysops.com/wp-content/uploads/2026/10/kb5127648-blocks-smart-app-control-on-weak-pcs-microsoft-offers-workarounds.webp",
+    "og:description": "Microsoft’s workarounds for KB5127648’s Smart App Control problem may help users who can’t turn the feature back on—a condition reported after the update . Smar",
+    "og:url": "https://4sysops.com/archives/kb5127648-blocks-smart-app-control-on-weak-pcs-microsoft-offers-workarounds/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "4sysops.com",
     "url": "https://4sysops.com/archives/kb5127648-breaks-802-1x-wi-fi-and-vpn-sign-ins-by-enforcing-ntlmv1-blocking/",
     "title": "KB5127648 breaks 802.1X Wi-Fi and VPN sign-ins by enforcing NTLMv1 blocking – 4sysops",
     "date": "2026-10-17T05:15:28.698+06:00",
@@ -360,6 +371,28 @@
     "og:image": "https://4sysops.com/wp-content/uploads/2026/10/media-creation-tool-now-builds-windows-11-26h2-usb-media-with-kb5127648.webp",
     "og:description": "Microsoft’s Media Creation Tool now downloads Windows 11 26H2 installation media updated with October’s KB5127648, so bootable USB installers include build 2630",
     "og:url": "https://4sysops.com/archives/media-creation-tool-now-builds-windows-11-26h2-usb-media-with-kb5127648/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "4sysops.com",
+    "url": "https://4sysops.com/archives/microsoft-edge-for-business-gets-watermark-protection-in-december/",
+    "title": "Microsoft Edge for Business gets Watermark Protection in December – 4sysops",
+    "date": "2026-10-19T09:20:13.097+06:00",
+    "og:title": "Microsoft Edge for Business gets Watermark Protection in December – 4sysops",
+    "og:image": "https://4sysops.com/wp-content/uploads/2026/10/microsoft-edge-for-business-gets-watermark-protection-in-december.webp",
+    "og:description": "Microsoft Edge for Business is set to get Watermark Protection in December 2026, adding persistent usernames and timestamps to sensitive content. The feature is",
+    "og:url": "https://4sysops.com/archives/microsoft-edge-for-business-gets-watermark-protection-in-december/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "4sysops.com",
+    "url": "https://4sysops.com/archives/microsoft-edge-tests-seamless-updates-that-keep-tabs-open/",
+    "title": "Microsoft Edge tests seamless updates that keep tabs open – 4sysops",
+    "date": "2026-10-19T09:20:13.098+06:00",
+    "og:title": "Microsoft Edge tests seamless updates that keep tabs open – 4sysops",
+    "og:image": "https://4sysops.com/wp-content/uploads/2026/10/microsoft-edge-tests-seamless-updates-that-keep-tabs-open.webp",
+    "og:description": "Microsoft Edge is prototyping updates that move the browser to a new version without closing windows or interrupting work. The feature is not in production, but",
+    "og:url": "https://4sysops.com/archives/microsoft-edge-tests-seamless-updates-that-keep-tabs-open/",
     "og:type": "article"
   },
   {
@@ -793,6 +826,17 @@
   },
   {
     "hostname": "4sysops.com",
+    "url": "https://4sysops.com/archives/windows-11-kb5127648-installs-fail-with-0x800f0845/",
+    "title": "Windows 11 KB5127648 installs fail with 0x800f0845 – 4sysops",
+    "date": "2026-10-19T09:20:13.092+06:00",
+    "og:title": "Windows 11 KB5127648 installs fail with 0x800f0845 – 4sysops",
+    "og:image": "https://4sysops.com/wp-content/uploads/2026/10/windows-11-kb5127648-installs-fail-with-0x800f0845.webp",
+    "og:description": "Some users report that Windows 11’s October update, KB5127648, fails to install with error 0x800f0845—even though it fixes Explorer crashes and other issues . S",
+    "og:url": "https://4sysops.com/archives/windows-11-kb5127648-installs-fail-with-0x800f0845/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "4sysops.com",
     "url": "https://4sysops.com/archives/windows-11-kb5127654-updates-winre-on-24h2-25h2-and-26h2/",
     "title": "Windows 11 KB5127654 updates WinRE on 24H2, 25H2 and 26H2 – 4sysops",
     "date": "2026-10-17T05:15:29.089+06:00",
@@ -833,6 +877,17 @@
     "og:image": "https://4sysops.com/wp-content/uploads/2026/10/windows-11-tests-a-microsoft-store-settings-app-as-control-panel-migration-continues.jpg",
     "og:description": "Microsoft is testing Project Odeon, a separate Microsoft Store app that resembles Windows 11 Settings and can read some PC information. The experiment could let",
     "og:url": "https://4sysops.com/archives/windows-11-tests-a-microsoft-store-settings-app-as-control-panel-migration-continues/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "4sysops.com",
+    "url": "https://4sysops.com/archives/windows-11s-final-secure-boot-certificate-expires-today-but-pcs-will-keep-running/",
+    "title": "Windows 11’s final Secure Boot certificate expires today—but PCs will keep running – 4sysops",
+    "date": "2026-10-19T09:20:13.091+06:00",
+    "og:title": "Windows 11’s final Secure Boot certificate expires today—but PCs will keep running – 4sysops",
+    "og:image": "https://4sysops.com/wp-content/uploads/2026/10/windows-11s-final-secure-boot-certificate-expires-today-but-pcs-will-keep-running.jpg",
+    "og:description": "The Microsoft Windows Production PCA 2011 certificate expires Monday, October 19, 2026. PCs without its 2023 replacement should still boot and receive standard",
+    "og:url": "https://4sysops.com/archives/windows-11s-final-secure-boot-certificate-expires-today-but-pcs-will-keep-running/",
     "og:type": "article"
   },
   {
@@ -2003,6 +2058,17 @@
   },
   {
     "hostname": "adme.media",
+    "url": "https://adme.media/articles/11-detej-i-vnukov-znamenityh-akterov-kotorye-igrayut-v-svezhih-serialah-tak-budto-talant-peredaetsya-po-nasledstvu-2557608/",
+    "title": "11 детей и внуков знаменитых актеров, которые играют в свежих сериалах так, будто талант передается по наследству",
+    "date": "2026-10-19T09:16:36.692+06:00",
+    "og:title": "11 детей и внуков знаменитых актеров, которые играют в свежих сериалах так, будто талант передается по наследству",
+    "og:image": "https://wl-adme.cf.tsp.li/resize/1200x770/jpg/758/711/ca29b653268030ebe383c23a86.jpg",
+    "og:description": "Актерские династии всегда вызывают у нас, зрителей, смесь любопытства и легкого скепсиса: мы любим искать сходства, но еще больше ценим индивидуальность. Для детей и внуков больших артистов попытки стать кем-то большим, чем просто наследниками знаменитой фамилии, часто становятся серьезным вызовом. В последнее время на экраны вышло сразу несколько интересных сериалов, в которых можно оценить, насколько удачно у них это получается.",
+    "og:url": "https://adme.media/articles/11-detej-i-vnukov-znamenityh-akterov-kotorye-igrayut-v-svezhih-serialah-tak-budto-talant-peredaetsya-po-nasledstvu-2557608/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "adme.media",
     "url": "https://adme.media/articles/11-hitrostej-nashih-mam-i-babushek-kotorye-do-sih-por-vyruchayut-v-bytu-2557389/",
     "title": "11 хитростей наших мам и бабушек, которые до сих пор выручают в быту",
     "date": "2026-10-12T02:29:30.15+06:00",
@@ -2102,6 +2168,17 @@
   },
   {
     "hostname": "adme.media",
+    "url": "https://adme.media/articles/12-raz-kogda-lyudi-prosto-prishli-na-sobesedovanie-a-poluchili-istoriyu-o-kotoroj-nevozmozhno-molchat-2557611/",
+    "title": "12 раз, когда люди просто пришли на собеседование, а получили историю, о которой невозможно молчать",
+    "date": "2026-10-19T09:16:36.673+06:00",
+    "og:title": "12 раз, когда люди просто пришли на собеседование, а получили историю, о которой невозможно молчать",
+    "og:image": "https://wl-adme.cf.tsp.li/resize/1200x770/jpg/6d3/21c/e430135ca4a18f09b8f95a9122.jpg",
+    "og:description": "Поиск работы процесс сам по себе нелегкий, а бесконечные собеседования могут сделать его еще утомительнее. Чаще всего они проходят по одному сценарию и не слишком запоминаются. Но порой обычное интервью оборачивается историей, которую можно рассказывать в дружеской компании вместо байки.",
+    "og:url": "https://adme.media/articles/12-raz-kogda-lyudi-prosto-prishli-na-sobesedovanie-a-poluchili-istoriyu-o-kotoroj-nevozmozhno-molchat-2557611/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "adme.media",
     "url": "https://adme.media/articles/13-foto-i-istorij-ob-otdyhe-na-prirode-osenyu-radi-kotorogo-stoilo-vstat-v-6-utra-v-subbotu-2557419/",
     "title": "13 фото и историй об отдыхе на природе осенью, ради которого стоило встать в 6 утра в субботу",
     "date": "2026-10-12T09:56:19.892+06:00",
@@ -2190,6 +2267,17 @@
   },
   {
     "hostname": "adme.media",
+    "url": "https://adme.media/articles/14-masterov-i-umelcev-v-chih-rukah-starye-veschi-zaigrali-po-novomu-2557620/",
+    "title": "14 мастеров и умельцев, в чьих руках старые вещи заиграли по-новому",
+    "date": "2026-10-19T09:16:36.416+06:00",
+    "og:title": "14 мастеров и умельцев, в чьих руках старые вещи заиграли по-новому",
+    "og:image": "https://wl-adme.cf.tsp.li/resize/1200x770/jpg/ba3/455/a3786454e4962cdda02386361a.jpg",
+    "og:description": "Устаревшее платье из секонда, неказистый и потертый журнальный столик и сломанная пополам брошь — кто-то даже и не взглянул бы на эти вещицы. А вот настоящие мастера — не всегда профессионалы, — о которых и пойдет речь в этой статье, рискнули, и у них получилось что-то интересное и иногда даже выдающееся. Диву даешься, откуда у людей столько таланта и усердия, чтобы ремонтировать столетие часы и восстанавливать ржавые раритетные проекторы.",
+    "og:url": "https://adme.media/articles/14-masterov-i-umelcev-v-chih-rukah-starye-veschi-zaigrali-po-novomu-2557620/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "adme.media",
     "url": "https://adme.media/articles/14-nahodok-na-plyazhe-kotorye-zakonchilis-voprosom-chto-eto-voobsche-takoe-2557317/",
     "title": "14 находок на пляже, которые закончились вопросом «Что это вообще такое?»",
     "date": "2026-10-09T02:45:33.141+06:00",
@@ -2197,6 +2285,17 @@
     "og:image": "https://wl-adme.cf.tsp.li/resize/1200x770/jpg/a77/c82/ef2d925db784bbf736b8bdb0b9.jpg",
     "og:description": "Находки на пляже — это нечто совершенно особенное, ведь там можно найти не только симпатичные камушки и ракушки. Порой, прогуливаясь вдоль кромки воды, можно натолкнуться на такое, что сразу и не получится идентифицировать. Придется заглянуть в справочники или обратиться к знатокам в интернете. Зато так можно прокачаться в знании морской флоры и фауны.",
     "og:url": "https://adme.media/articles/14-nahodok-na-plyazhe-kotorye-zakonchilis-voprosom-chto-eto-voobsche-takoe-2557317/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "adme.media",
+    "url": "https://adme.media/articles/14-semejnyh-veschej-v-kvartire-propitannyh-teplom-neskolkih-pokolenij-2557629/",
+    "title": "14 семейных вещей в квартире, пропитанных теплом нескольких поколений",
+    "date": "2026-10-19T09:16:36.357+06:00",
+    "og:title": "14 семейных вещей в квартире, пропитанных теплом нескольких поколений",
+    "og:image": "https://wl-adme.cf.tsp.li/resize/1200x770/jpg/7ed/6ed/ff62a0517abd5b77cf9c3c8189.jpg",
+    "og:description": "Самый вкусный чай — в чашке из бабушкиного сервиза, а связанный бабушкой плед согревает даже в самый холодный вечер. И повезло тому, кому по наследству достался старинный буфет или деревянный сундук: они не только украшают любой интерьер, но и символизируют связь поколений. Герои нашей статьи такие вещи берегут и пользуются ими, ведь в них живет частичка бабушкиного тепла.",
+    "og:url": "https://adme.media/articles/14-semejnyh-veschej-v-kvartire-propitannyh-teplom-neskolkih-pokolenij-2557629/",
     "og:type": "article"
   },
   {
@@ -2355,6 +2454,17 @@
   },
   {
     "hostname": "adme.media",
+    "url": "https://adme.media/articles/15-istorij-o-tom-kak-obschenie-s-inostrancami-prevratilos-v-rebus-kotoryj-nevozmozhno-razgadat-bez-chuvstva-yumora-2557617/",
+    "title": "15+ историй о том, как общение с иностранцами превратилось в ребус, который невозможно разгадать без чувства юмора",
+    "date": "2026-10-19T09:16:36.607+06:00",
+    "og:title": "15+ историй о том, как общение с иностранцами превратилось в ребус, который невозможно разгадать без чувства юмора",
+    "og:image": "https://wl-adme.cf.tsp.li/resize/1200x770/jpg/db0/8af/a57ff0573eb5248a2f9686cf52.jpg",
+    "og:description": "Когда люди из разных стран начинают общаться, выясняется, что даже самые привычные вещи они могут воспринимать совершенно по-разному. То, что одному кажется очевидным, у другого вызывает искреннее удивление. Особенно хорошо это замечают те, у кого есть иностранные друзья, родственники или супруги. Иногда достаточно одного неудачно подобранного слова, чтобы разговор пошел совсем не так, как предполагалось. И самое интересное, что обе стороны при этом могут быть совершенно уверены в своей правоте. К счастью, многие умеют посмеяться над такими недоразумениями, а заодно узнать что-то новое друг о друге.",
+    "og:url": "https://adme.media/articles/15-istorij-o-tom-kak-obschenie-s-inostrancami-prevratilos-v-rebus-kotoryj-nevozmozhno-razgadat-bez-chuvstva-yumora-2557617/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "adme.media",
     "url": "https://adme.media/articles/15-kureznyh-istorij-o-tom-chto-remont-mozhno-zakonchit-a-vot-zabyt-ego-nikogda-2557308/",
     "title": "15 курьезных историй о том, что ремонт можно закончить, а вот забыть его — никогда",
     "date": "2026-10-09T02:45:33.234+06:00",
@@ -2465,6 +2575,17 @@
   },
   {
     "hostname": "adme.media",
+    "url": "https://adme.media/articles/15-studencheskih-istorij-kogda-banka-sguschenki-prevraschala-obychnyj-vecher-v-prazdnik-2557626/",
+    "title": "15+ студенческих историй, когда банка сгущенки превращала обычный вечер в праздник",
+    "date": "2026-10-19T09:16:36.375+06:00",
+    "og:title": "15+ студенческих историй, когда банка сгущенки превращала обычный вечер в праздник",
+    "og:image": "https://wl-adme.cf.tsp.li/resize/1200x770/jpg/fe1/4e7/34ce3957fda577a2b487bad20f.jpg",
+    "og:description": "Турнир по настольному теннису сковородками прямо в коридоре общаги или забытый в шкафу шашлык — все это истории из студенческих времен. В годы, когда шла насыщенная учеба, каждый студент умудрялся превратить самый обычный день в целую череду незабываемых приключений. Пока одни сидели в библиотеке, чтобы посмеяться над подшивками журналов, другие случайно выигрывали факультетские заплывы. Из таких нелепых, но искренних моментов и складывалось то самое незабываемое студенческое время, когда для счастья хватало лишь хорошей компании.",
+    "og:url": "https://adme.media/articles/15-studencheskih-istorij-kogda-banka-sguschenki-prevraschala-obychnyj-vecher-v-prazdnik-2557626/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "adme.media",
     "url": "https://adme.media/articles/15-svetlyh-istorij-o-zhenskoj-solidarnosti-posle-kotoryh-ponimaesh-zhenschina-zhenschine-dom-2557395/",
     "title": "15 светлых историй о женской солидарности, после которых понимаешь: женщина женщине — дом",
     "date": "2026-10-12T02:29:30.119+06:00",
@@ -2494,6 +2615,17 @@
     "og:image": "https://wl-adme.cf.tsp.li/resize/1200x770/jpg/80b/727/5654c355929eb2365cb8d8bfed.jpg",
     "og:description": "Секонд-хенды хранят в своих недрах множество неожиданных находок: билет на концерт, завалившийся в карман старой джинсовки, раритетная пудреница из Лиможа, необычный будильник и много чего еще. Заглядывая на городскую барахолку или отправляясь на блошиный рынок, покупатели часто даже не догадываются, с чем именно они вернутся домой. А ведь эти вещи способны подарить яркие эмоции и простые радости, приносящие истинное счастье.",
     "og:url": "https://adme.media/articles/15-veschej-iz-sekondov-kotorye-hranyat-bolshe-istorij-chem-staryj-albom-s-fotografiyami-2557146/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "adme.media",
+    "url": "https://adme.media/articles/16-arhivnyh-fotografij-kotorye-segodnya-vyzyvayut-tepluyu-nostalgiyu-2557593/",
+    "title": "16 архивных фотографий, которые сегодня вызывают теплую ностальгию",
+    "date": "2026-10-19T09:16:36.794+06:00",
+    "og:title": "16 архивных фотографий, которые сегодня вызывают теплую ностальгию",
+    "og:image": "https://wl-adme.cf.tsp.li/resize/1200x770/jpg/929/543/0638795a0e80fd8ab8685488da.jpg",
+    "og:description": "Иногда хочется заварить чайку и усесться на диване, чтобы посмотреть свои фотоальбомы и поностальгировать. Как мы раньше жили, чем дышали, что и кого любили — все это можно разглядеть на старых снимках. Давайте же вместе окунемся в то время, когда трава была зеленей, а мы юнее и беззаботнее.",
+    "og:url": "https://adme.media/articles/16-arhivnyh-fotografij-kotorye-segodnya-vyzyvayut-tepluyu-nostalgiyu-2557593/",
     "og:type": "article"
   },
   {
@@ -2652,6 +2784,17 @@
   },
   {
     "hostname": "adme.media",
+    "url": "https://adme.media/articles/17-dobryh-istorij-o-lyudyah-dlya-kotoryh-pomogat-drugim-eto-obraz-zhizni-2557614/",
+    "title": "17 добрых историй о людях, для которых помогать другим — это образ жизни",
+    "date": "2026-10-19T09:16:36.653+06:00",
+    "og:title": "17 добрых историй о людях, для которых помогать другим — это образ жизни",
+    "og:image": "https://wl-adme.cf.tsp.li/resize/1200x770/jpg/f13/a70/cd755e5082a99c53da362188a4.jpg",
+    "og:description": "Иногда добро может быть спонтанным, и от этого обычный день начинает заиграть новыми прекрасными красками. Незнакомцы весьма креативно возвращают вам забытый товар. Или кто-то втихаря помогает бабулям в магазине. А еще можно не сдержаться и просто сказать комплимент прохожему. В этой подборке — жизненные истории о добрых делах, которые дарят надежду.",
+    "og:url": "https://adme.media/articles/17-dobryh-istorij-o-lyudyah-dlya-kotoryh-pomogat-drugim-eto-obraz-zhizni-2557614/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "adme.media",
     "url": "https://adme.media/articles/17-istorij-i-foto-o-pervoj-semnoj-kvartire-gde-iz-mebeli-byl-tolko-matras-zato-vospominanij-hvatilo-na-vsyu-zhizn-2557059/",
     "title": "17 историй и фото о первой съемной квартире, где из мебели был только матрас, зато воспоминаний хватило на всю жизнь",
     "date": "2026-10-01T02:05:00.309+06:00",
@@ -2703,6 +2846,17 @@
     "og:image": "https://wl-adme.cf.tsp.li/resize/1200x770/jpg/5f7/26c/a9475d574fa1c5a783d7d59f6d.jpg",
     "og:description": "Работа сантехником — это не только менять унитазы и чистить трубы, но общение с разными людьми. Кто-то помогает бабулькам, у кого-то клиенты хотят купить материалы за счет мастера или засыпают во время работы. Каким-то сантехникам приходится исправлять свои же огрехи. А некоторым даже дарят подарки в благодарность за работу.",
     "og:url": "https://adme.media/articles/17-istorij-pro-santehnikov-kotorye-ne-tolko-chinyat-truby-no-i-periodicheski-popadayut-v-priklyuchenie-2557392/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "adme.media",
+    "url": "https://adme.media/articles/17-kadrov-oseni-iz-raznyh-ugolkov-strany-gde-u-kazhdogo-regiona-svoj-zapah-i-svoj-urozhaj-2557605/",
+    "title": "17 кадров осени из разных уголков страны, где у каждого региона свой запах и свой урожай",
+    "date": "2026-10-19T09:16:36.711+06:00",
+    "og:title": "17 кадров осени из разных уголков страны, где у каждого региона свой запах и свой урожай",
+    "og:image": "https://wl-adme.cf.tsp.li/resize/1200x770/jpg/b23/80e/9ccc3a56e19a3a291203e34532.jpg",
+    "og:description": "Золотая листва в Карелии, багряные сопки в Якутии, бабочки в Питере или переменчивая погода на Дальнем Востоке — в каждом уголке страны осень может выглядеть по-разному. Но ею всегда хочется любоваться, правда ведь? Ее очарование становится ничуть не меньше из-за неожиданностей в виде октябрьского снега, который в этом году внезапно выпал на Урале. И мы уверены, что после поездки в любой из этих регионов вы привезете еще и занятные истории — прямо как путешественники из бонуса к этой статье.",
+    "og:url": "https://adme.media/articles/17-kadrov-oseni-iz-raznyh-ugolkov-strany-gde-u-kazhdogo-regiona-svoj-zapah-i-svoj-urozhaj-2557605/",
     "og:type": "article"
   },
   {
@@ -2982,6 +3136,17 @@
   },
   {
     "hostname": "adme.media",
+    "url": "https://adme.media/articles/20-baraholok-gde-iz-za-puzatyh-chajnikov-i-reznyh-shkatulok-vyglyadyvaet-proshloe-2557596/",
+    "title": "20 барахолок, где из-за пузатых чайников и резных шкатулок выглядывает прошлое",
+    "date": "2026-10-19T09:16:36.776+06:00",
+    "og:title": "20 барахолок, где из-за пузатых чайников и резных шкатулок выглядывает прошлое",
+    "og:image": "https://wl-adme.cf.tsp.li/resize/1200x770/jpg/e18/7eb/ca664f5e42bda9234afd2a62b9.jpg",
+    "og:description": "На барахолках никогда не знаешь, что ждет на полках: пыльная шкатулка с чьими-то тайнами, старенькая игрушка напоминающая о детстве, или вещица которая окажется чем-то более стоящим. Иногда самые неожиданные находки прячутся среди гор ненужных вещей и терпеливо ждут того, кто их заметит — и услышит их историю.",
+    "og:url": "https://adme.media/articles/20-baraholok-gde-iz-za-puzatyh-chajnikov-i-reznyh-shkatulok-vyglyadyvaet-proshloe-2557596/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "adme.media",
     "url": "https://adme.media/articles/20-chelovek-kotorye-peredelali-staruyu-mebel-i-teper-ih-dom-stal-namnogo-uyutnej-2557365/",
     "title": "20+ человек, которые переделали старую мебель, и теперь их дом стал намного уютней",
     "date": "2026-10-11T04:01:53.446+06:00",
@@ -3169,6 +3334,17 @@
   },
   {
     "hostname": "adme.media",
+    "url": "https://adme.media/articles/20-istorij-o-shkolnyh-sochineniyah-ot-kotoryh-tak-i-veet-aromatom-piccy-iz-stolovoj-2557599/",
+    "title": "20+ историй о школьных сочинениях, от которых так и веет ароматом пиццы из столовой",
+    "date": "2026-10-19T09:16:36.757+06:00",
+    "og:title": "20+ историй о школьных сочинениях, от которых так и веет ароматом пиццы из столовой",
+    "og:image": "https://wl-adme.cf.tsp.li/resize/1200x770/jpg/357/0c2/24c45b53e3955c5e1bcd936e72.jpg",
+    "og:description": "Все, наверное, помнят эти слова школьного учителя: «Открываем тетради, тема сочинения на доске. У вас сорок минут». Мы вдохновенно писали о том, как провели лето, кем хотим быть и каким мы видим лермонтовского Печорина. У каждого преподавателя литературы наберется коллекция перлов из опусов учеников. А еще во время написания школьных сочинений происходят истории, которые потянули бы на отдельный том.",
+    "og:url": "https://adme.media/articles/20-istorij-o-shkolnyh-sochineniyah-ot-kotoryh-tak-i-veet-aromatom-piccy-iz-stolovoj-2557599/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "adme.media",
     "url": "https://adme.media/articles/20-istorij-o-vahterah-i-konserzhah-s-kotorymi-v-podezde-nikogda-ne-byvaet-skuchno-2557545/",
     "title": "20+ историй о вахтерах и консьержах, с которыми в подъезде никогда не бывает скучно",
     "date": "2026-10-16T09:06:46.293+06:00",
@@ -3231,6 +3407,28 @@
     "og:image": "https://wl-adme.cf.tsp.li/resize/1200x770/jpg/26e/0eb/b035805ea68fed707d97e52b26.jpg",
     "og:description": "Вы когда-нибудь чувствовали мгновенное родство с человеком просто потому, что он назвал контейнер «бабайкой»? Местные словечки — верный способ узнать своего в любой компании. Одно родное слово — и между вами словно протягивается невидимый мостик к общим воспоминаниям. Удивительно, как простые «вехотка» или «мультифора» могут за секунду перенести нас на сотни километров и вернуть в детство — туда, где бабушка по утрам печет блины, а мама с папой — молодые и веселые.",
     "og:url": "https://adme.media/articles/20-koloritnyh-slov-po-kotorym-zemlyaki-nahodyat-drug-druga-v-lyuboj-kompanii-2557098/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "adme.media",
+    "url": "https://adme.media/articles/20-kureznyh-istorij-o-pervoj-rabote-kotorye-ne-steret-iz-pamyati-nikakim-lastikom-2557632/",
+    "title": "20+ курьезных историй о первой работе, которые не стереть из памяти никаким ластиком",
+    "date": "2026-10-19T09:16:36.34+06:00",
+    "og:title": "20+ курьезных историй о первой работе, которые не стереть из памяти никаким ластиком",
+    "og:image": "https://wl-adme.cf.tsp.li/resize/1200x770/jpg/468/edd/0d952258cb80c4e387b3d81964.jpg",
+    "og:description": "Что ни говори, а первая работа запоминается навсегда. Для кого-то она становится отличным стартом, другие сталкиваются с чем-то, что ни в какие рамки не лезет, и в первый же день пишут заявление по собственному. Но несмотря на все забавные и не очень ситуации на старте, многие из нас с особой ностальгией вспоминают те дни. Именно такие истории мы и собрали в подборку.",
+    "og:url": "https://adme.media/articles/20-kureznyh-istorij-o-pervoj-rabote-kotorye-ne-steret-iz-pamyati-nikakim-lastikom-2557632/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "adme.media",
+    "url": "https://adme.media/articles/20-nahodok-v-staryh-domah-kotorye-prevratili-prostuyu-uborku-v-nastoyaschij-detektiv-2557590/",
+    "title": "20+ находок в старых домах, которые превратили простую уборку в настоящий детектив",
+    "date": "2026-10-19T09:16:36.816+06:00",
+    "og:title": "20+ находок в старых домах, которые превратили простую уборку в настоящий детектив",
+    "og:image": "https://wl-adme.cf.tsp.li/resize/1200x770/jpg/639/708/7e74b9560487b80779a88dac36.jpg",
+    "og:description": "В старых домах и квартирах, которые простояли не один десяток лет, почти всегда царит своя атмосфера. Есть в этих домах свое очарование, свой шарм и свои сюрпризы. Тут всегда можно соприкоснуться с семейной историей, найти совершенно непонятные вещи или откопать давно утерянную лошадку-качалку из детства. О таких находках так и хочется рассказать всем вокруг.",
+    "og:url": "https://adme.media/articles/20-nahodok-v-staryh-domah-kotorye-prevratili-prostuyu-uborku-v-nastoyaschij-detektiv-2557590/",
     "og:type": "article"
   },
   {
@@ -3308,6 +3506,17 @@
     "og:image": "https://wl-adme.cf.tsp.li/resize/1200x770/jpg/20a/4c8/bf80f05bdebc0957cc652a12c2.jpg",
     "og:description": "Строители, электрики, сантехники и мастера ремонта — именно эти люди превращают чертежи в дома, где хочется жить. Но их будни состоят не только из бетона и проводов. Сегодня в нашей подборке — истории, в которых отборный юмор и рабочая смекалка оказались лучшим решением даже самых непростых задач.",
     "og:url": "https://adme.media/articles/20-stroitelej-u-kotoryh-chto-ni-obekt-to-klassnyj-syuzhet-v-kopilku-istorij-2557533/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "adme.media",
+    "url": "https://adme.media/articles/22-istorii-o-maminoj-i-papinoj-podderzhke-kotoraya-sogrevaet-luchshe-teplogo-pleda-2557635/",
+    "title": "22 истории о маминой и папиной поддержке, которая согревает лучше теплого пледа",
+    "date": "2026-10-19T09:16:36.321+06:00",
+    "og:title": "22 истории о маминой и папиной поддержке, которая согревает лучше теплого пледа",
+    "og:image": "https://wl-adme.cf.tsp.li/resize/1200x770/jpg/579/6f6/62dc36540c899de8b37802a13f.jpg",
+    "og:description": "Когда мы маленькие, многое из того, что делают для нас родители, кажется чем-то само собой разумеющимся. И только спустя годы начинаем понимать, сколько внимания, терпения и любви стояло за их поступками. Герои этой подборки вспомнили случаи, когда мамы и папы проявляли свою заботу без лишних слов. Некоторые истории вызывают улыбку, а другие мысленно возвращают в собственное детство.",
+    "og:url": "https://adme.media/articles/22-istorii-o-maminoj-i-papinoj-podderzhke-kotoraya-sogrevaet-luchshe-teplogo-pleda-2557635/",
     "og:type": "article"
   },
   {
@@ -3455,6 +3664,17 @@
   },
   {
     "hostname": "adme.media",
+    "url": "https://adme.media/articles/6-produktov-iz-detstva-vkus-kotoryh-ne-povtorit-ni-odin-sovremennyj-magazin-2557638/",
+    "title": "6 продуктов из детства, вкус которых не повторит ни один современный магазин",
+    "date": "2026-10-19T09:16:36.308+06:00",
+    "og:title": "6 продуктов из детства, вкус которых не повторит ни один современный магазин",
+    "og:image": "https://wl-adme.cf.tsp.li/resize/1200x770/jpg/b48/d72/8118825a3db37b9c92372d69ac.jpg",
+    "og:description": "Современных детей многие продукты из нашего детства вряд ли бы удивили — ну, подумаешь, что особенного в мармеладках или жвачке со вкусом кофе? А нам они казались поистине волшебными, ведь даже обычное молоко из необычной упаковки казалось в тысячу раз вкуснее.",
+    "og:url": "https://adme.media/articles/6-produktov-iz-detstva-vkus-kotoryh-ne-povtorit-ni-odin-sovremennyj-magazin-2557638/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "adme.media",
     "url": "https://adme.media/articles/6-serialov-dlya-dozhdlivyh-vyhodnyh-syuzhet-kotoryh-delaet-neozhidannyj-kulbit-v-poslednej-serii-2557212/",
     "title": "6 сериалов для дождливых выходных, сюжет которых делает неожиданный кульбит в последней серии",
     "date": "2026-10-06T02:25:59.262+06:00",
@@ -3576,6 +3796,17 @@
   },
   {
     "hostname": "adme.media",
+    "url": "https://adme.media/articles/8-lyapov-v-serialah-kotorye-proskochili-mimo-montazherov-no-ne-mimo-nas-2557602/",
+    "title": "8 ляпов в сериалах, которые проскочили мимо монтажеров, но не мимо нас",
+    "date": "2026-10-19T09:16:36.727+06:00",
+    "og:title": "8 ляпов в сериалах, которые проскочили мимо монтажеров, но не мимо нас",
+    "og:image": "https://wl-adme.cf.tsp.li/resize/1200x770/jpg/9c0/ce9/4feb445b9288e5258384756863.jpg",
+    "og:description": "Сериалы, которые мы так любили смотреть в детстве и юности, до сих пор могут удивить. «Папины дочки», «Кухня» и «Воронины», пересмотренные нами не один раз, при внимательном просмотре оказываются полны курьезных моментов и несостыковок. Они прятались у всех на много лет, и мы их наконец-то нашли.",
+    "og:url": "https://adme.media/articles/8-lyapov-v-serialah-kotorye-proskochili-mimo-montazherov-no-ne-mimo-nas-2557602/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "adme.media",
     "url": "https://adme.media/articles/8-osobennostej-moskovskogo-i-peterburgskogo-metro-kotorye-legko-ne-zametit-dazhe-za-gody-poezdok-2557521/",
     "title": "8 особенностей московского и петербургского метро, которые легко не заметить даже за годы поездок",
     "date": "2026-10-16T13:29:47.247+06:00",
@@ -3605,6 +3836,17 @@
     "og:image": "https://wl-adme.cf.tsp.li/resize/1200x770/jpg/cea/00c/8e4c9a5e0494b9c9b003b26a49.jpg",
     "og:description": "Кажется, что про кошек уже известно все: как они ведут себя, что любят и почему иногда игнорируют хозяев. Однако повадки, реакции и даже мелкие привычки этих животных часто скрывают куда больше смысла, чем кажется на первый взгляд. Именно поэтому даже опытные владельцы время от времени открывают для себя что-то новое — и начинают смотреть на своих питомцев немного по-другому.",
     "og:url": "https://adme.media/articles/9-neozhidannyh-faktov-o-koshkah-o-kotoryh-ne-vse-opytnye-hozyaeva-v-kurse-2557323/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "adme.media",
+    "url": "https://adme.media/articles/geografiya-v-tarelke-6-znakomyh-blyud-kotorye-v-drugih-stranah-vyglyadyat-tak-chto-ih-srazu-i-ne-uznat-2557623/",
+    "title": "География в тарелке: 6 знакомых блюд, которые в других странах выглядят так, что их сразу и не узнать",
+    "date": "2026-10-19T09:16:36.398+06:00",
+    "og:title": "География в тарелке: 6 знакомых блюд, которые в других странах выглядят так, что их сразу и не узнать",
+    "og:image": "https://wl-adme.cf.tsp.li/resize/1200x770/jpg/4a1/cb0/caa1715b53907b65f9d371c574.jpg",
+    "og:description": "Такие знакомые и родные блюда — окрошка, селедка под шубой, ароматные сырники... Мы привыкли к ним с детства и даже представить не можем другой вариации полюбившихся яств. Но ведь во Франции и Китае есть свой холодец, а в Австрии готовят неплохие сырники! Правда, вряд ли вы сразу узнаете эти блюда. Давайте вместе полюбопытствуем, какие варианты знакомых нам лакомств есть за границей, а заодно узнаем парочку советов по приготовлению привычной еды. Только не забудьте пообедать перед прочтением статьи.",
+    "og:url": "https://adme.media/articles/geografiya-v-tarelke-6-znakomyh-blyud-kotorye-v-drugih-stranah-vyglyadyat-tak-chto-ih-srazu-i-ne-uznat-2557623/",
     "og:type": "article"
   },
   {
@@ -8174,6 +8416,17 @@
   },
   {
     "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/titledeed-studios",
+    "title": "TitleDeed Studios: Launch your vertical drama app with | BetaList",
+    "date": "2026-10-19T09:15:20.925+06:00",
+    "og:title": "TitleDeed Studios: Launch your vertical drama app with shows and",
+    "og:image": "https://resize.imagekit.co/kxTgBHWaGMki9P3VTex3IcApA8i4Jg6FAtBcV6M8Cvw/plain/s3://betalist-production/fknrgffnytmx4y40o94oz42ken95",
+    "og:description": "Launch your vertical drama app with shows and monthly new releases",
+    "og:url": "https://betalist.com/startups/titledeed-studios",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
     "url": "https://betalist.com/startups/toimii",
     "title": "Toimii: Forms, booking, and ordering tools for any website | BetaList",
     "date": "2026-10-12T09:55:09.192+06:00",
@@ -8533,6 +8786,17 @@
     "og:image": "https://media.betanews.com/uploads/2026/09/apple-patches-coregraphics-flaw-possibly-used-in-targeted-ip-07bb70c6b52f408a-50x50.webp",
     "og:description": "Apple is simultaneously embracing and fighting the rise of AI. While the company is keen to use artificial intelligence in its products, it also recognizes",
     "og:url": "https://betanews.com/article/apple-adds-new-controls-to-full-disk-access-in-macos-to-protect-against-ai-agents/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "betanews.com",
+    "url": "https://betanews.com/article/apple-iphone-duo-extraordinary-demand/",
+    "title": "Apple says extraordinary demand for foldable iPhone Duo means a long wait for buyers - BetaNews",
+    "date": "2026-10-19T09:16:50.059+06:00",
+    "og:title": "Apple says extraordinary demand for foldable iPhone Duo means a long wait for buyers - BetaNews",
+    "og:image": "https://media.betanews.com/uploads/2026/10/Apple-iPhone-Duo.webp",
+    "og:description": "Apple says that it has experienced “extraordinary” demand for its foldable iPhone Duo. The recently launched device – which costs anything from $2,000 to",
+    "og:url": "https://betanews.com/article/apple-iphone-duo-extraordinary-demand/",
     "og:type": "article"
   },
   {
@@ -10758,6 +11022,94 @@
     "og:type": "article"
   },
   {
+    "hostname": "borncity.com",
+    "url": "https://borncity.com/blog/2026/10/18/cyberangriff-auf-abc-bank-connectwise-cloud-backup-kompromittierung/",
+    "title": "Cyberangriff auf abc Bank; die CDU; ConnectWise Cloud Backup-KompromittierungBorns IT- und Windows-Blog",
+    "date": "2026-10-19T09:16:11.448+06:00",
+    "og:title": "Cyberangriff auf abc Bank; die CDU; ConnectWise Cloud Backup-Kompromittierung",
+    "og:image": "https://borncity.com/blog/wp-content/uploads/2021/04/Sicherheit_klein.jpg",
+    "og:description": "Ich fasse mal zwei Sicherheitsmeldungen zusammen, die mir die letzten Stunden untergekommen sind. Keine Ahnung, ob es eine Verbindung gibt. Leser haben mich darauf hingewiesen, dass die ABC-Bank einen…",
+    "og:url": "https://borncity.com/blog/2026/10/18/cyberangriff-auf-abc-bank-connectwise-cloud-backup-kompromittierung/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "borncity.com",
+    "url": "https://borncity.com/blog/2026/10/18/google-ai-studio-ermoeglicht-persoenliche-android-apps-gratis-zu-erstellen/",
+    "title": "Google AI Studio ermöglicht persönliche Android-Apps gratis zu erstellenBorns IT- und Windows-Blog",
+    "date": "2026-10-19T09:16:11.52+06:00",
+    "og:title": "Google AI Studio ermöglicht persönliche Android-Apps gratis zu erstellen",
+    "og:image": "https://borncity.com/blog/wp-content/uploads/2012/07/android.jpg",
+    "og:description": "Vibe Coding at its best: Google AI Studio ermöglicht Nutzer nun ihre eigenen persönlichen Apps zu erstellen. Die Apps werden aber nicht im öffentlichen Play Store angeboten, lassen sich aber mit…",
+    "og:url": "https://borncity.com/blog/2026/10/18/google-ai-studio-ermoeglicht-persoenliche-android-apps-gratis-zu-erstellen/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "borncity.com",
+    "url": "https://borncity.com/blog/2026/10/18/okt-2026-support-ende-fuer-windows-11-24h2-und-diverse-windows-server/",
+    "title": "Okt. 2026: Support-Ende für Windows 11 24H2 und diverse Windows ServerBorns IT- und Windows-Blog",
+    "date": "2026-10-19T09:16:11.502+06:00",
+    "og:title": "Okt. 2026: Support-Ende für Windows 11 24H2 und diverse Windows Server",
+    "og:image": "https://borncity.com/blog/wp-content/uploads/2021/04/Windows-klein.jpg",
+    "og:description": "Mit dem Oktober 2026-Patchday haben diverse Microsoft Windows-Versionen ihr Supportende erreicht. Windows 11 24H2 ist in den Consumer-Varianten aus dem Support gefallen, die 23H2 folgt im Enterprise…",
+    "og:url": "https://borncity.com/blog/2026/10/18/okt-2026-support-ende-fuer-windows-11-24h2-und-diverse-windows-server/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "borncity.com",
+    "url": "https://borncity.com/blog/2026/10/18/piloten-der-us-air-force-nutzte-usb-sticks-mit-malware-in-afghanistan/",
+    "title": "Piloten der US-Air Force nutzte USB-Sticks mit Malware in AfghanistanBorns IT- und Windows-Blog",
+    "date": "2026-10-19T09:16:11.46+06:00",
+    "og:title": "Piloten der US-Air Force nutzte USB-Sticks mit Malware in Afghanistan",
+    "og:image": "https://borncity.com/blog/wp-content/uploads/2021/04/Sicherheit_klein.jpg",
+    "og:description": "Kleiner Schlenker in die Zeit vor 20 Jahren, als sicherheitstechnisch noch „goldene Zeiten“ und Wildwuchs herrschte. Die US Air Force nutzte USB-Sticks, um Missionsdaten in ihre Flugzeuge zu…",
+    "og:url": "https://borncity.com/blog/2026/10/18/piloten-der-us-air-force-nutzte-usb-sticks-mit-malware-in-afghanistan/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "borncity.com",
+    "url": "https://borncity.com/blog/2026/10/19/active-directory-microsoft-365-security-identitaetsrisiken-in-hybriden-umgebungen-pruefen/",
+    "title": "Active Directory & Microsoft 365 Security: Identitätsrisiken in hybriden Umgebungen prüfenBorns IT- und Windows-Blog",
+    "date": "2026-10-19T09:16:11.177+06:00",
+    "og:title": "Active Directory & Microsoft 365 Security: Identitätsrisiken in hybriden Umgebungen prüfen",
+    "og:image": "https://borncity.com/blog/wp-content/uploads/2026/06/holm-logo-borncity-250-white-v2.jpg",
+    "og:description": "Werbung – In den meisten Organisationen laufen zwei Identitätssysteme (Active Directory und Microsoft Entra ID) parallel. Der Artikel zeigt, wo die beiden Systeme verbunden sind…",
+    "og:url": "https://borncity.com/blog/2026/10/19/active-directory-microsoft-365-security-identitaetsrisiken-in-hybriden-umgebungen-pruefen/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "borncity.com",
+    "url": "https://borncity.com/blog/2026/10/19/eco-umfrage-zu-ki-agenten-alles-ausser-kontrolle/",
+    "title": "eco-Umfrage zu KI-Agenten: Alles außer Kontrolle?Borns IT- und Windows-Blog",
+    "date": "2026-10-19T09:16:11.149+06:00",
+    "og:title": "eco-Umfrage zu KI-Agenten: Alles außer Kontrolle?",
+    "og:image": "https://borncity.com/blog/wp-content/uploads/2026/03/Copilot.jpg",
+    "og:description": "In letzter Zeit liest man häufiger die Befürchtung, dass die Entwicklung im Bereich „Künstliche Intelligenz“ außer Kontrolle sei. Speziell AI-Bots werfen doch deutliche Fragen der Sicherheit und auch…",
+    "og:url": "https://borncity.com/blog/2026/10/19/eco-umfrage-zu-ki-agenten-alles-ausser-kontrolle/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "borncity.com",
+    "url": "https://borncity.com/blog/2026/10/19/sicherheitsvorfall-bei-loxone/",
+    "title": "Sicherheitsvorfall bei Loxone (18. Okt. 2026)Borns IT- und Windows-Blog",
+    "date": "2026-10-19T09:16:11.161+06:00",
+    "og:title": "Sicherheitsvorfall bei Loxone (18. Okt. 2026)",
+    "og:image": "https://borncity.com/blog/wp-content/uploads/2021/04/Sicherheit_klein.jpg",
+    "og:description": "Blog-Leser Cedric hat mich zum Wochenende über eine Meldung von Loxone informiert, die einen Cybervorfall in ihrer IT hatten. Bereits zum 18. Oktober 2026 wurden ungewöhnliche Aktivitäten festgestellt…",
+    "og:url": "https://borncity.com/blog/2026/10/19/sicherheitsvorfall-bei-loxone/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "borncity.com",
+    "url": "https://borncity.com/blog/2026/10/19/windows-11-update-kb5127648-stoert-smart-app-control/",
+    "title": "Windows 11: Update KB5127648 stört Smart App ControlBorns IT- und Windows-Blog",
+    "date": "2026-10-19T09:16:11.12+06:00",
+    "og:title": "Windows 11: Update KB5127648 stört Smart App Control",
+    "og:image": "https://borncity.com/blog/wp-content/uploads/2021/04/Windows-klein.jpg",
+    "og:description": "Kurze Information für Nutzer von Windows 11 24H2 – 26H2, die das Update KB5127648 vom 13. Oktober 2026 installiert haben. Microsoft hat ein „Known Issues“ ergänzt, nach dem dieses Update die Windows…",
+    "og:url": "https://borncity.com/blog/2026/10/19/windows-11-update-kb5127648-stoert-smart-app-control/",
+    "og:type": "article"
+  },
+  {
     "hostname": "bradfrost.com",
     "url": "https://bradfrost.com/blog/post/laser-storm/",
     "title": "Laser Storm | Brad Frost",
@@ -11473,6 +11825,182 @@
     "og:type": "article"
   },
   {
+    "hostname": "bugaga.ru",
+    "url": "https://bugaga.ru/jokes/1146793659-vse-vazhnye-dela-podozhdut-poka-my-smotrim-memy.html",
+    "title": "Мемы для тех, кто устал от серьёзности | Bugaga.ru",
+    "date": "2026-10-19T09:16:36.95+06:00",
+    "og:title": "Мемы для тех, кто устал от серьёзности | Bugaga.ru",
+    "og:image": "https://bugaga.ru/uploads/posts/2026-10/photo_9_2026-10-17_07-24-12.jpg",
+    "og:description": "Пора ненадолго забыть о серьёзных делах и отвлечься от рутины. Листайте подборку смешных мемов, ловите знакомые ситуации и позвольте себе улыбнуться! Пора ненадолго забыть о серьёзных делах и отвлечься от рутины. Листайте подборку смешных мемов, ловите знакомые ситуации и позвольте себе улыбнуться!",
+    "og:url": "https://bugaga.ru/jokes/1146793659-vse-vazhnye-dela-podozhdut-poka-my-smotrim-memy.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "bugaga.ru",
+    "url": "https://bugaga.ru/jokes/1146793660-kogda-hochetsja-vsego-ponemnogu-osobenno-horoshego-jumora.html",
+    "title": "Подборка смешных мемов для любого настроения | Bugaga.ru",
+    "date": "2026-10-19T09:16:36.937+06:00",
+    "og:title": "Подборка смешных мемов для любого настроения | Bugaga.ru",
+    "og:image": "https://bugaga.ru/uploads/posts/2026-10/photo_13_2026-10-17_22-50-14.jpg",
+    "og:description": "Здесь нет одной темы, зато хватает жизненного юмора и неожиданных шуток. Загляните в подборку, найдите мем под настроение и поделитесь улыбкой с друзьями! Здесь нет одной темы, зато хватает жизненного юмора и неожиданных шуток. Загляните в подборку, найдите мем под настроение и поделитесь улыбкой с",
+    "og:url": "https://bugaga.ru/jokes/1146793660-kogda-hochetsja-vsego-ponemnogu-osobenno-horoshego-jumora.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "bugaga.ru",
+    "url": "https://bugaga.ru/jokes/1146793661-inogda-luchshij-otdyh-jeto-prosto-posmejatsja.html",
+    "title": "Весёлые мемы и картинки для отличного отдыха | Bugaga.ru",
+    "date": "2026-10-19T09:16:36.923+06:00",
+    "og:title": "Весёлые мемы и картинки для отличного отдыха | Bugaga.ru",
+    "og:image": "https://bugaga.ru/uploads/posts/2026-10/photo_14_2026-10-17_22-52-16.jpg",
+    "og:description": "Если хочется отвлечься от забот, самое время устроить себе небольшой юмористический перерыв. Смотрите мемы, узнавайте знакомые ситуации и отдыхайте с улыбкой! Если хочется отвлечься от забот, самое время устроить себе небольшой юмористический перерыв. Смотрите мемы, узнавайте знакомые ситуации и",
+    "og:url": "https://bugaga.ru/jokes/1146793661-inogda-luchshij-otdyh-jeto-prosto-posmejatsja.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "bugaga.ru",
+    "url": "https://bugaga.ru/jokes/1146793662-obychnye-ljudi-strannye-situacii-i-more-memov.html",
+    "title": "Мемы про жизнь, людей и повседневность | Bugaga.ru",
+    "date": "2026-10-19T09:16:36.91+06:00",
+    "og:title": "Мемы про жизнь, людей и повседневность | Bugaga.ru",
+    "og:image": "https://bugaga.ru/uploads/posts/2026-10/photo_1_2026-10-17_22-54-49.jpg",
+    "og:description": "Повседневные привычки, знакомые люди и забавные случайности — неиссякаемый источник интернет-юмора. Листайте подборку и найдите мем, похожий на вашу жизнь! Повседневные привычки, знакомые люди и забавные случайности — неиссякаемый источник интернет-юмора. Листайте подборку и найдите мем, похожий на",
+    "og:url": "https://bugaga.ru/jokes/1146793662-obychnye-ljudi-strannye-situacii-i-more-memov.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "bugaga.ru",
+    "url": "https://bugaga.ru/jokes/1146793663-vecher-sozdan-dlja-otdyha-ujutnyh-melochej-i-memov.html",
+    "title": "Лучшие смешные картинки для вечернего отдыха | Bugaga.ru",
+    "date": "2026-10-19T09:16:36.895+06:00",
+    "og:title": "Лучшие смешные картинки для вечернего отдыха | Bugaga.ru",
+    "og:image": "https://bugaga.ru/uploads/posts/2026-10/photo_8_2026-09-27_01-07-23.jpg",
+    "og:description": "День подходит к концу, а значит, пора расслабиться и немного посмеяться. Открывайте подборку смешных картинок, устраивайтесь поудобнее и отдыхайте от суеты! День подходит к концу, а значит, пора расслабиться и немного посмеяться. Открывайте подборку смешных картинок, устраивайтесь поудобнее и",
+    "og:url": "https://bugaga.ru/jokes/1146793663-vecher-sozdan-dlja-otdyha-ujutnyh-melochej-i-memov.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "bugaga.ru",
+    "url": "https://bugaga.ru/jokes/1146793664-kogda-kazhdyj-mem-kazhetsja-idealnym-dlja-peresylki.html",
+    "title": "Свежая подборка мемов, которые хочется сохранить | Bugaga.ru",
+    "date": "2026-10-19T09:16:36.876+06:00",
+    "og:title": "Свежая подборка мемов, которые хочется сохранить | Bugaga.ru",
+    "og:image": "https://bugaga.ru/uploads/posts/2026-10/photo_13_2026-10-17_22-59-34.jpg",
+    "og:description": "Попадаются шутки, которые хочется сохранить или немедленно отправить друзьям. Смотрите подборку мемов, выбирайте самые удачные картинки и делитесь настроением! Попадаются шутки, которые хочется сохранить или немедленно отправить друзьям. Смотрите подборку мемов, выбирайте самые удачные картинки и",
+    "og:url": "https://bugaga.ru/jokes/1146793664-kogda-kazhdyj-mem-kazhetsja-idealnym-dlja-peresylki.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "bugaga.ru",
+    "url": "https://bugaga.ru/jokes/1146793665-objasnjat-ne-pridetsja-zdes-vse-ponjatno-bez-slov.html",
+    "title": "Смешные мемы для тех, кто понимает этот юмор | Bugaga.ru",
+    "date": "2026-10-19T09:16:36.855+06:00",
+    "og:title": "Смешные мемы для тех, кто понимает этот юмор | Bugaga.ru",
+    "og:image": "https://bugaga.ru/uploads/posts/2026-10/photo_7_2026-10-17_23-01-20.jpg",
+    "og:description": "Иногда достаточно одного взгляда на картинку, чтобы рассмеяться. В этой подборке собраны мемы с узнаваемыми ситуациями и неожиданными шутками. Скорее смотрите! Иногда достаточно одного взгляда на картинку, чтобы рассмеяться. В этой подборке собраны мемы с узнаваемыми ситуациями и неожиданными",
+    "og:url": "https://bugaga.ru/jokes/1146793665-objasnjat-ne-pridetsja-zdes-vse-ponjatno-bez-slov.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "bugaga.ru",
+    "url": "https://bugaga.ru/jokes/1146793666-oficialnyj-povod-otlozhit-dela-i-posmejatsja.html",
+    "title": "Подборка приколов, чтобы отвлечься от дел | Bugaga.ru",
+    "date": "2026-10-19T09:16:36.839+06:00",
+    "og:title": "Подборка приколов, чтобы отвлечься от дел | Bugaga.ru",
+    "og:image": "https://bugaga.ru/uploads/posts/2026-10/photo_15_2026-10-17_23-03-14.jpg",
+    "og:description": "Рабочие задачи никуда не денутся, а хорошее настроение пригодится прямо сейчас. Загляните в подборку мемов, отвлекитесь от рутины и найдите повод улыбнуться! Рабочие задачи никуда не денутся, а хорошее настроение пригодится прямо сейчас. Загляните в подборку мемов, отвлекитесь от рутины и найдите",
+    "og:url": "https://bugaga.ru/jokes/1146793666-oficialnyj-povod-otlozhit-dela-i-posmejatsja.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "bugaga.ru",
+    "url": "https://bugaga.ru/jokes/1146793667-oficialnyj-povod-otlozhit-dela-i-posmejatsja.html",
+    "title": "Подборка приколов, чтобы отвлечься от дел | Bugaga.ru",
+    "date": "2026-10-19T09:16:36.548+06:00",
+    "og:title": "Подборка приколов, чтобы отвлечься от дел | Bugaga.ru",
+    "og:image": "https://bugaga.ru/uploads/posts/2026-10/photo_15_2026-10-17_23-03-14.jpg",
+    "og:description": "Рабочие задачи никуда не денутся, а хорошее настроение пригодится прямо сейчас. Загляните в подборку мемов, отвлекитесь от рутины и найдите повод улыбнуться! Рабочие задачи никуда не денутся, а хорошее настроение пригодится прямо сейчас. Загляните в подборку мемов, отвлекитесь от рутины и найдите",
+    "og:url": "https://bugaga.ru/jokes/1146793667-oficialnyj-povod-otlozhit-dela-i-posmejatsja.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "bugaga.ru",
+    "url": "https://bugaga.ru/jokes/1146793668-universalnyj-recept-ot-skuki-i-odnoobrazija.html",
+    "title": "Мемы для хорошего настроения на каждый день | Bugaga.ru",
+    "date": "2026-10-19T09:16:36.527+06:00",
+    "og:title": "Мемы для хорошего настроения на каждый день | Bugaga.ru",
+    "og:image": "https://bugaga.ru/uploads/posts/2026-10/photo_11_2026-10-18_23-24-24.jpg",
+    "og:description": "Скучно, хочется улыбнуться или просто нечего делать? Эта подборка мемов поможет переключиться на юмор. Листайте картинки и выбирайте шутки по настроению! Скучно, хочется улыбнуться или просто нечего делать? Эта подборка мемов поможет переключиться на юмор. Листайте картинки и выбирайте шутки по",
+    "og:url": "https://bugaga.ru/jokes/1146793668-universalnyj-recept-ot-skuki-i-odnoobrazija.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "bugaga.ru",
+    "url": "https://bugaga.ru/jokes/1146793669-kogda-den-poshel-ne-po-planu-spasajut-memy.html",
+    "title": "Смешные мемасики на случай плохого дня | Bugaga.ru",
+    "date": "2026-10-19T09:16:36.508+06:00",
+    "og:title": "Смешные мемасики на случай плохого дня | Bugaga.ru",
+    "og:image": "https://bugaga.ru/uploads/posts/2026-10/photo_13_2026-10-18_23-26-04.jpg",
+    "og:description": "Не каждый день бывает удачным, но это не повод отказываться от смеха. Открывайте подборку мемов, отвлекайтесь от неприятностей и находите что-нибудь забавное! Не каждый день бывает удачным, но это не повод отказываться от смеха. Открывайте подборку мемов, отвлекайтесь от неприятностей и находите",
+    "og:url": "https://bugaga.ru/jokes/1146793669-kogda-den-poshel-ne-po-planu-spasajut-memy.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "bugaga.ru",
+    "url": "https://bugaga.ru/jokes/1146793670-u-kazhdogo-druga-est-mem-kotoryj-opisyvaet-ego-idealno.html",
+    "title": "Лучшие мемы для дружеских переписок и чатов | Bugaga.ru",
+    "date": "2026-10-19T09:16:36.491+06:00",
+    "og:title": "Лучшие мемы для дружеских переписок и чатов | Bugaga.ru",
+    "og:image": "https://bugaga.ru/uploads/posts/2026-10/photo_11_2026-10-18_23-27-53.jpg",
+    "og:description": "Некоторые мемы словно созданы для дружеских переписок. Листайте подборку, вспоминайте знакомых, находите меткие шутки и отправляйте их тем, кто оценит юмор! Некоторые мемы словно созданы для дружеских переписок. Листайте подборку, вспоминайте знакомых, находите меткие шутки и отправляйте их тем,",
+    "og:url": "https://bugaga.ru/jokes/1146793670-u-kazhdogo-druga-est-mem-kotoryj-opisyvaet-ego-idealno.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "bugaga.ru",
+    "url": "https://bugaga.ru/jokes/1146793671-internet-snova-dokazyvaet-chto-skuchat-nekogda.html",
+    "title": "Смешные картинки для любителей интернет-юмора | Bugaga.ru",
+    "date": "2026-10-19T09:16:36.468+06:00",
+    "og:title": "Смешные картинки для любителей интернет-юмора | Bugaga.ru",
+    "og:image": "https://bugaga.ru/uploads/posts/2026-10/photo_7_2026-10-18_23-29-35.jpg",
+    "og:description": "Интернет не перестаёт удивлять своей фантазией. Загляните в подборку смешных картинок, чтобы встретить неожиданные шутки, жизненные ситуации и немного абсурда! Интернет не перестаёт удивлять своей фантазией. Загляните в подборку смешных картинок, чтобы встретить неожиданные шутки, жизненные",
+    "og:url": "https://bugaga.ru/jokes/1146793671-internet-snova-dokazyvaet-chto-skuchat-nekogda.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "bugaga.ru",
+    "url": "https://bugaga.ru/jokes/1146793672-kogda-mem-nastolko-zhiznennyj-chto-dazhe-nelovko.html",
+    "title": "Мемы, которые слишком хорошо описывают жизнь | Bugaga.ru",
+    "date": "2026-10-19T09:16:36.455+06:00",
+    "og:title": "Мемы, которые слишком хорошо описывают жизнь | Bugaga.ru",
+    "og:image": "https://bugaga.ru/uploads/posts/2026-10/photo_15_2026-10-18_23-31-16.jpg",
+    "og:description": "Знакомые мысли и повседневные ситуации иногда выглядят особенно смешно в формате мемов. Листайте подборку, узнавайте себя и отправляйте друзьям самые точные шутки! Знакомые мысли и повседневные ситуации иногда выглядят особенно смешно в формате мемов. Листайте подборку, узнавайте себя и отправляйте",
+    "og:url": "https://bugaga.ru/jokes/1146793672-kogda-mem-nastolko-zhiznennyj-chto-dazhe-nelovko.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "bugaga.ru",
+    "url": "https://bugaga.ru/jokes/1146793673-horoshee-nastroenie-nachinaetsja-s-malenkoj-porcii-jumora.html",
+    "title": "Смешные приколы для тех, кому нужна улыбка | Bugaga.ru",
+    "date": "2026-10-19T09:16:36.442+06:00",
+    "og:title": "Смешные приколы для тех, кому нужна улыбка | Bugaga.ru",
+    "og:image": "https://bugaga.ru/uploads/posts/2026-10/photo_11_2026-10-18_23-32-53.jpg",
+    "og:description": "Иногда достаточно нескольких смешных картинок, чтобы день стал чуточку лучше. Открывайте подборку мемов, отдыхайте от забот и находите повод улыбнуться! Иногда достаточно нескольких смешных картинок, чтобы день стал чуточку лучше. Открывайте подборку мемов, отдыхайте от забот и находите повод",
+    "og:url": "https://bugaga.ru/jokes/1146793673-horoshee-nastroenie-nachinaetsja-s-malenkoj-porcii-jumora.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "bugaga.ru",
+    "url": "https://bugaga.ru/jokes/1146793674-nikakoj-obschej-temy-zato-kazhdyj-najdet-svoj-mem.html",
+    "title": "Мемы без темы, зато с отличным чувством юмора | Bugaga.ru",
+    "date": "2026-10-19T09:16:36.433+06:00",
+    "og:title": "Мемы без темы, зато с отличным чувством юмора | Bugaga.ru",
+    "og:image": "https://bugaga.ru/uploads/posts/2026-10/photo_15_2026-10-18_23-34-35.jpg",
+    "og:description": "Здесь собраны мемы на самые разные случаи жизни: от узнаваемых ситуаций до полного абсурда. Загляните в подборку, листайте картинки и выбирайте любимые! Здесь собраны мемы на самые разные случаи жизни: от узнаваемых ситуаций до полного абсурда. Загляните в подборку, листайте картинки и выбирайте",
+    "og:url": "https://bugaga.ru/jokes/1146793674-nikakoj-obschej-temy-zato-kazhdyj-najdet-svoj-mem.html",
+    "og:type": "article"
+  },
+  {
     "hostname": "burninghut.ru",
     "url": "https://burninghut.ru/dofaminovie-tovary/",
     "title": "8 недорогих вещей с AliExpress, если нужна порция дофамина прямо сейчас - Горящая изба",
@@ -11569,6 +12097,17 @@
     "og:image": "https://burninghut.ru/wp-content/uploads/2026/10/Oblozhka-Izba-3-768x512.jpg",
     "og:description": "Лучшие находки с межсезонной распродажи.",
     "og:url": "https://burninghut.ru/rasprodazha-sela/",
+    "og:type": "website"
+  },
+  {
+    "hostname": "burninghut.ru",
+    "url": "https://burninghut.ru/serialy-o-zhenskoj-yarosti/",
+    "title": "Больше не хорошая девочка: 10 лучших сериалов о женской ярости - Горящая изба",
+    "date": "2026-10-19T09:16:36.59+06:00",
+    "og:title": "Больше не хорошая девочка: 10 лучших сериалов о женской ярости - Горящая изба",
+    "og:image": "https://burninghut.ru/wp-content/uploads/2026/10/Eva-1-768x512.jpeg",
+    "og:description": "Собрали 10 увлекательных сериалов, где женщинам наконец-то дали право на злость, и гнев стал их главным оружием.",
+    "og:url": "https://burninghut.ru/serialy-o-zhenskoj-yarosti/",
     "og:type": "website"
   },
   {
@@ -14586,6 +15125,39 @@
     "og:type": ""
   },
   {
+    "hostname": "distrowatch.com",
+    "url": "https://distrowatch.com/?newsid=12994",
+    "title": "Distribution Release: Synex 26.10.17 (DistroWatch.com News)",
+    "date": "2026-10-19T09:17:07.537+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "distrowatch.com",
+    "url": "https://distrowatch.com/?newsid=12995",
+    "title": "Distribution Release: CobaltX 0.3 (DistroWatch.com News)",
+    "date": "2026-10-19T09:17:07.505+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "distrowatch.com",
+    "url": "https://distrowatch.com/?newsid=12996",
+    "title": "DistroWatch Weekly, Issue 1195 (DistroWatch.com News)",
+    "date": "2026-10-19T09:17:07.449+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
     "hostname": "draganbabic.com",
     "url": "https://draganbabic.com/blog/design-is-a-nice-to-have/",
     "title": "Design is a nice-to-have — Dragan Babić",
@@ -15771,6 +16343,17 @@
     "og:image": "https://cdn.fishki.net/upload/post/2026/10/12/5118346/photo-2026-10-07-17-51-53.jpg",
     "og:description": "Подборка демотиваторов на самые разные темы, чтобы рабочий день недели был лёгким и позитивным – Самые лучшие и интересные демотиваторы по теме: Демотиваторы, Прикол, Юмор на развлекательном портале Fishki.net",
     "og:url": "https://fishki.net/demotivation/5118346-kogda-zhizny-sama-podkidyvaet-povody-dlja-demotivatorov.html",
+    "og:type": "article"
+  },
+  {
+    "hostname": "fishki.net",
+    "url": "https://fishki.net/demotivation/5122584-podborka-demotivatorov-na-vse-sluchai.html",
+    "title": "Подборка демотиваторов на все случаи",
+    "date": "2026-10-19T09:16:36.32+06:00",
+    "og:title": "Подборка демотиваторов на все случаи",
+    "og:image": "https://cdn.fishki.net/upload/post/2026/10/19/5122584/gallery/tn/fotoram-io.jpg",
+    "og:description": "Подборка демотиваторов на самые разные темы, чтобы рабочий день недели был лёгким и позитивным – Самые лучшие и интересные демотиваторы по теме: Демотиваторы, Прикол, Юмор на развлекательном портале Fishki.net",
+    "og:url": "https://fishki.net/demotivation/5122584-podborka-demotivatorov-na-vse-sluchai.html",
     "og:type": "article"
   },
   {
@@ -41910,6 +42493,50 @@
     "og:type": "article"
   },
   {
+    "hostname": "ixdf.org",
+    "url": "https://ixdf.org/literature/article/4-ui-design-tips-every-designer-needs-to-know",
+    "title": "4 UI Design Tips Every Designer Needs to Know | IxDF",
+    "date": "2026-10-19T09:20:56.498+06:00",
+    "og:title": "4 UI Design Tips Every Designer Needs to Know",
+    "og:image": "https://public-images.interaction-design.org/og-images/article/4abd68de8bed0eaec344bf385a466e40.jpg",
+    "og:description": "UI design is essential to build a good UX. Learn about the correct use of typography, color and grids, and best practices to design buttons and take your UI designs to the next level.",
+    "og:url": "https://ixdf.org/literature/article/4-ui-design-tips-every-designer-needs-to-know",
+    "og:type": "article"
+  },
+  {
+    "hostname": "ixdf.org",
+    "url": "https://ixdf.org/literature/article/how-to-become-a-product-manager",
+    "title": "How to Become a Product Manager: Best Career Advice | IxDF",
+    "date": "2026-10-19T09:20:56.564+06:00",
+    "og:title": "How to Become a Product Manager: Best Career Advice",
+    "og:image": "https://public-images.interaction-design.org/og-images/article/f8d28f368ed3789470deba6f5a08bb00.jpg",
+    "og:description": "Read our ultimate guide on becoming a product manager in 2023. Learn the steps, skills, and strategies to start your career in this high-demand role.",
+    "og:url": "https://ixdf.org/literature/article/how-to-become-a-product-manager",
+    "og:type": "article"
+  },
+  {
+    "hostname": "ixdf.org",
+    "url": "https://ixdf.org/literature/article/structure-first-the-inverted-pyramid-and-visual-organization",
+    "title": "Structure First: The Inverted Pyramid and Visual Organization | IxDF",
+    "date": "2026-10-19T09:20:56.572+06:00",
+    "og:title": "Structure First: The Inverted Pyramid and Visual Organization",
+    "og:image": "https://public-images.interaction-design.org/og-images/article/e55ead7f3863baee6e81cc28ab73961b.jpg",
+    "og:description": "Learn how the inverted pyramid approach and visual hierarchy make web content scannable, clear, and easy to read. Key UX principles for web writers.",
+    "og:url": "https://ixdf.org/literature/article/structure-first-the-inverted-pyramid-and-visual-organization",
+    "og:type": "article"
+  },
+  {
+    "hostname": "ixdf.org",
+    "url": "https://ixdf.org/literature/article/use-case-ux",
+    "title": "How to Design Use Cases in UX | IxDF",
+    "date": "2026-10-19T09:20:56.556+06:00",
+    "og:title": "How to Design Use Cases in UX",
+    "og:image": "https://public-images.interaction-design.org/og-images/article/b1c1274190c2b90e0f60cb2488a9805c.jpg",
+    "og:description": "Discover real-life UX use cases from mobile apps to e-commerce sites. Delve into the process of creation and learn from the most common pitfalls.",
+    "og:url": "https://ixdf.org/literature/article/use-case-ux",
+    "og:type": "article"
+  },
+  {
     "hostname": "jakearchibald.com",
     "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
     "title": "JPEG XL vs AVIF for web use-cases - JakeArchibald.com",
@@ -43286,6 +43913,17 @@
   },
   {
     "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/100329-stillness-creative-agency-webflow-template",
+    "title": "Stillness - Creative Agency Webflow Template | Landbook",
+    "date": "2026-10-19T09:15:33.608+06:00",
+    "og:title": "Stillness - Creative Agency Webflow Template | Landbook",
+    "og:image": "https://cdn.land-book.com/website/100329/100329-stillness-creative-agency-webflow-template-1790588564-og-image.webp",
+    "og:description": "Stillness - Creative Agency Webflow Template, $99. Design by Guilty as Foxx. Live preview, pricing and details on Landbook.",
+    "og:url": "https://land-book.com/websites/100329-stillness-creative-agency-webflow-template",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
     "url": "https://land-book.com/websites/100366-nick-your-ai-trading-agent",
     "title": "Nick: your AI trading agent on Landbook - get inspired by landing design and more",
     "date": "2026-10-01T02:02:24.746+06:00",
@@ -43627,6 +44265,17 @@
   },
   {
     "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/100965-ramp-router-the-llm-gateway-that-cuts-inference-costs",
+    "title": "Ramp Router: The LLM Gateway That Cuts Inference Costs on Landbook - get inspired by landing design and more",
+    "date": "2026-10-19T09:15:33.601+06:00",
+    "og:title": "Ramp Router: The LLM Gateway That Cuts Inference Costs on Landbook - get inspired by landing design and more",
+    "og:image": "https://cdn.land-book.com/website/100965/100965-ramp-router-the-llm-gateway-that-cuts-inference-1792398675-og-image.webp",
+    "og:description": "Ramp Router: The LLM Gateway That Cuts Inference Costs on Landbook - get inspired by landing design and more",
+    "og:url": "https://land-book.com/websites/100965-ramp-router-the-llm-gateway-that-cuts-inference-costs",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
     "url": "https://land-book.com/websites/100966-the-raycast-keyboard",
     "title": "The Raycast Keyboard on Landbook - get inspired by landing design and more",
     "date": "2026-10-16T08:21:16.647+06:00",
@@ -43704,6 +44353,17 @@
   },
   {
     "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/101080-colmez-powering-next-generation-hazardous-waste-teams",
+    "title": "Colmez: Powering next-generation hazardous waste teams on Landbook - get inspired by landing design and more",
+    "date": "2026-10-19T09:15:33.596+06:00",
+    "og:title": "Colmez: Powering next-generation hazardous waste teams on Landbook - get inspired by landing design and more",
+    "og:image": "https://cdn.land-book.com/website/101080/101080-colmez-powering-next-generation-hazardous-waste-1792398775-og-image.webp",
+    "og:description": "Colmez: Powering next-generation hazardous waste teams on Landbook - get inspired by landing design and more",
+    "og:url": "https://land-book.com/websites/101080-colmez-powering-next-generation-hazardous-waste-teams",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
     "url": "https://land-book.com/websites/101135-paypath-powering-the-world-s-largest-financial-systems",
     "title": "PayPath | Powering the world's largest financial systems on Landbook - get inspired by landing design and more",
     "date": "2026-10-14T13:47:21.781+06:00",
@@ -43777,6 +44437,28 @@
     "og:image": "https://cdn.land-book.com/website/101200/101200-roundhouse-real-estate-development-and-investment-1792137843-og-image.webp",
     "og:description": "Roundhouse | Real Estate Development & Investment, Western United States on Landbook - get inspired by portfolio design and more",
     "og:url": "https://land-book.com/websites/101200-roundhouse-real-estate-development-and-investment-western-united-states",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/101267-thrad-paid-ads-in-ai-the-dsp-for-llms",
+    "title": "Thrad: Paid Ads in AI - The DSP for LLMs on Landbook - get inspired by landing design and more",
+    "date": "2026-10-19T09:15:33.588+06:00",
+    "og:title": "Thrad: Paid Ads in AI - The DSP for LLMs on Landbook - get inspired by landing design and more",
+    "og:image": "https://cdn.land-book.com/website/101267/101267-thrad-paid-ads-in-ai-the-dsp-for-llms-1792398859-og-image.webp",
+    "og:description": "Thrad: Paid Ads in AI - The DSP for LLMs on Landbook - get inspired by landing design and more",
+    "og:url": "https://land-book.com/websites/101267-thrad-paid-ads-in-ai-the-dsp-for-llms",
+    "og:type": "website"
+  },
+  {
+    "hostname": "land-book.com",
+    "url": "https://land-book.com/websites/101400-eadem-everyday-skin-and-lip-care-clinically-tested-for-daily-use",
+    "title": "EADEM | Everyday skin & lip care, clinically tested for daily use on Landbook - get inspired by ecommerce design and more",
+    "date": "2026-10-19T09:15:33.618+06:00",
+    "og:title": "EADEM | Everyday skin & lip care, clinically tested for daily use on Landbook - get inspired by ecommerce design and more",
+    "og:image": "https://cdn.land-book.com/website/101400/101400-eadem-everyday-skin-and-lip-care-clinically-1792398533-og-image.webp",
+    "og:description": "EADEM | Everyday skin & lip care, clinically tested for daily use on Landbook - get inspired by ecommerce design and more",
+    "og:url": "https://land-book.com/websites/101400-eadem-everyday-skin-and-lip-care-clinically-tested-for-daily-use",
     "og:type": "website"
   },
   {
@@ -44360,6 +45042,17 @@
     "og:image": "https://cdn.lifehacker.ru/wp-content/uploads/2026/10/w1500_56560423_1536x768_1790851311.jpg",
     "og:description": "Изначально планировалось, что главную роль исполнит Джейсон Момоа, но он покинул команду по неизвестным причинам.",
     "og:url": "https://lifehacker.ru/alan-richson-sygraet-v-filme-po-helldivers/",
+    "og:type": "website"
+  },
+  {
+    "hostname": "lifehacker.ru",
+    "url": "https://lifehacker.ru/algoritmicheskaya-predvzyatost/",
+    "title": "Может ли чат-бот быть расистом? Что такое алгоритмическая предвзятость — Лайфхакер",
+    "date": "2026-10-19T09:16:36.56+06:00",
+    "og:title": "Может ли чат-бот быть расистом? Что такое алгоритмическая предвзятость — Лайфхакер",
+    "og:image": "https://cdn.lifehacker.ru/wp-content/uploads/2026/10/Mozhet_li_chat_bot_byt_rasistom_CHto_takoe_algoritmicheskaya_predvzyatost_2_1792164630.jpg",
+    "og:description": "Объясняем, что значит «алгоритмическая предвзятость», и рассказываем, могут ли ИИ-помощники быть рациональными и объективными на самом деле.",
+    "og:url": "https://lifehacker.ru/algoritmicheskaya-predvzyatost/",
     "og:type": "website"
   },
   {
@@ -45449,6 +46142,17 @@
     "og:image": "https://cdn.lifehacker.ru/wp-content/uploads/2026/10/e683ef0c_bf94_4724_bbf4_7f9891b66f02_3000x1493_1791535058.jpg",
     "og:description": "В сериале «Кэрри» Майк Флэнаган сильно уходит от оригинальной книги Стивена Кинга, но предлагает новые темы.",
     "og:url": "https://lifehacker.ru/kerri-serial-2026/",
+    "og:type": "website"
+  },
+  {
+    "hostname": "lifehacker.ru",
+    "url": "https://lifehacker.ru/knigi-pro-peremeny/",
+    "title": "10 книг для тех, кто стоит на пороге перемен — Лайфхакер",
+    "date": "2026-10-19T09:16:36.628+06:00",
+    "og:title": "10 книг для тех, кто стоит на пороге перемен — Лайфхакер",
+    "og:image": "https://cdn.lifehacker.ru/wp-content/uploads/2026/10/cover_1791887985.jpeg",
+    "og:description": "От практической психологии до романов о втором шансе — собрали самые разные книги для тех, кто сейчас особенно нуждается в поддержке.",
+    "og:url": "https://lifehacker.ru/knigi-pro-peremeny/",
     "og:type": "website"
   },
   {
@@ -46553,6 +47257,17 @@
   },
   {
     "hostname": "lifehacker.ru",
+    "url": "https://lifehacker.ru/recipe/apelsinovyj-keks-bez-kefira-i-moloka/",
+    "title": "Влажный апельсиновый кекс без кефира и молока — Лайфхакер",
+    "date": "2026-10-19T09:16:36.769+06:00",
+    "og:title": "Влажный апельсиновый кекс без кефира и молока — Лайфхакер",
+    "og:image": "https://cdn.lifehacker.ru/wp-content/uploads/2026/10/apelsinovyj_keks_1791900168.jpg",
+    "og:description": "Цедра апельсинов и сок придают выпечке яркий цитрусовый аромат. Кекс отлично подходит к чаю или кофе и остаётся мягким несколько дней.",
+    "og:url": "https://lifehacker.ru/recipe/apelsinovyj-keks-bez-kefira-i-moloka/",
+    "og:type": "website"
+  },
+  {
+    "hostname": "lifehacker.ru",
     "url": "https://lifehacker.ru/recipe/bezdrozhzhevoi-xleb-iz-tykvy-na-kefire/",
     "title": "Рецепт простого бездрожжевого хлеба из тыквы на кефире — Лайфхакер",
     "date": "2026-10-09T13:31:10.874+06:00",
@@ -46582,6 +47297,17 @@
     "og:image": "http://cdn.lifehacker.ru/wp-content/uploads/2026/10/Zavtrak_s_Lajfxakerom_bulochki_1791374536.jpg",
     "og:description": "Такие булочки можно сделать в сладком или несладком вариантах: добавить к творогу сахар и корицу или соль и зелень — решайте сами.",
     "og:url": "https://lifehacker.ru/recipe/bulochki-s-tvorogom-iz-sloyonogo-testa/",
+    "og:type": "website"
+  },
+  {
+    "hostname": "lifehacker.ru",
+    "url": "https://lifehacker.ru/recipe/bystrye-belkovye-pirozhki-iz-testa-filo/",
+    "title": "Быстрые белковые пирожки из теста фило — можно и в духовке, и на сковороде, и в аэрогриле — Лайфхакер",
+    "date": "2026-10-19T09:16:36.573+06:00",
+    "og:title": "Быстрые белковые пирожки из теста фило — можно и в духовке, и на сковороде, и в аэрогриле — Лайфхакер",
+    "og:image": "http://cdn.lifehacker.ru/wp-content/uploads/2026/10/tvorozhnye_pirozhki_1791901359.jpg",
+    "og:description": "Тонкое тесто фило делает пирожки невероятно хрустящими, а начинка из варёной грудки, творога и сыра делает выпечку сытной.",
+    "og:url": "https://lifehacker.ru/recipe/bystrye-belkovye-pirozhki-iz-testa-filo/",
     "og:type": "website"
   },
   {
@@ -47950,6 +48676,17 @@
   },
   {
     "hostname": "lifehacker.ru",
+    "url": "https://lifehacker.ru/veshhi-dlya-osobogo-sluchaya/",
+    "title": "5 причин вынести мусор в вечернем наряде и достать праздничный сервиз в обычный вторник — Лайфхакер",
+    "date": "2026-10-19T09:16:36.745+06:00",
+    "og:title": "5 причин вынести мусор в вечернем наряде и достать праздничный сервиз в обычный вторник — Лайфхакер",
+    "og:image": "https://cdn.lifehacker.ru/wp-content/uploads/2026/10/5_prichin_vynesti_musor_v_vechernem_naryade_i_dostat_prazdnichnyj_1792146555.jpg",
+    "og:description": "Автор Лайфхакера объясняет, почему вам не надо беречь вещи для особого случая и пора начать пользоваться ими прямо сейчас.",
+    "og:url": "https://lifehacker.ru/veshhi-dlya-osobogo-sluchaya/",
+    "og:type": "website"
+  },
+  {
+    "hostname": "lifehacker.ru",
     "url": "https://lifehacker.ru/veshhi-dlya-sobak/",
     "title": "12 вещей, которые сильно упростили мою жизнь с собакой — Лайфхакер",
     "date": "2026-10-12T02:29:30.078+06:00",
@@ -48386,6 +49123,17 @@
     "og:image": "https://luminous-landscape.com/wp-content/uploads/2026/10/Alex-webb-park-slope-2018.jpg",
     "og:description": "Aperture opens its new Upper West Side home with Aperture Loves New York, featuring 24 photographers and decades of New York photography.",
     "og:url": "https://luminous-landscape.com/aperture-comes-home-to-new-york/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "luminous-landscape.com",
+    "url": "https://luminous-landscape.com/bolo-photographers-lumix-turns-25-and-takes-the-party-on-the-road/",
+    "title": "Lumix Turns 25: Global Events and the New L10",
+    "date": "2026-10-19T09:17:28.478+06:00",
+    "og:title": "BOLO, Photographers: Lumix Turns 25 and Takes the Party on the Road",
+    "og:image": "https://luminous-landscape.com/wp-content/uploads/2026/10/lumix-anniversary-1_lc_260420.jpg",
+    "og:description": "Panasonic marks 25 years of Lumix with events in seven cities, a look back at its camera history, and the Lumix L10 compact camera.",
+    "og:url": "https://luminous-landscape.com/bolo-photographers-lumix-turns-25-and-takes-the-party-on-the-road/",
     "og:type": "article"
   },
   {
@@ -54447,6 +55195,17 @@
     "og:image": "https://petapixel.com/assets/uploads/2026/10/mars-camera-app-featured-bw-iphone.jpg",
     "og:description": "Grainy! Bloom...y!",
     "og:url": "https://petapixel.com/2026/10/18/new-iphone-camera-app-mars-lives-for-grainy-black-and-white-photos/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "petapixel.com",
+    "url": "https://petapixel.com/2026/10/19/washington-post-photographer-severely-beaten-by-masked-settlers-in-the-west-bank/",
+    "title": "Washington Post Photographer Severely Beaten by Masked Settlers in the West Bank | PetaPixel",
+    "date": "2026-10-19T09:17:28.47+06:00",
+    "og:title": "Washington Post Photographer Severely Beaten by Masked Settlers in the West Bank",
+    "og:image": "https://petapixel.com/assets/uploads/2026/10/West-Bank-Olive-Tree.jpg",
+    "og:description": "'They just kept kicking and kicking.'",
+    "og:url": "https://petapixel.com/2026/10/19/washington-post-photographer-severely-beaten-by-masked-settlers-in-the-west-bank/",
     "og:type": "article"
   },
   {
@@ -61282,6 +62041,28 @@
   },
   {
     "hostname": "thewincentral.com",
+    "url": "https://thewincentral.com/apple-iphone-duo-pre-order-sold-out-supply-crunch/",
+    "title": "Apple iPhone Duo Pre-Orders Sold Out: Price, Delivery Delays & Supply Crunch - WinCentral",
+    "date": "2026-10-19T09:16:49.925+06:00",
+    "og:title": "iPhone Duo Stock Vanishes in Minutes: Delivery Dates Plunge into 2027 Across 70 Countries",
+    "og:image": "https://thewincentral.com/wp-content/uploads/2026/09/iphone-duo-scaled.jpeg",
+    "og:description": "Apple's $1,999 foldable iPhone Duo pre-orders sold out in minutes across 70 countries. Here is the full scoop on supply constraints, launch controversy, and delivery dates slipping to 2027. - Read in Apple News on WinCentral",
+    "og:url": "https://thewincentral.com/apple-iphone-duo-pre-order-sold-out-supply-crunch/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "thewincentral.com",
+    "url": "https://thewincentral.com/apple-upcoming-product-launches-four-week-schedule/",
+    "title": "Apple Upcoming Launch Schedule: iPhone Duo, OLED MacBook & More - WinCentral",
+    "date": "2026-10-19T09:16:49.928+06:00",
+    "og:title": "Four Weeks of Apple Launches: From Foldables to OLED Displays",
+    "og:image": "https://thewincentral.com/wp-content/uploads/2026/10/HU8PjARbEAASVYL.jpeg",
+    "og:description": "Apple is rolling out new products across four consecutive Fridays, starting October 23. Here is everything coming down the pipeline from the iPhone Duo to OLED MacBooks. - Read in Apple News on WinCentral",
+    "og:url": "https://thewincentral.com/apple-upcoming-product-launches-four-week-schedule/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "thewincentral.com",
     "url": "https://thewincentral.com/github-copilot-computer-use-desktop-app-control/",
     "title": "GitHub Copilot Gets Desktop App Control on Windows and Mac - WinCentral",
     "date": "2026-10-02T06:53:50.866+06:00",
@@ -61436,6 +62217,17 @@
   },
   {
     "hostname": "thewincentral.com",
+    "url": "https://thewincentral.com/next-windows-11-experimental-update-file-explorer-search-fixes/",
+    "title": "Next Windows 11 Update Fixes File Explorer, Search & Shutdown Reliability - WinCentral",
+    "date": "2026-10-19T09:16:50.056+06:00",
+    "og:title": "Next Windows 11 Update Brings Crucial Fixes for File Explorer and Search",
+    "og:image": "https://thewincentral.com/wp-content/uploads/2026/10/file-exploarar.jpeg",
+    "og:description": "Explore the next Windows 11 experimental preview build introducing File Explorer view fixes, Windows Search reliability patches, Run dialog upgrades, and modern system dialogs. - Read in Windows 11 News on WinCentral",
+    "og:url": "https://thewincentral.com/next-windows-11-experimental-update-file-explorer-search-fixes/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "thewincentral.com",
     "url": "https://thewincentral.com/nside-next-windows-11-26h2-major-update-kb5127936-top-new-features/",
     "title": "Windows 11 26H2 Major Update (KB5127936): Top New Features & Details- WinCentral",
     "date": "2026-10-17T14:57:22.073+06:00",
@@ -61443,6 +62235,17 @@
     "og:image": "https://i0.wp.com/thewincentral.com/wp-content/uploads/2026/10/Inside-Next-Windows-11-26H2-Major-Update-KB5127936.jpg?fit=1408%2C768&ssl=1",
     "og:description": "Explore what's coming inside the next Windows 11 26H2 major update (KB5127936) in the Release Preview channel. Learn about new File Explorer context menus, Cloud Rebuild recovery, accessibility upgrades, and more. - Read in Windows 11 News on WinCentral",
     "og:url": "https://thewincentral.com/nside-next-windows-11-26h2-major-update-kb5127936-top-new-features/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "thewincentral.com",
+    "url": "https://thewincentral.com/openai-aurora-alpha-models-leak-tibo-challenge/",
+    "title": "OpenAI Aurora Alpha Model IDs Leak: Release Speculation - WinCentral",
+    "date": "2026-10-19T09:16:50.038+06:00",
+    "og:title": "OpenAI Leak: Mysterious \"Aurora\" Model IDs Surface and Vanish",
+    "og:image": "https://thewincentral.com/wp-content/uploads/2026/10/AI.jpeg",
+    "og:description": "Three new OpenAI model identifiers—aurora-blue-alpha, aurora-green-alpha, and aurora-red-alpha—briefly appeared in the API before disappearing. Could they debut during Tibo's 28-day challenge? - Read in AI News on WinCentral",
+    "og:url": "https://thewincentral.com/openai-aurora-alpha-models-leak-tibo-challenge/",
     "og:type": "article"
   },
   {
@@ -61458,6 +62261,17 @@
   },
   {
     "hostname": "thewincentral.com",
+    "url": "https://thewincentral.com/openai-gpt-6-1-astra-rumors-release-pricing-claude/",
+    "title": "OpenAI GPT-6.1 Astra Rumors: Release Date, Pricing & Claude Rivalry - WinCentral",
+    "date": "2026-10-19T09:16:50.022+06:00",
+    "og:title": "GPT-6.1 Astra Leaks: Could OpenAI’s Shelved Agent Model Overtake Claude Opus 5.5?",
+    "og:image": "https://thewincentral.com/wp-content/uploads/2026/10/gpt-6.1-astra.jpeg",
+    "og:description": "Whispers of GPT-6.1 Astra are heating up following safety holds. Explore rumors on token savings, autonomous computer use, and its battle against Claude Opus 5.5. - Read in on WinCentral",
+    "og:url": "https://thewincentral.com/openai-gpt-6-1-astra-rumors-release-pricing-claude/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "thewincentral.com",
     "url": "https://thewincentral.com/whats-new-in-windows-11-everyday-experiences-reimagined/",
     "title": "What’s New in Windows 11 (2026 Update): Speed Boosts & Features - WinCentral",
     "date": "2026-10-16T06:40:32.197+06:00",
@@ -61465,6 +62279,17 @@
     "og:image": "https://thewincentral.com/wp-content/uploads/2026/10/windows-11-1.jpeg",
     "og:description": "Explore the latest Windows 11 update featuring a 20% responsiveness boost, 8GB RAM memory savings, a redesigned Photos app, and faster Bluetooth pairing. - Read in Windows 11 News on WinCentral",
     "og:url": "https://thewincentral.com/whats-new-in-windows-11-everyday-experiences-reimagined/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "thewincentral.com",
+    "url": "https://thewincentral.com/why-windows-11-still-uses-ms-dos-file-names/",
+    "title": "Why Windows 11 Still Uses MS-DOS 8.3 File Names & Legacy Code - WinCentral",
+    "date": "2026-10-19T09:16:49.926+06:00",
+    "og:title": "The MS-DOS Ghost Inside Windows 11: Why Microsoft Can’t Kill Legacy File Names",
+    "og:image": "https://thewincentral.com/wp-content/uploads/2026/10/windows-11.jpg",
+    "og:description": "Ever wondered why Windows 11 still relies on ancient MS-DOS 8.3 file formats? Microsoft explains the deep technical constraints preventing changes. - Read in Microsoft News on WinCentral",
+    "og:url": "https://thewincentral.com/why-windows-11-still-uses-ms-dos-file-names/",
     "og:type": "article"
   },
   {
@@ -61498,6 +62323,17 @@
     "og:image": "https://thewincentral.com/wp-content/uploads/2026/10/windows-11.jpeg",
     "og:description": "Windows 11 26H2 brings together months of performance improvements, including faster app launches, better memory efficiency and a more responsive Windows experience - Read in Windows 11 News on WinCentral",
     "og:url": "https://thewincentral.com/windows-11-26h2-performance-boost-faster-pcs/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "thewincentral.com",
+    "url": "https://thewincentral.com/windows-11-accelerated-app-launches-faster-performance/",
+    "title": "Windows 11 Accelerated App Launches: How Microsoft Speeds Up Edge & Apps - WinCentral",
+    "date": "2026-10-19T09:16:50.051+06:00",
+    "og:title": "Windows 11 Accelerated App Launches: How Microsoft Speeds Up Edge & Apps",
+    "og:image": "https://thewincentral.com/wp-content/uploads/2026/09/Windows-11-Biggest-Start-Menu-Overhaul.jpg",
+    "og:description": "Discover how Windows 11 accelerated app launches eliminate unnecessary middleman processes to speed up app opening times, starting with Microsoft Edge. - Read in Windows 11 News on WinCentral",
+    "og:url": "https://thewincentral.com/windows-11-accelerated-app-launches-faster-performance/",
     "og:type": "article"
   },
   {
@@ -61619,6 +62455,17 @@
     "og:image": "https://thewincentral.com/wp-content/uploads/2026/09/xbox-insider.jpg",
     "og:description": "Xbox has disputed reports that it secured exclusive GTA 6 cloud streaming rights, saying the game will not stream exclusively or to PC. - Read in Xbox News on WinCentral",
     "og:url": "https://thewincentral.com/xbox-denies-gta-6-exclusive-streaming-rights/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "thewincentral.com",
+    "url": "https://thewincentral.com/xbox-helix-confirmed-built-in-disc-drive-physical-media/",
+    "title": "Xbox Helix Built-in Disc Drive Confirmed: Physical Media Win Over Sony - WinCentral",
+    "date": "2026-10-19T09:16:50.047+06:00",
+    "og:title": "Game-Changer: Xbox Helix Confirms Built-In Disc Drive, Leaving Sony Cornered",
+    "og:image": "https://i0.wp.com/thewincentral.com/wp-content/uploads/2026/10/xbox-helix.jpeg?fit=1024%2C559&ssl=1",
+    "og:description": "Microsoft officially confirms a built-in disc drive for Xbox Helix, expanding its physical manufacturing and global supply chain while leaving Sony’s digital-only PS6 strategy exposed. - Read in Microsoft News on WinCentral",
+    "og:url": "https://thewincentral.com/xbox-helix-confirmed-built-in-disc-drive-physical-media/",
     "og:type": "article"
   },
   {
@@ -62734,6 +63581,17 @@
   },
   {
     "hostname": "vellisa.ru",
+    "url": "https://vellisa.ru/enable-hyper-v-windows-10",
+    "title": "Как включить Hyper-V в Windows 10 (3 способа)",
+    "date": "2026-10-19T09:16:11.193+06:00",
+    "og:title": "Как включить Hyper-V в Windows 10 (3 способа)",
+    "og:image": "https://vellisa.ru/wp-content/uploads/2026/10/1.jpeg",
+    "og:description": "Как включить Hyper-V в Windows 10: установка гипервизора в графическом режиме из системных компонентов Windows, использование команд в PowerShell и DISM.",
+    "og:url": "https://vellisa.ru/enable-hyper-v-windows-10",
+    "og:type": "article"
+  },
+  {
+    "hostname": "vellisa.ru",
     "url": "https://vellisa.ru/unigetui",
     "title": "UniGetUI: менеджер пакетов для обновления программ в Windows",
     "date": "2026-10-05T02:28:34.882+06:00",
@@ -63471,6 +64329,17 @@
   },
   {
     "hostname": "windowsreport.com",
+    "url": "https://windowsreport.com/eight-games-are-leaving-xbox-game-pass-on-october-31/",
+    "title": "Eight Games Are Leaving Xbox Game Pass on October 31",
+    "date": "2026-10-19T09:17:07.552+06:00",
+    "og:title": "Eight Games Are Leaving Xbox Game Pass on October 31",
+    "og:image": "https://windowsreport.com/wp-content/uploads/2026/02/xbox-game-pass-subscriptions.jpg",
+    "og:description": "Microsoft is removing eight Xbox Game Pass games on October 31. Find out which titles are leaving console, PC, and cloud.",
+    "og:url": "https://windowsreport.com/eight-games-are-leaving-xbox-game-pass-on-october-31/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "windowsreport.com",
     "url": "https://windowsreport.com/epic-goes-ai-first-on-disney-shooter-says-no-more-hand-written-code-in-major-development-shift/",
     "title": "Epic Goes AI-First on Disney Shooter, Says \"No More Hand-Written Code\" in Major Development Shift",
     "date": "2026-10-14T03:11:14.635+06:00",
@@ -64043,6 +64912,17 @@
   },
   {
     "hostname": "windowsreport.com",
+    "url": "https://windowsreport.com/microsoft-and-carnegie-mellon-launch-praise-ai-training-program/",
+    "title": "Microsoft and Carnegie Mellon Launch PRAISE AI Training Program",
+    "date": "2026-10-19T09:17:07.576+06:00",
+    "og:title": "Microsoft and Carnegie Mellon Launch PRAISE AI Training Program",
+    "og:image": "https://windowsreport.com/wp-content/uploads/2026/05/microsoft-ai-replace-jobs.jpg",
+    "og:description": "Microsoft and Carnegie Mellon launch PRAISE, an AI training program that helps junior software engineers develop practical coding skills.",
+    "og:url": "https://windowsreport.com/microsoft-and-carnegie-mellon-launch-praise-ai-training-program/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "windowsreport.com",
     "url": "https://windowsreport.com/microsoft-authenticator-will-stop-supporting-microsoft-account-backups-on-android-in-2027/",
     "title": "Microsoft Authenticator will stop supporting Microsoft account backups on Android in 2027",
     "date": "2026-10-06T09:43:20.401+06:00",
@@ -64208,6 +65088,17 @@
   },
   {
     "hostname": "windowsreport.com",
+    "url": "https://windowsreport.com/microsoft-edge-for-business-gets-watermark-protection-in-december/",
+    "title": "Microsoft Edge for Business Gets Watermark Protection in December",
+    "date": "2026-10-19T09:17:07.591+06:00",
+    "og:title": "Microsoft Edge for Business Gets Watermark Protection in December",
+    "og:image": "https://windowsreport.com/wp-content/uploads/2026/09/edge-extensions-review-process.jpg",
+    "og:description": "Microsoft Edge for Business gets Watermark Protection in December 2026, adding user names and timestamps to sensitive corporate content.",
+    "og:url": "https://windowsreport.com/microsoft-edge-for-business-gets-watermark-protection-in-december/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "windowsreport.com",
     "url": "https://windowsreport.com/microsoft-edge-is-removing-xslt-support-starting-december-2026/",
     "title": "Microsoft Edge Is Removing XSLT Support Starting December 2026",
     "date": "2026-10-17T16:31:37.453+06:00",
@@ -64303,6 +65194,17 @@
     "og:image": "https://windowsreport.com/wp-content/uploads/2026/08/Xbox-25th-Anniversary.png",
     "og:description": "Microsoft is bringing faster shader loading to Windows 11 and offering 25 games worth over $500 with eligible US PC purchases this holiday.",
     "og:url": "https://windowsreport.com/microsoft-is-giving-away-25-xbox-games-worth-500-with-eligible-windows-11-pcs-to-celebrate-xboxs-25th-anniversary/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "windowsreport.com",
+    "url": "https://windowsreport.com/microsoft-is-removing-copilot-studio-from-teams-in-2027/",
+    "title": "Microsoft Is Removing Copilot Studio From Teams in 2027",
+    "date": "2026-10-19T09:17:07.561+06:00",
+    "og:title": "Microsoft Is Removing Copilot Studio From Teams in 2027",
+    "og:image": "https://windowsreport.com/wp-content/uploads/2026/04/microsoft-teams-glitch.jpg",
+    "og:description": "Microsoft will remove Copilot Studio from Teams in February 2027, forcing users to manage AI agents through the web app.",
+    "og:url": "https://windowsreport.com/microsoft-is-removing-copilot-studio-from-teams-in-2027/",
     "og:type": "article"
   },
   {
@@ -64956,6 +65858,17 @@
   },
   {
     "hostname": "windowsreport.com",
+    "url": "https://windowsreport.com/uk-regulator-takes-aim-at-microsofts-business-software-dominance/",
+    "title": "UK Regulator Takes Aim at Microsoft's Business Software Dominance",
+    "date": "2026-10-19T09:17:07.619+06:00",
+    "og:title": "UK Regulator Takes Aim at Microsoft's Business Software Dominance",
+    "og:image": "https://windowsreport.com/wp-content/uploads/2026/08/microsoft-leeds-data-center.jpg",
+    "og:description": "Microsoft faces new UK scrutiny as the CMA considers stricter competition rules for Windows, Microsoft 365, and enterprise software.",
+    "og:url": "https://windowsreport.com/uk-regulator-takes-aim-at-microsofts-business-software-dominance/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "windowsreport.com",
     "url": "https://windowsreport.com/visual-studio-september-2026-update-adds-new-byom-agent-and-nuget-fixer/",
     "title": "Visual Studio September 2026 Update Adds New BYOM Agent and NuGet Fixer",
     "date": "2026-10-01T02:05:44.474+06:00",
@@ -65172,6 +66085,17 @@
     "og:image": "https://windowsreport.com/wp-content/uploads/2026/03/Windows-11-bug-2.png",
     "og:description": "Windows 11 KB5127648 fixes Explorer crashes, VPN connection failures, gaming stutter, printing problems, AC-3 audio issues, and fingerprint sign-in errors.",
     "og:url": "https://windowsreport.com/windows-11-kb5127648-fixes-explorer-crashes-ac-3-audio-playback-vpn-errors-more/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "windowsreport.com",
+    "url": "https://windowsreport.com/windows-11-kb5127648-triggers-errors-0x800f0845-and-more/",
+    "title": "Windows 11 KB5127648 Triggers Errors 0x800f0845 and More",
+    "date": "2026-10-19T09:17:07.604+06:00",
+    "og:title": "Windows 11 KB5127648 Triggers Errors 0x800f0845 and More",
+    "og:image": "https://windowsreport.com/wp-content/uploads/2026/10/KB5127648-install-error.jpg",
+    "og:description": "Windows 11 KB5127648 fails with errors 0x800f0845, 0x80070306, and 0x800f0989. Here's what users report and possible workarounds.",
+    "og:url": "https://windowsreport.com/windows-11-kb5127648-triggers-errors-0x800f0845-and-more/",
     "og:type": "article"
   },
   {
@@ -72975,6 +73899,28 @@
   },
   {
     "hostname": "www.drwindows.de",
+    "url": "https://www.drwindows.de/news/dayframe-version-0-6-als-voraussichtlich-letzte-private-preview-erschienen",
+    "title": "DayFrame: Version 0.6 als voraussichtlich letzte Private Preview erschienen - Dr. Windows",
+    "date": "2026-10-19T09:16:11.07+06:00",
+    "og:title": "DayFrame: Version 0.6 als voraussichtlich letzte Private Preview erschienen",
+    "og:image": "https://www.drwindows.de/news/wp-content/uploads/2026/08/DayFrame_Titelbild.png",
+    "og:description": "Mit etwas Verspätung hat der ehemalige Microsoft-Entwickler Jeff Fritz mit Version 0.6 die voraussichtlich letzte Private Preview von DayFrame veröffentlicht, die weiterhin nur für Twitch-Abonnenten zur Verfügung steht. Neben der bereits angesprochenen Konzentration auf das Thema E-Mail und die Stabilisierung kleinerer Module bringt die aktuelle Version mit Mastodon, Asana und Sportnachrichten drei neue Module mit. […]",
+    "og:url": "https://www.drwindows.de/news/dayframe-version-0-6-als-voraussichtlich-letzte-private-preview-erschienen",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.drwindows.de",
+    "url": "https://www.drwindows.de/news/dotnetup-microsoft-stattet-net-mit-einem-toolchain-manager-aus",
+    "title": "dotnetup: Microsoft stattet .NET mit einem Toolchain Manager aus - Dr. Windows",
+    "date": "2026-10-19T09:16:11.418+06:00",
+    "og:title": "dotnetup: Microsoft stattet .NET mit einem Toolchain Manager aus",
+    "og:image": "https://www.drwindows.de/news/wp-content/uploads/2023/11/dotnet-conf-2023-titelbild.png",
+    "og:description": "Kurz notiert: Entwickler von .NET-basierten Anwendungen bekommen zunächst unter macOS und Linux ein neues Werkzeug an die Hand, mit dem sich das Management verschiedener Runtimes vereinfachen lässt. dotnetup ist ein neuer Toolchain Manager und orientiert sich in seiner Ausrichtung stark am von Rust bekannten rustup oder dem in Node.js integrierten nvm. Weitere Informationen sowie ein […]",
+    "og:url": "https://www.drwindows.de/news/dotnetup-microsoft-stattet-net-mit-einem-toolchain-manager-aus",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.drwindows.de",
     "url": "https://www.drwindows.de/news/ecosia-browser-aktuelle-version-155-0-bringt-synchronisation-in-den-browser",
     "title": "Ecosia Browser: Aktuelle Version 155.0 bringt Synchronisation in den Browser - Dr. Windows",
     "date": "2026-10-13T02:19:45.378+06:00",
@@ -73367,6 +74313,17 @@
     "og:image": "https://www.drwindows.de/news/wp-content/uploads/2026/01/nexphone_titelbild.png",
     "og:description": "Über das NexPhone haben wir bereits zu Jahresbeginn einmal berichtet. Nun hat das Team um Emre Kosmaz von Nex Computer ein Update zum aktuellen Entwicklungsstand gegeben. Wichtigste Nachricht vorab: Der Verkaufsstart des Smartphones, welches mit Android, Linux und Windows 11 mit angepassten Oberflächen kommen soll, verschiebt sich leicht und ist nun bis Ende März 2027 […]",
     "og:url": "https://www.drwindows.de/news/nexphone-entwickler-geben-neue-update-zum-multios-smartphone-auch-zu-windows",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.drwindows.de",
+    "url": "https://www.drwindows.de/news/opendesk-zendis-wurde-von-nachfrage-regelrecht-ueberrumpelt",
+    "title": "openDesk: ZenDiS wurde von Nachfrage regelrecht überrumpelt - Dr. Windows",
+    "date": "2026-10-19T09:16:11.06+06:00",
+    "og:title": "openDesk: ZenDiS wurde von Nachfrage regelrecht überrumpelt",
+    "og:image": "https://www.drwindows.de/news/wp-content/uploads/2026/09/opendesk_titelbild.png",
+    "og:description": "Schon Ende September haben wir darüber berichtet, dass ZenDiS als Entwickler von openDesk aufgrund der hohen Nachfrage ein Partnerprogramm aufgelegt hat, um diese besser zu bedienen. Wie Golem unter Berufung auf das Handelsblatt berichtet, hätte man in Bochum den bisherigen Direktvertrieb auch kaum weiterhin stemmen können. Zwar wurden 200.000 Arbeitsplatz-Lizenzen verkauft, einen Großteil habe man […]",
+    "og:url": "https://www.drwindows.de/news/opendesk-zendis-wurde-von-nachfrage-regelrecht-ueberrumpelt",
     "og:type": "article"
   },
   {
@@ -74405,6 +75362,17 @@
   },
   {
     "hostname": "www.linux.org.ru",
+    "url": "https://www.linux.org.ru/news/internet/18403728",
+    "title": "Lightpanda 1.0 — Интернет — Новости",
+    "date": "2026-10-19T09:17:07.478+06:00",
+    "og:title": "Lightpanda 1.0",
+    "og:image": "https://www.linux.org.ru/img/good-penguin.png",
+    "og:description": "После двух лет разработки и 10 000 коммитов браузерный движок Lightpanda https://lightpanda.io/ вышел из состояния бета-версии и объявлен готовым к применению в...",
+    "og:url": "https://www.linux.org.ru/news/internet/18403728",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.linux.org.ru",
     "url": "https://www.linux.org.ru/news/kernel/18391841",
     "title": "МЦСТ публикует исходные тексты ядра Linux 6.1 для архитектуры Эльбрус — Ядро Linux — Новости",
     "date": "2026-10-02T10:00:51.821+06:00",
@@ -74533,6 +75501,17 @@
     "og:image": "https://www.linux.org.ru/img/good-penguin.png",
     "og:description": "14 октября KDE отметился сразу двумя событиями: проекту стукнуло 30 лет, а в честь юбилея состоялась премьера документального фильма The KDE Documentary — A Sto...",
     "og:url": "https://www.linux.org.ru/news/opensource/18402260",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.linux.org.ru",
+    "url": "https://www.linux.org.ru/news/opensource/18403546",
+    "title": "Релиз Tewi 3.0.0, текстового интерфейса для управления torrent-клиентами — Open Source — Новости",
+    "date": "2026-10-19T09:17:07.49+06:00",
+    "og:title": "Релиз Tewi 3.0.0, текстового интерфейса для управления torrent-клиентами",
+    "og:image": "https://www.linux.org.ru/images/24184/1000px.jpg",
+    "og:description": "Состоялся выпуск Tewi 3.0.0 https://github.com/anlar/tewi — консольного приложения с текстовым интерфейсом (TUI) для управления BitTorrent-клиентами. Программа...",
+    "og:url": "https://www.linux.org.ru/news/opensource/18403546",
     "og:type": "article"
   },
   {
@@ -79432,6 +80411,17 @@
   },
   {
     "hostname": "www.neowin.net",
+    "url": "https://www.neowin.net/deals/get-an-voibe-lifetime-subscription-at-74-off/",
+    "title": "Get an Voibe lifetime subscription at 74% off - Neowin",
+    "date": "2026-10-19T09:16:11.273+06:00",
+    "og:title": "Get an Voibe lifetime subscription at 74% off",
+    "og:image": "https://cdn.neowin.com/news/images/uploaded/2026/05/1778498905_product_345600_product_shots1_full.webp",
+    "og:description": "Type 3x Faster with Private Offline Voice Dictation for Mac That Works in Every App & Runs Locally on Apple Silicon Devices.",
+    "og:url": "https://www.neowin.net/deals/get-an-voibe-lifetime-subscription-at-74-off/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.neowin.net",
     "url": "https://www.neowin.net/deals/get-microsoft-office-2024-pro-plus-for-just-40-with-our-unique-code/",
     "title": "Get Microsoft Office 2024 Pro Plus for just $40 with our unique code - Neowin",
     "date": "2026-10-02T02:37:57.581+06:00",
@@ -79538,6 +80528,17 @@
     "og:image": "https://cdn.neowin.com/news/images/uploaded/2026/10/1791690711_irobot-roomba-105_full.webp",
     "og:description": "Amazon cuts $150 off the Roomba 105, bringing its $299.99 list price down to $149. The model features 2.4GHz Wi-Fi mapping and targeted spot cleaning.",
     "og:url": "https://www.neowin.net/deals/irobots-roomba-105-drops-to-149-in-a-limited-time-50-prime-deal/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.neowin.net",
+    "url": "https://www.neowin.net/deals/lenovo-tab-plus-gen-2-gets-jaw-dropping-discount-of-37/",
+    "title": "Lenovo Tab Plus Gen 2 gets jaw-dropping discount of 37% - Neowin",
+    "date": "2026-10-19T09:16:11.535+06:00",
+    "og:title": "Lenovo Tab Plus Gen 2 gets jaw-dropping discount of 37%",
+    "og:image": "https://cdn.neowin.com/news/images/uploaded/2026/10/1792269809_lenovo_tablet_and_clear_case_render_full.webp",
+    "og:description": "This feature-packed Lenovo tablet just got a tempting price cut, but its entertainment-focused features might make it an even better deal.",
+    "og:url": "https://www.neowin.net/deals/lenovo-tab-plus-gen-2-gets-jaw-dropping-discount-of-37/",
     "og:type": "article"
   },
   {
@@ -79681,6 +80682,17 @@
     "og:image": "https://cdn.neowin.com/news/images/uploaded/2026/03/1772560048_swifdoo_pro_story.webp",
     "og:description": "Get more jobs done in less time with all the PDF tools you need: edit, convert, view, compress, merge, sign, and do a lot more.",
     "og:url": "https://www.neowin.net/deals/save-72-off-on-a-lifetime-subscription-to-swifdoo-pdf-pro/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.neowin.net",
+    "url": "https://www.neowin.net/deals/save-77-on-a-lifetime-license-to-classic-microsoft-office-2021-suite/",
+    "title": "Save 77% on a lifetime license to classic Microsoft Office 2021 suite - Neowin",
+    "date": "2026-10-19T09:16:11.591+06:00",
+    "og:title": "Save 77% on a lifetime license to classic Microsoft Office 2021 suite",
+    "og:image": "https://cdn.neowin.com/news/images/uploaded/2025/06/1750153423_office2021_full.webp",
+    "og:description": "Word, Excel, Teams, PowerPoint, Outlook (classic), and OneNote! Get all these essential Microsoft apps for your Windows PC for a low one-time cost.",
+    "og:url": "https://www.neowin.net/deals/save-77-on-a-lifetime-license-to-classic-microsoft-office-2021-suite/",
     "og:type": "article"
   },
   {
@@ -79982,6 +80994,17 @@
   },
   {
     "hostname": "www.neowin.net",
+    "url": "https://www.neowin.net/guides/how-to-remove-banners-pop-ups-and-other-annoying-elements-from-websites/",
+    "title": "How to remove banners, pop-ups, and other annoying elements from websites - Neowin",
+    "date": "2026-10-19T09:16:11.268+06:00",
+    "og:title": "How to remove banners, pop-ups, and other annoying elements from websites",
+    "og:image": "https://cdn.neowin.com/news/images/uploaded/2024/04/1713530080_browsers_full.jpg",
+    "og:description": "Ads aren't the only annoying things websites throw at you. Here's how to remove annoying website clutter in Chrome, Opera, Firefox, and Edge:",
+    "og:url": "https://www.neowin.net/guides/how-to-remove-banners-pop-ups-and-other-annoying-elements-from-websites/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.neowin.net",
     "url": "https://www.neowin.net/guides/windows-11-now-lets-multiple-apps-use-the-camera-at-the-same-time-heres-how/?utm_source=feedly",
     "title": "Windows 11 now lets multiple apps use the camera at the same time, here's how - Neowin",
     "date": "2026-10-04T06:04:35.826+06:00",
@@ -80044,6 +81067,17 @@
     "og:image": "https://cdn.neowin.com/news/images/uploaded/2026/10/1791704331_7_days_october_11,_2026_full.webp",
     "og:description": "Our '7 Days' weekly tech roundup brings the juiciest announcements. Read about the new look for MPC-HC, AI gets a woman arrested, and new hardware.",
     "og:url": "https://www.neowin.net/news/7-days-mcdonalds-dragged-to-court-mpc-hc-new-look-and-new-surface-devices/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.neowin.net",
+    "url": "https://www.neowin.net/news/7-days-openai-office-bugged-smallest-xbox-controller-and-apple-homeview/",
+    "title": "7 Days: OpenAI office bugged, smallest Xbox controller, and Apple HomeView - Neowin",
+    "date": "2026-10-19T09:16:11.32+06:00",
+    "og:title": "7 Days: OpenAI office bugged, smallest Xbox controller, and Apple HomeView",
+    "og:image": "https://cdn.neowin.com/news/images/uploaded/2026/10/1792329644_7_days_october_18,_2026_full.webp",
+    "og:description": "Our '7 Days' weekly tech roundup brings the juiciest announcements. Read about the OpenAI office getting bugged, the smallest Xbox controller, and more.",
+    "og:url": "https://www.neowin.net/news/7-days-openai-office-bugged-smallest-xbox-controller-and-apple-homeview/",
     "og:type": "article"
   },
   {
@@ -80510,6 +81544,17 @@
   },
   {
     "hostname": "www.neowin.net",
+    "url": "https://www.neowin.net/news/frustrated-windows-11-user-makes-free-app-that-fixes-oled-burn-in-works-on-youtube-too/",
+    "title": "Frustrated Windows 11 user makes free app that fixes OLED burn-in. Works on YouTube too - Neowin",
+    "date": "2026-10-19T09:16:11.424+06:00",
+    "og:title": "Frustrated Windows 11 user makes free app that fixes OLED burn-in. Works on YouTube too",
+    "og:image": "https://cdn.neowin.com/news/images/uploaded/2026/10/1792315142_windows_11_ms_surface_50_wallpaper_golden_black_bloom_neowin_full.webp",
+    "og:description": "Fed up with OLED burn-in from using Windows 11? One frustrated user vibe-coded a free app to fight screen damage, and it should work everywhere, be it the Desktop, games, or YouTube.",
+    "og:url": "https://www.neowin.net/news/frustrated-windows-11-user-makes-free-app-that-fixes-oled-burn-in-works-on-youtube-too/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.neowin.net",
     "url": "https://www.neowin.net/news/gaming-on-windows-11-is-becoming-a-lot-better-with-developer-support/?utm_source=feedly",
     "title": "Gaming on Windows 11 is becoming a lot better... with developer support - Neowin",
     "date": "2026-10-04T06:04:36.444+06:00",
@@ -80862,6 +81907,17 @@
   },
   {
     "hostname": "www.neowin.net",
+    "url": "https://www.neowin.net/news/kb5127648-microsoft-breaks-windows-11-exclusive-feature-that-helps-weak-pcs-perform-better/",
+    "title": "KB5127648: Microsoft breaks Windows 11 exclusive feature that helps weak PCs perform better - Neowin",
+    "date": "2026-10-19T09:16:11.56+06:00",
+    "og:title": "KB5127648: Microsoft breaks Windows 11 exclusive feature that helps weak PCs perform better",
+    "og:image": "https://cdn.neowin.com/news/images/uploaded/2026/06/1781504609_windows_11_patch_tuesday__bug_neowin_1_full.webp",
+    "og:description": "Microsoft has confirmed Windows 11's latest KB5127648 Patch Tuesday update breaks a useful feature that helps improve system performance of weaker PCs.",
+    "og:url": "https://www.neowin.net/news/kb5127648-microsoft-breaks-windows-11-exclusive-feature-that-helps-weak-pcs-perform-better/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.neowin.net",
     "url": "https://www.neowin.net/news/kb5129195-official-microsoft-windows-11-26h2-iso-download-links-available-for-usb-install/",
     "title": "KB5129195: Official Microsoft Windows 11 26H2 ISO download links available for USB install - Neowin",
     "date": "2026-10-01T08:34:22.522+06:00",
@@ -81038,6 +82094,17 @@
   },
   {
     "hostname": "www.neowin.net",
+    "url": "https://www.neowin.net/news/microsoft-and-cmu-launch-praise-program-for-early-career-microsoft-developers/",
+    "title": "Microsoft and CMU launch PRAISE program for early career Microsoft developers - Neowin",
+    "date": "2026-10-19T09:16:11.332+06:00",
+    "og:title": "Microsoft and CMU launch PRAISE program for early career Microsoft developers",
+    "og:image": "https://cdn.neowin.com/news/images/uploaded/2025/03/1741006028_m_full.jpg",
+    "og:description": "Prompted by Azure CTO Mark Russinovich, the certificate covers machine learning, DevOps, and AI-augmented software engineering.",
+    "og:url": "https://www.neowin.net/news/microsoft-and-cmu-launch-praise-program-for-early-career-microsoft-developers/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.neowin.net",
     "url": "https://www.neowin.net/news/microsoft-announced-windows-11-26h2-support-on-sccm-for-admins/",
     "title": "Microsoft announced Windows 11 26H2 support on SCCM for admins - Neowin",
     "date": "2026-10-05T07:51:49.111+06:00",
@@ -81122,6 +82189,17 @@
     "og:image": "https://cdn.neowin.com/news/images/uploaded/2026/10/1791887839_microsoft-office-logo_full.webp",
     "og:description": "Unpatched installations face instant exposure to AI-crafted exploits. Microsoft recommends cloud plans or disconnected Office LTSC 2024 for air-gapped systems.",
     "og:url": "https://www.neowin.net/news/microsoft-drops-office-ltsc-2021-security-updates-on-todays-patch-tuesday/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.neowin.net",
+    "url": "https://www.neowin.net/news/microsoft-edge-is-getting-watermark-protection-later-this-year/",
+    "title": "Microsoft Edge is getting Watermark Protection later this year - Neowin",
+    "date": "2026-10-19T09:16:11.488+06:00",
+    "og:title": "Microsoft Edge is getting Watermark Protection  later this year",
+    "og:image": "https://cdn.neowin.com/news/images/uploaded/2026/02/1771480136_1700652305_edge_full.webp",
+    "og:description": "Microsoft is preparing a new Edge security feature for businesses, but admins must meet specific licensing and policy requirements to use it.",
+    "og:url": "https://www.neowin.net/news/microsoft-edge-is-getting-watermark-protection-later-this-year/",
     "og:type": "article"
   },
   {
@@ -81243,6 +82321,17 @@
     "og:image": "https://cdn.neowin.com/news/images/uploaded/2026/10/1791398034_10a-search_full.webp",
     "og:description": "Microsoft is giving Windows Search the ability to do things for you, instead of just searching for Settings and files.",
     "og:url": "https://www.neowin.net/news/microsoft-is-redesigning-windows-search-to-act-like-an-ai-agent/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.neowin.net",
+    "url": "https://www.neowin.net/news/microsoft-is-removing-copilot-studio-app-from-teams-heres-when/",
+    "title": "Microsoft is removing Copilot Studio app from Teams, here's when - Neowin",
+    "date": "2026-10-19T09:16:11.285+06:00",
+    "og:title": "Microsoft is removing Copilot Studio app from Teams, here's when",
+    "og:image": "https://cdn.neowin.com/news/images/uploaded/2026/01/1769154540_teams_full.webp",
+    "og:description": "Message ID MC1511056 labels the Copilot Studio Teams app retirement as a major change. Admins must point support docs to the web portal before full removal.",
+    "og:url": "https://www.neowin.net/news/microsoft-is-removing-copilot-studio-app-from-teams-heres-when/",
     "og:type": "article"
   },
   {
@@ -81771,6 +82860,17 @@
     "og:image": "https://cdn.neowin.com/news/images/uploaded/2026/10/1791294615_call-of-duty-modern-warfare-4-star-wars-galactic-racer-game-ready-driver-ogimage_full.webp",
     "og:description": "Nvidia's new 617.42 Game Ready driver adds DLSS 4.5 support for Modern Warfare 4 and Star Wars: Galactic Racer, plus a crash fix for Assassin's Creed Shadows. ",
     "og:url": "https://www.neowin.net/news/nvidia-61742-driver-readies-modern-warfare-4-and-star-wars-galactic-racer/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.neowin.net",
+    "url": "https://www.neowin.net/news/nvidia-denies-reports-of-rtx-5090-discontinuation/",
+    "title": "Nvidia denies reports of RTX 5090 discontinuation - Neowin",
+    "date": "2026-10-19T09:16:11.548+06:00",
+    "og:title": "Nvidia denies reports of RTX 5090 discontinuation",
+    "og:image": "https://cdn.neowin.com/news/images/uploaded/2025/01/1737649471_rtx_5090_full.jpg",
+    "og:description": "Nvidia's flagship gaming GPU has vanished from stores, sparking fears about its future. The company's response offers hope, but raises questions.",
+    "og:url": "https://www.neowin.net/news/nvidia-denies-reports-of-rtx-5090-discontinuation/",
     "og:type": "article"
   },
   {
@@ -83678,6 +84778,17 @@
   },
   {
     "hostname": "www.opennet.ru",
+    "url": "https://www.opennet.ru/opennews/art.shtml?num=66489",
+    "title": "В Gentoo намерены прекратить поставку Chromium из-за трудности сопровождения",
+    "date": "2026-10-19T09:17:07.523+06:00",
+    "og:title": "",
+    "og:image": "https://www.opennet.ru/opennet_192tg.png",
+    "og:description": "Сопровождающий пакет (ebuild) Chromium в Gentoo Linux  объявил  о скором удалении пакета из репозитория из-за слишком больших трудозатрат на сопровождение. Упоминается, что сопровождающий не имеет возможности продолжать поддерживать пакет на должном уровне после сокращения цикла публикации релизов Chrome. Если в ближайшие дни не найдётся доброволец, готовый взять на себя сопровождение Chromium в Gentoo, то 24 октября пакет  www-client/chromium  перестанет быть доступен для установки",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.opennet.ru",
     "url": "https://www.opennet.ru/opennews/art.shtml?num=66491",
     "title": "Проект GNOME представил предварительный выпуск GNOME OS для обычных пользователей",
     "date": "2026-10-17T04:58:52.189+06:00",
@@ -83739,6 +84850,39 @@
     "og:title": "",
     "og:image": "https://www.opennet.ru/opennet_192tg.png",
     "og:description": "Группа исследователей из компании Anthropic  объявила  об успешном определении происхождения исходных seed-параметров, задающих форму эллиптических кривых  ECDSA  P-192, P-224, P-256, P-384 и P-521, стандартизированных Национальным институтом стандартов и технологий США ( NIST ). Воссозданный  алгоритм генерации seed-параметров подтверждает надёжность ECDSA и опровергает популярную конспирологическую теорию о том, что исходные параметры для стандартизированных эллиптических кривых, изначально разработанных в АНБ, были специально подобраны для оставления слабых мест, компрометирующих алгоритмы цифровой подписи ECDSA",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.opennet.ru",
+    "url": "https://www.opennet.ru/opennews/art.shtml?num=66499",
+    "title": "Релиз ядра Linux 7.3",
+    "date": "2026-10-19T09:17:07.309+06:00",
+    "og:title": "",
+    "og:image": "https://www.opennet.ru/opennet_192tg.png",
+    "og:description": "После двух месяцев разработки Линус Торвальдс   представил   релиз ядра  Linux 7.3 . Среди наиболее заметных изменений: механизм изоляции ФС на базе псевдо-ФС failfs и системного вызова fchroot(), поддержка создания вложенных планировщиков SCHED_EXT, BPF-обработчики запуска исполняемых файлов, альтернативные потоки данных в NTFS3,  оптимизации производительности  FUSE, Btrfs и Ext4, поддержка Apple Time Machine в ksmbd, удаление ФС  EFS и FreeVxFS, режим прямого доступа к блочным устройствам, улучшение обработки нехватки видеопамяти, отслеживание обращений к памяти гостевой системы через userfaultfd, сжатие правил  AppArmor, ограничение доступа к AF_ALG, поддержка чипов Apple M3",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.opennet.ru",
+    "url": "https://www.opennet.ru/opennews/art.shtml?num=66500",
+    "title": "Релиз Tewi 3.0.0, текстового интерфейса для управления torrent-клиентами",
+    "date": "2026-10-19T09:17:07.458+06:00",
+    "og:title": "",
+    "og:image": "https://www.opennet.ru/opennet_192tg.png",
+    "og:description": " Состоялся  выпуск  Tewi 3.0.0 , консольного приложения с текстовым интерфейсом (TUI) для управления BitTorrent-клиентами. Программа позволяет подключаться к демонам Transmission, qBittorrent, Deluge и rTorrent, просматривать и управлять списком торрентов, добавлять новые закачки, выполнять поиск по популярным трекерам. Поддерживаются различные режимы отображения (карточки, компактный, однострочный), просмотр детальной информации о торрентах (файлы, трекеры, пиры), управление категориями и метками,",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.opennet.ru",
+    "url": "https://www.opennet.ru/opennews/art.shtml?num=66501",
+    "title": "В ReactOS появилась возможность установки на NTFS",
+    "date": "2026-10-19T09:17:07.469+06:00",
+    "og:title": "",
+    "og:image": "https://www.opennet.ru/opennet_192tg.png",
+    "og:description": "Развиваемый проектом ReactOS драйвер файловой системы NTFS  достиг уровня , позволяющего устанавливать и использовать ReactOS на разделах NTFS. Помимо этого добавлена возможность форматирования разделов в NTFS с обеспечением совместимости с Windows. Нереализованными остаются кэширование, журналирование и механизмы безопасности NTFS, что может негативно влиять на производительность и ограничивает возможности восстановления ФС после сбоев",
     "og:url": "",
     "og:type": ""
   },
@@ -92301,6 +93445,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "www.thephoblographer.com",
+    "url": "https://www.thephoblographer.com/2026/10/19/by-2026-standards-the-5d-mk-ii-is-a-great-camera/",
+    "title": "By 2026 Standards, the 5D Mk II is a Great Camera",
+    "date": "2026-10-19T09:17:28.461+06:00",
+    "og:title": "By 2026 Standards, the 5D Mk II is a Great Camera",
+    "og:image": "https://www.thephoblographer.com/wp-content/uploads/2025/04/Chris-Gampat-The-Phoblographer-Is-the-Canon-5D-Mk-II-still-a-good-camera1-50-sec-at-f-4.0ISO-40035mmCanon-EOS-5D-Mark-II.jpg",
+    "og:description": "The Canon 5D Mk II still stands as being an excellent camera in pretty much every single way. It's just that modern togs suck.",
+    "og:url": "https://www.thephoblographer.com/2026/10/19/by-2026-standards-the-5d-mk-ii-is-a-great-camera/",
+    "og:type": "article"
+  },
+  {
     "hostname": "www.thewindowsclub.com",
     "url": "https://www.thewindowsclub.com/7-zip-crc-error-when-installing-nvidia-drivers",
     "title": "7-Zip CRC error when installing NVIDIA drivers",
@@ -92496,6 +93651,17 @@
     "og:image": "https://www.thewindowsclub.com/wp-content/uploads/2026/09/custom-user-folder-name-installation-windows.png",
     "og:description": "This tutorial shows you how to set a Custom User Folder name during Windows Setup (Out-of-Box Experience) on a Windows 11 PC.",
     "og:url": "https://www.thewindowsclub.com/set-custom-user-folder-name-during-installation-in-windows",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.thewindowsclub.com",
+    "url": "https://www.thewindowsclub.com/the-system-failed-to-boot-several-times-before",
+    "title": "The system failed to boot several times before [Fix]",
+    "date": "2026-10-19T09:16:11.475+06:00",
+    "og:title": "The system failed to boot several times before [Fix]",
+    "og:image": "https://www.thewindowsclub.com/wp-content/uploads/2026/10/system-failed-to-boot-several-times.png",
+    "og:description": "If you encounter the \"The system failed to boot several times before\" error, this article will help you troubleshoot and fix this error.",
+    "og:url": "https://www.thewindowsclub.com/the-system-failed-to-boot-several-times-before",
     "og:type": "article"
   },
   {
@@ -93116,6 +94282,17 @@
   },
   {
     "hostname": "www.thurrott.com",
+    "url": "https://www.thurrott.com/mobile/android/342983/with-the-alexa-tablets-amazon-steps-decisively-in-the-right-direction",
+    "title": "With the Alexa Tablets, Amazon Steps Decisively in the Right Direction ⭐ - Thurrott.com",
+    "date": "2026-10-19T09:16:50.062+06:00",
+    "og:title": "With the Alexa Tablets, Amazon Steps Decisively in the Right Direction ⭐",
+    "og:image": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/10/alexa-tablet-8-on-desk.jpg",
+    "og:description": "Amazon announced a new family of Alexa Tablets last week and they started shipping to customers this past week. So far, I'm impressed.",
+    "og:url": "https://www.thurrott.com/mobile/android/342983/with-the-alexa-tablets-amazon-steps-decisively-in-the-right-direction",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.thurrott.com",
     "url": "https://www.thurrott.com/mobile/android/aluminium-os/342430/lenovo-googlebook-15-first-impressions",
     "title": "Lenovo Googlebook 15 First Impressions - Thurrott.com",
     "date": "2026-10-06T02:25:36.205+06:00",
@@ -93288,6 +94465,17 @@
     "og:image": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/10/hilarious.jpg",
     "og:description": "Happy Friday! The iPhone Duo is here, RTX Spark is here, and we're all reeling from all the new.",
     "og:url": "https://www.thurrott.com/paul/342961/ask-paul-october-16-2",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.thurrott.com",
+    "url": "https://www.thurrott.com/paul/343003/choose-a-markdown-editor",
+    "title": "Choose a Markdown Editor ⭐ - Thurrott.com",
+    "date": "2026-10-19T09:16:49.93+06:00",
+    "og:title": "Choose a Markdown Editor ⭐",
+    "og:image": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/10/markdown-editors.jpg",
+    "og:description": "Markdown editors vary wildly, and because the app you choose will directly impact the writing experience, you should experiment.",
+    "og:url": "https://www.thurrott.com/paul/343003/choose-a-markdown-editor",
     "og:type": "article"
   },
   {
@@ -93754,6 +94942,17 @@
   },
   {
     "hostname": "www.windowscentral.com",
+    "url": "https://www.windowscentral.com/accessories/cameras/razer-kiyo-v2-pro-review",
+    "title": "Razer Kiyo V2 Pro webcam review: A great choice for creators | Windows Central",
+    "date": "2026-10-19T09:16:49.986+06:00",
+    "og:title": "Razer Kiyo V2 Pro review: A 4K60 webcam that you could love if you're a creator",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/YpJUkjRt3qxbg48F4sv9wZ-2448-80.jpg",
+    "og:description": "Razer's new creator-focused webcam is pretty good, but it's very deliberately a niche product.",
+    "og:url": "https://www.windowscentral.com/accessories/cameras/razer-kiyo-v2-pro-review",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.windowscentral.com",
     "url": "https://www.windowscentral.com/accessories/comu-action-pro-review",
     "title": "I ditched my expensive transcription subscription for a $170 AI credit card-sized recorder | Windows Central",
     "date": "2026-10-17T14:57:23.089+06:00",
@@ -93897,6 +95096,17 @@
   },
   {
     "hostname": "www.windowscentral.com",
+    "url": "https://www.windowscentral.com/gaming/blizzard/dear-blizzard-its-time-to-kill-world-of-warcrafts-8-week-patch-cadence",
+    "title": "Dear Blizzard, it's time to kill World of Warcraft's 8-week patch cadence | End the bugs, weak story, and filler content, I beg. | Windows Central",
+    "date": "2026-10-19T09:16:49.938+06:00",
+    "og:title": "WoW’s 8‑week patch cycle is failing players — Blizzard needs to rethink it now",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/TT5ePPftorAJ4FVkgTFCzM-1792-80.jpg",
+    "og:description": "Whether it's rushed story beats, mediocre mid-season \"features,\" or just bugs galore: World of Warcraft is killing itself gunning for an 8-week patch cycle.",
+    "og:url": "https://www.windowscentral.com/gaming/blizzard/dear-blizzard-its-time-to-kill-world-of-warcrafts-8-week-patch-cadence",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.windowscentral.com",
     "url": "https://www.windowscentral.com/gaming/blizzard/overwatch-season-5-new-hero-doctrine-more",
     "title": "Overwatch Season 5 brings new hero Doctrine, Unvaulted Passes, Solo Leveling collab, and more | Windows Central",
     "date": "2026-10-08T02:46:00.024+06:00",
@@ -94014,6 +95224,17 @@
     "og:image": "https://cdn.mos.cms.futurecdn.net/Uc5y8KPddmEuAQmATFSNhc-2560-80.jpg",
     "og:description": "Activision has finally pulled back the curtain on Modern Warfare 4's DMZ, the mode many of us are putting our hopes in for this year's game. Here's a brief overview of what's going on.",
     "og:url": "https://www.windowscentral.com/gaming/call-of-duty/we-finally-know-more-about-call-of-duty-modern-warfare-4-dmz-and-hajins-exclusion-zone-sounds-the-place-to-be-in-this-years-game",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.windowscentral.com",
+    "url": "https://www.windowscentral.com/gaming/control-resonant-review",
+    "title": "Control: Resonant review — Remedy proves once again that games can be bold, surreal, and artistically fearless (4.5/5) | Windows Central",
+    "date": "2026-10-19T09:16:49.972+06:00",
+    "og:title": "Control: Resonant review — Remedy’s latest experiment is mesmerizing, ambitious, and unlike anything else in modern gaming",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/vTvvAeBciSs8533fHs4kdi-1920-80.jpg",
+    "og:description": "Control Resonant is the latest action-adventure epic by Remedy Entertainment, and we dive deep into its story and gameplay to see if it's worth your time.",
+    "og:url": "https://www.windowscentral.com/gaming/control-resonant-review",
     "og:type": "article"
   },
   {
@@ -94656,6 +95877,17 @@
   },
   {
     "hostname": "www.windowscentral.com",
+    "url": "https://www.windowscentral.com/gaming/xbox/xbox-is-hiring-a-physical-games-supply-strategist-is-it-swerving-left-on-playstations-anti-disc-stance",
+    "title": "Xbox is hiring a \"Physical Games Supply Strategist\" — will the next-gen Xbox Helix snub PlayStation and support discs? | Windows Central",
+    "date": "2026-10-19T09:16:50.031+06:00",
+    "og:title": "Xbox is hiring a \"Physical Games Strategist\" — will Helix have discs?",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/wzgdz5sQpFaHrBfHPvreWE-2560-80.jpg",
+    "og:description": "Microsoft's positioning on physical games is still unclear ... but this latest job vacancy might offer a hint. What's going on?",
+    "og:url": "https://www.windowscentral.com/gaming/xbox/xbox-is-hiring-a-physical-games-supply-strategist-is-it-swerving-left-on-playstations-anti-disc-stance",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.windowscentral.com",
     "url": "https://www.windowscentral.com/gaming/xbox/xbox-is-not-for-sale-says-ceo-asha-sharma-why-is-this-sell-off-narrative-so-prevalent-right-now",
     "title": "\"Xbox is not for sale,\" says CEO Asha Sharma — why is this 'sell off' narrative so prevalent right now? | Windows Central",
     "date": "2026-10-01T02:04:40.324+06:00",
@@ -95140,6 +96372,17 @@
   },
   {
     "hostname": "www.windowscentral.com",
+    "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-should-be-proud-of-surface-laptop-ultra-but-is-windows-11-a-selling-point-or-a-roadblock-for-its-premier-pc",
+    "title": "Microsoft should be proud of Surface Laptop Ultra, but is Windows 11 a selling point or a roadblock for its premier PC? | Windows Central",
+    "date": "2026-10-19T09:16:49.942+06:00",
+    "og:title": "Surface Laptop Ultra proves Microsoft can build great hardware. The real question is whether Windows 11 can keep up.",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/YzZfKWZ7rfom5JMcoTL5NR-2560-80.jpg",
+    "og:description": "With massive RAM and NVIDIA RTX Spark power, Microsoft's new Surface Laptop Ultra has the hardware chops. Now it's up to Windows 11 to keep developers around.",
+    "og:url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-should-be-proud-of-surface-laptop-ultra-but-is-windows-11-a-selling-point-or-a-roadblock-for-its-premier-pc",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.windowscentral.com",
     "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-to-drop-support-for-snapdragon-850-powered-pcs-with-the-next-version-of-windows",
     "title": "Microsoft to drop support for Snapdragon 850 powered PCs with the next version of Windows | Windows Central",
     "date": "2026-10-01T02:04:40.654+06:00",
@@ -95191,6 +96434,17 @@
     "og:image": "https://cdn.mos.cms.futurecdn.net/E39uFsZYYqVGMMpCEbQaZN-2560-80.jpg",
     "og:description": "With Windows 11 version 26H1 and 26H2 built on different Windows codebases, Microsoft is planning to bring everyone back onto the same platform release with version 27H2 in 2027.",
     "og:url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-version-27h2-faq",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.windowscentral.com",
+    "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-will-get-a-new-search-experience-faq",
+    "title": "Microsoft is actively rebuilding Windows 11 Search. What does it mean? Our deep‑dive answers every major question. | Windows Central",
+    "date": "2026-10-19T09:16:49.956+06:00",
+    "og:title": "Windows 11’s new Search experience raises big questions — we break down what’s coming and why it matters",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/TcPJtLFYZofM6nJEgTcACf-1680-80.jpg",
+    "og:description": "Microsoft's new Windows 11 Search adds inline actions and a cleaner interface, with richer results planned. Here's what you need to know and how to try it.",
+    "og:url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-will-get-a-new-search-experience-faq",
     "og:type": "article"
   },
   {
@@ -95832,6 +97086,83 @@
     "og:type": "article"
   },
   {
+    "hostname": "www.windowslatest.com",
+    "url": "https://www.windowslatest.com/2026/10/17/windows-11s-last-secure-boot-deadline-hits-monday-microsoft-reveals-what-happens-to-your-pc/",
+    "title": "Windows 11’s last Secure Boot deadline hits Monday, Microsoft reveals what happens to your PC",
+    "date": "2026-10-19T09:16:11.575+06:00",
+    "og:title": "Windows 11’s last Secure Boot deadline hits Monday, Microsoft reveals what happens to your PC",
+    "og:image": "https://www.windowslatest.com/wp-content/uploads/2026/10/Microsofts-last-major-Windows-Secure-Boot-certificate-expires-October-19.jpg",
+    "og:description": "The Windows Production PCA 2011 Secure Boot certificate expires October 19. Windows 11 PCs still boot, but check if yours has the new update.",
+    "og:url": "https://www.windowslatest.com/2026/10/17/windows-11s-last-secure-boot-deadline-hits-monday-microsoft-reveals-what-happens-to-your-pc/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.windowslatest.com",
+    "url": "https://www.windowslatest.com/2026/10/18/ex-apple-engineer-of-12-years-may-ditch-his-mac-for-windows-11-says-on-paper-its-a-yes/",
+    "title": "Ex-Apple engineer of 12 years may ditch his Mac for Windows 11, says “on paper it’s a yes”",
+    "date": "2026-10-19T09:16:11.258+06:00",
+    "og:title": "Ex-Apple engineer of 12 years may ditch his Mac for Windows 11, says “on paper it’s a yes”",
+    "og:image": "https://www.windowslatest.com/wp-content/uploads/2026/10/Ex-Apple-engineer-says-Surface-Laptop-Ultra-has-him-Windows-curious.jpg",
+    "og:description": "Ex-Apple engineer Ray Fernando says CUDA has him eyeing the Surface Laptop Ultra, and Steven Sinofsky calls it a replay of the OpenGL war.",
+    "og:url": "https://www.windowslatest.com/2026/10/18/ex-apple-engineer-of-12-years-may-ditch-his-mac-for-windows-11-says-on-paper-its-a-yes/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.windowslatest.com",
+    "url": "https://www.windowslatest.com/2026/10/18/google-now-wants-windows-11-users-to-ditch-edge-for-chrome-and-gets-away-with-what-microsoft-is-slammed-for/",
+    "title": "Google now wants Windows 11 users to ditch Edge for Chrome, and gets away with what Microsoft is slammed for",
+    "date": "2026-10-19T09:16:11.244+06:00",
+    "og:title": "Google now wants Windows 11 users to ditch Edge for Chrome, and gets away with what Microsoft is slammed for",
+    "og:image": "https://www.windowslatest.com/wp-content/uploads/2026/10/Google-anti-competitive-practices.jpg",
+    "og:description": "\"Choose Chrome, the browser built by Google\" is a new message that pops up when you browse Google.com in Microsoft Edge.",
+    "og:url": "https://www.windowslatest.com/2026/10/18/google-now-wants-windows-11-users-to-ditch-edge-for-chrome-and-gets-away-with-what-microsoft-is-slammed-for/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.windowslatest.com",
+    "url": "https://www.windowslatest.com/2026/10/18/microsoft-explains-why-windows-11-still-uses-ms-dos-file-names-and-why-it-cant-change-them/",
+    "title": "Microsoft explains why Windows 11 still uses MS-DOS file names, and why it can’t change them",
+    "date": "2026-10-19T09:16:11.349+06:00",
+    "og:title": "Microsoft explains why Windows 11 still uses MS-DOS file names, and why it can’t change them",
+    "og:image": "https://www.windowslatest.com/wp-content/uploads/2026/10/Why-Windows-11s-core-system-files-still-have-DOS-era-names.jpg",
+    "og:description": "Windows 11's kernel32.dll and ntoskrnl.exe still use DOS-era 8.3 names. Microsoft veteran Raymond Chen explains why renaming them is risky.",
+    "og:url": "https://www.windowslatest.com/2026/10/18/microsoft-explains-why-windows-11-still-uses-ms-dos-file-names-and-why-it-cant-change-them/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.windowslatest.com",
+    "url": "https://www.windowslatest.com/2026/10/18/windows-11-will-block-refs-on-usb-drives-even-as-microsoft-bets-big-on-its-ntfs-alternative/",
+    "title": "Windows 11 will block ReFS on USB drives, even as Microsoft bets big on its NTFS alternative",
+    "date": "2026-10-19T09:16:11.433+06:00",
+    "og:title": "Windows 11 will block ReFS on USB drives, even as Microsoft bets big on its NTFS alternative",
+    "og:image": "https://www.windowslatest.com/wp-content/uploads/2026/10/Windows-11-ReFS-USB-drive-removable.jpg",
+    "og:description": "Microsoft says it won't allow ReFS on USB drives on Windows 11, and it makes you wonder what happened to the big ReFS bet.",
+    "og:url": "https://www.windowslatest.com/2026/10/18/windows-11-will-block-refs-on-usb-drives-even-as-microsoft-bets-big-on-its-ntfs-alternative/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.windowslatest.com",
+    "url": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/",
+    "title": "Why Windows 11 still ships with Windows 95’s memory manager hidden inside it",
+    "date": "2026-10-19T09:16:11.133+06:00",
+    "og:title": "Why Windows 11 still ships with Windows 95’s memory manager hidden inside it",
+    "og:image": "https://www.windowslatest.com/wp-content/uploads/2026/10/How-Windows-95-code-survives-inside-Windows-11.jpg",
+    "og:description": "Windows 11 still carries Windows 95’s heap manager, recompiled for old apps. Raymond Chen explains EmulateHeap, and how to find it yourself.",
+    "og:url": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.windowslatest.com",
+    "url": "https://www.windowslatest.com/2026/10/19/windows-11-will-now-have-three-ways-to-view-your-photos-because-apparently-one-wasnt-enough/",
+    "title": "Windows 11 will now have three ways to view your photos, because apparently one wasn’t enough",
+    "date": "2026-10-19T09:24:14.414+06:00",
+    "og:title": "Windows 11 will now have three ways to view your photos, because apparently one wasn’t enough",
+    "og:image": "https://www.windowslatest.com/wp-content/uploads/2026/10/Windows-11s-new-Photos-app-and-Photo-Viewer-the-renamed-Photos-app.jpg",
+    "og:description": "Microsoft is renaming the Photos app to Photo Viewer and turning OneDrive Photos into the new Photos Gallery. We've tried both on Windows 11.",
+    "og:url": "https://www.windowslatest.com/2026/10/19/windows-11-will-now-have-three-ways-to-view-your-photos-because-apparently-one-wasnt-enough/",
+    "og:type": "article"
+  },
+  {
     "hostname": "www.windowspro.de",
     "url": "https://www.windowspro.de/adn-distribution-gmbh/adn-vortraegen-live-demos-expertengespraechen-zu-ki-it-sa",
     "title": "ADN mit Vorträgen, Live-Demos und Expertengesprächen zu KI auf der it-sa | WindowsPro",
@@ -95891,6 +97222,17 @@
     "url": "https://www.windowspro.de/progress-software/whitepaper-application-delivery-controller-erfolgreich-neue-plattform-migrieren",
     "title": "Whitepaper: Application Delivery Controller erfolgreich auf neue Plattform migrieren | WindowsPro",
     "date": "2026-10-01T02:05:44.504+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.windowspro.de",
+    "url": "https://www.windowspro.de/specops-software/5-massnahmen-zum-schutz-des-helpdesks-gegen-social-engineering-angriffe",
+    "title": "Just a moment...",
+    "date": "2026-10-19T09:17:07.632+06:00",
     "og:title": "",
     "og:image": "",
     "og:description": "",
