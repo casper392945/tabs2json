@@ -2454,6 +2454,17 @@
   },
   {
     "hostname": "adme.media",
+    "url": "https://adme.media/articles/13-chelovek-kotoryh-lyubopytstvo-privelo-k-malenkomu-otkrytiyu-2557686/",
+    "title": "13 человек, которых любопытство привело к маленькому открытию",
+    "date": "2026-10-21T06:23:08.401+06:00",
+    "og:title": "13 человек, которых любопытство привело к маленькому открытию",
+    "og:image": "https://wl-adme.cf.tsp.li/resize/1200x770/jpg/510/14c/3acdea542b99a975d8de13abb9.jpg",
+    "og:description": "Иногда, прогуливаясь в лесу, по пляжу, в горах или просто с любимцем, можно найти не только грибочки и белочек и увидеть роскошные пейзажи, но и узнать для себя нечто новое. Вот подборка занятных артефактов, явлений, представителей флоры и фауны от людей, которым было ну очень любопытно, и они решили выложить свои фото в сети. И они получили ответы на свои вопросы.",
+    "og:url": "https://adme.media/articles/13-chelovek-kotoryh-lyubopytstvo-privelo-k-malenkomu-otkrytiyu-2557686/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "adme.media",
     "url": "https://adme.media/articles/13-foto-i-istorij-ob-otdyhe-na-prirode-osenyu-radi-kotorogo-stoilo-vstat-v-6-utra-v-subbotu-2557419/",
     "title": "13 фото и историй об отдыхе на природе осенью, ради которого стоило встать в 6 утра в субботу",
     "date": "2026-10-12T09:56:19.892+06:00",
@@ -6997,6 +7008,17 @@
   },
   {
     "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/docchief-ai",
+    "title": "DocChief AI: Turn corporate records into clear, | BetaList",
+    "date": "2026-10-21T06:23:08.289+06:00",
+    "og:title": "DocChief AI: Turn corporate records into clear, evidence-linked",
+    "og:image": "https://resize.imagekit.co/onTdpyttpDGRQT1vEoLka8Bo25Nr1s4Y7Rwrweep-ak/plain/s3://betalist-production/vq2fnyxax3g9kwf0vmx1tydy3iwu",
+    "og:description": "Turn corporate records into clear, evidence-linked governance insight",
+    "og:url": "https://betalist.com/startups/docchief-ai",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
     "url": "https://betalist.com/startups/dofott",
     "title": "DOFOTT: Automatic travel time blocks added to Google | BetaList",
     "date": "2026-10-16T02:29:04.92+06:00",
@@ -7092,6 +7114,17 @@
     "og:image": "https://resize.imagekit.co/GI1-4Hf-S0e81WmLbNVp4wMFdwx05X1PrA3R_TfTjMM/plain/s3://betalist-production/q10wbhwou0x2f8jb54rkbndhlmym",
     "og:description": "All-in-one cold email software with built-in lead finding",
     "og:url": "https://betalist.com/startups/emailchaser",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/ember-ai",
+    "title": "Ember AI: Warm outreach that sounds like you and scales | BetaList",
+    "date": "2026-10-21T06:23:08.281+06:00",
+    "og:title": "Ember AI: Warm outreach that sounds like you and scales effectively",
+    "og:image": "https://resize.imagekit.co/lRaT0MKMqhz7H-H3w313yhYb-3S6ECRd6uK-HLsULsY/plain/s3://betalist-production/ao179atyx1cvmncciln210l1iowj",
+    "og:description": "Warm outreach that sounds like you and scales effectively",
+    "og:url": "https://betalist.com/startups/ember-ai",
     "og:type": "article,"
   },
   {
@@ -12317,6 +12350,17 @@
     "og:image": "https://borncity.com/blog/wp-content/uploads/2018/11/Para.jpg",
     "og:description": "Ein Blog-Leser hat mich auf ein Problem hingewiesen, was möglicherweise einige Administratoren von Microsoft Lizenzen betrifft. Gekaufte Lizenzen lassen sich nicht registrieren.",
     "og:url": "https://borncity.com/blog/2026/10/21/microsofts-lizenz-klippen-gekaufte-rds-cal-lizenzen-lassen-sich-nicht-aktivieren/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "borncity.com",
+    "url": "https://borncity.com/blog/2026/10/21/private-schluessel-der-zertifizierungsstelle-emudhra-kompromittiert/",
+    "title": "Private Schlüssel der Zertifizierungsstelle eMudhra kompromittiertBorns IT- und Windows-Blog",
+    "date": "2026-10-21T06:23:08.382+06:00",
+    "og:title": "Private Schlüssel der Zertifizierungsstelle eMudhra kompromittiert",
+    "og:image": "https://borncity.com/blog/wp-content/uploads/2021/06/Stop01.jpg",
+    "og:description": "Ein größeres „Opsi“: Die Zertifizierungsstelle eMudhra musste eingestehen, dass private WebPKI Intermediate CA Keys in „falsche Hände geraten und damit kompromittiert“ sind. Die Rede ist von vier bis…",
+    "og:url": "https://borncity.com/blog/2026/10/21/private-schluessel-der-zertifizierungsstelle-emudhra-kompromittiert/",
     "og:type": "article"
   },
   {
@@ -63207,9 +63251,31 @@
   },
   {
     "hostname": "samlab.ws",
+    "url": "https://samlab.ws/soft/aimp_beta/",
+    "title": "SamLab.ws - AIMP 6.00.3091 Beta 7",
+    "date": "2026-10-21T06:23:08.309+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "samlab.ws",
     "url": "https://samlab.ws/soft/aimp/",
     "title": "SamLab.ws - AIMP 6.00.3088 Beta 7 - SamLab.ws Рекомендует!",
     "date": "2026-10-04T13:05:12.471+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "samlab.ws",
+    "url": "https://samlab.ws/soft/amd/",
+    "title": "SamLab.ws - AMD Radeon Software Adrenalin Edition 26.10.1",
+    "date": "2026-10-21T06:23:08.328+06:00",
     "og:title": "",
     "og:image": "",
     "og:description": "",
@@ -64143,8 +64209,8 @@
   {
     "hostname": "samlab.ws",
     "url": "https://samlab.ws/soft/telegram/",
-    "title": "SamLab.ws - Telegram 7.3.1",
-    "date": "2026-10-20T02:13:15.951+06:00",
+    "title": "SamLab.ws - Telegram 7.3.2",
+    "date": "2026-10-21T06:23:08.349+06:00",
     "og:title": "",
     "og:image": "",
     "og:description": "",
@@ -78108,6 +78174,17 @@
     "og:image": "https://cdn.comss.ru/img/2026-10-21/comss-sparkyos-2026-10-linux-arch-2026-10-21_0536.jpg?class=cover",
     "og:description": "Разработчики SparkyLinux выпустили отдельную систему для работы с USB-накопителя. Первый образ включает Xfce, ядро Linux 7.2.11 и доступ к AUR через Yay. Приложения, обновления и личные файлы сохраняются после перезагрузки; для запуска нужен компьютер x86_64 с UEFI и флешка объёмом от 16 ГБ",
     "og:url": "https://www.comss.ru/page.php?id=22518",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=22519",
+    "title": "Intel выпустила Killer Performance Suite 50.26.915.2621 с Wi-Fi-драйвером 24.80.0.2 и прекратила поддержку Windows 10",
+    "date": "2026-10-21T06:23:08.266+06:00",
+    "og:title": "Intel выпустила Killer Performance Suite 50.26.915.2621 с Wi-Fi-драйвером 24.80.0.2 и прекратила поддержку Windows 10",
+    "og:image": "https://cdn.comss.ru/img/2026-04-29/comss-intel-killer-performance-suite-2026-04-29_1759.png?class=cover",
+    "og:description": "В пакет Killer Performance Suite 50.26.915.2621 вошли Wi-Fi-драйвер 24.80.0.2 и исправление восстановления службы после выхода из спящего режима. С этого выпуска пакет устанавливается только в Windows 11, поддержка Windows 10 x64 прекращена",
+    "og:url": "https://www.comss.ru/page.php?id=22519",
     "og:type": "article"
   },
   {
@@ -95432,6 +95509,17 @@
     "og:title": "",
     "og:image": "https://www.opennet.ru/opennet_192tg.png",
     "og:description": "Компания Mozilla  предупредила  о  компрометации  закрытых  ключей, связанных с восемью  промежуточными  (вторичными) корневыми сертификатами удостоверяющего центра  eMudhra . Скомпрометированные ключи позволяли выпустить  поддельные TLS-сертификаты для любого сайта, воспринимаемые как заслуживающие доверия во всех браузерах, и использовать их для перехвата или модификации транзитного трафика",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.opennet.ru",
+    "url": "https://www.opennet.ru/opennews/art.shtml?num=66516",
+    "title": "Уязвимость в PHP, потенциально позволяющая скомпрометировать любой PHP-сайт",
+    "date": "2026-10-21T06:23:08.414+06:00",
+    "og:title": "",
+    "og:image": "https://www.opennet.ru/opennet_192tg.png",
+    "og:description": "Разработчики PHP  анонсировали  публикации сегодня в 17:00 (MSK) экстренных корректирующих выпусков (8.5.12, 8.4.27, 8.3.36 и 8.2.35), в которых будут устранены две критические уязвимости. Всем администраторам серверов с PHP рекомендовано незамедлительно установить исправления на своих системах, сразу после их публикации. Официально детали будут раскрыты только после появления исправлений, но судя по  появившейся  в открытом доступе  информации , речь про уязвимости  CVE-2026-109618  и  CVE-2026-109619 , потенциально позволяющие удалённо выполнить свой код на любом web-сервере, выполняющем PHP-скрипты в конфигурации по умолчанию. Проблемы проявляются во всех версиях, начиная с PHP 5.4",
     "og:url": "",
     "og:type": ""
   },
