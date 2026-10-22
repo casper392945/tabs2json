@@ -65450,6 +65450,28 @@
     "og:type": "article"
   },
   {
+    "hostname": "mfgit.ru",
+    "url": "https://mfgit.ru/2026/10/22/root-ne-vydavali-linux-systemd-cepochka-privilegiy/",
+    "title": "Root не выдавали: systemd, writable-код и границы привилегий",
+    "date": "2026-10-22T21:49:42.682+06:00",
+    "og:title": "Root не выдавали: systemd, writable-код и границы привилегий",
+    "og:image": "https://mfgit.ru/wp-content/uploads/2026/10/systemd-chain-ru.png",
+    "og:description": "Как проверить цепочку запуска Linux-службы: unit, ExecStart, сценарии, ACL, каталоги и symlinks. Границы NoNewPrivileges, Bash-сборщик и безопасный пилот.",
+    "og:url": "https://mfgit.ru/2026/10/22/root-ne-vydavali-linux-systemd-cepochka-privilegiy/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "mfgit.ru",
+    "url": "https://mfgit.ru/2026/10/22/vm-zashchita-administrator-gipervizora-vcenter-esxi/",
+    "title": "Кто защищает ВМ от администратора гипервизора? vCenter и ESXi",
+    "date": "2026-10-22T21:49:42.722+06:00",
+    "og:title": "Кто защищает ВМ от администратора гипервизора? vCenter и ESXi",
+    "og:image": "https://mfgit.ru/wp-content/uploads/2026/10/hypervisor-security-ru.png",
+    "og:description": "Аудит защиты виртуальных машин: vCenter, ESXi, права, события, Lockdown, шифрование ВМ и ключи. PowerCLI только для чтения и независимые журналы.",
+    "og:url": "https://mfgit.ru/2026/10/22/vm-zashchita-administrator-gipervizora-vcenter-esxi/",
+    "og:type": "article"
+  },
+  {
     "hostname": "microsoft.design",
     "url": "https://microsoft.design/articles/designing-michelangelus/",
     "title": "Designing Michelangelus - Microsoft Design",
@@ -84997,6 +85019,94 @@
     "og:type": "article"
   },
   {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=22544",
+    "title": "Mozilla, Google и Apple заблокировали скомпрометированные сертификаты eMudhra",
+    "date": "2026-10-22T21:51:19.439+06:00",
+    "og:title": "Mozilla, Google и Apple заблокировали скомпрометированные сертификаты eMudhra",
+    "og:image": "https://cdn.comss.ru/img/2026-10-22/comss-emudhra-2026-10-22_1312.jpg?class=cover",
+    "og:description": "Удостоверяющий центр eMudhra отозвал восемь промежуточных сертификатов: их закрытые ключи можно было подобрать за 256 попыток и подделывать сертификаты сайтов. Mozilla, Google и Apple заблокировали эти сертификаты, разработчики ПО выпускают обновления",
+    "og:url": "https://www.comss.ru/page.php?id=22544",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=22545",
+    "title": "AdGuard 8.0.3 для Windows: скомпрометированные сертификаты eMudhra внесены в черный список",
+    "date": "2026-10-22T21:51:19.406+06:00",
+    "og:title": "AdGuard 8.0.3 для Windows: скомпрометированные сертификаты eMudhra внесены в черный список",
+    "og:image": "https://cdn.comss.ru/img/2026-10-22/comss-adguard-8-0-3-2026-10-22_1151.jpg?class=cover",
+    "og:description": "В AdGuard 8.0.3 для Windows скомпрометированные сертификаты удостоверяющего центра eMudhra внесены в черный список: на сайтах с ними HTTPS-фильтрация не работает, и соединение проверяет сам браузер. Движок фильтрации CoreLibs обновлен до версии 1.22.31",
+    "og:url": "https://www.comss.ru/page.php?id=22545",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=22546",
+    "title": "PHP Foundation назвала задержку исправления PHP2Shell структурным провалом и рассказала об утечке",
+    "date": "2026-10-22T21:51:19.372+06:00",
+    "og:title": "PHP Foundation назвала задержку исправления PHP2Shell структурным провалом и рассказала об утечке",
+    "og:image": "https://cdn.comss.ru/img/2026-10-22/comss-php2shell-2026-10-22_1419.jpg?class=cover",
+    "og:description": "Проблему, из-за которой появилась уязвимость PHP2Shell CVE-2026-109618, нашли еще в 2024 году, но исправление месяцами буксовало. PHP Foundation рассказала, как это произошло, кто нашел уязвимости и как утечка сорвала скоординированное раскрытие",
+    "og:url": "https://www.comss.ru/page.php?id=22546",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=22547",
+    "title": "В России начались продажи POCO X8 с батареей 8340 мАч и защитой IP69K",
+    "date": "2026-10-22T21:51:19.345+06:00",
+    "og:title": "В России начались продажи POCO X8 с батареей 8340 мАч и защитой IP69K",
+    "og:image": "https://cdn.comss.ru/img/102026/2026-10-22-poco-x8-white.jpg?class=cover",
+    "og:description": "POCO X8 получил процессор Snapdragon 6s Gen 4, батарею 8340 мАч с зарядкой 67 Вт, экран 6,83 дюйма с разрешением 1,5K и защиту от воды и пыли по IP66, IP68, IP69 и IP69K. Рекомендованные цены в России – от 26 990 рублей",
+    "og:url": "https://www.comss.ru/page.php?id=22547",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=22548",
+    "title": "Обновление NVIDIA RTX Enterprise Driver R595 U10 (597.30) для Windows 11, Windows 10 и Windows Server",
+    "date": "2026-10-22T21:51:19.315+06:00",
+    "og:title": "Обновление NVIDIA RTX Enterprise Driver R595 U10 (597.30) для Windows 11, Windows 10 и Windows Server",
+    "og:image": "https://cdn.comss.ru/img/102026/R595-U10.png?class=cover",
+    "og:description": "NVIDIA выпустила обновление драйвера RTX Enterprise 597.30 для Windows 11, Windows 10 и Windows Server в ветке Production Branch. Выпуск продолжает серию Release 595 и содержит исправления ошибок и улучшения драйвера",
+    "og:url": "https://www.comss.ru/page.php?id=22548",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=22549",
+    "title": "У Spotify 306 млн подписчиков Premium: итоги третьего квартала 2026 года",
+    "date": "2026-10-22T21:51:19.284+06:00",
+    "og:title": "У Spotify 306 млн подписчиков Premium: итоги третьего квартала 2026 года",
+    "og:image": "https://cdn.comss.ru/img/2026-10-22/comss--spotify-306-premium-2026-10-22_1526.jpg?class=cover",
+    "og:description": "Платная аудитория Spotify выросла на 9% за год, операционная прибыль составила 672 млн евро, а валовая рентабельность достигла 33%. К концу года компания прогнозирует 818 млн активных пользователей. Сервис также расширяет доступ к аудиокнигам и готовит платный инструмент создания лицензированных ИИ-ремиксов",
+    "og:url": "https://www.comss.ru/page.php?id=22549",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=22550",
+    "title": "NVIDIA Graphics Driver 595.112.07 для Linux: добавлена поддержка X.Org Server 26.1",
+    "date": "2026-10-22T21:51:19.258+06:00",
+    "og:title": "NVIDIA Graphics Driver 595.112.07 для Linux: добавлена поддержка X.Org Server 26.1",
+    "og:image": "https://cdn.comss.ru/img/102026/595.112.07.png?class=cover",
+    "og:description": "Вышло обновление драйвера NVIDIA Graphics Driver 595.112.07 для Linux на стабильной ветке Production Branch (LLB). В выпуске добавлена поддержка ABI 28 сервера X.Org (xorg-server 26.1)",
+    "og:url": "https://www.comss.ru/page.php?id=22550",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=22551",
+    "title": "Microsoft сокращает интеграцию Copilot в Windows 11 на фоне критики пользователей",
+    "date": "2026-10-22T21:51:19.225+06:00",
+    "og:title": "Microsoft сокращает интеграцию Copilot в Windows 11 на фоне критики пользователей",
+    "og:image": "https://cdn.comss.ru/img/092024/recall-hero.png?class=cover",
+    "og:description": "Microsoft уберет из контекстного меню Проводника Windows 11 восемь действий Copilot для OneDrive, включая «Создать сводку» и «Сравнить файлы». Пункт «Спросить Copilot» останется. Удаление начнется в середине ноября и завершится к декабрю 2026 года",
+    "og:url": "https://www.comss.ru/page.php?id=22551",
+    "og:type": "article"
+  },
+  {
     "hostname": "www.craigabbott.co.uk",
     "url": "https://www.craigabbott.co.uk/blog/2026/using-maths-to-balance-your-heading-styles/",
     "title": "Using maths to balance your heading styles - Craig Abbott",
@@ -89266,6 +89376,17 @@
   },
   {
     "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/blog/2026/10/22/bambu-lab-h3c-geleakt-prusa-und-bondtech-als-vorbild-fuer-neuen-toolchanger/",
+    "title": "Bambu Lab H3C leaked: Prusa and Bondtech as a role model for new toolchanger? - Deskmodder.de",
+    "date": "2026-10-22T21:51:19.486+06:00",
+    "og:title": "Bambu Lab H3C geleakt: Prusa und Bondtech als Vorbild für neuen Toolchanger?",
+    "og:image": "https://www.deskmodder.de/blog/wp-content/uploads/2025/11/bambulab-bambu-lab-logo-formnext-1-scaled.jpeg",
+    "og:description": "Bambu Lab H3C: Ein geleaktes Shop-Banner zeigt offenbar einen 3D-Drucker mit neun Werkzeugpositionen. Das Konzept erinnert an Prusa und Bondtech.",
+    "og:url": "https://www.deskmodder.de/blog/2026/10/22/bambu-lab-h3c-geleakt-prusa-und-bondtech-als-vorbild-fuer-neuen-toolchanger/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.deskmodder.de",
     "url": "https://www.deskmodder.de/blog/2026/10/22/custom-context-menu-5-9-0-das-windows-11-kontextmenue-selbst-anpassen-und-eintraege-hinzufuegen/",
     "title": "Custom Context Menu 5.9.0 das Windows 11 Kontextmenü selbst anpassen und Einträge hinzufügen - Deskmodder.de",
     "date": "2026-10-22T05:44:46.684+06:00",
@@ -89273,6 +89394,39 @@
     "og:image": "https://www.deskmodder.de/blog/wp-content/uploads/2024/11/neues-windows-11-kontextmenue-selbst-erweitern-mit-custom-context-menu.jpg",
     "og:description": "Auch wenn Microsoft jetzt in der Windows 11 die Möglichkeit hinzugefügt hat, das Kontextmenü selbst über die Einstellungen anzupassen und Einträge zu deaktivieren, hat das Custom Context Menu seine Daseinsberechtigung. Und genau dieses Tool hat ein Update auf die Version…",
     "og:url": "https://www.deskmodder.de/blog/2026/10/22/custom-context-menu-5-9-0-das-windows-11-kontextmenue-selbst-anpassen-und-eintraege-hinzufuegen/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/blog/2026/10/22/digitale-brieftasche-und-german-angst-deutschlands-angst-vor-veraenderung/",
+    "title": "Digital wallet and German Angst: Germany's fear of change - Deskmodder.de",
+    "date": "2026-10-22T21:51:19.572+06:00",
+    "og:title": "Digitale Brieftasche und German Angst: Deutschlands Angst vor Veränderung",
+    "og:image": "https://www.deskmodder.de/blog/wp-content/uploads/2026/10/wallet-symbolfoto-scaled.jpg",
+    "og:description": "Digitale Brieftasche und German Angst: Warum Technikverweigerung, Datenschutzpanik und die Angst vor Veränderungen Deutschlands Digitalisierung ausbremsen.",
+    "og:url": "https://www.deskmodder.de/blog/2026/10/22/digitale-brieftasche-und-german-angst-deutschlands-angst-vor-veraenderung/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/blog/2026/10/22/fritzbox-7530-ax-erhaelt-das-fritzos-8-50/",
+    "title": "FRITZ! Box 7530 AX receives the FRITZ! OS 8.50 - Deskmodder.de",
+    "date": "2026-10-22T21:51:19.614+06:00",
+    "og:title": "FRITZ!Box 7530 AX erhält das FRITZ!OS 8.50",
+    "og:image": "https://www.deskmodder.de/blog/wp-content/uploads/2026/09/fritzbox-7690-fritzos-850.jpg",
+    "og:description": "Eine weitere FRITZ!Box erhält das aktuelle Update auf das FRITZ!OS 8.50. Es ist die FRITZ!Box 7530 AX, die jetzt die Labor-Updates (vorerst) verlässt und das finale Update bekommt. Wie schon bei den anderen drei FRITZ!Boxen sind auch hier neue Funktionen…",
+    "og:url": "https://www.deskmodder.de/blog/2026/10/22/fritzbox-7530-ax-erhaelt-das-fritzos-8-50/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.deskmodder.de",
+    "url": "https://www.deskmodder.de/blog/2026/10/22/nanazip-7-0-2610-1-7-0-1873-0-mit-einer-langen-release-notes-und-synchronisierung-auf-7-zip-26-04/",
+    "title": "NanaZip 7.0 2610.1 (7.0.1873.0) with a long release notes and synchronization on 7-Zip 26.04 - Deskmodder.de",
+    "date": "2026-10-22T21:51:19.527+06:00",
+    "og:title": "NanaZip 7.0 2610.1 (7.0.1873.0) mit einer langen Release Notes und Synchronisierung auf 7-Zip 26.04",
+    "og:image": "https://www.deskmodder.de/blog/wp-content/uploads/2022/09/nanazip-2-logo.jpg",
+    "og:description": "NanaZip baut auf 7-Zip auf und bietet noch einige weitere Verbesserungen. Heute wurde ein neues Update für NanaZip in der Version 7.0 2610.1 (7.0.1873.0) zum Download bereitgestellt. In dieser Version wurden einige Änderungen vorgenommen und auch die Basis von 7-Zip…",
+    "og:url": "https://www.deskmodder.de/blog/2026/10/22/nanazip-7-0-2610-1-7-0-1873-0-mit-einer-langen-release-notes-und-synchronisierung-auf-7-zip-26-04/",
     "og:type": "article"
   },
   {
