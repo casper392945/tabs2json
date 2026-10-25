@@ -37005,6 +37005,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1095936/",
+    "title": "HabrExporter: сохраняем статьи и целые блоги Хабра в офлайн / Хабр",
+    "date": "2026-10-24T04:28:40.222+06:00",
+    "og:title": "HabrExporter: сохраняем статьи и целые блоги Хабра в офлайн",
+    "og:image": "https://habr.com/share/publication/1095936/e4d4b0323dc4daf23c969684f074a7b7/",
+    "og:description": "Салют, Хабр! Не&nbsp;так давно мне захотелось сохранить себе подборку статей одного автора: несколько десятков публикаций вместе с&nbsp;комментариями (которые зачастую не&nbsp;менее ценны, чем сами...",
+    "og:url": "https://habr.com/ru/articles/1095936/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/articles/1095938/",
     "title": "Что полезно знать про процедуру увольнения по соглашению сторон / Хабр",
     "date": "2026-10-20T06:57:58.463+06:00",
@@ -40514,6 +40525,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1098154/",
+    "title": "Как внедрить ИИ в бизнес: 5 уровней ИИтизации процессов и AI-Native-подход / Хабр",
+    "date": "2026-10-24T04:28:35.953+06:00",
+    "og:title": "Как внедрить ИИ в бизнес: 5 уровней ИИтизации процессов и AI-Native-подход",
+    "og:image": "https://habr.com/share/publication/1098154/b61029ca6d1907bc4d2022d7dc292bd0/",
+    "og:description": "Вы внедрили ИИ-агента в свою работу. Он показывает информацию по счетам, формирует сводки, разбирает входящие сообщения и делает ещё много полезного. Но на каком уровне автоматизации вы находитесь? И...",
+    "og:url": "https://habr.com/ru/articles/1098154/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/articles/1098170/",
     "title": "IPv6 у миллиона абонентов: как домашние роутеры устроили провайдеру шторм DHCPv6 / Хабр",
     "date": "2026-10-23T08:32:01.142+06:00",
@@ -40723,9 +40745,31 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1098496/",
+    "title": "DeepSeek Harness вместо OpenClaw? Почему бы и… да / Хабр",
+    "date": "2026-10-24T04:28:39.67+06:00",
+    "og:title": "DeepSeek Harness вместо OpenClaw? Почему бы и… да",
+    "og:image": "https://habr.com/share/publication/1098496/8642094099ee94abd45862b15b7f8e44/",
+    "og:description": "Как я перешёл с openclaw на DeepSeek Harness, вернул своему VDS load average 0,03 и перестал докупать память. Вслед за многими читателями этого сайта я в какой-то момент дошёл до стадии, когда тоже...",
+    "og:url": "https://habr.com/ru/articles/1098496/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1098562/",
+    "title": "Домашним сантехникам / Хабр",
+    "date": "2026-10-24T04:28:39.823+06:00",
+    "og:title": "Домашним сантехникам",
+    "og:image": "https://habr.com/share/publication/1098562/f219765e5742a66752eb83b0a8b13967/",
+    "og:description": "Была мысль: а&nbsp;место&nbsp;ли этой статьи на&nbsp;хабре? Но&nbsp;потом вспомнил, что&nbsp;тут уже была штукатурка… А&nbsp;еще подумал, что&nbsp;тут очень много людей, которые суют свои ручки...",
+    "og:url": "https://habr.com/ru/articles/1098562/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/articles/1098582/",
     "title": "Сначала радиус поражения: семь рамок, прежде чем пустить ИИ на свои серверы / Хабр",
-    "date": "2026-10-23T20:28:34.446+06:00",
+    "date": "2026-10-24T04:28:40.081+06:00",
     "og:title": "Сначала радиус поражения: семь рамок, прежде чем пустить ИИ на свои серверы",
     "og:image": "https://habr.com/share/publication/1098582/a38ea92e15235b85c6c254d004dbab82/",
     "og:description": "Истории о том, как ИИ-агент «натворил дел» на сервере, похожи одна на другую. Модель не злая, она уверенная. Сделать её безошибочной нельзя, а решить заранее, во что обойдётся её ошибка, можно. В...",
@@ -40741,6 +40785,28 @@
     "og:image": "https://habr.com/share/publication/1098602/1bb5a3907b497b1531c1cb0bcbc400a5/",
     "og:description": "Это продолжение истории про облачное хранилище aroshka.cloud и заказы на Kwork, которые подводили исполнителей к оплате тарифа. Первая часть: https://habr.com/ru/articles/1097776/ , вторая:...",
     "og:url": "https://habr.com/ru/articles/1098602/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1098608/",
+    "title": "Dark Souls на iPhone: что пришлось починить в Madeira, чтобы игра с ПК вообще запустилась / Хабр",
+    "date": "2026-10-24T04:28:39.622+06:00",
+    "og:title": "Dark Souls на iPhone: что пришлось починить в Madeira, чтобы игра с ПК вообще запустилась",
+    "og:image": "https://habr.com/share/publication/1098608/e59d1198a11f4cbdf9cb9f7edfa10bad/",
+    "og:description": "Я с&nbsp;конца сентября запускал PC‑версии Dark Souls на&nbsp;iPhone Air через эмулятор Madeira. Remastered теперь играется с&nbsp;экранным геймпадом, у&nbsp;Dark Souls III в&nbsp;тяжёлых сценах...",
+    "og:url": "https://habr.com/ru/articles/1098608/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1098612/",
+    "title": "Как я собрал русскоязычную GPT на 112 млн параметров с нуля на PyTorch: претрейн, SFT, Telegram-бот / Хабр",
+    "date": "2026-10-24T04:28:39.62+06:00",
+    "og:title": "Как я собрал русскоязычную GPT на 112 млн параметров с нуля на PyTorch: претрейн, SFT, Telegram-бот",
+    "og:image": "https://habr.com/share/publication/1098612/de8c56e2786caee8c1349968e7c19bc8/",
+    "og:description": "Примерная визуализация джарвиса Когда смотришь на современную LLM, легко решить, что всё сводится к вызову API. Но многие разработчики, которые часто используют LLM в работе или в своих проектах, рано...",
+    "og:url": "https://habr.com/ru/articles/1098612/",
     "og:type": "article"
   },
   {
@@ -40767,9 +40833,64 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1098622/",
+    "title": "Бот для поиска туров на Python: LLM разбирает запрос, а API туроператоров подкидывают сюрпризы / Хабр",
+    "date": "2026-10-24T04:28:37.319+06:00",
+    "og:title": "Бот для поиска туров на Python: LLM разбирает запрос, а API туроператоров подкидывают сюрпризы",
+    "og:image": "https://habr.com/share/publication/1098622/e0a13e5e3b261af33f830ba8844b4079/",
+    "og:description": "Я сделал бота для Telegram и MAX. Ему пишут обычной фразой: «Египет в ноябре с 10-го ±3 дня на 8 ночей, двое взрослых и ребёнок 7 лет, 4–5 звёзд». Бот находит туры, билеты и отели, а по кнопке следит...",
+    "og:url": "https://habr.com/ru/articles/1098622/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1098624/",
+    "title": "Senpy или зачем визуальной новелле семантический линтер, если в Ren’Py уже есть встроенная проверка? / Хабр",
+    "date": "2026-10-24T04:28:36.576+06:00",
+    "og:title": "Senpy или зачем визуальной новелле семантический линтер, если в Ren’Py уже есть встроенная проверка?",
+    "og:image": "https://habr.com/share/publication/1098624/1cc5758444910b0f5e984ecd95a12e0f/",
+    "og:description": "Как я полез фиксить русификатор для мода к DDLC, а написал для Ren’Py свой аналог Ruff со статанализом, проверкой сохранений, развилок и LSP. Всё началось с чужих багов Началась эта история...",
+    "og:url": "https://habr.com/ru/articles/1098624/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1098628/",
+    "title": "API быстрее UI — не закон: замеры на 400+ Android UI-тестах / Хабр",
+    "date": "2026-10-24T04:28:36.552+06:00",
+    "og:title": "API быстрее UI — не закон: замеры на 400+ Android UI-тестах",
+    "og:image": "https://habr.com/share/publication/1098628/cd0ab1bae3ed7fe074da4f84c2d07f10/",
+    "og:description": "Почти каждый наш UI-тест начинался одинаково: старт, email, OTP, пароль, создать пасскод, повторить пасскод. Шесть экранов, около 26 секунд, и ни один из этих тестов не проверял логин. Он был просто...",
+    "og:url": "https://habr.com/ru/articles/1098628/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1098640/",
+    "title": "Бот сыграл 26 400 партий: как агенты балансировали карточную игру за четыре дня / Хабр",
+    "date": "2026-10-24T04:28:33.993+06:00",
+    "og:title": "Бот сыграл 26 400 партий: как агенты балансировали карточную игру за четыре дня",
+    "og:image": "https://habr.com/share/publication/1098640/15e374a228b1a53ded623aa1258cc69a/",
+    "og:description": "«Оборот» – карточный рогалик про то, как маленькая команда с агентами доживает до первого большого запуска. Его собрали агенты за четыре дня: 28 выпусков с 13 по 16 октября. Человек в это время ставил...",
+    "og:url": "https://habr.com/ru/articles/1098640/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1098650/",
+    "title": "Как мы сделали ИИ-собеседника, которому можно соврать / Хабр",
+    "date": "2026-10-24T04:28:33.66+06:00",
+    "og:title": "Как мы сделали ИИ-собеседника, которому можно соврать",
+    "og:image": "https://habr.com/share/publication/1098650/2b2437b54339d744dee3e55f7d422e37/",
+    "og:description": "За 10 дней мы сделали MVP тренажёра переговоров &quot;Вершина&quot; для Хакатона Мэра Москвы (Задача №9 от ОЭЗ &quot;Алабуга&quot;). Нас было пятеро, до конкурса мы не были знакомы. В финал мы не вышли. Зато у нас...",
+    "og:url": "https://habr.com/ru/articles/1098650/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/articles/1098652/",
     "title": "PSLC и Agent-Ops: от поддержки продукта к изменению инфраструктуры / Хабр",
-    "date": "2026-10-23T20:28:32.662+06:00",
+    "date": "2026-10-24T04:28:31.979+06:00",
     "og:title": "PSLC и Agent-Ops: от поддержки продукта к изменению инфраструктуры",
     "og:image": "https://habr.com/share/publication/1098652/0c6c75d7d68e2bf61d57f8af16d53e5e/",
     "og:description": "Привет! Я Сергей Житинский, основатель Git in Sky. Мы занимаемся эксплуатацией ИТ-инфраструктуры и разрабатываем открытую методологию Agent-Ops. О ней я уже рассказывал на Хабре . 19 октября я был на...",
@@ -40780,7 +40901,7 @@
     "hostname": "habr.com",
     "url": "https://habr.com/ru/articles/1098654/",
     "title": "Регулировка яркости внешнего монитора в GNOME, как в KDE: что есть, что выбрать и почему я начал контрибьютить / Хабр",
-    "date": "2026-10-23T20:28:33.046+06:00",
+    "date": "2026-10-24T04:28:33.656+06:00",
     "og:title": "Регулировка яркости внешнего монитора в GNOME, как в KDE: что есть, что выбрать и почему я начал контрибьютить",
     "og:image": "https://habr.com/share/publication/1098654/4cc33839cf80225f22a273829617291f/",
     "og:description": "Если у вас ноутбук с внешним монитором и вы переключаетесь на GNOME из KDE, то быстро замечаете: экран ноутбука по яркости регулируется, а внешний монитор по HDMI или DisplayPort нет. В KDE в трее...",
@@ -40796,6 +40917,83 @@
     "og:image": "https://habr.com/share/publication/1098660/a3a859628a6fdd6cdd710bbe9e6ac8e5/",
     "og:description": "Всем привет! В этой статье я расскажу обобщённо про внутреннее устройство SHA-2, SHA-3, а также про другие примитивы, относящиеся к хеш-функциям. Почему именно про них? Именно SHA-2 и SHA-3 сейчас...",
     "og:url": "https://habr.com/ru/articles/1098660/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1098662/",
+    "title": "Глаза для домашнего ЧПУ: AprilTag‑метки, Orange Pi и LinuxCNC вместо ручной привязки заготовки / Хабр",
+    "date": "2026-10-24T04:28:32.846+06:00",
+    "og:title": "Глаза для домашнего ЧПУ: AprilTag‑метки, Orange Pi и LinuxCNC вместо ручной привязки заготовки",
+    "og:image": "https://habr.com/share/publication/1098662/9cf64c8d94313c40072be410cea27b40/",
+    "og:description": "Каждый, у&nbsp;кого есть фрезер, знает этот ритуал: положить заготовку, на&nbsp;глаз выставить угол, подвести фрезу к&nbsp;краю, коснуться поверхности заготовки, записать ноль. Мне захотелось, чтобы...",
+    "og:url": "https://habr.com/ru/articles/1098662/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1098668/",
+    "title": "ChaosBank — 131 переключаемый баг для тренировки мобильного тестирования / Хабр",
+    "date": "2026-10-24T04:28:32.126+06:00",
+    "og:title": "ChaosBank — 131 переключаемый баг для тренировки мобильного тестирования",
+    "og:image": "https://habr.com/share/publication/1098668/ab28d69bf75deb643af26e2b3469319f/",
+    "og:description": "Последнее время я пробую разные подходы к автоматизации UI-тестов мобильных приложений: чистые XCUITest и Espresso/Compose, Appium, Maestro, page object и небольшие DSL, разные способы ожиданий и...",
+    "og:url": "https://habr.com/ru/articles/1098668/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1098672/",
+    "title": "Как я с нуля собрал кино-сервис с рекомендациями: Node.js, SQLite и немноголинейной алгебры / Хабр",
+    "date": "2026-10-24T04:28:31.815+06:00",
+    "og:title": "Как я с нуля собрал кино-сервис с рекомендациями: Node.js, SQLite и немноголинейной алгебры",
+    "og:image": "https://habr.com/share/publication/1098672/78c8d1d2341832006aad07fe5724dad2/",
+    "og:description": "Знакомая картина: суббота, вечер, вы собрались вдвоем или небольшой компанией посмотреть кино. И следующие сорок минут уходят на тоскливое листание каталогов. Один хочет комедию, второй терпеть не...",
+    "og:url": "https://habr.com/ru/articles/1098672/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1098674/",
+    "title": "AI написал проект, команда ушла, а поддерживать теперь вам / Хабр",
+    "date": "2026-10-24T04:28:31.797+06:00",
+    "og:title": "AI написал проект, команда ушла, а поддерживать теперь вам",
+    "og:image": "https://habr.com/share/publication/1098674/b17eed950bfc79883c88e1f956d9a2c4/",
+    "og:description": "В предыдущей статье я писал о том, как AI позволяет создавать системы быстрее, чем команда успевает разобраться в их устройстве. Код уже существует, работает и даже приносит пользу бизнесу, но люди не...",
+    "og:url": "https://habr.com/ru/articles/1098674/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1098676/",
+    "title": "Вайбкодинг: что дальше? / Хабр",
+    "date": "2026-10-24T04:28:31.548+06:00",
+    "og:title": "Вайбкодинг: что дальше?",
+    "og:image": "https://habr.com/share/publication/1098676/29e4a857eadc34e4682792361237b221/",
+    "og:description": "Агенты стали новой средой разработки, которая фактически заменяет существующие IDE. В ней, имея лишь промпт, вы можете выполнять все те же самые функции, что и в любой другой IDE (написание кода,...",
+    "og:url": "https://habr.com/ru/articles/1098676/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1098680/",
+    "title": "Axelix 1.3 будет поддерживать реактивный стек / Хабр",
+    "date": "2026-10-24T04:28:30.843+06:00",
+    "og:title": "Axelix 1.3 будет поддерживать реактивный стек",
+    "og:image": "https://habr.com/share/publication/1098680/6c9f95e6f1a91469acf324a17f4e9316/",
+    "og:description": "Всем привет! На связи Михаил Поливаха, технический лидер Open Source проекта Axelix (give us a star!). Я долго думал, сделать это статьей или новостью, но для новости данный поток сознания слишком...",
+    "og:url": "https://habr.com/ru/articles/1098680/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1098684/",
+    "title": "Вам нужен бро… AI bro / Хабр",
+    "date": "2026-10-24T04:28:30.684+06:00",
+    "og:title": "Вам нужен бро… AI bro",
+    "og:image": "https://habr.com/share/publication/1098684/335eb4106be8ab7054b24d68b3f293c1/",
+    "og:description": "Каждый уважающий себя инженер, помимо дома, дерева и сына, должен сделать свой какой-нибудь стартапчик. В текущих реалиях те, кто недостаточно ленив, наверняка написали себе ряд скиллов для работы,...",
+    "og:url": "https://habr.com/ru/articles/1098684/",
     "og:type": "article"
   },
   {
@@ -41621,6 +41819,17 @@
     "og:image": "https://habr.com/share/publication/1088558/2bb5f3dd5e374dfc065a5840d91f4bad/",
     "og:description": "Напишем сами. С ИИ за год После ухода SAP и Oracle компании надеялись, что западные вендоры вернутся. По наблюдению Алексея Телкова, генерального директора «Галактики», сегодня ждать перестали точно...",
     "og:url": "https://habr.com/ru/companies/astralinux/posts/1088558/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/atom/articles/1098644/",
+    "title": "С кем спорит дизайнер, когда придумывает, каким будет автомобиль / Хабр",
+    "date": "2026-10-24T04:28:33.72+06:00",
+    "og:title": "С кем спорит дизайнер, когда придумывает, каким будет автомобиль",
+    "og:image": "https://habr.com/share/publication/1098644/309f3e21208fc44c4cabf63f464f68cd/",
+    "og:description": "Когда мы говорим о дизайне, часто представляется понятная цепочка: команда дизайна придумала красивый и удобный сценарий, инженеры его реализовали, пользователь получил классный опыт. В реальности все...",
+    "og:url": "https://habr.com/ru/companies/atom/articles/1098644/",
     "og:type": "article"
   },
   {
@@ -45563,6 +45772,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/kts/articles/1098268/",
+    "title": "Suspend на пальцах. Ещё одна статья про корутины, ч.0 / Хабр",
+    "date": "2026-10-24T04:28:37.329+06:00",
+    "og:title": "Suspend на пальцах. Ещё одна статья про корутины, ч.0",
+    "og:image": "https://habr.com/share/publication/1098268/041ae06b5adf1e09317f813a4daa4a1e/",
+    "og:description": "Всем привет! Я Дима, Android-разработчик в KTS , и я большой фанат языка Kotlin и библиотеки kotlinx.coroutines. Здоровый человек может задать справедливый вопрос: зачем нужна очередная статья про...",
+    "og:url": "https://habr.com/ru/companies/kts/articles/1098268/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/lanit/articles/1088606/",
     "title": "Как мы создавали решение для автоматизации управления доступами / Хабр",
     "date": "2026-10-06T08:11:57.085+06:00",
@@ -47099,6 +47319,17 @@
     "og:image": "https://habr.com/share/publication/1096796/8e01698b8bec86974fd40a4f34528771/",
     "og:description": "Когда сервис начинает тормозить или очередной деплой идёт не по плану, причину часто приходится искать сразу в нескольких местах. Сеть, настройки Linux, контейнеры, базы данных — проблема может...",
     "og:url": "https://habr.com/ru/companies/otus/articles/1096796/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/otus/articles/1096898/",
+    "title": "Свёрточные сети в финансовом анализе: от компьютерного зрения к прогнозированию рынков / Хабр",
+    "date": "2026-10-24T04:28:39.99+06:00",
+    "og:title": "Свёрточные сети в финансовом анализе: от компьютерного зрения к прогнозированию рынков",
+    "og:image": "https://habr.com/share/publication/1096898/72e27428362c11e7b13c8daff4121c1d/",
+    "og:description": "Привет, Хабр! Меня зовут Андрей Бирюков. Я&nbsp;— независимый эксперт в&nbsp;области ИТ и ИБ, преподаю в&nbsp;учебных центрах и пишу статьи и книги.&nbsp; Мы привыкли связывать сверточные нейросети...",
+    "og:url": "https://habr.com/ru/companies/otus/articles/1096898/",
     "og:type": "article"
   },
   {
@@ -51906,6 +52137,17 @@
     "og:image": "https://habr.com/share/publication/1085370/0f45be7ca1becb8e7d60fb786de7c502/",
     "og:description": "У меня есть пет-проект. Простенький Telegram-бот для тренировки устного счёта. Разработка велась через Claude Code, код полностью писал он, я лишь задавал направление и проверял результат. На сервере,...",
     "og:url": "https://habr.com/ru/companies/timeweb/articles/1085370/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/timeweb/articles/1085398/",
+    "title": "Где Apple при Куке реально изменилась, а где нет / Хабр",
+    "date": "2026-10-24T04:28:30.496+06:00",
+    "og:title": "Где Apple при Куке реально изменилась, а где нет",
+    "og:image": "https://habr.com/share/publication/1085398/fea706356935db1a56a044bc2c7687c0/",
+    "og:description": "Источник: Wikimedia Commons , фото Tessa Bury, CC BY 4.0 1 сентября 2026 года Тим Кук передал пост CEO Джону Тернусу и стал исполнительным председателем совета директоров. Он возглавил Apple 24...",
+    "og:url": "https://habr.com/ru/companies/timeweb/articles/1085398/",
     "og:type": "article"
   },
   {
