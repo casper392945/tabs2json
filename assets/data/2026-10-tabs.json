@@ -3180,6 +3180,17 @@
   },
   {
     "hostname": "adme.media",
+    "url": "https://adme.media/articles/13-istorij-s-rynka-gde-mozhno-i-mandarinami-ugostitsya-i-vpechatlenij-nahvatatsya-2557921/",
+    "title": "13 историй с рынка, где можно и мандаринами угоститься и впечатлений нахвататься",
+    "date": "2026-10-28T09:32:40.301+06:00",
+    "og:title": "13 историй с рынка, где можно и мандаринами угоститься и впечатлений нахвататься",
+    "og:image": "https://wl-adme.cf.tsp.li/resize/1200x770/jpg/96b/e48/59bd02512380ae0bfd48f457e7.jpg",
+    "og:description": "Поход на рынок раньше было вполне обыденным делом. Это сейчас многим из нас проще и быстрее сходить в магазин. Но мы также помним ароматы свежих беляшей, сочных фруктов и спелых ягод, ряды книг и пестрой одежды. На рынке за прилавками то и дело разворачивались истории, в которых было место и доброте, и неожиданным поворотам.",
+    "og:url": "https://adme.media/articles/13-istorij-s-rynka-gde-mozhno-i-mandarinami-ugostitsya-i-vpechatlenij-nahvatatsya-2557921/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "adme.media",
     "url": "https://adme.media/articles/13-privychek-koshek-kotorye-s-vidu-kazhutsya-neponyatnymi-no-imeyut-prostoe-obyasnenie-2557785/",
     "title": "13 привычек кошек, которые с виду кажутся непонятными, но имеют простое объяснение",
     "date": "2026-10-25T04:26:24.224+06:00",
@@ -3605,6 +3616,17 @@
     "og:image": "https://wl-adme.cf.tsp.li/resize/1200x770/jpg/e19/efe/ea9a0f5a04b0947dda007d07e5.jpg",
     "og:description": "У каждой семьи свои правила и традиции, но неизменно одно: родители стараются предугадать детские желания и исполнить мечты любимого чада. Как же чудесно, когда спустя время дети стараются отплатить им тем же. Кто-то везет родителей в путешествие или даже дарит машину, а кто-то обожает делать неожиданные сюрпризы и привозит пиццу в костюме курьера.",
     "og:url": "https://adme.media/articles/15-istorij-o-vzroslyh-detyah-kotorye-vozvraschayut-mamam-i-papam-to-samoe-bezzabotnoe-detstvo-2557662/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "adme.media",
+    "url": "https://adme.media/articles/15-istorij-ot-teh-kto-vyros-sredi-beskonechnoj-rodni-i-ni-dnya-ne-skuchal-2557924/",
+    "title": "15 историй от тех, кто вырос среди бесконечной родни — и ни дня не скучал",
+    "date": "2026-10-28T09:35:30.86+06:00",
+    "og:title": "15 историй от тех, кто вырос среди бесконечной родни — и ни дня не скучал",
+    "og:image": "https://wl-adme.cf.tsp.li/resize/1200x770/jpg/486/33a/d6e3b95d47a09a8340399b1f20.jpg",
+    "og:description": "Частенько случается, что семья — это не только родители и дети, но и множество самых любимых и близких родственников. Так вот, комичные ситуации у них не просто не редкость, а буквально фамильная черта. Шумные семейные застолья, смешные комментарии маленьких детей и даже бабушкины кулинарные изыски — все это легко превращается в семейную байку, которая будет передаваться из поколения в поколение. Кстати, сегодня, в качестве бонуса, я хочу рассказать вам о традиции моей семьи, которую я смогла продолжить во взрослой жизни.",
+    "og:url": "https://adme.media/articles/15-istorij-ot-teh-kto-vyros-sredi-beskonechnoj-rodni-i-ni-dnya-ne-skuchal-2557924/",
     "og:type": "article"
   },
   {
@@ -19206,6 +19228,17 @@
     "og:type": "website"
   },
   {
+    "hostname": "csswizardry.com",
+    "url": "https://csswizardry.com/2026/10/web-perf-wednesday-015-failed-modulepreloads-need-to-recover/",
+    "title": "Web-Perf Wednesday 015 – Failed Modulepreloads Need to Recover – CSS Wizardry",
+    "date": "2026-10-28T09:32:08.987+06:00",
+    "og:title": "Web-Perf Wednesday 015 – Failed Modulepreloads Need to Recover – CSS Wizardry",
+    "og:image": "",
+    "og:description": "WebKit fixes failed modulepreloads that could block recovery, while Safari and Firefox improve performance tooling and browser responsiveness.",
+    "og:url": "https://csswizardry.com/2026/10/web-perf-wednesday-015-failed-modulepreloads-need-to-recover/",
+    "og:type": "website"
+  },
+  {
     "hostname": "cvremil.medium.com",
     "url": "https://cvremil.medium.com/most-developers-know-px-few-developers-use-ch-98ea68235e26",
     "title": "🔥 Most Developers Know “px”. Few Developers Use “ch”. | by Remil | Oct, 2026 | JavaScript in Plain English",
@@ -22858,6 +22891,17 @@
     "og:type": ""
   },
   {
+    "hostname": "distrowatch.com",
+    "url": "https://distrowatch.com/?newsid=13006",
+    "title": "BSD Release: GhostBSD 26.2 (DistroWatch.com News)",
+    "date": "2026-10-28T09:35:30.869+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
     "hostname": "draganbabic.com",
     "url": "https://draganbabic.com/blog/design-is-a-nice-to-have/",
     "title": "Design is a nice-to-have — Dragan Babić",
@@ -23460,6 +23504,17 @@
     "og:image": "https://exler.es/small/blog/image/20261007/6ac61405124c2.webp",
     "og:description": "\n\nАвтоВАЗу в плане интересных новостей предъявить нечего, поэтому они теперь со слезами умиления на глазах вспоминают как девкой была&nbsp;28 лет назад их чебурашка под названием Lada Rapan удивила всех на Парижском автосалоне.&nbsp;\n\nУдивила она там всех своей явной нелепостью, но АвтоВАЗ уверяет, что все были в восторге от этой потрясающей инновации.&nbsp;\n\nНу, давайте почитаем эти восторги - я нашёл заметку в испанской прессе тех времён.&nbsp;\n\n\nКак россияне представляли себе будущее мобильности в конце 90-х? &laquo;Лада Рапан&raquo; может дать нам об этом представление. Этот необычный прототип 1998 года не сумел вызвать ожидаемого интереса ни у публики, ни у крупных российских компаний, на поддержку которых &laquo;Лада&raquo; очень рассчитывала для популяризации возможной серийной модели.\n\nТаким образом, &laquo;Рапан&raquo; так и остался на стадии прототипа, хотя его форма по-прежнему остается одной из самых необычных, когда-либо виденных в автомобильном мире, не так ли?\n\nАвтомобиль был построен научно-исследовательским и конструкторским отделом &laquo;АвтоВАЗа&raquo; в Тольятти (Россия). Его линии были решительно оригинальными, а кузов отличался странными ребрами, охватывавшими всю переднюю часть, что придавало машине вид, будто она с другой планеты.\n&nbsp;&nbsp;\nОднако, помимо экстравагантного дизайна, габариты были (почти) подходящими для города: длина составляла 3,49 метра, а ширина &mdash; 1,43 метра.\n\nОднако в последнем пункте следует учитывать, что огромные боковые зеркала заднего вида добавляли к ширине автомобиля почти 50 см, увеличивая этот показатель до 1,92 метра (практически столько же, сколько у современного BMW 7-й серии). Наконец, высота составляла 1,61 метра, а колесная база достигала впечатляющих 2,91 метра.\n\nСиловая установка состояла из никель-металлогидридной батареи (емкость не указана) и электродвигателя мощностью 25 кВт. Согласно данным, предоставленным &laquo;Ладой&raquo; в то время, &laquo;Рапан&raquo; можно было заряжать от розетки на 220 В, а его максимальная скорость достигала 90 км/ч.\n&nbsp;&nbsp;\nЗаявленный запас хода неизвестен, хотя можно предположить, что он составлял не более 50&ndash;70 км. Показатели разгона не вызывали особого восторга (на что также влияла полная масса автомобиля в 1 500 кг): разгон от 0 до 30 км/ч занимал 5 секунд, а от 0 до 60 км/h &mdash; 14 секунд.\n\nВероятно, отчасти из-за этих показателей необычный &laquo;Рапан&raquo; в своё время не сумел завоевать сердца покупателей и потенциальных инвесторов.\n\n\nВот и все восторги.&nbsp;\n\nНесколько фото.&nbsp;\n\n\n\n\n\n\n\nМне это напомнило историю с этим ё-мобилем, который в народе называли &quot;ёбмобиль&quot;.&nbsp;\n\nОни несколько лет возили по выставкам аналогичный совершенно нелепый концепт - мне он попадался несколько раз.&nbsp;\n\n\n\nПотом они начали на него собирать предзаказы, даже стали готовить что-то там такое к выпуску, а потом объявили о закрытии проекта. Интересно, Прохоров вспоминает, как он своим ё-мобилем поразил всех на выставке?&nbsp;\n\n\n&nbsp;",
     "og:url": "https://exler.es/blog/kak-lada-rapan-udivila-vsekh.htm",
+    "og:type": "article"
+  },
+  {
+    "hostname": "exler.es",
+    "url": "https://exler.es/blog/kak-nynche-v-mordore-perevodyat-knigi.htm",
+    "title": "Как нынче в Мордоре переводят книги",
+    "date": "2026-10-28T09:35:05.884+06:00",
+    "og:title": "Как нынче в Мордоре переводят книги",
+    "og:image": "https://exler.es/img/blog/image/20261028/6ae1a8f030df8.jpg",
+    "og:description": "А вот так &quot;переводят&quot;. Полностью меняя смысл на противоположный и вставляя туда рашистскую пропаганду. А чего стесняться-то, действительно?&nbsp;\n\nЭто книга &quot;Царь Скорбь&quot; Джо Хилла в &quot;переводе&quot; некоего Дмитрия Старкова, &quot;Эксмо&quot;, Fanzon.\n\nСравните оригинал и то дерьмо, которые выдаёт за &quot;перевод&quot; этот Старков.&nbsp;\n\n\n&nbsp;",
+    "og:url": "https://exler.es/blog/kak-nynche-v-mordore-perevodyat-knigi.htm",
     "og:type": "article"
   },
   {
@@ -45376,6 +45431,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1098302/",
+    "title": "«Тридцать километров, фигня вопрос»: почему маршрут на бумаге всегда легче, чем в жизни / Хабр",
+    "date": "2026-10-28T09:33:26.29+06:00",
+    "og:title": "«Тридцать километров, фигня вопрос»: почему маршрут на бумаге всегда легче, чем в жизни",
+    "og:image": "https://habr.com/share/publication/1098302/7d607e2a460056125cfa099b651e4e45/",
+    "og:description": "Все, кто ходит в горы, знают этот момент. Вечер, чай, карта на экране. Вы ведёте линию от точки до точки, снизу загорается «28 км, набор 1100 м», и вы говорите вслух: нормально, за день сделаем. Через...",
+    "og:url": "https://habr.com/ru/articles/1098302/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/articles/1098314/",
     "title": "Архитектура RayQuiro: от синтаксического дерева и байт-код ВМ до нативного машинного кода через LLVM / Хабр",
     "date": "2026-10-25T16:06:00.818+06:00",
@@ -48533,6 +48599,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1099796/",
+    "title": "Как мы перестали хардкодить модели: effort-маршрутизация, авто-выбор сложности, фолбэки и лимиты расходов / Хабр",
+    "date": "2026-10-28T09:33:26.34+06:00",
+    "og:title": "Как мы перестали хардкодить модели: effort-маршрутизация, авто-выбор сложности, фолбэки и лимиты расходов",
+    "og:image": "https://habr.com/share/publication/1099796/a183fc162e33c201b23514e8778abda6/",
+    "og:description": "Самая дорогая строчка в микросервисе с LLM — model=&quot;gpt-4o&quot; . За ней тянутся свой ключ вендора, свои ретраи и счёт, который потом некому разобрать. Расскажу об одной идее, которая это убирает: сервис...",
+    "og:url": "https://habr.com/ru/articles/1099796/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/articles/1099802/",
     "title": "За термином «нейрослоп» скрываются вопросы, которые мы должны обсудить / Хабр",
     "date": "2026-10-28T03:22:29.234+06:00",
@@ -49402,6 +49479,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100346/",
+    "title": "Почему скорость написания кода не то же самое, что скорость разработки / Хабр",
+    "date": "2026-10-28T09:33:26.328+06:00",
+    "og:title": "Почему скорость написания кода не то же самое, что скорость разработки",
+    "og:image": "https://habr.com/share/publication/1100346/03a7134543465bee1fb16753e4fe4f93/",
+    "og:description": "AI-агенту не нужен отдых. Это понятно. Но порой из этого делают куда менее полезный вывод: разработка теперь может идти без пауз. Один агент пишет код, другой проверяет, третий обновляет документацию,...",
+    "og:url": "https://habr.com/ru/articles/1100346/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/articles/1100348/",
     "title": "На каком языке ИИ-агенту искать по своей памяти: SQL или SPARQL? / Хабр",
     "date": "2026-10-28T07:33:20.884+06:00",
@@ -49563,6 +49651,116 @@
     "og:image": "https://habr.com/share/publication/1100450/04650a5ebbab1a1bc289fd03752b5c29/",
     "og:description": "Квантовую механику часто окутывают мистикой, пытаясь объяснить её странности через «силу сознания», эзотерику или&nbsp;восточный мистицизм. Но&nbsp;если убрать спекуляции и оставить чистые факты,...",
     "og:url": "https://habr.com/ru/articles/1100450/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100452/",
+    "title": "PocketDeploy: веб-приложение и свой Bluesky PDS на Android — что получилось и где пока пределы / Хабр",
+    "date": "2026-10-28T09:33:26.32+06:00",
+    "og:title": "PocketDeploy: веб-приложение и свой Bluesky PDS на Android — что получилось и где пока пределы",
+    "og:image": "https://habr.com/share/publication/1100452/efa4abbe87b9c814692fb37fb256b753/",
+    "og:description": "Мне хотелось дать старому Android работу сервера: открыть приложение, создать проект и получить сайт с API и данными на самом устройстве. Обновление не должно стирать данные, а ИИ-агент — получать...",
+    "og:url": "https://habr.com/ru/articles/1100452/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100460/",
+    "title": "Сколько стоит интеллектуальная автоматизация: четыре кейса, бюджеты и стоимость эксплуатации / Хабр",
+    "date": "2026-10-28T09:33:26.272+06:00",
+    "og:title": "Сколько стоит интеллектуальная автоматизация: четыре кейса, бюджеты и стоимость эксплуатации",
+    "og:image": "https://habr.com/share/publication/1100460/84cc030180864b50c2571ebf2eeb48ca/",
+    "og:description": "Привет, Хабр! Меня зовут Мирза, я руководитель проектов ROBIN и Robovoice компании SL Soft. «Сколько стоит автоматизировать наш процесс?»&nbsp;— один из&nbsp;самых частых вопросов, с&nbsp;которым...",
+    "og:url": "https://habr.com/ru/articles/1100460/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100462/",
+    "title": "Как передать одностраничник в вёрстку через файл. Токены из стилей Figma, вариативный шрифт и прелоадер как спецификация / Хабр",
+    "date": "2026-10-28T09:33:26.23+06:00",
+    "og:title": "Как передать одностраничник в вёрстку через файл. Токены из стилей Figma, вариативный шрифт и прелоадер как спецификация",
+    "og:image": "https://habr.com/share/publication/1100462/d4cf019fc84291051572bf1914e88033/",
+    "og:description": "Я делал дизайн одностраничного сайта для новой марки куриных яиц. Страница длинная, больше одиннадцати тысяч пикселей на десктопе, с прелоадером, закреплёнными сценами и анимацией между блоками. Макет...",
+    "og:url": "https://habr.com/ru/articles/1100462/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100474/",
+    "title": "Агент с root на моём VPS: как не дать ему отрезать себе доступ / Хабр",
+    "date": "2026-10-28T09:33:26.14+06:00",
+    "og:title": "Агент с root на моём VPS: как не дать ему отрезать себе доступ",
+    "og:image": "https://habr.com/share/publication/1100474/846fea3cf23e19a953f3477f5a4bc78a/",
+    "og:description": "Агент только что поставил fail2ban и проверяет работу. Вход по ключу есть. По паролю нет, так и задумано. Ещё пара проверок для верности, и где-то на пятой неудачной попытке fail2ban банит IP, с...",
+    "og:url": "https://habr.com/ru/articles/1100474/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100476/",
+    "title": "Плавающая панель вкладок iOS 26 в .NET MAUI: что сломалось и как я это исправила / Хабр",
+    "date": "2026-10-28T09:33:26.119+06:00",
+    "og:title": "Плавающая панель вкладок iOS 26 в .NET MAUI: что сломалось и как я это исправила",
+    "og:image": "https://habr.com/share/publication/1100476/16e58ec9bd36db481c7ce556c8b0bf8d/",
+    "og:description": "В первой статье я рассказывала, как переводила приложение для торговых представителей с Xamarin.Forms на .NET MAUI, а во второй — как ускоряла в нём списки. На Android новая версия уже работает у...",
+    "og:url": "https://habr.com/ru/articles/1100476/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100480/",
+    "title": "Свояк без установки: телевизор — табло, телефоны — кнопки. Как это устроено внутри / Хабр",
+    "date": "2026-10-28T09:33:26.052+06:00",
+    "og:title": "Свояк без установки: телевизор — табло, телефоны — кнопки. Как это устроено внутри",
+    "og:image": "https://habr.com/share/publication/1100480/1b74973cd9bf9e311e2ec43131b5fc0a/",
+    "og:description": "Как&nbsp;я сделал «Свою игру», где телефоны друзей становятся кнопками с&nbsp;друзьями давно играем в «Свою игру». SIGame&nbsp;— отличная штука, но&nbsp;каждый раз начинается одно и то&nbsp;же:...",
+    "og:url": "https://habr.com/ru/articles/1100480/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100484/",
+    "title": "Поручение на обработку персональных данных в оферте: что требует часть 3 статьи 6 и что из этого ложится на код / Хабр",
+    "date": "2026-10-28T09:33:26.039+06:00",
+    "og:title": "Поручение на обработку персональных данных в оферте: что требует часть 3 статьи 6 и что из этого ложится на код",
+    "og:image": "https://habr.com/share/publication/1100484/d52fddb1a9d13031d245fa141bc05681/",
+    "og:description": "В офертах сервисов, которые продаются бизнесу – CRM, рассылки, HR-платформы, трекеры задач, сервисы расшифровки созвонов, – раздел про персональные данные есть почти всегда. Поручения на обработку в...",
+    "og:url": "https://habr.com/ru/articles/1100484/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100494/",
+    "title": "Обновили PHP после PHP2Shell? Сохраните вывод php -v — он может понадобиться в суде / Хабр",
+    "date": "2026-10-28T09:44:51.839+06:00",
+    "og:title": "Обновили PHP после PHP2Shell? Сохраните вывод php -v — он может понадобиться в суде",
+    "og:image": "https://habr.com/share/publication/1100494/91d71f9c57509b392b5d64bcd88d3676/",
+    "og:description": "21 октября 2026 года вышли патчи PHP против PHP2Shell: две критические уязвимости, которые позволяют без авторизации выполнить код на сервере. Обновить PHP нужно в любом случае. Но если через...",
+    "og:url": "https://habr.com/ru/articles/1100494/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100498/",
+    "title": "Квантование RWKV-7: что ломается в моделях разного размера / Хабр",
+    "date": "2026-10-28T09:44:51.788+06:00",
+    "og:title": "Квантование RWKV-7: что ломается в моделях разного размера",
+    "og:image": "https://habr.com/share/publication/1100498/0a24dd949539163652ba35f626eb2b47/",
+    "og:description": "1. Введение Модели семейства RWKV с линейной по длине последовательности рекуррентной структурой привлекательны для локального запуска, но инструментов квантования для них заметно меньше, чем для...",
+    "og:url": "https://habr.com/ru/articles/1100498/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100508/",
+    "title": "Binrobi Model 1 или как купить телефон за свою душу / Хабр",
+    "date": "2026-10-28T09:44:51.681+06:00",
+    "og:title": "Binrobi Model 1 или как купить телефон за свою душу",
+    "og:image": "https://habr.com/share/publication/1100508/6e7ea06d3e96d273d8e4688020739ea7/",
+    "og:description": "Очень давно я наткнулся на&nbsp;сайт в&nbsp;рекламе, где обещали бесплатный смартфон со связью в&nbsp;обмен на&nbsp;просмотр рекламы. Первая мысль была&nbsp;— очередной лохотрон. Но&nbsp;денег...",
+    "og:url": "https://habr.com/ru/articles/1100508/",
     "og:type": "article"
   },
   {
@@ -50304,6 +50502,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/alfa/articles/1100178/",
+    "title": "Deep Research и MCP Mobbin — нитро для поиска референсов / Хабр",
+    "date": "2026-10-28T09:44:51.695+06:00",
+    "og:title": "Deep Research и MCP Mobbin — нитро для поиска референсов",
+    "og:image": "https://habr.com/share/publication/1100178/22088da04de8ca9a5ef3b375da44101f/",
+    "og:description": "Привет, Хабр! Я Женя Горбач, продуктовый дизайнер в Альфа-Метрике, аналитическом продукте Альфа-Банка. Найти рефы для авторизации, оформления заказа или перевода — задача вполне понятная. Но что...",
+    "og:url": "https://habr.com/ru/companies/alfa/articles/1100178/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/amvera/articles/1089520/",
     "title": "ИИ-конструктор для создания ботов / Хабр",
     "date": "2026-10-02T10:05:10.434+06:00",
@@ -50652,6 +50861,17 @@
     "og:image": "https://habr.com/share/publication/1090632/6a5eb5cea56695f944313f5fa68750f3/",
     "og:description": "Привет, Хабр! Меня зовут Иван Тарасов , я TUL Architecture Governance в техплатформе Авито . Одна из моих команд — SLA — создаёт условия для повышения технической надёжности, а также развивает...",
     "og:url": "https://habr.com/ru/companies/avito/articles/1090632/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/avito/articles/1091694/",
+    "title": "Go в продакшене 2026: как язык вырос из микросервисов / Хабр",
+    "date": "2026-10-28T09:33:26.202+06:00",
+    "og:title": "Go в продакшене 2026: как язык вырос из микросервисов",
+    "og:image": "https://habr.com/share/publication/1091694/c9d8ee3228481df6fb74f69486518fc4/",
+    "og:description": "Привет, Хабр! На связи Илья Данилкин , тимлид в Авито Авто. В этом материале я собрал подборку важных новостей из мира Go. Разберём, откуда берутся типичные утечки горутин и чем встроенный в рантайм...",
+    "og:url": "https://habr.com/ru/companies/avito/articles/1091694/",
     "og:type": "article"
   },
   {
@@ -51745,6 +51965,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/click/articles/1100458/",
+    "title": "Интернет-реклама в цифрах: итоги трех кварталов 2025 и 2026 годов / Хабр",
+    "date": "2026-10-28T09:33:26.303+06:00",
+    "og:title": "Интернет-реклама в цифрах: итоги трех кварталов 2025 и 2026 годов",
+    "og:image": "https://habr.com/share/publication/1100458/cfd60cb48d140ddf696374cf909f1cff/",
+    "og:description": "Стратегии на охват растут в цене, стоимость клика снижается, а Telegram Ads перестал требовать высокий минимальный бюджет.&nbsp; В статье эксперты click.ru : разобрали, как эти изменения влияют на...",
+    "og:url": "https://habr.com/ru/companies/click/articles/1100458/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/cloud_ru/articles/1085100/",
     "title": "AI-adoption: где спрятан буст к разработке, что делать, когда агенты дерутся, и как изменится работа мясных девелоперов / Хабр",
     "date": "2026-10-28T08:34:54.764+06:00",
@@ -52680,6 +52911,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/doka-robots/articles/1100482/",
+    "title": "Инструмент или соавтор: промышленный кобот рисует вместе с художником / Хабр",
+    "date": "2026-10-28T09:44:51.767+06:00",
+    "og:title": "Инструмент или соавтор: промышленный кобот рисует вместе с художником",
+    "og:image": "https://habr.com/share/publication/1100482/aad9f5fcb800b8e094ed6363e1a21c9c/",
+    "og:description": "На выставках промышленные роботы обычно показывают типовые операции, как они умеют перекладывать коробки, сортировать предметы или варить металл. В этот раз мы дали роботу фломастер и поставили задачу...",
+    "og:url": "https://habr.com/ru/companies/doka-robots/articles/1100482/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/domate/articles/1097476/",
     "title": "Как мы написали для себя агента, а теперь отдаём его всем / Хабр",
     "date": "2026-10-22T07:45:01.82+06:00",
@@ -53391,6 +53633,17 @@
     "og:image": "https://habr.com/share/publication/1092282/ebcdebb79dff63245607ac81f07fd8cd/",
     "og:description": "1С под контролем: что происходит между пользователем и базой данных 1С давно не ограничивается только проводками, подготовкой первички и сдачей отчетности. Система превратилась в критичную...",
     "og:url": "https://habr.com/ru/companies/garda/posts/1092282/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/gaz-is/articles/1100466/",
+    "title": "Найм, «Биржа киберстартапов» и джуны в кибербезе: как прошёл GIS STUDENT DAY 2026 / Хабр",
+    "date": "2026-10-28T09:33:26.186+06:00",
+    "og:title": "Найм, «Биржа киберстартапов» и джуны в кибербезе: как прошёл GIS STUDENT DAY 2026",
+    "og:image": "https://habr.com/share/publication/1100466/17d200cfbdd6f79217bd562b40a80f40/",
+    "og:description": "С 30 сентября по 2 октября в Санкт-Петербурге и в Москве прошёл IX Ежегодный форум по информационной безопасности и ИТ GISDAYS* 2026. Форум собрал 250 тысяч человек онлайн и более трёх тысяч человек...",
+    "og:url": "https://habr.com/ru/companies/gaz-is/articles/1100466/",
     "og:type": "article"
   },
   {
@@ -55364,6 +55617,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/magnus-tech/articles/1097928/",
+    "title": "Вайб-кодинг вместо унылых ТЗ: как автономные ИИ-агенты ускоряют разработку игр / Хабр",
+    "date": "2026-10-28T09:44:51.809+06:00",
+    "og:title": "Вайб-кодинг вместо унылых ТЗ: как автономные ИИ-агенты ускоряют разработку игр",
+    "og:image": "https://habr.com/share/publication/1097928/2e3d564326ef5abbfe2c62df2980339b/",
+    "og:description": "В геймдеве идеи стоят дешево. Дорого стоит возможность их пощупать. Классический цикл прототипирования, к которому мы привыкли, выглядит примерно так: тратишь несколько дней на монументальный диздок,...",
+    "og:url": "https://habr.com/ru/companies/magnus-tech/articles/1097928/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/mclouds/articles/1085140/",
     "title": "Память, которая сама обрабатывает данные: как устроена LPDDR5X-PIM / Хабр",
     "date": "2026-10-06T08:11:57.604+06:00",
@@ -55617,6 +55881,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/mws/articles/1092040/",
+    "title": "Как устроен Managed Kubernetes в MWS Cloud Platform / Хабр",
+    "date": "2026-10-28T09:33:26.257+06:00",
+    "og:title": "Как устроен Managed Kubernetes в MWS Cloud Platform",
+    "og:image": "https://habr.com/share/publication/1092040/f0e638c02b07e6841c859242a10b2188/",
+    "og:description": "Привет! Меня зовут Сергей Бирюк, я технический лидер в MWS Cloud Platform , и сегодня мы поговорим о том, зачем облаку нужен Managed Kubernetes и чем наш сервис отличается от других. Благодарю коллег...",
+    "og:url": "https://habr.com/ru/companies/mws/articles/1092040/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/mws/news/1097772/",
     "title": "Вебинар «Разбираемся в сети Kubernetes: белые адреса и “чёрные лебеди”» / Хабр",
     "date": "2026-10-23T08:41:27.801+06:00",
@@ -55745,6 +56020,17 @@
     "og:image": "https://habr.com/share/publication/1099512/49a6baada7e6bf3b39261cb4b8d33d8f/",
     "og:description": "Строительство многоэтажного жилого дома начинается не&nbsp;со стен и перекрытий, а&nbsp;с&nbsp;котлована и фундамента. Именно на&nbsp;нулевом цикле&nbsp;— еще до&nbsp;возведения надземной части...",
     "og:url": "https://habr.com/ru/companies/nanosoft/articles/1099512/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/nanosoft/articles/1100502/",
+    "title": "От сетевых папок к СОД: методология перехода на nano360 / Хабр",
+    "date": "2026-10-28T09:44:51.743+06:00",
+    "og:title": "От сетевых папок к СОД: методология перехода на nano360",
+    "og:image": "https://habr.com/share/publication/1100502/8be7648bea11fdcbe760d305c16a6e40/",
+    "og:description": "Сетевые папки, облачные диски и электронная почта остаются привычными инструментами организации проектной документации. Для небольшого коллектива и относительно простого проекта этого зачастую...",
+    "og:url": "https://habr.com/ru/companies/nanosoft/articles/1100502/",
     "og:type": "article"
   },
   {
@@ -56900,6 +57186,17 @@
     "og:image": "https://habr.com/share/publication/1100016/e5f3aaac9f944073e4ede5c1dd318ff1/",
     "og:description": "Вы собираетесь слить ветку, над которой долго работали, и хотите заранее понять, насколько всё будет болезненно. Не&nbsp;узнать, сколько проблем возникло после слияния, а&nbsp;предсказать, сколько их...",
     "og:url": "https://habr.com/ru/companies/otus/articles/1100016/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/otus/articles/1100252/",
+    "title": "От высокой нагрузки до восстановления LVM: 14 бесплатных вебинаров для инфраструктурных инженеров / Хабр",
+    "date": "2026-10-28T09:44:51.721+06:00",
+    "og:title": "От высокой нагрузки до восстановления LVM: 14 бесплатных вебинаров для инфраструктурных инженеров",
+    "og:image": "https://habr.com/share/publication/1100252/0fbebd98c50035420e653781b4cb03f2/",
+    "og:description": "Сервис отвечает с задержкой, очередной деплой требует ручного вмешательства, а мониторинг пропускает подозрительную активность? За такими проблемами могут стоять особенности сетевых протоколов,...",
+    "og:url": "https://habr.com/ru/companies/otus/articles/1100252/",
     "og:type": "article"
   },
   {
@@ -59533,6 +59830,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/ruvds/articles/1099662/",
+    "title": "Я вернулся на Android, и мне не понравилось / Хабр",
+    "date": "2026-10-28T09:33:26.072+06:00",
+    "og:title": "Я вернулся на Android, и мне не понравилось",
+    "og:image": "https://habr.com/share/publication/1099662/ed8bb35a67a1de7b860fa3968a48a7fc/",
+    "og:description": "Под конец 2025 года мой iPhone 11 стал всеми силами показывать, как ему тяжело в современных реалиях, когда приложения повышают свои системные требования, а сама обновлённая iOS на старых девайсах...",
+    "og:url": "https://habr.com/ru/companies/ruvds/articles/1099662/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/ruvds/articles/1099940/",
     "title": "PostgreSQL на 1 ТБ: сколько стоит облако и выделенный сервер / Хабр",
     "date": "2026-10-28T07:33:20.952+06:00",
@@ -59683,6 +59991,17 @@
     "og:image": "https://habr.com/share/publication/1098020/448e24c96fb12d7321fa785f6996f356/",
     "og:description": "Привет! 3 октября в Москве прошёл RWB Infra x Security Meetup, объединивший направления инфраструктуры и информационной безопасности. Программа была разделена на два трека. В треке инфраструктуры...",
     "og:url": "https://habr.com/ru/companies/rwb/articles/1098020/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/rwb/articles/1099536/",
+    "title": "Большинство ответов поиска готовы ещё до того, как пришёл запрос / Хабр",
+    "date": "2026-10-28T09:33:26.093+06:00",
+    "og:title": "Большинство ответов поиска готовы ещё до того, как пришёл запрос",
+    "og:image": "https://habr.com/share/publication/1099536/ac9b731c204dd1c79ef80864ad963749/",
+    "og:description": "Пока покупатель печатает «платье в пол», самая тяжёлая часть работы в поиске Wildberries уже сделана. Для абсолютного большинства запросов нужный набор товаров собран заранее. Остаётся найти этот...",
+    "og:url": "https://habr.com/ru/companies/rwb/articles/1099536/",
     "og:type": "article"
   },
   {
@@ -67757,6 +68076,17 @@
     "og:image": "https://habrastorage.org/extt/f2/9f/ae/f29faee3964a9e11d3965f6616e96c93.jpg",
     "og:description": "Весь год на&nbsp;Хабре то и дело всплывают дискуссии: останется&nbsp;ли место программистам в&nbsp;мире, где ИИ‑агенты забирают всё больше задач? Но&nbsp;одно дело читать диванную аналитику и прогнозы, а&nbsp;совершенно другое&nbsp;— адаптироваться к&nbsp;новой реальности и смотреть, как&nbsp;всё это крутится в&nbsp;проде. 16&nbsp;октября я отправился на&nbsp;инженерный день ГигаКонф-2026&nbsp;в&nbsp;штаб‑квартиру Сбера, чтобы своими глазами увидеть, насколько глубоко ИИ интегрировался в&nbsp;инженерные процессы рынка.Меня зовут Данила, я backend‑разработчик, пилю микросервисы и активно слежу за&nbsp;развитием ИИ‑инструментов. В&nbsp;этой статье собрал с&nbsp;прошедшей конференции все мысли и выступления, которые показались мне наиболее интересными: от&nbsp;харнессов и архитектуры ГигаАгента до&nbsp;запуска моделей на&nbsp;игровых видеокартах. А&nbsp;ещё я узнал, что&nbsp;вообще остаётся инженеру в&nbsp;эпоху яичницы.Спойлер: писать код нам всё‑таки придётся. Но&nbsp;постепенно это становится не&nbsp;самой сложной частью работы.",
     "og:url": "https://habr.com/ru/specials/1100100/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/specials/1100468/",
+    "title": "От рутины к сложным запросам: как GigaChat Audio работает в паре с ИИ‑оператором / Хабр",
+    "date": "2026-10-28T09:33:26.163+06:00",
+    "og:title": "От рутины к сложным запросам: как GigaChat Audio работает в паре с ИИ‑оператором",
+    "og:image": "https://habrastorage.org/extt/51/81/09/51810944b3d3977971bc154ff907e5d4.jpg",
+    "og:description": "Проанализировать речь доклада, подготовить код‑ревью и составить саммари встречи&nbsp;— задачи, на&nbsp;которые часто не&nbsp;хочется тратить уйму времени. Дак может, делегировать это аудиомодели? Мидл‑разработчик протестировал такую audio‑native модель GigaChatAudio&nbsp;на&nbsp;разных рутинных операциях и поделился выводами. Тогда команда Сбера решила пойти ещё дальше и внедрила модель в&nbsp;работу ИИ‑оператора контакт‑центра, чтобы помогать с&nbsp;нестандартными запросами. В&nbsp;галерее‑комиксе узнаем, как&nbsp;модель помогает справляться со сложными кейсами и ищет общий язык с&nbsp;клиентами.",
+    "og:url": "https://habr.com/ru/specials/1100468/",
     "og:type": "article"
   },
   {
@@ -81852,6 +82182,17 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/@rk.abhishek.ram/angular-vs-react-stop-asking-which-is-better-ask-which-architecture-fits-3e7a52ae4e02",
+    "title": "Angular vs React: Stop Asking Which Is Better. Ask Which Architecture Fits. | by Rk Abhishek Ram | Oct, 2026 | Medium",
+    "date": "2026-10-28T09:32:08.992+06:00",
+    "og:title": "Angular vs React: Stop Asking Which Is Better. Ask Which Architecture Fits.",
+    "og:image": "https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632",
+    "og:description": "A Senior UI Architect’s Perspective on Frontend Architecture, Engineering Trade-offs, Scalability, Performance, and Long-Term…",
+    "og:url": "https://medium.com/@rk.abhishek.ram/angular-vs-react-stop-asking-which-is-better-ask-which-architecture-fits-3e7a52ae4e02",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/@roman_fedyskyi/why-frontend-validation-matters-in-fintech-377f09d5a988?source=rss------front_end-5",
     "title": "Medium",
     "date": "2026-10-06T02:23:59.257+06:00",
@@ -88375,6 +88716,17 @@
   },
   {
     "hostname": "rahuulmiishra.medium.com",
+    "url": "https://rahuulmiishra.medium.com/effect-vs-effect-in-react-whats-the-difference-8ad3c00c7f6e",
+    "title": "effect vs Effect in React: What’s the Difference? | by Frontend Master | Oct, 2026 | Medium",
+    "date": "2026-10-28T09:32:09+06:00",
+    "og:title": "effect vs Effect in React: What’s the Difference?",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*fGObq2yTVWz20ayzISX5xg.jpeg",
+    "og:description": "Same word, two meanings: one comes from programming, the other is React’s useEffect.",
+    "og:url": "https://rahuulmiishra.medium.com/effect-vs-effect-in-react-whats-the-difference-8ad3c00c7f6e",
+    "og:type": "article"
+  },
+  {
+    "hostname": "rahuulmiishra.medium.com",
     "url": "https://rahuulmiishra.medium.com/how-i-cut-my-react-apps-initial-javascript-bundle-size-by-40-a0db9a6af39d",
     "title": "How I Cut My React App’s Initial JavaScript Bundle Size by 40% | by Frontend Master | Oct, 2026 | Medium",
     "date": "2026-10-25T04:24:14.907+06:00",
@@ -93061,6 +93413,17 @@
   },
   {
     "hostname": "t-j.ru",
+    "url": "https://t-j.ru/item-of-the-day-coat/",
+    "title": "Покупка дня: шерстяное унисекс-пальто Lime на холодную осень",
+    "date": "2026-10-28T09:32:40.268+06:00",
+    "og:title": "Покупка дня: шерстяное унисекс-пальто Lime на холодную осень",
+    "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/VLHxr6Hbej.item-of-the-day-coat.og_image.png",
+    "og:description": "Честный отзыв редактора Шопинга Т⁠—⁠Ж",
+    "og:url": "https://t-j.ru/item-of-the-day-coat/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "t-j.ru",
     "url": "https://t-j.ru/its-cold-outside/",
     "title": "Топ-10 действительно теплых пледов",
     "date": "2026-10-03T11:20:00.5+06:00",
@@ -93321,6 +93684,17 @@
     "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/give-me-pages-fb.jpg",
     "og:description": "Инструкция Т⁠—⁠Ж",
     "og:url": "https://t-j.ru/list/give-me-pages/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "t-j.ru",
+    "url": "https://t-j.ru/liver-kolbaska/",
+    "title": "Печеночная колбаса в домашних условиях: рецепт из куриной печени",
+    "date": "2026-10-28T09:32:40.27+06:00",
+    "og:title": "Готовлю домашнюю колбасу из четырех ингредиентов — никаких пищевых добавок. Рецепт колбасы из печени",
+    "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/GJ7ky5Byy2.liver-kolbaska.og_image.png",
+    "og:description": "С рисом и салом",
+    "og:url": "https://t-j.ru/liver-kolbaska/",
     "og:type": "article"
   },
   {
@@ -94366,6 +94740,17 @@
     "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/4O3iOL7-eu.ovechkin-says-bye.og_image.png",
     "og:description": "Капитан «Вашингтон Кэпиталз» покинет команду после сезона—2026/27",
     "og:url": "https://t-j.ru/news/ovechkin-says-bye/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "t-j.ru",
+    "url": "https://t-j.ru/news/ozon-loss-bpla-3q2026/",
+    "title": "Ozon оценил убытки от атак БПЛА в 30 млрд рублей",
+    "date": "2026-10-28T09:32:40.281+06:00",
+    "og:title": "Ozon оценил убытки от атак БПЛА в 30 млрд рублей",
+    "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/R-2_ZQ9spW.ozon-loss-bpla-3q2026.og_image.png",
+    "og:description": "Но ключевые показатели маркетплейса выросли",
+    "og:url": "https://t-j.ru/news/ozon-loss-bpla-3q2026/",
     "og:type": "article"
   },
   {
@@ -95690,6 +96075,17 @@
   },
   {
     "hostname": "t-j.ru",
+    "url": "https://t-j.ru/short/kopeyka-coins/",
+    "title": "Самые дорогие копейки СССР: список от 1924 до 1958 года, цены, фото",
+    "date": "2026-10-28T09:32:40.266+06:00",
+    "og:title": "Самые дорогие советские монеты",
+    "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/ve8t3es-Ye.kopeyka-coins.og_image.png",
+    "og:description": "Которые можно найти в копилке",
+    "og:url": "https://t-j.ru/short/kopeyka-coins/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "t-j.ru",
     "url": "https://t-j.ru/short/molchun/",
     "title": "Сколько россиян терпят плохих соседей и молчат",
     "date": "2026-10-07T07:07:28.511+06:00",
@@ -95928,6 +96324,17 @@
     "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/KohICm0EHV.stamp-please.og_image.png",
     "og:description": "Адреса и карта локаций",
     "og:url": "https://t-j.ru/stamp-please/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "t-j.ru",
+    "url": "https://t-j.ru/steam-login-how/",
+    "title": "Как войти в аккаунт Steam на ПК и телефоне",
+    "date": "2026-10-28T09:32:40.271+06:00",
+    "og:title": "Как зайти в Steam на ПК и на смартфоне",
+    "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/N5IqXCb7gG.steam-login-how.og_image.png",
+    "og:description": "И что делать, если войти не получается",
+    "og:url": "https://t-j.ru/steam-login-how/",
     "og:type": "article"
   },
   {
@@ -98209,6 +98616,17 @@
   },
   {
     "hostname": "uxdesign.cc",
+    "url": "https://uxdesign.cc/smaller-teams-want-design-leaders-who-make-again-heres-how-b8939221bd7b",
+    "title": "Smaller teams want design leaders who make, again. Here’s how. | by Patrick Neeman | Oct, 2026 | UX Collective",
+    "date": "2026-10-28T09:45:26.989+06:00",
+    "og:title": "Smaller teams want design leaders who make, again. Here’s how.",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/0*6eOxClHzavaLkNQc.jpg",
+    "og:description": "AI is shrinking teams we run and raising the bar what each person is expected to produce. That changes what a leader has to bring…",
+    "og:url": "https://uxdesign.cc/smaller-teams-want-design-leaders-who-make-again-heres-how-b8939221bd7b",
+    "og:type": "article"
+  },
+  {
+    "hostname": "uxdesign.cc",
     "url": "https://uxdesign.cc/stop-blaming-the-model-for-slow-ai-heres-how-to-design-for-it-doherty-s-threshold-as-a-guideline-5fa6d52e23fc",
     "title": "Stop blaming the model for slow AI. Using Doherty’s threshold as a guideline. | by Patrick Neeman | Oct, 2026 | UX Collective",
     "date": "2026-10-02T02:29:59.516+06:00",
@@ -98271,6 +98689,17 @@
     "og:image": "https://miro.medium.com/v2/resize:fill:1024:539/g:fp:0.5:0.17/1*-sfa29WX0NAoZA_7Ow_IKQ.png",
     "og:description": "AI did not remove the complexity of software. It removed the interface that told you where the complexity went, and who is now paying for…",
     "og:url": "https://uxdesign.cc/teslers-law-complexity-survived-the-chat-field-it-just-moved-to-a-different-place-in-the-journey-8a63f099f490",
+    "og:type": "article"
+  },
+  {
+    "hostname": "uxdesign.cc",
+    "url": "https://uxdesign.cc/the-agent-woke-up-before-you-did-a61cfc3948c7",
+    "title": "The agent woke up before you did. The last assumption of user-centered… | by Adrian Levy | Oct, 2026 | UX Collective",
+    "date": "2026-10-28T09:45:26.99+06:00",
+    "og:title": "The agent woke up before you did",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*xF61mJn34Pwxg-ICAafEsg.jpeg",
+    "og:description": "The last assumption of user-centered design just fell — and four companies pushed it at once.",
+    "og:url": "https://uxdesign.cc/the-agent-woke-up-before-you-did-a61cfc3948c7",
     "og:type": "article"
   },
   {
@@ -99356,6 +99785,17 @@
     "url": "https://wincmd.ru/plugins/StreamList",
     "title": "StreamList 1.2.1 — WINCMD.RU",
     "date": "2026-10-23T05:35:59.81+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "wincmd.ru",
+    "url": "https://wincmd.ru/plugins/tc_wiper",
+    "title": "TC Wiper 1.0.0 beta — WINCMD.RU",
+    "date": "2026-10-28T09:34:00.129+06:00",
     "og:title": "",
     "og:image": "",
     "og:description": "",
@@ -103386,6 +103826,17 @@
     "og:image": "https://iotvnaw69daj.i.optimole.com/cb:FUms.67a93/w:1568/h:672/q:mauto/f:best/https://wpshout.com/wp-content/uploads/2026/10/woocommerce-mcp-featured.jpg",
     "og:description": "WooCommerce MCP: what WooCommerce ships today, which route is documented for the claude.ai and ChatGPT web apps, and real Claude Code store sessions.",
     "og:url": "https://wpshout.com/woocommerce-mcp/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "wpshout.com",
+    "url": "https://wpshout.com/wordpress-mcp-adapter/",
+    "title": "WordPress MCP Adapter: Setup, Limits, and When a Plugin Is Easier",
+    "date": "2026-10-28T09:32:40.319+06:00",
+    "og:title": "WordPress MCP Adapter: Setup, Limits, and When a Plugin Is Easier",
+    "og:image": "https://iotvnaw69daj.i.optimole.com/cb:FUms.67a93/w:1568/h:672/q:mauto/f:best/https://wpshout.com/wp-content/uploads/2026/10/wordpress-mcp-adapter-featured.jpg",
+    "og:description": "Set up the official WordPress MCP Adapter, see what your AI can do once it connects, and learn when a plugin with an OAuth sign-in is the faster route.",
+    "og:url": "https://wpshout.com/wordpress-mcp-adapter/",
     "og:type": "article"
   },
   {
@@ -108185,6 +108636,28 @@
     "og:type": "article"
   },
   {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=22635",
+    "title": "Яндекс почти полностью восстановил доступ к данным на Диске",
+    "date": "2026-10-28T09:30:45.187+06:00",
+    "og:title": "Яндекс почти полностью восстановил доступ к данным на Диске",
+    "og:image": "https://cdn.comss.ru/img/052025/yandex-disk.png?class=cover",
+    "og:description": "Инженеры Яндекса вернули доступ к 96% файлов на Яндекс Диске. У части пользователей уже доступны все данные, остальные файлы возвращаются постепенно. Загрузка, скачивание и синхронизация работают, но в браузере пока нельзя скачать папку целиком",
+    "og:url": "https://www.comss.ru/page.php?id=22635",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=22636",
+    "title": "Роскомнадзор внес Apple и Microsoft в реестр организаторов распространения информации: что это значит",
+    "date": "2026-10-28T09:42:46.197+06:00",
+    "og:title": "Роскомнадзор внес Apple и Microsoft в реестр организаторов распространения информации: что это значит",
+    "og:image": "https://cdn.comss.ru/img/102026/2026-10-28-comss-rkn-ori-apple-microsoft.jpg?class=cover",
+    "og:description": "Apple и Microsoft 2 октября появились в реестре организаторов распространения информации Роскомнадзора. Такие компании обязаны хранить данные пользователей в России и передавать их силовым ведомствам, а за нарушения им грозят штрафы и блокировка по решению суда",
+    "og:url": "https://www.comss.ru/page.php?id=22636",
+    "og:type": "article"
+  },
+  {
     "hostname": "www.craigabbott.co.uk",
     "url": "https://www.craigabbott.co.uk/blog/2026/using-maths-to-balance-your-heading-styles/",
     "title": "Using maths to balance your heading styles - Craig Abbott",
@@ -109392,6 +109865,17 @@
     "og:image": "https://cdn.mos.cms.futurecdn.net/CYbLkxiP2kf6nxbRr4NYFU-1200-80.jpg",
     "og:description": "\"When the challenges are that raw, you just make mistakes, and you learn from them\"",
     "og:url": "https://www.creativebloq.com/inspiration/quote-of-the-day-by-laikas-nelson-lowry-when-the-challenges-are-that-raw-you-just-make-mistakes-and-you-learn-from-them",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/inspiration/this-3d-artist-achieves-incredible-realism-to-breath-life-into-striking-character-designs",
+    "title": "This 3D artist achieves incredible realism to breath life into striking character designs | Creative Bloq",
+    "date": "2026-10-28T09:32:08.978+06:00",
+    "og:title": "This 3D artist achieves incredible realism to breath life into striking character designs",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/ZQtJAkQvzABTX7GLa9wkJU-1920-80.jpg",
+    "og:description": "Discover the art of Tom Newbury.",
+    "og:url": "https://www.creativebloq.com/inspiration/this-3d-artist-achieves-incredible-realism-to-breath-life-into-striking-character-designs",
     "og:type": "article"
   },
   {
@@ -127832,6 +128316,17 @@
   },
   {
     "hostname": "www.neowin.net",
+    "url": "https://www.neowin.net/news/microsoft-is-removing-sharepoint-server-support-from-mobile-apps-next-month/",
+    "title": "Microsoft is removing SharePoint Server support from mobile apps next month - Neowin",
+    "date": "2026-10-28T09:38:12.571+06:00",
+    "og:title": "Microsoft is removing SharePoint Server support from mobile apps next month",
+    "og:image": "https://cdn.neowin.com/news/images/uploaded/2026/03/1773368305_sharepoint_logo_full.webp",
+    "og:description": "Microsoft has announced that SharePoint mobile apps will drop on-premises SharePoint Server access next month, leaving SharePoint Online as the only supported option for mobile users.",
+    "og:url": "https://www.neowin.net/news/microsoft-is-removing-sharepoint-server-support-from-mobile-apps-next-month/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.neowin.net",
     "url": "https://www.neowin.net/news/microsoft-is-retiring-an-outlook-feature-that-allows-copilot-to-assign-a-priority-to-emails/?utm_source=feedly",
     "title": "Microsoft is retiring an Outlook feature that allows Copilot to assign a priority to emails - Neowin",
     "date": "2026-10-23T07:54:36.344+06:00",
@@ -131611,6 +132106,17 @@
     "og:title": "",
     "og:image": "https://www.opennet.ru/opennet_192tg.png",
     "og:description": "Грегори Курцер (Gregory Kurtzer), основатель дистрибутивов CentOS и Rocky Linux,  представил  проект  Ginux , развивающий ядро операционной системы на языке Rust, нацеленное на достижение совместимости с ядром Linux. Опубликованный исследовательский  прототип уже способен загрузить системное окружение дистрибутивов Alpine с BusyBox и Rocky Linux 10 с systemd в многопользовательском консольном режиме. Код проекта  распространяется  под лицензией Apache 2.0. Поддерживается работа на системах с архитектурой x86-64",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.opennet.ru",
+    "url": "https://www.opennet.ru/opennews/art.shtml?num=66563",
+    "title": "Взлом сервера с модами, дополнениями и ресурсами для игрового движка Luanti",
+    "date": "2026-10-28T09:44:51.666+06:00",
+    "og:title": "",
+    "og:image": "https://www.opennet.ru/opennet_192tg.png",
+    "og:description": "Разработчики свободного игрового движка Luanti, позволяющего создавать игры в стиле Minecraft,  объявили  об инциденте, в результате которого атакующие получили доступ к серверу проекта, обслуживающему каталог  content.luanti.org , через который производится загрузка модов, игр, дополнений, текстур и прочих ресурсов в экосистеме Luanti. В руки атакующих попали персональные данные, IP-адреса и хэши паролей  (bcrypt) зарегистрированных пользователей. Атакующие также имели возможность вносить изменения в пакеты, распространяемые через каталог ContentDB",
     "og:url": "",
     "og:type": ""
   },
@@ -140900,6 +141406,17 @@
   },
   {
     "hostname": "www.slo.ru",
+    "url": "https://www.slo.ru/files/firewalls/portmaster",
+    "title": "Portmaster - Скачать для Windows и Linux",
+    "date": "2026-10-28T09:34:00.117+06:00",
+    "og:title": "Portmaster - Скачать для Windows и Linux",
+    "og:image": "https://www.slo.ru/img/64/portmaster.gif",
+    "og:description": "Portmaster — фаервол для операционных систем Windows и GNU/Linux — служит для управления доступом к сети. ",
+    "og:url": "https://www.slo.ru/files/firewalls/portmaster",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.slo.ru",
     "url": "https://www.slo.ru/files/firewalls/tinywall",
     "title": "TinyWall - Скачать для Windows",
     "date": "2026-10-22T02:22:02.691+06:00",
@@ -143569,6 +144086,17 @@
     "og:image": "https://www.thephoblographer.com/wp-content/uploads/2026/08/Chris-Gampat-The-Phoblographer-Techart-LMEA9-firmware-update-review-product-images-LEICA-SL2-SSIRUI-35mmF1.4L-2.81-250s50.jpg",
     "og:description": "The Techart LMEA9 has had many firmware updates since it launched in 2022. So has it gotten a whole lot better?",
     "og:url": "https://www.thephoblographer.com/2026/10/27/techart-lmea9-review-update-negating-sonys-award-winning-autofocus/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.thephoblographer.com",
+    "url": "https://www.thephoblographer.com/2026/10/28/the-camp-snap-2-outsold-the-cs8-in-2026/",
+    "title": "The Camp Snap 2 Outsold the CS8 in 2026",
+    "date": "2026-10-28T09:32:40.328+06:00",
+    "og:title": "The Camp Snap 2 Outsold the CS8 in 2026",
+    "og:image": "https://www.thephoblographer.com/wp-content/uploads/2026/06/Chris-Gampat-The-Phoblographer-Camp-Snap-2-review-product-images-NIKON-D850Nikon-AF-S-NIKKOR-28mm-f-1.8G2.21-80s100-1.jpg",
+    "og:description": "The Camp Snap company tells us that the Camp Snap 2 outsold the CS8; which is the camera that got really famous because of Taylor Swift.",
+    "og:url": "https://www.thephoblographer.com/2026/10/28/the-camp-snap-2-outsold-the-cs8-in-2026/",
     "og:type": "article"
   },
   {
