@@ -3686,6 +3686,17 @@
   },
   {
     "hostname": "adme.media",
+    "url": "https://adme.media/articles/15-istorij-o-semyah-kotorym-vsegda-est-chto-obsudit-s-chaem-na-kuhne-2557936/",
+    "title": "15 историй о семьях, которым всегда есть что обсудить с чаем на кухне",
+    "date": "2026-10-29T05:18:28.147+06:00",
+    "og:title": "15 историй о семьях, которым всегда есть что обсудить с чаем на кухне",
+    "og:image": "https://wl-adme.cf.tsp.li/resize/1200x770/jpg/ea2/98c/f91dd759a8b16f35188cc9400e.jpg",
+    "og:description": "Ну что, наливаем чай? Потому что стоит начать читать эту статью и заодно вспоминать свои семейные истории — одной кружкой точно не обойдешься. Пожалуй, в каждой семье есть байки о том, как один из домочадцев умудрился устроить переполох на ровном месте, другой собрал необычную коллекцию, а третий из принципа не выносил елку до июля. Вот именно об этом и пойдет у нас разговор.",
+    "og:url": "https://adme.media/articles/15-istorij-o-semyah-kotorym-vsegda-est-chto-obsudit-s-chaem-na-kuhne-2557936/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "adme.media",
     "url": "https://adme.media/articles/15-istorij-o-tom-kak-obschenie-s-inostrancami-prevratilos-v-rebus-kotoryj-nevozmozhno-razgadat-bez-chuvstva-yumora-2557617/",
     "title": "15+ историй о том, как общение с иностранцами превратилось в ребус, который невозможно разгадать без чувства юмора",
     "date": "2026-10-19T09:16:36.607+06:00",
@@ -10370,6 +10381,17 @@
     "og:image": "https://resize.imagekit.co/-6eOoq2-ELH97as1tOuo2N4Hlyr9_T5TGZR8uMqEWWI/plain/s3://betalist-production/49g5adyrb4ea2ds288vcwluq6e04",
     "og:description": "Turn Search Console data into clear insights and drive organic growth",
     "og:url": "https://betalist.com/startups/gsc-wizard",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/habit-nest-tracker",
+    "title": "Habit Nest Tracker: Build small daily habits and track | BetaList",
+    "date": "2026-10-29T05:18:28.122+06:00",
+    "og:title": "Habit Nest Tracker: Build small daily habits and track consistent",
+    "og:image": "https://resize.imagekit.co/fxHQBwBtfYcMvnx7ZWzMVI7dmsvbCAoPQ5Fb5fLOagQ/plain/s3://betalist-production/uzipeiimcxpcvi7oykhv7y6dcphz",
+    "og:description": "Build small daily habits and track consistent progress",
+    "og:url": "https://betalist.com/startups/habit-nest-tracker",
     "og:type": "article,"
   },
   {
@@ -33045,6 +33067,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1090420/",
+    "title": "Маршрутизатор языковых моделей изнутри. От вектора задачи до судьи и обучения на отзывах / Хабр",
+    "date": "2026-10-29T05:04:39.764+06:00",
+    "og:title": "Маршрутизатор языковых моделей изнутри. От вектора задачи до судьи и обучения на отзывах",
+    "og:image": "https://habr.com/share/publication/1090420/c3f2bd5d2a629d8e6228c4fc5def0e76/",
+    "og:description": "Ранее мы рассказывали о&nbsp;библиотеке FAIRouter , которая направляет запрос к&nbsp;наиболее подходящему исполнителю. Пока исполнителями могут быть только языковые модели (LLM),...",
+    "og:url": "https://habr.com/ru/articles/1090420/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/articles/1090426/",
     "title": "Период полураспада бенчмарка ИИ сократился вдвое: 19 месяцев вместо 38 / Хабр",
     "date": "2026-10-14T03:29:35.703+06:00",
@@ -33371,6 +33404,17 @@
     "og:image": "https://habr.com/share/publication/1090570/97402ebff1e7a5ec01ba466507e59468/",
     "og:description": "Крупная сеть пиццерий, международный отель, сеть фастфуда&nbsp;— три официально озвученных крупных сбоя за&nbsp;последние два года, а&nbsp;сколько их не&nbsp;вынесенных в&nbsp;СМИ произошло...",
     "og:url": "https://habr.com/ru/articles/1090570/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1090592/",
+    "title": "Автоматизация моего процесса сканирования 35-миллиметровых плёнок / Хабр",
+    "date": "2026-10-29T05:06:39.636+06:00",
+    "og:title": "Автоматизация моего процесса сканирования 35-миллиметровых плёнок",
+    "og:image": "https://habr.com/share/publication/1090592/a4ec4cc6fff71cbb260394c4fcc3b5ca/",
+    "og:description": "Я люблю фотографию. Есть что‑то волнующее в&nbsp;наблюдении за&nbsp;изображением через объектив, выстраивании кадра для получения композиции и работы над получившимся фото. Я менял зеркальные и...",
+    "og:url": "https://habr.com/ru/articles/1090592/",
     "og:type": "article"
   },
   {
@@ -39480,6 +39524,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1094190/",
+    "title": "Кибермарксизм, или почему ИИ несовместим с капитализмом, и почему нас ждёт слом социально‑экономической формации / Хабр",
+    "date": "2026-10-29T05:02:50.046+06:00",
+    "og:title": "Кибермарксизм, или почему ИИ несовместим с капитализмом, и почему нас ждёт слом социально‑экономической формации",
+    "og:image": "https://habr.com/share/publication/1094190/ccb960ad2a0e170dfa04cc879a74a04e/",
+    "og:description": "Изо всех американских утюгов до&nbsp;нас доносятся возгласы о&nbsp;том, что&nbsp;необходимо срочно бросить всё, бежать строить свои продукты с&nbsp;использованием искусственного интеллекта и продавать...",
+    "og:url": "https://habr.com/ru/articles/1094190/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/articles/1094194/",
     "title": "Как мы сделали HR-аналитику на Nova вместе с Kimi Code / Хабр",
     "date": "2026-10-14T09:54:25.935+06:00",
@@ -39938,6 +39993,17 @@
     "og:image": "https://habr.com/share/publication/1094782/74f4c9838b70727c5c1e83338b94484a/",
     "og:description": "Нашей команде поставили задачу разработать мобильное приложение для&nbsp;iOS и Android. Нативных разработчиков на&nbsp;Swift и Kotlin в&nbsp;команде нет, зато половина хорошо знает Vue. Поэтому я...",
     "og:url": "https://habr.com/ru/articles/1094782/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1094788/",
+    "title": "QMS: Миниигры / Хабр",
+    "date": "2026-10-29T05:10:45.763+06:00",
+    "og:title": "QMS: Миниигры",
+    "og:image": "https://habr.com/share/publication/1094788/e45052cc1ad5c87e9b98b3ed62b85157/",
+    "og:description": "Игра “ Космические рейнджеры ” разработана в 2002 году компанией Elemental Games, под руководством Дмитрия Гусарова. Текстовые квесты, наряду с планетарными и аркадными боями, немало способствовали...",
+    "og:url": "https://habr.com/ru/articles/1094788/",
     "og:type": "article"
   },
   {
@@ -44760,6 +44826,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1097494/",
+    "title": "Эволюция взглядов World Economic Forum на будущее рынка труда и как это влияет на руководителей проектов / Хабр",
+    "date": "2026-10-29T05:04:39.72+06:00",
+    "og:title": "Эволюция взглядов World Economic Forum на будущее рынка труда и как это влияет на руководителей проектов",
+    "og:image": "https://habr.com/share/publication/1097494/a915731542fb3a2be250c534ca12d6fc/",
+    "og:description": "По&nbsp;роду своей основной деятельности отслеживаю разные источники и исследования, связанные с&nbsp;компетенциями современных руководителей проектов и проектных специалистов. Предлагаю посмотреть,...",
+    "og:url": "https://habr.com/ru/articles/1097494/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/articles/1097500/",
     "title": "Зябра: как я поймал Карамбу на выходе в интернет и написал свой офлайн-переключатель раскладки / Хабр",
     "date": "2026-10-22T02:48:54.732+06:00",
@@ -46652,6 +46729,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1098572/",
+    "title": "Как немножко обмануть сервер / Хабр",
+    "date": "2026-10-29T05:00:41.438+06:00",
+    "og:title": "Как немножко обмануть сервер",
+    "og:image": "https://habr.com/share/publication/1098572/b7ec20096077dcc941b3f5c94e4cc882/",
+    "og:description": "В&nbsp;прошлых статьях я рассказывал, как «немножко обманывать» игрока и давать ему ощущение естественного поведения игры, про&nbsp;давно известные приёмы, которые широко опробованы в&nbsp;сингловых...",
+    "og:url": "https://habr.com/ru/articles/1098572/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/articles/1098582/",
     "title": "Сначала радиус поражения: семь рамок, прежде чем пустить ИИ на свои серверы / Хабр",
     "date": "2026-10-24T04:28:40.081+06:00",
@@ -47880,6 +47968,17 @@
     "og:image": "https://habr.com/share/publication/1099050/4c1dbf7b8d61a5fd1aab7a8848824fe3/",
     "og:description": "Где она зародилась? Как&nbsp;стала сложной? Почему организмы увеличились в&nbsp;размерах? Три момента в&nbsp;ранней истории Земли, когда эволюция внезапно и необъяснимым образом резко ускорилась....",
     "og:url": "https://habr.com/ru/articles/1099050/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1099054/",
+    "title": "Можно ли навайбкодить операционную систему как Linux, только быструю? / Хабр",
+    "date": "2026-10-29T05:06:39.735+06:00",
+    "og:title": "Можно ли навайбкодить операционную систему как Linux, только быструю?",
+    "og:image": "https://habr.com/share/publication/1099054/f5a5573f0984af56285e20871ff9dd85/",
+    "og:description": "Наступила эпоха, когда любая домохозяйка за несколько промптов поднимает себе CRM: фронтенд на JS, бэкенд на Go, данные в Postgres. И при этом не понимает ни слова из того, что я сейчас написал. А...",
+    "og:url": "https://habr.com/ru/articles/1099054/",
     "og:type": "article"
   },
   {
@@ -49479,6 +49578,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1099826/",
+    "title": "Локальный вайбкодинг на ноутбуке: Ryzen 9 и RTX5070 против Qwen3-Coder / Хабр",
+    "date": "2026-10-29T05:10:46.023+06:00",
+    "og:title": "Локальный вайбкодинг на ноутбуке: Ryzen 9 и RTX5070 против Qwen3-Coder",
+    "og:image": "https://habr.com/share/publication/1099826/4e2e011825c08aa9b23a8c80f4b4ca99/",
+    "og:description": "Подписки на&nbsp;ИИ‑ассистентов для&nbsp;кода дорожают, лимиты режут, а&nbsp;код при&nbsp;этом уезжает на&nbsp;чужие серверы. Я решил проверить, можно&nbsp;ли вайбкодить полностью локально...",
+    "og:url": "https://habr.com/ru/articles/1099826/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/articles/1099830/",
     "title": "Таймаут вернул 124, а следующий запуск пропущен: какие фоновые утилиты держат flock / Хабр",
     "date": "2026-10-27T08:42:48.005+06:00",
@@ -50073,6 +50183,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100230/",
+    "title": "Настройка и пример работы LLM на встроенном NPU мини‑компьютера с Intel Core Ultra 5 226V / Хабр",
+    "date": "2026-10-29T05:10:46.004+06:00",
+    "og:title": "Настройка и пример работы LLM на встроенном NPU мини‑компьютера с Intel Core Ultra 5 226V",
+    "og:image": "https://habr.com/share/publication/1100230/257b226011c207a573f4e64a6c4b9701/",
+    "og:description": "Подопытный&nbsp;— мини‑ПК Ninkear L20&nbsp;на&nbsp;Intel Core Ultra 5 226V с 16&nbsp;ГБ памяти. В&nbsp;статье будет установка и настройка OpenVINO, запуск Qwen3-8B на&nbsp;NPU, замеры скорости и...",
+    "og:url": "https://habr.com/ru/articles/1100230/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/articles/1100232/",
     "title": "AI-инструменты для пентеста: насколько они эффективны на самом деле? / Хабр",
     "date": "2026-10-28T03:16:05.048+06:00",
@@ -50249,6 +50370,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100318/",
+    "title": "Наблюдение за птицами перестраивает мозг и замедляет снижение когнитивных способностей / Хабр",
+    "date": "2026-10-29T05:06:39.154+06:00",
+    "og:title": "Наблюдение за птицами перестраивает мозг и замедляет снижение когнитивных способностей",
+    "og:image": "https://habr.com/share/publication/1100318/81b0a0d545ed578c04aa13ff2e528e6d/",
+    "og:description": "Наблюдение за&nbsp;птицами может замедлять старение мозга и всё чаще используется в&nbsp;качестве терапии для&nbsp;пациентов с&nbsp;деменцией. Каждую неделю группа пожилых любителей птиц проводит...",
+    "og:url": "https://habr.com/ru/articles/1100318/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/articles/1100332/",
     "title": "Я пролетел 300 карт в VelociDrone и это подборка 26 конфигов, которые вам обязательно понравятся / Хабр",
     "date": "2026-10-28T05:53:13.926+06:00",
@@ -50355,6 +50487,17 @@
     "og:image": "https://habr.com/share/publication/1100364/2dd994600e22a8500e37906798bc5558/",
     "og:description": "Всем привет! 28 октября 2026 года исполнилось два года моему пет-проекту PyLab — моему детищу и просто очень приятному и тёплому вечернему времяпрепровождению. Сегодня жизнь проекта разделилась на два...",
     "og:url": "https://habr.com/ru/articles/1100364/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100368/",
+    "title": "Выбор электронной книги в 2026 году: какой экран E Ink выбрать и на что обратить внимание. Рассказываю про свой опыт / Хабр",
+    "date": "2026-10-29T05:10:45.983+06:00",
+    "og:title": "Выбор электронной книги в 2026 году: какой экран E Ink выбрать и на что обратить внимание. Рассказываю про свой опыт",
+    "og:image": "https://habr.com/share/publication/1100368/7bb7b1a37df9d5d974ce6ca00ce0fea3/",
+    "og:description": "В&nbsp;статье разберу, как&nbsp;устроены экраны E Ink Carta Plus и Kaleido 3, чем они удобнее AMOLED и IPS для&nbsp;чтения, что&nbsp;такое «подметание» экрана и откуда берутся артефакты,...",
+    "og:url": "https://habr.com/ru/articles/1100368/",
     "og:type": "article"
   },
   {
@@ -50482,7 +50625,7 @@
     "hostname": "habr.com",
     "url": "https://habr.com/ru/articles/1100474/",
     "title": "Агент с root на моём VPS: как не дать ему отрезать себе доступ / Хабр",
-    "date": "2026-10-28T09:33:26.14+06:00",
+    "date": "2026-10-29T05:10:45.34+06:00",
     "og:title": "Агент с root на моём VPS: как не дать ему отрезать себе доступ",
     "og:image": "https://habr.com/share/publication/1100474/846fea3cf23e19a953f3477f5a4bc78a/",
     "og:description": "Агент только что поставил fail2ban и проверяет работу. Вход по ключу есть. По паролю нет, так и задумано. Ещё пара проверок для верности, и где-то на пятой неудачной попытке fail2ban банит IP, с...",
@@ -50515,7 +50658,7 @@
     "hostname": "habr.com",
     "url": "https://habr.com/ru/articles/1100484/",
     "title": "Поручение на обработку персональных данных в оферте: что требует часть 3 статьи 6 и что из этого ложится на код / Хабр",
-    "date": "2026-10-28T09:33:26.039+06:00",
+    "date": "2026-10-29T05:10:45.297+06:00",
     "og:title": "Поручение на обработку персональных данных в оферте: что требует часть 3 статьи 6 и что из этого ложится на код",
     "og:image": "https://habr.com/share/publication/1100484/d52fddb1a9d13031d245fa141bc05681/",
     "og:description": "В офертах сервисов, которые продаются бизнесу – CRM, рассылки, HR-платформы, трекеры задач, сервисы расшифровки созвонов, – раздел про персональные данные есть почти всегда. Поручения на обработку в...",
@@ -50526,7 +50669,7 @@
     "hostname": "habr.com",
     "url": "https://habr.com/ru/articles/1100494/",
     "title": "Обновили PHP после PHP2Shell? Сохраните вывод php -v — он может понадобиться в суде / Хабр",
-    "date": "2026-10-28T09:44:51.839+06:00",
+    "date": "2026-10-29T05:07:34.102+06:00",
     "og:title": "Обновили PHP после PHP2Shell? Сохраните вывод php -v — он может понадобиться в суде",
     "og:image": "https://habr.com/share/publication/1100494/91d71f9c57509b392b5d64bcd88d3676/",
     "og:description": "21 октября 2026 года вышли патчи PHP против PHP2Shell: две критические уязвимости, которые позволяют без авторизации выполнить код на сервере. Обновить PHP нужно в любом случае. Но если через...",
@@ -50553,6 +50696,677 @@
     "og:image": "https://habr.com/share/publication/1100508/6e7ea06d3e96d273d8e4688020739ea7/",
     "og:description": "Очень давно я наткнулся на&nbsp;сайт в&nbsp;рекламе, где обещали бесплатный смартфон со связью в&nbsp;обмен на&nbsp;просмотр рекламы. Первая мысль была&nbsp;— очередной лохотрон. Но&nbsp;денег...",
     "og:url": "https://habr.com/ru/articles/1100508/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100516/",
+    "title": "502 Bad Gateway: три причины и куда смотреть / Хабр",
+    "date": "2026-10-29T05:10:45.962+06:00",
+    "og:title": "502 Bad Gateway: три причины и куда смотреть",
+    "og:image": "https://habr.com/share/publication/1100516/37a81d3464b651a549663dd673e07e33/",
+    "og:description": "В&nbsp; прошлой статье &nbsp;я рассказывал, как&nbsp;устроен мой тренажёр инцидентов изнутри. Сегодня покажу один кейс, седьмой, про 502&nbsp;Bad Gateway. Он небольшой, но&nbsp;на&nbsp;нём хорошо...",
+    "og:url": "https://habr.com/ru/articles/1100516/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100542/",
+    "title": "Куда пропадают 69 гигабайт с каждого терабайта и почему за это судились с производителями / Хабр",
+    "date": "2026-10-29T05:24:21.554+06:00",
+    "og:title": "Куда пропадают 69 гигабайт с каждого терабайта и почему за это судились с производителями",
+    "og:image": "https://habr.com/share/publication/1100542/9c3ca29047cd534f74e065a6dbf5b946/",
+    "og:description": "Вы покупаете внешний диск, и на коробке крупно написано 1 ТБ. Вы подключаете его к компьютеру и открываете проводник, а Windows сообщает, что на диске 931 ГБ. Куда-то пропали 69 гигабайт, то есть...",
+    "og:url": "https://habr.com/ru/articles/1100542/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100546/",
+    "title": "Достоверность экспериментальных измерений в квантовой механике / Хабр",
+    "date": "2026-10-29T05:10:45.873+06:00",
+    "og:title": "Достоверность экспериментальных измерений в квантовой механике",
+    "og:image": "https://habr.com/share/publication/1100546/a26386c4c256a1848d8708f25a999157/",
+    "og:description": "Общепризнано, что&nbsp;формализм квантовой механики полностью подтвержден в&nbsp;ходе проведенных экспериментов. Однако остается не&nbsp;совсем понятным, что&nbsp;измерения говорят об&nbsp;исходной...",
+    "og:url": "https://habr.com/ru/articles/1100546/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100554/",
+    "title": "Две аварии дата-центров за трое суток: как мы дважды поднимали платформу и переехали в другое облако. Постмортем / Хабр",
+    "date": "2026-10-29T05:07:33.889+06:00",
+    "og:title": "Две аварии дата-центров за трое суток: как мы дважды поднимали платформу и переехали в другое облако. Постмортем",
+    "og:image": "https://habr.com/share/publication/1100554/32dc51784e8ae22d4cfa1894ab545413/",
+    "og:description": "8&nbsp;октября 2026 года наш облачный провайдер потерял дата-центр, в&nbsp;котором работала вся наша инфраструктура. Через трое суток то&nbsp;же самое случилось со&nbsp;второй площадкой,...",
+    "og:url": "https://habr.com/ru/articles/1100554/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100556/",
+    "title": "Свой игровой сервер на Linux: от systemd до Docker на примере Minecraft и Valheim / Хабр",
+    "date": "2026-10-29T05:10:45.79+06:00",
+    "og:title": "Свой игровой сервер на Linux: от systemd до Docker на примере Minecraft и Valheim",
+    "og:image": "https://habr.com/share/publication/1100556/8302eb231dde87a4f2e2e228b57036f5/",
+    "og:description": "Когда друг в&nbsp;очередной раз спрашивает: «А давай поднимем свой сервер, чтобы никто не&nbsp;выключал?»,&nbsp;— начинаешь гуглить и натыкаешься либо на&nbsp;видео сомнительного качества, либо...",
+    "og:url": "https://habr.com/ru/articles/1100556/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100562/",
+    "title": "Сбор персональных данных через чат‑бот / Хабр",
+    "date": "2026-10-29T05:10:45.651+06:00",
+    "og:title": "Сбор персональных данных через чат‑бот",
+    "og:image": "https://habr.com/share/publication/1100562/de051abe86478358792a7c0df03079bb/",
+    "og:description": "Требования Закона «О персональных данных» нужно соблюдать во&nbsp;всех случаях, когда вы сталкиваетесь с&nbsp;обработкой персональных данных. К&nbsp;сожалению, в&nbsp;большинстве случаев наводится...",
+    "og:url": "https://habr.com/ru/articles/1100562/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100564/",
+    "title": "Создавать стало дешевле. Платить стали за другое / Хабр",
+    "date": "2026-10-29T05:07:34.44+06:00",
+    "og:title": "Создавать стало дешевле. Платить стали за другое",
+    "og:image": "https://habr.com/share/publication/1100564/8c080868c408639e6eaf272137b0e9d4/",
+    "og:description": "Немного о&nbsp;собеседованиях Последние собеседования заставили меня задуматься о&nbsp;том, как&nbsp;меняется ценность технической экспертизы на&nbsp;рынке труда. Я говорю не&nbsp;о&nbsp;том,...",
+    "og:url": "https://habr.com/ru/articles/1100564/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100566/",
+    "title": "ИИ должен был облегчить нам работу / Хабр",
+    "date": "2026-10-29T05:07:34.483+06:00",
+    "og:title": "ИИ должен был облегчить нам работу",
+    "og:image": "https://habr.com/share/publication/1100566/5c99eeb07ee681fcc311d3512125fb13/",
+    "og:description": "Всем привет! Это моя первая статья на&nbsp;Хабре, поэтому, признаюсь, немного волнительно. Меня зовую Афанасова Юлия. Я работаю в&nbsp;IT с 2017&nbsp;года, преимущественно в&nbsp;SEO (а также руковожу...",
+    "og:url": "https://habr.com/ru/articles/1100566/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100570/",
+    "title": "Почему LLM игнорирует системный промпт: история диалога сильнее инструкций / Хабр",
+    "date": "2026-10-29T05:07:34.337+06:00",
+    "og:title": "Почему LLM игнорирует системный промпт: история диалога сильнее инструкций",
+    "og:image": "https://habr.com/share/publication/1100570/5e291be1d810f593570a081472451443/",
+    "og:description": "Знакомая ситуация: в&nbsp;системном промпте четко написано, чего модель делать не&nbsp;должна ни в&nbsp;коем случае, а&nbsp;она все равно это делает. Вы переписываете правило, добавляете «ВАЖНО»,...",
+    "og:url": "https://habr.com/ru/articles/1100570/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100574/",
+    "title": "Ручная инвалидация рендера как осознанный антипаттерн в React / Хабр",
+    "date": "2026-10-29T05:06:39.107+06:00",
+    "og:title": "Ручная инвалидация рендера как осознанный антипаттерн в React",
+    "og:image": "https://habr.com/share/publication/1100574/23d38bb7b942a1cb880525887e6f2274/",
+    "og:description": "Во&nbsp;время разработки библиотеки morphing‑scroll я пришёл к&nbsp;необычному способу организации локальных данных в&nbsp;React‑компоненте. Это не&nbsp;было заранее придуманной архитектурой. Я...",
+    "og:url": "https://habr.com/ru/articles/1100574/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100578/",
+    "title": "Четыре протокола и одна кнопка «Разрешить»: как я подключил Claude Code, Codex, Qwen и Hermes к Telegram / Хабр",
+    "date": "2026-10-29T05:07:34.318+06:00",
+    "og:title": "Четыре протокола и одна кнопка «Разрешить»: как я подключил Claude Code, Codex, Qwen и Hermes к Telegram",
+    "og:image": "https://habr.com/share/publication/1100578/cef037a6e6d15e9223d56f9f72aba507/",
+    "og:description": "Claude Code и Codex умеют работать долго и без присмотра, но только пока ты сидишь рядом. Агент то спрашивает разрешение на команду, то задаёт уточняющий вопрос и ждёт ответа. Отошёл от компьютера - и...",
+    "og:url": "https://habr.com/ru/articles/1100578/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100580/",
+    "title": "Флоу — это не число слогов: как я учил языковую модель писать рэп в такт бита / Хабр",
+    "date": "2026-10-29T05:07:34.295+06:00",
+    "og:title": "Флоу — это не число слогов: как я учил языковую модель писать рэп в такт бита",
+    "og:image": "https://habr.com/share/publication/1100580/708fed583ace430f60d7eea2264151a0/",
+    "og:description": "Я попытался сделать веб приложение, которое позволяет написать текст под бит. Механика следующая: загружаешь бит, задаешь характеристики текста - основная тема, настроение, форма рифмы и др -...",
+    "og:url": "https://habr.com/ru/articles/1100580/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100584/",
+    "title": "Я делаю браузерную космическую MMO в одиночку: авторитетный сервер, «ленивые» комнаты и мир, который молчал трое суток / Хабр",
+    "date": "2026-10-29T05:07:34.268+06:00",
+    "og:title": "Я делаю браузерную космическую MMO в одиночку: авторитетный сервер, «ленивые» комнаты и мир, который молчал трое суток",
+    "og:image": "https://habr.com/share/publication/1100584/65c54b407144e6b0e837eb36816a4f53/",
+    "og:description": "Пояс астероидов, трюм наполовину полон Уже четыре месяца я в одиночку пишу SpaceDigger — космическую онлайн-стратегию, которая целиком живёт во вкладке браузера. Ничего не нужно скачивать:...",
+    "og:url": "https://habr.com/ru/articles/1100584/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100590/",
+    "title": "Я сделал сайт, где можно самому пролистать Вселенную: от 490-метрового астероида до границы наблюдаемого космоса / Хабр",
+    "date": "2026-10-29T05:06:39.249+06:00",
+    "og:title": "Я сделал сайт, где можно самому пролистать Вселенную: от 490-метрового астероида до границы наблюдаемого космоса",
+    "og:image": "https://habr.com/share/publication/1100590/75d4d96d8d2a096d0a759b086cd57c2b/",
+    "og:description": "Сайт: &nbsp; legendacr.github.io/size‑of‑space Код: &nbsp; github.com/LegendaCR/size‑of‑space &nbsp;(MIT) Помните&nbsp; Size of Life &nbsp;от&nbsp;Нила Агарвала? Листаешь вправо, и рядом с&nbsp;каждым...",
+    "og:url": "https://habr.com/ru/articles/1100590/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100592/",
+    "title": "Планшет вместо ноутбука: RDP‑клиент под Android, после которого ноутбук остаётся дома / Хабр",
+    "date": "2026-10-29T05:06:39.203+06:00",
+    "og:title": "Планшет вместо ноутбука: RDP‑клиент под Android, после которого ноутбук остаётся дома",
+    "og:image": "https://habr.com/share/publication/1100592/f744fb2a5c7fb1a196b209c4f9c06d33/",
+    "og:description": "Открытый клиент удалённого рабочего стола с&nbsp;тачпадом чехла, общим диском, микрофоном и агентом для&nbsp;Windows&nbsp;— бесплатно, без&nbsp;рекламы и монетизации. Я веб‑разработчик, и моя работа...",
+    "og:url": "https://habr.com/ru/articles/1100592/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100598/",
+    "title": "Периодические функции как функции активации в нейросетях / Хабр",
+    "date": "2026-10-29T05:02:49.84+06:00",
+    "og:title": "Периодические функции как функции активации в нейросетях",
+    "og:image": "https://habr.com/share/publication/1100598/260138e158183b87f4f959e649a7e7d0/",
+    "og:description": "Пример периодической функции. Вступление Современные LLM‑модели демонстрируют огромный прирост качества за&nbsp;счет развития математики, разработки новых алгоритмов и способов обучения....",
+    "og:url": "https://habr.com/ru/articles/1100598/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100604/",
+    "title": "Как устроена архитектура ПО базовой станции Huawei / Хабр",
+    "date": "2026-10-29T05:06:39.78+06:00",
+    "og:title": "Как устроена архитектура ПО базовой станции Huawei",
+    "og:image": "https://habr.com/share/publication/1100604/b4f6c5ab66e121fd6c8cafe70ddd4777/",
+    "og:description": "Представьте, что&nbsp;в&nbsp;одной коробке высотой 2U нужно одновременно запустить четыре поколения мобильной связи&nbsp;— 2G, 3G, 4G и 5G,&nbsp;— да&nbsp;так, чтобы они делили между собой процессор,...",
+    "og:url": "https://habr.com/ru/articles/1100604/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100608/",
+    "title": "Читать свои книги без подписок и DRM: как устроена Readora / Хабр",
+    "date": "2026-10-29T05:06:39.471+06:00",
+    "og:title": "Читать свои книги без подписок и DRM: как устроена Readora",
+    "og:image": "https://habr.com/share/publication/1100608/793d3ee390703f14a05bad7fcb176c27/",
+    "og:description": "У многих дома лежит папка с сотнями книг в FB2 — и почти ни одного удобного способа читать их где угодно. Десктопные читалки не синхронизируют прогресс, онлайн-сервисы требуют подписку и не принимают...",
+    "og:url": "https://habr.com/ru/articles/1100608/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100610/",
+    "title": "DIY: Российский одноплатник Eltay RM66 в карманном компьютере / Хабр",
+    "date": "2026-10-29T05:06:39.407+06:00",
+    "og:title": "DIY: Российский одноплатник Eltay RM66 в карманном компьютере",
+    "og:image": "https://habr.com/share/publication/1100610/214a16cdfc32fc8c3e1ad1a2b9f3d061/",
+    "og:description": "Предыстория Мечта линуксоида! Есть у&nbsp;меня знакомый врач. Он очень хороший врач, но&nbsp;и второе его увлечение&nbsp;— Linux Администрирование серверов, ИИ проекты, домашний файловый сервер. И...",
+    "og:url": "https://habr.com/ru/articles/1100610/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100612/",
+    "title": "Как я разблокировал нативный бинауральный движок Apple HRTFHQ для любых наушников в macOS / Хабр",
+    "date": "2026-10-29T05:06:39.351+06:00",
+    "og:title": "Как я разблокировал нативный бинауральный движок Apple HRTFHQ для любых наушников в macOS",
+    "og:image": "https://habr.com/share/publication/1100612/d72c4d13e300a34e13babb60c29e56ef/",
+    "og:description": "Если вы долго сидите за&nbsp;Mac в&nbsp;обычных наушниках&nbsp;— будь то студийные Beyerdynamic/Sennheiser, полноразмерные Sony/Bose или&nbsp;любимые проводные IEM&nbsp;— вы наверняка замечали...",
+    "og:url": "https://habr.com/ru/articles/1100612/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100618/",
+    "title": "Три недели смотрел, какие хостинги открываются из России: 403 и таймаут это не одно и то же / Хабр",
+    "date": "2026-10-29T05:06:39.687+06:00",
+    "og:title": "Три недели смотрел, какие хостинги открываются из России: 403 и таймаут это не одно и то же",
+    "og:image": "https://habr.com/share/publication/1100618/ef574716095e938d11a19154e09a8ada/",
+    "og:description": "Я руковожу digital‑агентством в&nbsp;Израиле. Мы делаем сайты и рекламу, и клиенты регулярно спрашивают, где их сайт лучше разместить. Один из&nbsp;вопросов звучит так: «а этот хостинг вообще...",
+    "og:url": "https://habr.com/ru/articles/1100618/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100624/",
+    "title": "Тулпар: компилируемый язык с казахским синтаксисом, написанный с нуля (без LLVM, без libc, без C-компилятора) / Хабр",
+    "date": "2026-10-29T05:06:40.086+06:00",
+    "og:title": "Тулпар: компилируемый язык с казахским синтаксисом, написанный с нуля (без LLVM, без libc, без C-компилятора)",
+    "og:image": "https://habr.com/share/publication/1100624/7ee9b34e57cc8fbbf94c963b95b5e1b2/",
+    "og:description": "Tulpar Привет, Хабр! Я&nbsp;написал Тулпар ( Тұлпар &nbsp;— крылатый конь из&nbsp;казахской мифологии)&nbsp;— язык программирования, в&nbsp;котором ключевые слова, сообщения об&nbsp;ошибках...",
+    "og:url": "https://habr.com/ru/articles/1100624/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100626/",
+    "title": "Armbian x Eltay RM66 / Хабр",
+    "date": "2026-10-29T05:06:40.053+06:00",
+    "og:title": "Armbian x Eltay RM66",
+    "og:image": "https://habr.com/share/publication/1100626/0eab8ab386bb32cea03d324740a57a1b/",
+    "og:description": "Привет, Хабр! Меня зовут Сергей Брауманн, мне 29 лет, по специальности я техник АСУ ТП, а сейчас обучаюсь по направлению “Программная инженерия” (бакалавриат 4 курс). Живу в Екатеринбурге. Сегодня я...",
+    "og:url": "https://habr.com/ru/articles/1100626/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100628/",
+    "title": "Разведка, Pentest и причем тут контейнеры? / Хабр",
+    "date": "2026-10-29T05:04:40.291+06:00",
+    "og:title": "Разведка, Pentest и причем тут контейнеры?",
+    "og:image": "https://habr.com/share/publication/1100628/3054ca17ec17c9c1e0690b9b7e149e7b/",
+    "og:description": "У&nbsp;многих такое было: пишешь скрипт или&nbsp;целого монстра на&nbsp;коленке, локально всё взлетает и работает, а&nbsp;вот у&nbsp;счастливчика, с&nbsp;кем ты поделился проектом&nbsp;— нет!...",
+    "og:url": "https://habr.com/ru/articles/1100628/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100632/",
+    "title": "Ловушка декогеренции / Хабр",
+    "date": "2026-10-29T05:06:39.947+06:00",
+    "og:title": "Ловушка декогеренции",
+    "og:image": "https://habr.com/share/publication/1100632/8988c490d7d875c269028c25dff712c9/",
+    "og:description": "Полный перевод эссе The Decoherence Trap . Авторский текст опубликован под&nbsp;лицензией CC BY 4.0 . В&nbsp;русской версии переведены текст и надписи на&nbsp;схемах, а&nbsp;интерактивные иллюстрации...",
+    "og:url": "https://habr.com/ru/articles/1100632/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100646/",
+    "title": "Танцы магнитного поля: Солнце задаёт ритм Земле / Хабр",
+    "date": "2026-10-29T05:06:39.908+06:00",
+    "og:title": "Танцы магнитного поля: Солнце задаёт ритм Земле",
+    "og:image": "https://habr.com/share/publication/1100646/13d2df522e4eda1fad79574d7752024e/",
+    "og:description": "Содержание 1. Как&nbsp;магнитное поле вообще на&nbsp;что‑то влияет? 2. Влияние на&nbsp;технику и инфраструктуру: реальные риски сегодня 3. Исторические вехи: как&nbsp;Солнце меняло жизнь людей 4....",
+    "og:url": "https://habr.com/ru/articles/1100646/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100670/",
+    "title": "До какого места дочитывают ваши статьи: делаем процентильную аналитику прокрутки для WordPress / Хабр",
+    "date": "2026-10-29T05:04:40.095+06:00",
+    "og:title": "До какого места дочитывают ваши статьи: делаем процентильную аналитику прокрутки для WordPress",
+    "og:image": "https://habr.com/share/publication/1100670/f2fe7cb84e0346da84aebccdc693e5b0/",
+    "og:description": "Вы опубликовали статью. Счётчик показывает пару тысяч просмотров. Но&nbsp;кто‑нибудь её на&nbsp;самом деле прочитал? Обычная аналитика на&nbsp;этот вопрос не&nbsp;отвечает: человек, закрывший вкладку...",
+    "og:url": "https://habr.com/ru/articles/1100670/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100676/",
+    "title": "Архитектура 1С для новичков: Строим первую внешнюю обработку и клиент‑серверный мост. Часть первая / Хабр",
+    "date": "2026-10-29T05:04:40.066+06:00",
+    "og:title": "Архитектура 1С для новичков: Строим первую внешнюю обработку и клиент‑серверный мост. Часть первая",
+    "og:image": "https://habr.com/share/publication/1100676/c89a734239fb5a931a3e1727ea2f4e47/",
+    "og:description": "Боитесь запутаться в&nbsp;клиент‑серверной архитектуре и управляемых формах? В&nbsp;этой короткой статье разберем самый простой и понятный алгоритм создания внешней обработки с&nbsp;нуля. Идеально...",
+    "og:url": "https://habr.com/ru/articles/1100676/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100692/",
+    "title": "Как я научился зарабатывать 2000 р. в час на статьях, а потом уперся в потолок. Карьерный трек лоха, часть 2 / Хабр",
+    "date": "2026-10-29T05:04:39.941+06:00",
+    "og:title": "Как я научился зарабатывать 2000 р. в час на статьях, а потом уперся в потолок. Карьерный трек лоха, часть 2",
+    "og:image": "https://habr.com/share/publication/1100692/a9c7a2090f4b43146fc0da70e71174bc/",
+    "og:description": "Всем привет! Я Андрей, копирайтер и редактор. В&nbsp;этом сериале я рассказываю про&nbsp;свой кривой карьерный путь&nbsp;— не&nbsp;только про&nbsp;успехи, но&nbsp;и содранные коленки и разбитый лоб....",
+    "og:url": "https://habr.com/ru/articles/1100692/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100704/",
+    "title": "Восемь ИИ‑агентов и пять способов узнать, что они делают: как мы подключали OpenCode, Kilo и Pi к чёлке Mac / Хабр",
+    "date": "2026-10-29T05:04:39.88+06:00",
+    "og:title": "Восемь ИИ‑агентов и пять способов узнать, что они делают: как мы подключали OpenCode, Kilo и Pi к чёлке Mac",
+    "og:image": "https://habr.com/share/publication/1100704/b46b04681016ee6ef2a0dfd1fcfeb56a/",
+    "og:description": "Lumio&nbsp;— бесплатное приложение для&nbsp;чёлки MacBook. Оно показывает, что&nbsp;сейчас делают ваши ИИ‑агенты: кто работает, кто закончил, кто ждёт разрешения на&nbsp;команду. Разрешить можно прямо...",
+    "og:url": "https://habr.com/ru/articles/1100704/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100706/",
+    "title": "Попросил Claude починить прокрутку в Linux под UTM — получил демон, окно настроек и находку в libinput / Хабр",
+    "date": "2026-10-29T05:04:39.842+06:00",
+    "og:title": "Попросил Claude починить прокрутку в Linux под UTM — получил демон, окно настроек и находку в libinput",
+    "og:image": "https://habr.com/share/publication/1100706/98c30aacae06c7ebba2abfd5704cefef/",
+    "og:description": "Плавная прокрутка в&nbsp;Linux под&nbsp;UTM: темп щелчков и пол‑щелчка, которые libinput прячет в&nbsp;начале каждого жеста Если вы запускали Linux в UTM на&nbsp;маке, то знаете эту боль: проводишь...",
+    "og:url": "https://habr.com/ru/articles/1100706/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100716/",
+    "title": "«Залипший» сентябрь: как флагман Honor Magic6 Pro и «умный» сканер Сбера едва не загнали меня в долг по ЖКХ / Хабр",
+    "date": "2026-10-29T05:04:39.68+06:00",
+    "og:title": "«Залипший» сентябрь: как флагман Honor Magic6 Pro и «умный» сканер Сбера едва не загнали меня в долг по ЖКХ",
+    "og:image": "https://habr.com/share/publication/1100716/0c7278c744bd12610e6166bf787fe3a6/",
+    "og:description": "Эта история о&nbsp;том, как&nbsp;избыточная мощность современного смартфона, помноженная на&nbsp;особенности кэширования мобильного приложения, может создать идеальный плавающий баг (race condition)...",
+    "og:url": "https://habr.com/ru/articles/1100716/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100718/",
+    "title": "Системное программирование на C++: процессы, C-API и WinAPI / Хабр",
+    "date": "2026-10-29T05:04:39.626+06:00",
+    "og:title": "Системное программирование на C++: процессы, C-API и WinAPI",
+    "og:image": "https://habr.com/share/publication/1100718/c8e743f490e055fd5d3fb9bfcdc98e25/",
+    "og:description": "Привет, Хабр! Это вторая статья цикла про C++. В первой я разбирал базу для тех, кто начинает с нуля: переменные, циклы, классы, контейнеры. Здесь идём на уровень ниже — как обычная C+±программа...",
+    "og:url": "https://habr.com/ru/articles/1100718/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100732/",
+    "title": "Пять месяцев приручал GoClaw. В итоге плюнул и написал свою систему / Хабр",
+    "date": "2026-10-29T05:00:42.428+06:00",
+    "og:title": "Пять месяцев приручал GoClaw. В итоге плюнул и написал свою систему",
+    "og:image": "https://habr.com/share/publication/1100732/ca3d97be2d71bb180b0e6d7b2adc5667/",
+    "og:description": "Или&nbsp;о том, почему десять пользователей иногда полезнее тысячи звёзд на&nbsp;GitHub. Начну с&nbsp;моей принципиальной позиции&nbsp;— за&nbsp;локальные харнесы надо отрубать руки на&nbsp;уровне...",
+    "og:url": "https://habr.com/ru/articles/1100732/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100740/",
+    "title": "Как я укрощал кипящий MacBook Pro 2017 на Intel: замена термопасты, настройка Chrome, свой контроллер Turbo Boost / Хабр",
+    "date": "2026-10-29T05:02:50.018+06:00",
+    "og:title": "Как я укрощал кипящий MacBook Pro 2017 на Intel: замена термопасты, настройка Chrome, свой контроллер Turbo Boost",
+    "og:image": "https://habr.com/share/publication/1100740/2af3d448bef7b457921986e505581345/",
+    "og:description": "Если у&nbsp;вас всё ещё живёт MacBook Pro 2016–2020&nbsp;годов на&nbsp;процессоре Intel, вам наверняка знакома эта картина: вы открываете обычный фильм или&nbsp;ролик на&nbsp;YouTube в&nbsp;Google...",
+    "og:url": "https://habr.com/ru/articles/1100740/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100744/",
+    "title": "Как две строки GLSL едва не свели меня с ума / Хабр",
+    "date": "2026-10-29T05:02:49.971+06:00",
+    "og:title": "Как две строки GLSL едва не свели меня с ума",
+    "og:image": "https://habr.com/share/publication/1100744/823a0ee5f3e5ad6d1749c8978e501ba7/",
+    "og:description": "Недавно столкнулся с&nbsp;весьма неприятным багом в&nbsp;движке The Great Tribes . После обновления драйвера AMD игра начала намертво зависать при&nbsp;перемещении камеры, особенно когда на&nbsp;карте...",
+    "og:url": "https://habr.com/ru/articles/1100744/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100752/",
+    "title": "Ускоряем self-hosted Convex в два раза: AOT-компиляция TypeScript-функций в Wasm / Хабр",
+    "date": "2026-10-29T05:02:49.955+06:00",
+    "og:title": "Ускоряем self-hosted Convex в два раза: AOT-компиляция TypeScript-функций в Wasm",
+    "og:image": "https://habr.com/share/publication/1100752/f1356e2028f31b3eff9d576eb8a846b7/",
+    "og:description": "Обзор Convex – это новый, но набирающий популярность фреймворк для реактивных веб-приложений, который позволяет писать транзакционные квери (queries) и мутации (mutations) на TypeScript с гарантиями...",
+    "og:url": "https://habr.com/ru/articles/1100752/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100776/",
+    "title": "Купил морскую спутниковую антенну примерно за €200 и убедил её, что она на яхте / Хабр",
+    "date": "2026-10-29T05:02:49.916+06:00",
+    "og:title": "Купил морскую спутниковую антенну примерно за €200 и убедил её, что она на яхте",
+    "og:image": "https://habr.com/share/publication/1100776/6556ce5cd42fcf96d92be87c5e426f0a/",
+    "og:description": "В 2024 году я насмотрелся роликов ютубера saveitforparts и заинтересовался автоматическими спутниковыми антеннами. В Нидерландах такие обычно продают в виде компактных офсетных тарелок на...",
+    "og:url": "https://habr.com/ru/articles/1100776/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100782/",
+    "title": "13 релизов за неделю: OpenShift, алерты, фильтры и первые внешние контрибьюторы Sextant / Хабр",
+    "date": "2026-10-29T05:02:49.486+06:00",
+    "og:title": "13 релизов за неделю: OpenShift, алерты, фильтры и первые внешние контрибьюторы Sextant",
+    "og:image": "https://habr.com/share/publication/1100782/fc14dc3e5cf847261727e808e906174b/",
+    "og:description": "В прошлой статье про&nbsp;Sextant в&nbsp;конце стоял роадмап на&nbsp;четыре версии: 0.20&nbsp;— Ingress и события, 0.21&nbsp;— GitOps‑действия и политики, 0.22&nbsp;— мощности и Cluster API,...",
+    "og:url": "https://habr.com/ru/articles/1100782/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100788/",
+    "title": "«6 − 2 = 3»: как мы проверяем кодом задания, которые пишет языковая модель / Хабр",
+    "date": "2026-10-29T05:02:49.866+06:00",
+    "og:title": "«6 − 2 = 3»: как мы проверяем кодом задания, которые пишет языковая модель",
+    "og:image": "https://habr.com/share/publication/1100788/3fa9666d20713d5286ac237258538438/",
+    "og:description": "Мы делаем учебную игру: человек пишет цель своими словами («таблица умножения», «дроби за 5 класс», «английский для поездки»), а игра строит под неё путь из локаций. В каждой локации — порция из пяти...",
+    "og:url": "https://habr.com/ru/articles/1100788/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100796/",
+    "title": "KassiOS: слой в стиле Kaspresso поверх XCUITest, проверенный на сломанном банке / Хабр",
+    "date": "2026-10-29T05:00:41.486+06:00",
+    "og:title": "KassiOS: слой в стиле Kaspresso поверх XCUITest, проверенный на сломанном банке",
+    "og:image": "https://habr.com/share/publication/1100796/1f91b1732363e4a2d6109dea58b8192b/",
+    "og:description": "Я занимаюсь автоматизацией мобильного тестирования, в основном на Appium. Когда решил наконец нормально разобраться в нативных UI-тестах под iOS, выбор был очевиден — XCUITest . Это фреймворк от самой...",
+    "og:url": "https://habr.com/ru/articles/1100796/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100800/",
+    "title": "Пишем свою мобильную ОС с нуля на Rust. Часть 4: GUI, SQLite и DOOM / Хабр",
+    "date": "2026-10-29T05:00:42.095+06:00",
+    "og:title": "Пишем свою мобильную ОС с нуля на Rust. Часть 4: GUI, SQLite и DOOM",
+    "og:image": "https://habr.com/share/publication/1100800/d30c99d1584730bfe2f72b878bec19b6/",
+    "og:description": "Прошёл год с&nbsp;момента выхода первой части . Тогда нам удалось вывести изображение на&nbsp;экран настоящего телефона. Это была проверка того, что&nbsp;идея в&nbsp;принципе реализуема. Дальше...",
+    "og:url": "https://habr.com/ru/articles/1100800/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100804/",
+    "title": "Подозрительные процессы в Linux: как найти неизвестную службу, сетевое соединение и автозапуск / Хабр",
+    "date": "2026-10-29T05:00:42.542+06:00",
+    "og:title": "Подозрительные процессы в Linux: как найти неизвестную службу, сетевое соединение и автозапуск",
+    "og:image": "https://habr.com/share/publication/1100804/48b4cb2c75fbe0ac9db9bc1300fbf255/",
+    "og:description": "— Практическое руководство для&nbsp;начинающих специалистов Blue Team: проверяем процессы, службы systemd, сетевые соединения и задания cron без&nbsp;установки дополнительных инструментов. Представим...",
+    "og:url": "https://habr.com/ru/articles/1100804/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100806/",
+    "title": "Дежурство недели: еженедельный рейтинг на Flask и SQLite без крона / Хабр",
+    "date": "2026-10-29T05:00:42.515+06:00",
+    "og:title": "Дежурство недели: еженедельный рейтинг на Flask и SQLite без крона",
+    "og:image": "https://habr.com/share/publication/1100806/332cfacb6cae89605504afc71d1b4ab2/",
+    "og:description": "В&nbsp;прошлых статьях я рассказывал, как&nbsp;устроен мой тренажёр инцидентов, и разбирал кейс с 502&nbsp;Bad Gateway. За&nbsp;это время я релизнул два новых режима: «дежурство недели» и публичный...",
+    "og:url": "https://habr.com/ru/articles/1100806/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100816/",
+    "title": "ПаровоJSик: как мы не нашли тренажер для JS/TS‑собеседований на русском и сделали свой / Хабр",
+    "date": "2026-10-29T05:00:41.54+06:00",
+    "og:title": "ПаровоJSик: как мы не нашли тренажер для JS/TS‑собеседований на русском и сделали свой",
+    "og:image": "https://habr.com/share/publication/1100816/0abb949e39088a547223da31a27f7437/",
+    "og:description": "Предыстория: откуда взялась идея Нас двое. Один из&nbsp;нас недавно искал работу и ходил по&nbsp;собеседованиям. Второй сам собеседует кандидатов и раз за&nbsp;разом видит одну картину, люди...",
+    "og:url": "https://habr.com/ru/articles/1100816/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100818/",
+    "title": "Сборка личного домашнего сервера под фото/видео с удалённым доступом: Ubuntu Server + Immich / Хабр",
+    "date": "2026-10-29T05:00:42.262+06:00",
+    "og:title": "Сборка личного домашнего сервера под фото/видео с удалённым доступом: Ubuntu Server + Immich",
+    "og:image": "https://habr.com/share/publication/1100818/fe8f4d5a26b742b0a0166f4fce6f5c9a/",
+    "og:description": "Личный опыт · NAS Автор: 27&nbsp;октября 2026&nbsp;· 8&nbsp;мин чтения Содержание Почему не&nbsp;готовые решения? Самая важная часть: резервные копии Начнём с&nbsp;железа HDD и где брать Операционная...",
+    "og:url": "https://habr.com/ru/articles/1100818/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100832/",
+    "title": "Давай отлаживать по TCP / Хабр",
+    "date": "2026-10-29T05:00:42.24+06:00",
+    "og:title": "Давай отлаживать по TCP",
+    "og:image": "https://habr.com/share/publication/1100832/02f71ed24c113caf900e193478157a0b/",
+    "og:description": "Чтобы остановиться на одной строке, пришлось пройти чужое рукопожатие Когда в моей Среде разработки К дошла очередь до отладчика, выбирать пришлось из двух вариантов. По HTTP, через сервер отладки,...",
+    "og:url": "https://habr.com/ru/articles/1100832/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100842/",
+    "title": "Настройщица пианино и Мечник по имени Райдэн: как я нашла в Telegram игру, которая звучит чисто / Хабр",
+    "date": "2026-10-29T05:00:42.067+06:00",
+    "og:title": "Настройщица пианино и Мечник по имени Райдэн: как я нашла в Telegram игру, которая звучит чисто",
+    "og:image": "https://habr.com/share/publication/1100842/d38a73d317e29c0bfcd9454cf1c42a4f/",
+    "og:description": "У меня в сумке всегда лежат три вещи: стальной камертон на «ля», ключ для вирбелей и войлочные клинья. Двадцать с лишним лет я езжу по городу и привожу в порядок чужие пианино. Утром старенький...",
+    "og:url": "https://habr.com/ru/articles/1100842/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100844/",
+    "title": "ymcp, или как подружить агентов с YouTrack, если ты не админ / Хабр",
+    "date": "2026-10-29T05:00:41.684+06:00",
+    "og:title": "ymcp, или как подружить агентов с YouTrack, если ты не админ",
+    "og:image": "https://habr.com/share/publication/1100844/8d30c2152558b10805bbd8b46993412c/",
+    "og:description": "ymcp, или&nbsp;как&nbsp;подружить агентов с&nbsp;YouTrack, если ты не&nbsp;админ Всё началось с&nbsp;того, что&nbsp;я в&nbsp;очередной раз копировал описание задачи из&nbsp;YouTrack в&nbsp;Claude...",
+    "og:url": "https://habr.com/ru/articles/1100844/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100854/",
+    "title": "Как я устал от VPN‑клиентов на 300 МБ ОЗУ и написал свой TUN‑клиент на чистом Rust (Unbihex) / Хабр",
+    "date": "2026-10-29T05:00:42.686+06:00",
+    "og:title": "Как я устал от VPN‑клиентов на 300 МБ ОЗУ и написал свой TUN‑клиент на чистом Rust (Unbihex)",
+    "og:image": "https://habr.com/share/publication/1100854/7f4426e4a52d9b9ff43a84063eb1b40c/",
+    "og:description": "Всем привет! Последние пару лет экосистема обхода блокировок развивалась по&nbsp;принципу «больше фич&nbsp;— жирнее обертка». Большинство популярных десктопных и мобильных клиентов сегодня&nbsp;— это...",
+    "og:url": "https://habr.com/ru/articles/1100854/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100858/",
+    "title": "Каждый таксист теперь может попробовать поуправлять крупной корпорацией / Хабр",
+    "date": "2026-10-29T05:00:42.798+06:00",
+    "og:title": "Каждый таксист теперь может попробовать поуправлять крупной корпорацией",
+    "og:image": "https://habr.com/share/publication/1100858/0e4e68518499760be71b20178797a64d/",
+    "og:description": "Меня зовут Максим Никитин, я фаундер небольшой, но&nbsp;гордой студии ITSalt. 23&nbsp;сентября я поставил Claude ИИ‑Директором корпорации из&nbsp;чужих ИИ‑агентов с&nbsp;публичной доски...",
+    "og:url": "https://habr.com/ru/articles/1100858/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100860/",
+    "title": "Бесплатное ПО, пять лет разработки и немного наглости. Как я пытаюсь попасть в реестр российского ПО / Хабр",
+    "date": "2026-10-29T05:00:42.762+06:00",
+    "og:title": "Бесплатное ПО, пять лет разработки и немного наглости. Как я пытаюсь попасть в реестр российского ПО",
+    "og:image": "https://habr.com/share/publication/1100860/37962b4d23ca6b10a37d9e5df9e3084d/",
+    "og:description": "Привет, Хабр! Я Артур Валиев. Разработчик, предприниматель из&nbsp;небольшого села в&nbsp;Ставропольском крае и человек, который однажды решил, что&nbsp;написать собственный удалённый рабочий...",
+    "og:url": "https://habr.com/ru/articles/1100860/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100864/",
+    "title": "Как я улучшил управление окнами в macOS / Хабр",
+    "date": "2026-10-29T05:00:42.707+06:00",
+    "og:title": "Как я улучшил управление окнами в macOS",
+    "og:image": "https://habr.com/share/publication/1100864/bf43e6d870b13c7376ae53e287af930b/",
+    "og:description": "Написал приложение, которое добавляет в&nbsp;macOS две функции: Открытие приложений сочетанием клавиш, например&nbsp; ⌥-1 &nbsp;для&nbsp;Chrome,&nbsp; ⌥-2 &nbsp;для&nbsp;Slack; Открытие проектов...",
+    "og:url": "https://habr.com/ru/articles/1100864/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100872/",
+    "title": "Как генератор трёх слов на баннере вырос в веб-сервис: Ghostscript, CMYK и производственные грабли / Хабр",
+    "date": "2026-10-29T05:00:42.672+06:00",
+    "og:title": "Как генератор трёх слов на баннере вырос в веб-сервис: Ghostscript, CMYK и производственные грабли",
+    "og:image": "https://habr.com/share/publication/1100872/545d498f9be180817922934517f65fb9/",
+    "og:description": "Привет, Хабр! Я графический дизайнер на фрилансе. За полноценный макет — бренд-волл, сложную афишу, баннер с графикой и фотомонтажом — средний ценник начинается от 1 500–3 000 рублей. И это оправдано:...",
+    "og:url": "https://habr.com/ru/articles/1100872/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100892/",
+    "title": "Данные для языка, которого почти нет в интернете: текстовые слои, турецкие подмены и псевдоразметка двумя моделями / Хабр",
+    "date": "2026-10-29T05:00:42.651+06:00",
+    "og:title": "Данные для языка, которого почти нет в интернете: текстовые слои, турецкие подмены и псевдоразметка двумя моделями",
+    "og:image": "https://habr.com/share/publication/1100892/2e9fdfb2dbb62135dc4c3d3e4e3ebc27/",
+    "og:description": "Фильтрация данных для корпуса В первой статье серии я писал, что у крымскотатарского не было ни одного датасета, пригодного для серьёзной работы, и что начинал я с существующего речевого набора,...",
+    "og:url": "https://habr.com/ru/articles/1100892/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100900/",
+    "title": "Я дообучил маленькую нейросеть на MacBook, и она стала хуже. Честные цифры / Хабр",
+    "date": "2026-10-29T05:00:42.623+06:00",
+    "og:title": "Я дообучил маленькую нейросеть на MacBook, и она стала хуже. Честные цифры",
+    "og:image": "https://habr.com/share/publication/1100900/a3513859a5270d5728a3978156114082/",
+    "og:description": "В прошлой статье я рассказывал, как прикручивал Ollama к Lumi — это мой лаунчер в духе Spotlight, который умеет отвечать на вопросы без интернета. В конце я пообещал дообучить самую маленькую модель,...",
+    "og:url": "https://habr.com/ru/articles/1100900/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100908/",
+    "title": "GPT-6 Astra восстанавливает Electron-приложение: результаты и расходы через OpenAI, OpenRouter и TeamoRouter / Хабр",
+    "date": "2026-10-29T05:02:49.389+06:00",
+    "og:title": "GPT-6 Astra восстанавливает Electron-приложение: результаты и расходы через OpenAI, OpenRouter и TeamoRouter",
+    "og:image": "https://habr.com/share/publication/1100908/d2978f69574bac16fd9d70a0ab42436f/",
+    "og:description": "Восстановление Electron-приложения через OpenAI, OpenRouter и TeamoRouter В предыдущей статье я сравнивал SVG с пеликаном и фламинго, полученные через несколько API-сервисов. В комментариях заметили,...",
+    "og:url": "https://habr.com/ru/articles/1100908/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100910/",
+    "title": "Архитектура 1С для новичков: Строим первую внешнюю обработку и клиент-серверный мост. Часть вторая / Хабр",
+    "date": "2026-10-29T05:02:49.326+06:00",
+    "og:title": "Архитектура 1С для новичков: Строим первую внешнюю обработку и клиент-серверный мост. Часть вторая",
+    "og:image": "https://habr.com/share/publication/1100910/b23a31ab4be4bc41fe3c47cebccf931c/",
+    "og:description": "В первой части мы разобрались, почему сервер 1С «слеп» к файлам на вашем диске C: , и подготовили поле ввода для пути к файлу. Пользователь нажал на заветные три точки ... и выбрал документ. Путь к...",
+    "og:url": "https://habr.com/ru/articles/1100910/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100912/",
+    "title": "Байты приходят, события нет: проверяем кадры SSE и gzip / Хабр",
+    "date": "2026-10-29T05:18:28.285+06:00",
+    "og:title": "Байты приходят, события нет: проверяем кадры SSE и gzip",
+    "og:image": "https://habr.com/share/publication/1100912/ac41a11eb1b44c8a7d4562f346de514f/",
+    "og:description": "Сервер отправляет по SSE три коротких сообщения с паузой в четверть секунды, а обработчик на клиенте срабатывает только в конце: либо три раза подряд, либо один раз со всеми данными сразу. Логи...",
+    "og:url": "https://habr.com/ru/articles/1100912/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100918/",
+    "title": "Чёрный октябрь уязвимостей: что задело мой сервер, как я закрыл дыры и почему ушёл на статику без инлайн-скриптов / Хабр",
+    "date": "2026-10-29T05:02:49.299+06:00",
+    "og:title": "Чёрный октябрь уязвимостей: что задело мой сервер, как я закрыл дыры и почему ушёл на статику без инлайн-скриптов",
+    "og:image": "https://habr.com/share/publication/1100918/2195a0761a30acc471b3d757bca437ad/",
+    "og:description": "У меня круглосуточно работают агенты мониторинга: программы, которые по кругу собирают данные по моим проектам, в том числе бюллетени безопасности, и сверяют их с тем, что стоит на серверах. На...",
+    "og:url": "https://habr.com/ru/articles/1100918/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1100928/",
+    "title": "Эра AI-Driven Zero-Day: как уязвимость PHP2Shell навсегда изменила DevSecOps и кибербезопасность / Хабр",
+    "date": "2026-10-29T05:24:21.534+06:00",
+    "og:title": "Эра AI-Driven Zero-Day: как уязвимость PHP2Shell навсегда изменила DevSecOps и кибербезопасность",
+    "og:image": "https://habr.com/share/publication/1100928/bf32c6089ddc41fa1ec756374ef2cd4b/",
+    "og:description": "Прошла неделя с «чёрной среды» 21 октября, когда европейские правительства экстренно гасили свои веб-сервисы из-за критического RCE в ядре PHP (CVE-2026-109618 / 19). Первая волна паники и ночных...",
+    "og:url": "https://habr.com/ru/articles/1100928/",
     "og:type": "article"
   },
   {
@@ -51525,6 +52339,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/aurorium/articles/1100530/",
+    "title": "«Черный октябрь», рои боевых агентов, ИИ‑апокалипсис, или Как натянуть сову на глобус в информационном пространстве / Хабр",
+    "date": "2026-10-29T05:07:33.961+06:00",
+    "og:title": "«Черный октябрь», рои боевых агентов, ИИ‑апокалипсис, или Как натянуть сову на глобус в информационном пространстве",
+    "og:image": "https://habr.com/share/publication/1100530/545ff0aae253d04e57d794ca58615825/",
+    "og:description": "Я подписан на&nbsp;несколько телеграм‑каналов, которые периодически публикуют различные новости, касающиеся в&nbsp;том числе и информационной безопасности, а&nbsp;также являюсь участником нескольких...",
+    "og:url": "https://habr.com/ru/companies/aurorium/articles/1100530/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/autocod/articles/1097296/",
     "title": "NKT: Илон Маск, мы тоже научили контейнеры летать / Хабр",
     "date": "2026-10-22T02:52:22.098+06:00",
@@ -51554,6 +52379,17 @@
     "og:image": "https://habr.com/share/publication/1100150/7f73d64130f9d6eea9db9ab40a0bdbbe/",
     "og:description": "Каждый, кто поднимает свой Kubernetes‑кластер, рано или&nbsp;поздно упирается в&nbsp;вопрос: где хранить Docker‑образы? Вариантов вроде&nbsp;бы немного, но&nbsp;каждый со своими граблями: Docker...",
     "og:url": "https://habr.com/ru/companies/autocod/articles/1100150/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/autocod/articles/1100668/",
+    "title": "NKT: Киллер фича № 8, плагины / Хабр",
+    "date": "2026-10-29T05:04:39.972+06:00",
+    "og:title": "NKT: Киллер фича № 8, плагины",
+    "og:image": "https://habr.com/share/publication/1100668/a6a59dc8d6aa915aeb8bed81f9f1427a/",
+    "og:description": "Ядро знает, что&nbsp;спросить. Плагин знает, как&nbsp;сделать Речь в&nbsp;статье идет о NKT предыдущие статьи: NKT , Скрипты . В 1978&nbsp;году Макилрой сформулировал принцип, который определил...",
+    "og:url": "https://habr.com/ru/companies/autocod/articles/1100668/",
     "og:type": "article"
   },
   {
@@ -51818,6 +52654,17 @@
     "og:image": "https://habr.com/share/publication/1090912/5336767ee4c1ad2fb145260d3f630728/",
     "og:description": "Всем привет! Меня зовут Костя, я QA-инженер в Банки.ру.&nbsp;Общение с агентом у меня давно стало обыденным делом. И в какой-то момент я заметил, что работа тестировщика превратилась в ежедневное...",
     "og:url": "https://habr.com/ru/companies/banki/articles/1090912/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/banki/articles/1094594/",
+    "title": "«Лучше пять раз переспросить, чем один раз выдумать» — я посадил ИИ‑ассистента отвечать коллегам в рабочем мессенджере / Хабр",
+    "date": "2026-10-29T05:10:45.686+06:00",
+    "og:title": "«Лучше пять раз переспросить, чем один раз выдумать» — я посадил ИИ‑ассистента отвечать коллегам в рабочем мессенджере",
+    "og:image": "https://habr.com/share/publication/1094594/73c337122d151c231c3d0455a4e221cb/",
+    "og:description": "Всем привет! Меня зовут Александр, я руковожу направлением аналитики страховой вертикали в&nbsp;Банки.ру. Наша вертикаль живёт в&nbsp;отчётах и данных: продажи ОСАГО и КАСКО, ипотечное страхование,...",
+    "og:url": "https://habr.com/ru/companies/banki/articles/1094594/",
     "og:type": "article"
   },
   {
@@ -52240,6 +53087,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/bhv_publishing/articles/1100680/",
+    "title": "Новинка «Высокопроизводительный Go. Руководство по оптимизации» / Хабр",
+    "date": "2026-10-29T05:04:40.04+06:00",
+    "og:title": "Новинка «Высокопроизводительный Go. Руководство по оптимизации»",
+    "og:image": "https://habr.com/share/publication/1100680/77afe6b5b0b0d94011ef9da22d41aabb/",
+    "og:description": "Привет, Хабр! Сегодня мы рады представить вам нашу очередную новинку, которая украсит полку профессионального бэкенд‑разработчика: « Высокопроизводительный Go. Руководство по&nbsp;оптимизации ». Она...",
+    "og:url": "https://habr.com/ru/companies/bhv_publishing/articles/1100680/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/bitrix/articles/1088608/",
     "title": "Эксперименты с Радиантом: память агента против окна в миллион токенов / Хабр",
     "date": "2026-10-01T09:32:03.255+06:00",
@@ -52570,6 +53428,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/bothub/articles/1100786/",
+    "title": "О мышах и людях: проверяем нейросеть на ложных предпосылках / Хабр",
+    "date": "2026-10-29T05:02:49.892+06:00",
+    "og:title": "О мышах и людях: проверяем нейросеть на ложных предпосылках",
+    "og:image": "https://habr.com/share/publication/1100786/264a8a264978f760dea42aab26b7835c/",
+    "og:description": "Нейросети частенько винят в&nbsp;излишней фантазии, но&nbsp;сам пользователь своим промтом может тоже спровоцировать глюк. Например, если я попрошу «Расскажи, почему все летучие мыши слепы», то...",
+    "og:url": "https://habr.com/ru/companies/bothub/articles/1100786/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/bothub/news/1088960/",
     "title": "FTC начала расследование против OpenAI, Anthropic и METR из‑за рисков ИИ‑агентов / Хабр",
     "date": "2026-10-02T02:49:35.989+06:00",
@@ -52577,6 +53446,17 @@
     "og:image": "https://habr.com/share/publication/1088960/e149003c5b452cea890b4a302abfa12f/",
     "og:description": "Федеральная торговая комиссия США (FTC) начала расследование в&nbsp;отношении OpenAI, Anthropic, исследовательской организации METR и других разработчиков ИИ. Регулятор хочет выяснить, какие риски их...",
     "og:url": "https://habr.com/ru/companies/bothub/news/1088960/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/bothub/news/1100802/",
+    "title": "Вышла Gemini 4 Carbon: поиск уязвимостей, кодинг и работа несколько дней подряд / Хабр",
+    "date": "2026-10-29T05:00:42.447+06:00",
+    "og:title": "Вышла Gemini 4 Carbon: поиск уязвимостей, кодинг и работа несколько дней подряд",
+    "og:image": "https://habr.com/share/publication/1100802/81c733cd046dee570e0192444a3b4b80/",
+    "og:description": "Google DeepMind представила Gemini 4 Carbon — новую флагманскую модель с упором на кибербезопасность, программирование и длительные агентные задачи. По заявлению компании, Carbon получила 59 баллов в...",
+    "og:url": "https://habr.com/ru/companies/bothub/news/1100802/",
     "og:type": "article"
   },
   {
@@ -52995,6 +53875,17 @@
     "og:image": "https://habr.com/share/publication/1098590/8c6c3cc7807fc531d7e3d7529f6683cd/",
     "og:description": "Дайджест: новости за сентябрь и октябрь 2026 Рассказываем, какие изменения произошли на платформах Cloud.ru за последние два месяца, и чем это может быть полезно. 🧠 AI Factory Evolution Distributed...",
     "og:url": "https://habr.com/ru/companies/cloud_ru/posts/1098590/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/cloud_ru/posts/1100726/",
+    "title": "Пост @Editor_cloud_ru — Блог компании Cloud.ru — 28.10 21:05 / Хабр",
+    "date": "2026-10-29T05:02:49.663+06:00",
+    "og:title": "Пост @Editor_cloud_ru — Блог компании Cloud.ru  — 28.10 21:05",
+    "og:image": "https://habr.com/share/publication/1100726/88bec1632036bac227af59980da74f19/",
+    "og:description": "Обсудили побеги ИИ-агентов и безопасность с сооснователем HiveTrace На подкаст к нашему директору департамента стратегического развития ИИ-продуктов Диме Юдину заглянул&nbsp;Евгений Кокуйкин —...",
+    "og:url": "https://habr.com/ru/companies/cloud_ru/posts/1100726/",
     "og:type": "article"
   },
   {
@@ -53692,6 +54583,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/directum/articles/1100684/",
+    "title": "Первые 30 минут руководителя проекта, или как обнаружить проблемы до того, как они сорвут сроки / Хабр",
+    "date": "2026-10-29T05:04:40.008+06:00",
+    "og:title": "Первые 30 минут руководителя проекта, или как обнаружить проблемы до того, как они сорвут сроки",
+    "og:image": "https://habr.com/share/publication/1100684/f842b9568d2f466e3abe35b88072c58a/",
+    "og:description": "Утренние часы можно использовать для&nbsp;дел, которым постоянно мешает повседневная суета. Об&nbsp;этом пишет американская писательница Лаура Вандеркам в&nbsp;книге «Что самые успешные люди делают...",
+    "og:url": "https://habr.com/ru/companies/directum/articles/1100684/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/docdoc/articles/1090366/",
     "title": "Рыбалка — лучший спорт для айтишника / Хабр",
     "date": "2026-10-06T02:47:04.65+06:00",
@@ -53699,6 +54601,17 @@
     "og:image": "https://habr.com/share/publication/1090366/3317213ed9dce0e4452bd1a513e04a8b/",
     "og:description": "(да, я серьёзно, и нет, это не про сидеть с ведром опарышей, смешанных с кукурузой. Фидеристы, извините!) Введение, и что я за тип Меня зовут Илья. Я лид фронтенда медицинской компании СберЗдоровье....",
     "og:url": "https://habr.com/ru/companies/docdoc/articles/1090366/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/docdoc/articles/1097882/",
+    "title": "Кэширование: 5 неочевидных истин для системного аналитика / Хабр",
+    "date": "2026-10-29T05:00:42.567+06:00",
+    "og:title": "Кэширование: 5 неочевидных истин для системного аналитика",
+    "og:image": "https://habr.com/share/publication/1097882/c3bb524d81a061ef436e1225d60aabde/",
+    "og:description": "Привет, Хабр. Меня зовут&nbsp;Любовь Вайгель.&nbsp;Я&nbsp;системный аналитик&nbsp;в&nbsp;СберЗдоровье — MedTech-компании&nbsp; №1 &nbsp;в России. Во многих сценариях, сталкиваясь со снижением скорости...",
+    "og:url": "https://habr.com/ru/companies/docdoc/articles/1097882/",
     "og:type": "article"
   },
   {
@@ -53721,6 +54634,17 @@
     "og:image": "https://habr.com/share/publication/1097476/511f31827b05cbf7d70e4f1fe0919d55/",
     "og:description": "4 сентября 2026 года Cursor отменил мою подписку Pro. Подписку отменили почти всем в нашей компании. Вот что было в письме: We detected recent activity associated with your Cursor account from a...",
     "og:url": "https://habr.com/ru/companies/domate/articles/1097476/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/domate/articles/1100550/",
+    "title": "Что стоит проверить перед внедрением ИИ‑агента в корпоративную среду / Хабр",
+    "date": "2026-10-29T05:04:39.912+06:00",
+    "og:title": "Что стоит проверить перед внедрением ИИ‑агента в корпоративную среду",
+    "og:image": "https://habr.com/share/publication/1100550/8849a0367fa9ec3a7e4c2f00e1a6b229/",
+    "og:description": "В&nbsp;новостных лентах слово «инцидент» всё чаще стоит рядом со словом «агент». Так, например, все прекрасно помнят нашумевшую в&nbsp;апреле новость о&nbsp;том, как&nbsp;ИИ‑агент в&nbsp;Cursor удалил...",
+    "og:url": "https://habr.com/ru/companies/domate/articles/1100550/",
     "og:type": "article"
   },
   {
@@ -54189,7 +55113,7 @@
     "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/first/articles/1100426/",
     "title": "Ghostty 1.4: терминал ускоряется, экономит память и учится быть осторожнее / Хабр",
-    "date": "2026-10-28T08:40:42.995+06:00",
+    "date": "2026-10-29T05:10:45.531+06:00",
     "og:title": "Ghostty 1.4: терминал ускоряется, экономит память и учится быть осторожнее",
     "og:image": "https://habr.com/share/publication/1100426/5be3106016b2948584a1c2bb2699db9d/",
     "og:description": "27 октября 2026 года Митчелл Хашимото выпустил эмулятор терминала с GPU-ускорением — Ghostty 1.4.0 . За релизом стоят семь месяцев работы, 172 контрибьютера и 2889 коммитов. В тестах команды на macOS...",
@@ -55001,6 +55925,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/habr_evotor/articles/1100586/",
+    "title": "ТОП-10 платёжных терминалов в 2026 году: какой терминал эквайринга выбрать / Хабр",
+    "date": "2026-10-29T05:07:34.213+06:00",
+    "og:title": "ТОП-10 платёжных терминалов в 2026 году: какой терминал эквайринга выбрать",
+    "og:image": "https://habr.com/share/publication/1100586/ad30bb3c9e70a6e927fa615392213299/",
+    "og:description": "Кофейня с&nbsp;обслуживанием за&nbsp;столиками, магазин у&nbsp;дома, сеть киосков или&nbsp;выездная торговля&nbsp;— у&nbsp;каждого бизнеса свои требования к&nbsp;платёжным терминалам. Кому‑то важно,...",
+    "og:url": "https://habr.com/ru/companies/habr_evotor/articles/1100586/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/habr_moneta/articles/1091260/",
     "title": "Ошибочная блокировка на ТСПУ: как системному администратору решить проблему совместно с регулятором / Хабр",
     "date": "2026-10-09T05:11:48.373+06:00",
@@ -55052,6 +55987,17 @@
     "og:image": "https://habr.com/share/publication/1088860/82b5e2a1d18ec8aaa5c2914005c91be5/",
     "og:description": "Разговор со схемой процесса Всем привет! На связи инженерная команда компании “Хоулмонт”. Мы занимаемся развитием российской платформы OpenBPM. Это так называемый bpm-движок и набор профессиональных...",
     "og:url": "https://habr.com/ru/companies/haulmont/articles/1088860/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/haulmont/articles/1100552/",
+    "title": "Выпущена версия Jmix 3.1 / Хабр",
+    "date": "2026-10-29T05:10:45.848+06:00",
+    "og:title": "Выпущена версия Jmix 3.1",
+    "og:image": "https://habr.com/share/publication/1100552/398d8b525ad11b630fc0b71465f4435a/",
+    "og:description": "Обзор новых функций и важных изменений релиза Jmix 3.1. Выпущен Jmix 3.1. В&nbsp;нём представлены два новых дополнения и несколько UI‑компонентов, которые раньше приходилось создавать вручную. Кроме...",
+    "og:url": "https://habr.com/ru/companies/haulmont/articles/1100552/",
     "og:type": "article"
   },
   {
@@ -55129,6 +56075,17 @@
     "og:image": "https://habr.com/share/publication/1098714/4b3da1aba85db99a304a154c55419450/",
     "og:description": "Методология Twelve-Factor App, разработанная Адамом Виггинсом, описывает подход к созданию приложений в формате «программного обеспечения как услуги» (software as a service, SaaS). Разберём все...",
     "og:url": "https://habr.com/ru/companies/hexlet/articles/1098714/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/hexlet/articles/1100762/",
+    "title": "Дядя Боб написал правила для ИИ‑агентов: разбираем ub‑mode / Хабр",
+    "date": "2026-10-29T05:02:49.936+06:00",
+    "og:title": "Дядя Боб написал правила для ИИ‑агентов: разбираем ub‑mode",
+    "og:image": "https://habr.com/share/publication/1100762/e055832b560b0f80f9d650417e5a6b31/",
+    "og:description": "Автор «Чистого кода» Роберт Мартин aka Дядя Боб взялся за&nbsp;ИИ‑агентов. В&nbsp;скилле ub‑mode, который Дядя Боб на&nbsp;днях выложил на&nbsp;GitHub, всего около 750&nbsp;слов. Этими словами Мартин...",
+    "og:url": "https://habr.com/ru/companies/hexlet/articles/1100762/",
     "og:type": "article"
   },
   {
@@ -55485,6 +56442,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/infostart/articles/1100500/",
+    "title": "Личный бренд ИТ‑специалиста в 26/27: стоит ли заморачиваться? / Хабр",
+    "date": "2026-10-29T05:04:40.12+06:00",
+    "og:title": "Личный бренд ИТ‑специалиста в 26/27: стоит ли заморачиваться?",
+    "og:image": "https://habr.com/share/publication/1100500/802d45c5039a444fdcb06e227391df1d/",
+    "og:description": "Аналитики, разработчики, менеджеры и все остальные профессии в&nbsp;ИТ стараются удержаться на&nbsp;плаву. С&nbsp;одной стороны экономическая ситуация, с&nbsp;другой&nbsp;— на&nbsp;пятки наступает ИИ....",
+    "og:url": "https://habr.com/ru/companies/infostart/articles/1100500/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/infotecs_tech/news/1093806/",
     "title": "Митап по безопасной разработке: говорим о реальных угрозах / Хабр",
     "date": "2026-10-14T03:29:35.296+06:00",
@@ -55628,6 +56596,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/ispsystem/posts/1100654/",
+    "title": "Пост @omyhosts — Блог компании ISPsystem — 28.10 19:16 / Хабр",
+    "date": "2026-10-29T05:04:40.198+06:00",
+    "og:title": "Пост @omyhosts — Блог компании ISPsystem  — 28.10 19:16",
+    "og:image": "https://habr.com/share/publication/1100654/5598d8189672849544ee9eb7e2780853/",
+    "og:description": "VMmanager — в числе лидеров по масштабу внедрений по версии CNews Проект ISPsystem на базе VMmanager занял второе место в рейтинге «Топ-6 внедрений российских платформ виртуализации» от CNews CNews...",
+    "og:url": "https://habr.com/ru/companies/ispsystem/posts/1100654/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/it_sense/articles/1096286/",
     "title": "Боты‑рекрутеры, ATS и автофильтры: можно ли сегодня добраться до живого человека / Хабр",
     "date": "2026-10-20T06:43:19.017+06:00",
@@ -55745,6 +56724,17 @@
     "og:image": "https://habr.com/share/publication/1099682/35c6a9d72a03db2cb7336636ba89065e/",
     "og:description": "Сегодня в ТОП-5 —&nbsp; PHP2Shell: RCE-уязвимости в PHP, критическая уязвимость в GitLab допускает неаутентифицированный RCE, атакующие захватили более 300 Tor exit-нод для перехвата SSH-подключений,...",
     "og:url": "https://habr.com/ru/companies/jetinfosystems/news/1099682/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/jetinfosystems/news/1100686/",
+    "title": "Сетевое оборудование под нагрузкой: митап в Москве / Хабр",
+    "date": "2026-10-29T05:02:49.814+06:00",
+    "og:title": "Сетевое оборудование под нагрузкой: митап в Москве",
+    "og:image": "https://habr.com/share/publication/1100686/1e21f43a9d65519ef545b2ae2d3e8da3/",
+    "og:description": "На митапе Network Scream в Москве эксперты «Инфосистемы Джет» мы представят результаты тестирования отечественного сетевого оборудования. Эксперты «Инфосистемы&nbsp;Джет»&nbsp;провели независимое...",
+    "og:url": "https://habr.com/ru/companies/jetinfosystems/news/1100686/",
     "og:type": "article"
   },
   {
@@ -56860,6 +57850,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/naumen/news/1100448/",
+    "title": "Вакансии, которых в Naumen нет / Хабр",
+    "date": "2026-10-29T05:10:45.613+06:00",
+    "og:title": "Вакансии, которых в Naumen нет",
+    "og:image": "https://habr.com/share/publication/1100448/8a67cc261ed7df58f7eb329351cf2107/",
+    "og:description": "Случаи мошенничества при&nbsp;поиске работы встречаются все чаще. Мошенники представляются сотрудниками компаний, подробно описывают условия работы и присылают ссылки на&nbsp;официальные сайты....",
+    "og:url": "https://habr.com/ru/companies/naumen/news/1100448/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/naumen/posts/1096352/",
     "title": "Пост @blognaumen — Блог компании NAUMEN — 19.10 20:59 / Хабр",
     "date": "2026-10-20T06:35:37.854+06:00",
@@ -56900,6 +57901,17 @@
     "og:image": "https://habr.com/share/publication/1077578/3e1799b88598460c37575968749df05e/",
     "og:description": "Представьте: два часа ночи, вы деплоите фикс, а сервис не поднимается: Address already in use . Гуглите, находите PID, kill -9 . Это помогает. Но утром ошибка повторяется на том же порту. Тут и...",
     "og:url": "https://habr.com/ru/companies/netologyru/articles/1077578/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/netologyru/articles/1084558/",
+    "title": "DevSecOps для тех, кто не безопасник: как встроить SAST, SCA и поиск секретов в CI/CD / Хабр",
+    "date": "2026-10-29T05:04:40.187+06:00",
+    "og:title": "DevSecOps для тех, кто не безопасник: как встроить SAST, SCA и поиск секретов в CI/CD",
+    "og:image": "https://habr.com/share/publication/1084558/2d7c5b3f6d8016460d7b2c6f4911fb15/",
+    "og:description": "Типичная сцена из&nbsp;жизни команды разработки: тимлиду или&nbsp;DevOps‑инженеру прилетает задача от&nbsp;руководства&nbsp;— «нужно прикрутить безопасность к&nbsp;пайплайну». Вы не&nbsp;безопасник,...",
+    "og:url": "https://habr.com/ru/companies/netologyru/articles/1084558/",
     "og:type": "article"
   },
   {
@@ -57608,6 +58620,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/otus/articles/1088900/",
+    "title": "Где Runtime Async в.NET 11 экономит память, а где нет / Хабр",
+    "date": "2026-10-29T05:04:39.627+06:00",
+    "og:title": "Где Runtime Async в.NET 11 экономит память, а где нет",
+    "og:image": "https://habr.com/share/publication/1088900/4b7d19600d4b77cf1bc53dd8fa588be1/",
+    "og:description": "Всем привет, меня зовут Сергей Прощаев, я Tech Lead и руководитель направления Java | Kotlin разработки в&nbsp;FinTech &amp; E‑commerce и преподаю на&nbsp;курсах разработки и архитектуры в&nbsp;ОТУС....",
+    "og:url": "https://habr.com/ru/companies/otus/articles/1088900/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/otus/articles/1089640/",
     "title": "Чтобы понять Kubernetes, я написал свой Kubernetes / Хабр",
     "date": "2026-10-04T14:04:26.928+06:00",
@@ -57872,6 +58895,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/otus/articles/1095784/",
+    "title": "От языка к действию: как устроены агентные ИИ‑системы / Хабр",
+    "date": "2026-10-29T05:00:41.657+06:00",
+    "og:title": "От языка к действию: как устроены агентные ИИ‑системы",
+    "og:image": "https://habr.com/share/publication/1095784/ea2f16ebb4c4d67d3f14903cdabd1c5c/",
+    "og:description": "Привет, Хабр! Меня зовут Андрей Бирюков. Я&nbsp;— независимый эксперт в&nbsp;области ИТ и ИБ, преподаю в&nbsp;учебных центрах и пишу статьи и книги. Получившие широкое распространение в&nbsp;последние...",
+    "og:url": "https://habr.com/ru/companies/otus/articles/1095784/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/otus/articles/1096470/",
     "title": "crm.item.list заблокирован, а портал работает: откуда в Битрикс24 берётся 429 OPERATION_TIME_LIMIT / Хабр",
     "date": "2026-10-23T08:41:31.115+06:00",
@@ -57983,11 +59017,11 @@
   {
     "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/otus/articles/1100252/",
-    "title": "От высокой нагрузки до восстановления LVM: 14 бесплатных вебинаров для инфраструктурных инженеров / Хабр",
-    "date": "2026-10-28T09:44:51.721+06:00",
-    "og:title": "От высокой нагрузки до восстановления LVM: 14 бесплатных вебинаров для инфраструктурных инженеров",
-    "og:image": "https://habr.com/share/publication/1100252/0fbebd98c50035420e653781b4cb03f2/",
-    "og:description": "Сервис отвечает с задержкой, очередной деплой требует ручного вмешательства, а мониторинг пропускает подозрительную активность? За такими проблемами могут стоять особенности сетевых протоколов,...",
+    "title": "От высокой нагрузки до восстановления LVM: 14 бесплатных вебинаров для инфраструктурных инженеров / Хабр",
+    "date": "2026-10-29T05:07:34.092+06:00",
+    "og:title": "От высокой нагрузки до восстановления LVM: 14 бесплатных вебинаров для инфраструктурных инженеров",
+    "og:image": "https://habr.com/share/publication/1100252/92c82251213fd132684b0a8e1f6f2a49/",
+    "og:description": "Сервис отвечает с&nbsp;задержкой, очередной деплой требует ручного вмешательства, а&nbsp;мониторинг пропускает подозрительную активность? За&nbsp;такими проблемами могут стоять особенности сетевых...",
     "og:url": "https://habr.com/ru/companies/otus/articles/1100252/",
     "og:type": "article"
   },
@@ -58077,6 +59111,17 @@
     "og:image": "https://habr.com/share/publication/1097666/ab680cd5b13752e214300f296ff686f1/",
     "og:description": "21 октября команда Node.js выпустила обновления безопасности для веток 22.x, 24.x и 26.x. Разработчики закрыли десять уязвимостей, четыре из которых получили высокий уровень опасности. Среди наиболее...",
     "og:url": "https://habr.com/ru/companies/otus/news/1097666/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/otus/news/1100652/",
+    "title": "Claude нашёл 62 уязвимости в Chrome и собрал цепочки атак на Safari, Android, Windows и Linux / Хабр",
+    "date": "2026-10-29T05:04:40.22+06:00",
+    "og:title": "Claude нашёл 62 уязвимости в Chrome и собрал цепочки атак на Safari, Android, Windows и Linux",
+    "og:image": "https://habr.com/share/publication/1100652/c852ec24b63f168b75977eedad2e97ad/",
+    "og:description": "Команда Anthropic рассказала , как с помощью Claude удалось обнаружить критические уязвимости в популярных браузерах и операционных системах. Причём дело не ограничилось поиском отдельных ошибок:...",
+    "og:url": "https://habr.com/ru/companies/otus/news/1100652/",
     "og:type": "article"
   },
   {
@@ -58209,6 +59254,17 @@
     "og:image": "https://habr.com/share/publication/1094882/e91547a761a3a44a0d332c185573695a/",
     "og:description": "Представьте, что сейчас 2023 год и готовых AI-агентов ещё нет. Есть только обычная LLM, которая умеет продолжать текст. Что нужно к ней добавить, чтобы она смогла читать файлы, искать информацию,...",
     "og:url": "https://habr.com/ru/companies/ozontech/articles/1094882/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/ozontech/articles/1099534/",
+    "title": "Как мы незаметно перемещаем десятки петабайт данных внутри S3 / Хабр",
+    "date": "2026-10-29T05:07:34.392+06:00",
+    "og:title": "Как мы незаметно перемещаем десятки петабайт данных внутри S3",
+    "og:image": "https://habr.com/share/publication/1099534/e7911e1fdaf9b18b95c1a79e4488b02d/",
+    "og:description": "Всем привет! Меня зовут Никита, я старший разработчик в&nbsp;команде Storage. Мы в&nbsp;Ozon делаем собственное S3-совместимое хранилище, которое уже хранит 130&nbsp;PB данных. Какое‑то время назад мы...",
+    "og:url": "https://habr.com/ru/companies/ozontech/articles/1099534/",
     "og:type": "article"
   },
   {
@@ -58484,6 +59540,17 @@
     "og:image": "https://habr.com/share/publication/1097862/21f787911b92a1cb141e2172922c7166/",
     "og:description": "В базе интернет-магазина заказы текущего месяца и история продаж за несколько лет могут храниться на одних накопителях. При этом требования к ним различаются: новые заказы постоянно обновляются и...",
     "og:url": "https://habr.com/ru/companies/postgrespro/articles/1097862/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/postgrespro/articles/1097886/",
+    "title": "Книга «PostgreSQL 18. Оптимизация запросов»: основы работы планировщика в компактном формате / Хабр",
+    "date": "2026-10-29T05:02:49.717+06:00",
+    "og:title": "Книга «PostgreSQL 18. Оптимизация запросов»: основы работы планировщика в компактном формате",
+    "og:image": "https://habr.com/share/publication/1097886/23c8adf6674043f99741b9aa20d82496/",
+    "og:description": "Компания Postgres Professional представляет книгу «PostgreSQL 18. Оптимизация запросов». Это введение в&nbsp;работу планировщика PostgreSQL. В&nbsp;книге рассказано о&nbsp;методах доступа...",
+    "og:url": "https://habr.com/ru/companies/postgrespro/articles/1097886/",
     "og:type": "article"
   },
   {
@@ -58862,6 +59929,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/pt/news/1100478/",
+    "title": "РЕД СОФТ устранила 75 уязвимостей благодаря белым хакерам на Standoff Bug Bounty / Хабр",
+    "date": "2026-10-29T05:10:45.299+06:00",
+    "og:title": "РЕД СОФТ устранила 75 уязвимостей благодаря белым хакерам на Standoff Bug Bounty",
+    "og:image": "https://habr.com/share/publication/1100478/30e6969e83808847f115c7f2ec56df2f/",
+    "og:description": "Компания РЕД СОФТ подвела итоги первого этапа программы поиска уязвимостей на площадке Standoff Bug Bounty. Компания исправила 75 уязвимостей и выплатила независимым исследователям безопасности более...",
+    "og:url": "https://habr.com/ru/companies/pt/news/1100478/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/pt/posts/1096648/",
     "title": "Пост @ptsecurity — Блог компании Positive Technologies — 20.10 15:27 / Хабр",
     "date": "2026-10-22T03:08:25.953+06:00",
@@ -59122,6 +60200,17 @@
     "og:image": "https://habr.com/share/publication/1088140/eb3a6bd86ad4c995016c88e71313631a/",
     "og:description": "Привет, Хабр! Меня зовут Никита Ивкин, я — ведущий DevOps-инженер РТЛабс, работаю с инфраструктурой Госуслуг. Сегодня я покажу один из наших реальных сценариев: как мы разворачиваем ClickHouse через...",
     "og:url": "https://habr.com/ru/companies/rtlabs/articles/1088140/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/rtlabs/articles/1100622/",
+    "title": "Карьерный рост аналитика: что сделать, чтобы перейти на следующую ступень и что изменится с приходом ИИ / Хабр",
+    "date": "2026-10-29T05:02:49.988+06:00",
+    "og:title": "Карьерный рост аналитика: что сделать, чтобы перейти на следующую ступень и что изменится с приходом ИИ",
+    "og:image": "https://habr.com/share/publication/1100622/f3d547efd47cea1aca01644e0ce3bfde/",
+    "og:description": "Привет, Хабр! На&nbsp;связи Анна Куделина&nbsp;— заместитель технического директора РТЛабс по&nbsp;аналитике. Пять лет назад я написала статью, как&nbsp;подготовиться к&nbsp;собеседованию...",
+    "og:url": "https://habr.com/ru/companies/rtlabs/articles/1100622/",
     "og:type": "article"
   },
   {
@@ -59676,6 +60765,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/ru_mts/articles/1100164/",
+    "title": "Могут ли языковые модели чувствовать боль: обзор популярного исследования / Хабр",
+    "date": "2026-10-29T05:06:39.523+06:00",
+    "og:title": "Могут ли языковые модели чувствовать боль: обзор популярного исследования",
+    "og:image": "https://habr.com/share/publication/1100164/1edb3998ec91627d5bdfc4883a145dc3/",
+    "og:description": "Представьте, что&nbsp;вы купили робота‑пылесоса. Он исправно убирает квартиру, объезжает препятствия и по&nbsp;команде возвращается на&nbsp;зарядную станцию. Однажды вы решаете покопаться в&nbsp;его...",
+    "og:url": "https://habr.com/ru/companies/ru_mts/articles/1100164/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/ru_mts/posts/1094904/",
     "title": "Пост @ademchuk — Блог компании МТС — 15.10 21:28 / Хабр",
     "date": "2026-10-16T03:20:15.742+06:00",
@@ -59925,6 +61025,17 @@
     "og:image": "https://habr.com/share/publication/1100102/35f2365291cc01272d7c42c8bbf40dbf/",
     "og:description": "Вредоносные боты: как отличить автоматический трафик от атаки Боты могут парсить контент, подбирать пароли, накручивать активность и перегружать инфраструктуру. При этом автоматический трафик не...",
     "og:url": "https://habr.com/ru/companies/runity/posts/1100102/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/runity/posts/1100638/",
+    "title": "Пост @runity — Блог компании Рунити — 28.10 19:05 / Хабр",
+    "date": "2026-10-29T05:04:40.268+06:00",
+    "og:title": "Пост @runity — Блог компании Рунити  — 28.10 19:05",
+    "og:image": "https://habr.com/share/publication/1100638/24fafeb2b64d91bc7767d014fb295a53/",
+    "og:description": "DLP-система для бизнеса: как выбрать, настроить и внедрить Сотрудник отправил договор на личную почту, загрузил исходный код в сторонний ИИ-сервис или скопировал клиентскую базу на флешку. Как...",
+    "og:url": "https://habr.com/ru/companies/runity/posts/1100638/",
     "og:type": "article"
   },
   {
@@ -60629,6 +61740,17 @@
     "og:image": "https://habr.com/share/publication/1099662/ed8bb35a67a1de7b860fa3968a48a7fc/",
     "og:description": "Под конец 2025 года мой iPhone 11 стал всеми силами показывать, как ему тяжело в современных реалиях, когда приложения повышают свои системные требования, а сама обновлённая iOS на старых девайсах...",
     "og:url": "https://habr.com/ru/companies/ruvds/articles/1099662/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/ruvds/articles/1099884/",
+    "title": "Мы могли бы изобрести трансформеры из памяти / Хабр",
+    "date": "2026-10-29T05:06:39.984+06:00",
+    "og:title": "Мы могли бы изобрести трансформеры из памяти",
+    "og:image": "https://habr.com/share/publication/1099884/ea86287ecb08d2deeb64bdfa336c820e/",
+    "og:description": "Извлечение символа из&nbsp;памяти. Извлечение ухудшается с&nbsp;ростом количества воспоминаний. Современные языковые модели могут запоминать нишевые факты из&nbsp;всех уголков мира. Недавно я...",
+    "og:url": "https://habr.com/ru/companies/ruvds/articles/1099884/",
     "og:type": "article"
   },
   {
@@ -61755,6 +62877,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/selectel/news/1100544/",
+    "title": "NVIDIA тихо скорректировала спецификации Vera Rubin / Хабр",
+    "date": "2026-10-29T05:02:49.69+06:00",
+    "og:title": "NVIDIA тихо скорректировала спецификации Vera Rubin",
+    "og:image": "https://habr.com/share/publication/1100544/e1322ccf79202872a265187d352ea618/",
+    "og:description": "NVIDIA без публичных анонсов обновила официальные спецификации платформы Vera Rubin. Корректировка затронула пропускную способность стеков памяти HBM4 и интерфейса NVLink шестого поколения, в то время...",
+    "og:url": "https://habr.com/ru/companies/selectel/news/1100544/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/servermall/articles/1088952/",
     "title": "Самый подробный обзор AMD FSR (1-3): он лучше NVIDIA DLSS — и вот почему / Хабр",
     "date": "2026-10-02T02:49:42.144+06:00",
@@ -61894,6 +63027,17 @@
     "og:image": "https://habr.com/share/publication/1097942/655467e8fd7629e4a2a7502033306a1c/",
     "og:description": "В&nbsp;октябре пострадали три площадки одного из&nbsp;крупнейших российских провайдеров: на&nbsp;первой после пожара остановились все системы, на&nbsp;второй несколько модулей вышли из&nbsp;строя...",
     "og:url": "https://habr.com/ru/companies/simpleone/articles/1097942/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/simpleone/articles/1100520/",
+    "title": "Облако ляжет снова. Что вы успеете настроить до этого, а что уже нет / Хабр",
+    "date": "2026-10-29T05:07:34.37+06:00",
+    "og:title": "Облако ляжет снова. Что вы успеете настроить до этого, а что уже нет",
+    "og:image": "https://habr.com/share/publication/1100520/6a8e80611c48f34cf92dd81b8a82a6d9/",
+    "og:description": "Понедельник, 9:12. В&nbsp;чате поддержки сорок сообщений про&nbsp;четыре разные системы: у&nbsp;одних не&nbsp;открывается почта, у&nbsp;других не&nbsp;грузится CRM, бухгалтерия пишет, что «1С...",
+    "og:url": "https://habr.com/ru/companies/simpleone/articles/1100520/",
     "og:type": "article"
   },
   {
@@ -62169,6 +63313,17 @@
     "og:image": "https://habr.com/share/publication/1098228/044eeeac6b6bcb433ba0a891b28af3f1/",
     "og:description": "Геморрой редко становится темой разговора с коллегами или друзьями. Даже если появляется дискомфорт, на туалетной бумаге остаются следы крови, а поход в туалет сопровождается болью, многие...",
     "og:url": "https://habr.com/ru/companies/smclinic/articles/1098228/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/smclinic/articles/1100656/",
+    "title": "Колено подвело: два случая из практики травматолога‑ортопеда / Хабр",
+    "date": "2026-10-29T05:06:39.871+06:00",
+    "og:title": "Колено подвело: два случая из практики травматолога‑ортопеда",
+    "og:image": "https://habr.com/share/publication/1100656/fd14c170e6966b1d2d39bf2dda7daeaf/",
+    "og:description": "Заниматься спортом, несомненно, увлекательно и крайне полезно. Но&nbsp;здесь есть свои нюансы. Даже если вы на&nbsp;обычной тренировке в&nbsp;зале, можно легко заработать травму колена, достаточно...",
+    "og:url": "https://habr.com/ru/companies/smclinic/articles/1100656/",
     "og:type": "article"
   },
   {
@@ -62701,6 +63856,28 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/speshu_ai/articles/1100602/",
+    "title": "Две лаборатории против одной гипотезы: что происходит вокруг ETH / Хабр",
+    "date": "2026-10-29T05:06:39.106+06:00",
+    "og:title": "Две лаборатории против одной гипотезы: что происходит вокруг ETH",
+    "og:image": "https://habr.com/share/publication/1100602/44772fd4c3dd5ce88146803e8315f868/",
+    "og:description": "OpenAI и Anthropic сообщили, что&nbsp;их исследовательские модели нашли алгоритмы, опровергающие гипотезу экспоненциального времени&nbsp;— ETH. На&nbsp;этом предположении построены многочисленные...",
+    "og:url": "https://habr.com/ru/companies/speshu_ai/articles/1100602/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/speshu_ai/articles/1100710/",
+    "title": "Web search/fetch API нейросетей для бизнеса: что это, какие ошибки возникают и как подключить с оплатой в рублях / Хабр",
+    "date": "2026-10-29T05:04:39.805+06:00",
+    "og:title": "Web search/fetch API нейросетей для бизнеса: что это, какие ошибки возникают и как подключить с оплатой в рублях",
+    "og:image": "https://habr.com/share/publication/1100710/ef85f0bc79a437bda3f97698a2b45c6b/",
+    "og:description": "Страница документации размером всего 100&nbsp;КБ обходится языковой модели примерно в 25 000&nbsp;токенов. Такую оценку Anthropic приводит в&nbsp;описании своего инструмента web fetch,...",
+    "og:url": "https://habr.com/ru/companies/speshu_ai/articles/1100710/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/sportmaster_lab/articles/1078770/",
     "title": "Roaring Bitmap: как уместить базу данных в памяти приложения / Хабр",
     "date": "2026-10-08T03:13:57.112+06:00",
@@ -62807,6 +63984,17 @@
     "og:image": "https://habr.com/share/publication/1099408/f2580f063f23ba9c5d2fab24b9fec5fe/",
     "og:description": "Вступление Привет, Хабр! Меня зовут Михаил Поливаха, я Tech Lead проекта Axelix . Если Вы раньше про нас не слышали, то Axelix это платформа для управления и диагностики Spring Boot приложений. Ядро...",
     "og:url": "https://habr.com/ru/companies/spring_aio/articles/1099408/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/spring_aio/articles/1100616/",
+    "title": "SIGILL при старте: как AOT-кэш JDK уронил Axelix в Docker / Хабр",
+    "date": "2026-10-29T05:06:40.117+06:00",
+    "og:title": "SIGILL при старте: как AOT-кэш JDK уронил Axelix в Docker",
+    "og:image": "https://habr.com/share/publication/1100616/d646b295d62bbfed7b6c5ebee36a2531/",
+    "og:description": "Введение Представьте, что вы разворачиваете open source Java-приложение в Docker. Вы скачиваете образ, запускаете его, и ещё до первой строчки лога JVM падает вот с таким сообщением: # A fatal error...",
+    "og:url": "https://habr.com/ru/companies/spring_aio/articles/1100616/",
     "og:type": "article"
   },
   {
@@ -63016,6 +64204,17 @@
     "og:image": "https://habr.com/share/publication/1099430/330c9301f4890adb2d587243ee755649/",
     "og:description": "Что делать, когда по телевизору 2–3 центральных программы, в кино интересную картину привозят нечасто, до появления ПЭВМ еще долго, а журналы по типу «Юности» выходят раз в месяц? Tune in, tovaristch!...",
     "og:url": "https://habr.com/ru/companies/studyai/articles/1099430/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/studyai/articles/1099730/",
+    "title": "Странные олдскульные технологии, которые так и не взлетели, часть 6 / Хабр",
+    "date": "2026-10-29T05:10:45.891+06:00",
+    "og:title": "Странные олдскульные технологии, которые так и не взлетели, часть 6",
+    "og:image": "https://habr.com/share/publication/1099730/141390d1329fd548048aa0b31d1637df/",
+    "og:description": "Продолжаем обзор нелепых, странных и неудавшихся технологий, без&nbsp;которых картина мироздания была&nbsp;бы незаконченной. Sony NW‑HD1&nbsp;Audio Player Источник. В 2004&nbsp;году Sony вновь решила...",
+    "og:url": "https://habr.com/ru/companies/studyai/articles/1099730/",
     "og:type": "article"
   },
   {
@@ -63251,6 +64450,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/syntx_ai/articles/1100424/",
+    "title": "Как создать песню нейросетью: гайд по Suno v6, 6 советов и 6 стилей со словами и без / Хабр",
+    "date": "2026-10-29T05:07:34.413+06:00",
+    "og:title": "Как создать песню нейросетью: гайд по Suno v6, 6 советов и 6 стилей со словами и без",
+    "og:image": "https://habr.com/share/publication/1100424/1a0cfcaba1fb5b53a22cc90f8ec6b189/",
+    "og:description": "Создать песню нейросетью Suno можно, заполнив два основных поля: стиль и текст. В&nbsp;стиль пишется задание музыкантам, а&nbsp;в&nbsp;текст идут ваши стихи с&nbsp;метками куплетов и припевов....",
+    "og:url": "https://habr.com/ru/companies/syntx_ai/articles/1100424/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/T1Holding/articles/1086154/",
     "title": "Handbook frontend. Луковая архитектура. Часть 2 / Хабр",
     "date": "2026-10-07T03:03:28.726+06:00",
@@ -63456,6 +64666,17 @@
     "og:image": "https://habr.com/share/publication/1099426/7b629fdf758ff61e193a271948dbde01/",
     "og:description": "Привет! На связи Дмитрий Чепайкин, старший Angular-разработчик в команде Klecks — платформы для разметки данных AI Центра Т-Банка. Долгое время unit-тесты фронтенда у нас крутились на Karma + Jasmine....",
     "og:url": "https://habr.com/ru/companies/tbank/articles/1099426/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/tbank/articles/1100514/",
+    "title": "Потерянные ключи шифрования, или изучение атомарности в Cassandra / Хабр",
+    "date": "2026-10-29T05:07:34.239+06:00",
+    "og:title": "Потерянные ключи шифрования, или изучение атомарности в Cassandra",
+    "og:image": "https://habr.com/share/publication/1100514/f3b314c0e380b17a27079a7c975962a7/",
+    "og:description": "Привет, Хабр! На&nbsp;связи системный аналитик Илья Глазунов и разработчик Кирилл Дунаев. Мы работаем с&nbsp;платформой аналитического карточного хранилища Т‑Банка. Попутно открываем все новые грани...",
+    "og:url": "https://habr.com/ru/companies/tbank/articles/1100514/",
     "og:type": "article"
   },
   {
@@ -64120,6 +65341,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/ua-hosting/articles/1100600/",
+    "title": "Шаткое доверие: восприятие человеком «сознания» и «осознанности» ИИ / Хабр",
+    "date": "2026-10-29T05:06:39.58+06:00",
+    "og:title": "Шаткое доверие: восприятие человеком «сознания» и «осознанности» ИИ",
+    "og:image": "https://habr.com/share/publication/1100600/275aec23a8c6c15017998e55e784f8d2/",
+    "og:description": "В наши дни и шагу нельзя ступить, чтобы не врезаться в какой-то ИИ продукт. Смешные (по мнению некоторых) котики, делающие далеко не кошачьи вещи, бабульки-скейтбордистки и говорящий суповой набор —...",
+    "og:url": "https://habr.com/ru/companies/ua-hosting/articles/1100600/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/unn/articles/1097122/",
     "title": "«Универсальная вакцина защищает мышей от множества патогенов»: вымысел или надежда для будущих поколений / Хабр",
     "date": "2026-10-22T02:58:25.183+06:00",
@@ -64303,6 +65535,28 @@
     "og:image": "https://habr.com/share/publication/1099656/a39f52d423967c34b5871dfc52d7daab/",
     "og:description": "UserGate, ведущий российский разработчик решений в&nbsp;области кибербезопасности и&nbsp;архитектор сетевого доверия, представил версию 7.7.0 межсетевого экрана для защиты веб‑приложений UserGate WAF...",
     "og:url": "https://habr.com/ru/companies/usergate/news/1099656/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/usergate/news/1100596/",
+    "title": "UserGate открывает доступ к базе стратегических исследований рынка ИТ и ИБ / Хабр",
+    "date": "2026-10-29T05:06:39.823+06:00",
+    "og:title": "UserGate открывает доступ к базе стратегических исследований рынка ИТ и ИБ",
+    "og:image": "https://habr.com/share/publication/1100596/fd882acdf0052c9bbfd69ff0746eb611/",
+    "og:description": "UserGate, ведущий российский разработчик решений в&nbsp;области информационной безопасности и&nbsp;архитектор сетевого доверия, открывает бесплатный доступ к&nbsp;базе собственных аналитических...",
+    "og:url": "https://habr.com/ru/companies/usergate/news/1100596/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/usergate/news/1100662/",
+    "title": "UserGate подвёл первые итоги действия программы совместной технической поддержки / Хабр",
+    "date": "2026-10-29T05:04:40.187+06:00",
+    "og:title": "UserGate подвёл первые итоги действия программы совместной технической поддержки",
+    "og:image": "https://habr.com/share/publication/1100662/647cd5992ba06a7faf44045e3d8187a9/",
+    "og:description": "UserGate, ведущий российский разработчик решений в&nbsp;области информационной безопасности и&nbsp;архитектор сетевого доверия, подвёл первые итоги программы совместной технической поддержки,...",
+    "og:url": "https://habr.com/ru/companies/usergate/news/1100662/",
     "og:type": "article"
   },
   {
@@ -64549,6 +65803,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/vk/articles/1100246/",
+    "title": "Линейное внимание может больше / Хабр",
+    "date": "2026-10-29T05:06:39.296+06:00",
+    "og:title": "Линейное внимание может больше",
+    "og:image": "https://habr.com/share/publication/1100246/52d88b669877874ed814e66c13f2a11f/",
+    "og:description": "Привет, Хабр! Мы&nbsp;— студенты мастерской по&nbsp;сервисам и платформам ИИ Инженерно‑математической школы НИУ ВШЭ и VK: Павел Алексеев, Александр Рожкин, Андрей Аргаткин, Алексей Павлов и Матвей...",
+    "og:url": "https://habr.com/ru/companies/vk/articles/1100246/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/vk/articles/541058/",
     "title": "Несбывшиеся предсказания для 2020 года / Хабр",
     "date": "2026-10-16T06:59:33.632+06:00",
@@ -64743,6 +66008,17 @@
     "og:image": "https://habr.com/share/publication/1100008/4c8ecff2e6798717a88ed4cbf90376ab/",
     "og:description": "На связи Анна Астахова, коммерческий директор ИТ-интегратора «Белый код». Интеграционная платформа в крупной компании — это не проект, который однажды запустили и больше не трогают. Меняются учетные...",
     "og:url": "https://habr.com/ru/companies/w_code/articles/1100008/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/w_code/articles/1100558/",
+    "title": "Интеграция 1С через ESB: Digital Q.Integration — OData‑коннектор / Хабр",
+    "date": "2026-10-29T05:10:45.731+06:00",
+    "og:title": "Интеграция 1С через ESB: Digital Q.Integration — OData‑коннектор",
+    "og:image": "https://habr.com/share/publication/1100558/a92f713235909fe082d0ba60e53e8739/",
+    "og:description": "На&nbsp;связи Сергей Скирдин, технический директор ИТ‑интегратора «Белый код». Уже 2&nbsp;года я делаю подробные обзоры на&nbsp;продукты класса ESB. Появилась идея детально разобрать решения, которые...",
+    "og:url": "https://habr.com/ru/companies/w_code/articles/1100558/",
     "og:type": "article"
   },
   {
@@ -65139,6 +66415,17 @@
     "og:image": "https://habr.com/share/publication/1091636/85e810bef78f51c96c476c1c81cebace/",
     "og:description": "Мы в Яндекс Рекламе регулярно проводим исследования рынка и анализируем обратную связь от специалистов. Сейчас много обсуждают нейросети — и возникает ощущение, что ИИ в рекламе появился недавно, на...",
     "og:url": "https://habr.com/ru/companies/yandex_ads/articles/1091636/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/yandex_ads/articles/1100210/",
+    "title": "Юнит‑экономика рекламного канала: как через CPA, ROMI и LTV понять, что реклама окупается / Хабр",
+    "date": "2026-10-29T05:10:45.915+06:00",
+    "og:title": "Юнит‑экономика рекламного канала: как через CPA, ROMI и LTV понять, что реклама окупается",
+    "og:image": "https://habr.com/share/publication/1100210/4718dca8477f83b0546e400d894efd04/",
+    "og:description": "У&nbsp;рекламной кампании может быть отличный результат: например, после её старта снизилась стоимость лида, выросла конверсия и выполнен план по&nbsp;заявкам. Но&nbsp;это показатели, которые мало...",
+    "og:url": "https://habr.com/ru/companies/yandex_ads/articles/1100210/",
     "og:type": "article"
   },
   {
@@ -68201,6 +69488,127 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/news/1100492/",
+    "title": "В «Яндексе» восстановили доступ к 96% данных клиентов «Яндекс Диска» / Хабр",
+    "date": "2026-10-29T05:07:34.139+06:00",
+    "og:title": "В «Яндексе» восстановили доступ к 96% данных клиентов «Яндекс Диска»",
+    "og:image": "https://habr.com/share/publication/1100492/5921da308807978b2255c52de6a40912/",
+    "og:description": "В «Яндексе» сообщили , что&nbsp;инженеры компании восстановили доступ к 96% данных клиентов «Яндекс Диска»&nbsp;— документам, фотографиям, аудио‑ и&nbsp;видеозаписям и&nbsp;другим...",
+    "og:url": "https://habr.com/ru/news/1100492/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/news/1100506/",
+    "title": "Forbes: Минцифры обсуждает введение лимита на зарубежный интернет‑трафик россиян / Хабр",
+    "date": "2026-10-29T05:07:34.084+06:00",
+    "og:title": "Forbes: Минцифры обсуждает введение лимита на зарубежный интернет‑трафик россиян",
+    "og:image": "https://habr.com/share/publication/1100506/9dff1273053b9d00bf1cb5b97c03e2cf/",
+    "og:description": "Законопроект по&nbsp;реформе телекоммуникационной отрасли могут дополнить ещё несколькими инициативами, напрямую не&nbsp;связанными с&nbsp;назначением документа, пишет Forbes со ссылкой...",
+    "og:url": "https://habr.com/ru/news/1100506/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/news/1100524/",
+    "title": "«Т‑Банк»: мошенники придумали схему обмана россиян с помощью команды *#62# / Хабр",
+    "date": "2026-10-29T05:07:33.997+06:00",
+    "og:title": "«Т‑Банк»: мошенники придумали схему обмана россиян с помощью команды *#62#",
+    "og:image": "https://habr.com/share/publication/1100524/94a4c3ed7203435fe07c6a21b5f5162a/",
+    "og:description": "Мошенники используют системный код *#62#, чтобы убедить людей, что&nbsp;их телефон «прослушивается», и заставить отдать сбережения. О&nbsp;новой схеме РБК сообщили в «Т‑Банке». По&nbsp;данным банка,...",
+    "og:url": "https://habr.com/ru/news/1100524/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/news/1100560/",
+    "title": "Роскомнадзор внёс Apple и Microsoft в реестр организаторов распространения информации / Хабр",
+    "date": "2026-10-29T05:07:33.845+06:00",
+    "og:title": "Роскомнадзор внёс Apple и Microsoft в реестр организаторов распространения информации",
+    "og:image": "https://habr.com/share/publication/1100560/d812c221ce9780192dadf8efc69e568c/",
+    "og:description": "Роскомнадзор 2&nbsp;октября 2026&nbsp;года включил Apple и Microsoft в&nbsp; реестр &nbsp;организаторов распространения информации (ОРИ), обратил внимание Telegram‑канал&nbsp;Tech Talk. ОРИ&nbsp;—...",
+    "og:url": "https://habr.com/ru/news/1100560/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/news/1100640/",
+    "title": "Китайские учёные поставили рекорд скорости передачи данных по оптоволокну — 3,2 Пбит/с / Хабр",
+    "date": "2026-10-29T05:04:40.251+06:00",
+    "og:title": "Китайские учёные поставили рекорд скорости передачи данных по оптоволокну — 3,2 Пбит/с",
+    "og:image": "https://habr.com/share/publication/1100640/492b848c1ba0bac3b01a9ec371d6bb86/",
+    "og:description": "Китайские учёные поставили мировой рекорд скорости передачи данных по 24-жильному оптоволоконному кабелю&nbsp;— 3,2&nbsp;петабита в&nbsp;секунду. Это эквивалентно загрузке более 20 000&nbsp;фильмов...",
+    "og:url": "https://habr.com/ru/news/1100640/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/news/1100672/",
+    "title": "В следующем месяце Microsoft свернёт поддержку SharePoint Server в мобильных приложениях / Хабр",
+    "date": "2026-10-29T05:04:40.149+06:00",
+    "og:title": "В следующем месяце Microsoft свернёт поддержку SharePoint Server в мобильных приложениях",
+    "og:image": "https://habr.com/share/publication/1100672/cc23df6efe3ddd4642f256d5fa0f78a2/",
+    "og:description": "Microsoft объявила о&nbsp;прекращении поддержки SharePoint Server в&nbsp;мобильных приложениях для&nbsp;iOS и Android с 27&nbsp;ноября 2026&nbsp;года. После этой даты приложения будут работать только...",
+    "og:url": "https://habr.com/ru/news/1100672/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/news/1100682/",
+    "title": "В Microsoft Teams появится поддержка сторонних инструментов для обнаружения дипфейков / Хабр",
+    "date": "2026-10-29T05:02:49.784+06:00",
+    "og:title": "В Microsoft Teams появится поддержка сторонних инструментов для обнаружения дипфейков",
+    "og:image": "https://habr.com/share/publication/1100682/6dfae3c67fec7e56635a0f786a7cb8a7/",
+    "og:description": "Microsoft Teams позволит организациям подключать сторонние инструменты для&nbsp;анализа аудио‑ и видеопотоков на&nbsp;предмет наличия дипфейков. Внедрение функции начнётся в&nbsp;середине ноября...",
+    "og:url": "https://habr.com/ru/news/1100682/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/news/1100728/",
+    "title": "Представлен проект YAM (Y Application Manager) — неофициальный менеджер пакетов для «Яндекс Станций» через ADB-доступ / Хабр",
+    "date": "2026-10-29T05:02:49.614+06:00",
+    "og:title": "Представлен проект YAM (Y Application Manager) — неофициальный менеджер пакетов для «Яндекс Станций» через ADB-доступ",
+    "og:image": "https://habr.com/share/publication/1100728/b2dfbc5d96c9735889556c8aa9b6baf7/",
+    "og:description": "Разработчик под&nbsp;ником nyakokitsu представил открытый проект YAM (Y Application Manager).&nbsp;Это сторонний и неофициальный менеджер пакетов для «Яндекс Станций». Решение позволяет (после...",
+    "og:url": "https://habr.com/ru/news/1100728/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/news/1100746/",
+    "title": "OpenAI: две аварии с Azure Cosmos DB. Зато чтение Habitat ускорили в 12 раз / Хабр",
+    "date": "2026-10-29T05:02:49.567+06:00",
+    "og:title": "OpenAI: две аварии с Azure Cosmos DB. Зато чтение Habitat ускорили в 12 раз",
+    "og:image": "https://habr.com/share/publication/1100746/e9d8aa99021394380c9260294c8cca27/",
+    "og:description": "23 октября OpenAI сообщила, что глобальная медиана задержки чтения в Habitat сократилась со 120 до 10 мс. Habitat — сервис хранения данных для ChatGPT, Codex и других продуктов компании. Но в том же...",
+    "og:url": "https://habr.com/ru/news/1100746/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/news/1100760/",
+    "title": "В приложении Microsoft Authenticator для Android появится поддержка passkeys / Хабр",
+    "date": "2026-10-29T05:02:49.53+06:00",
+    "og:title": "В приложении Microsoft Authenticator для Android появится поддержка passkeys",
+    "og:image": "https://habr.com/share/publication/1100760/d92dbb64febd740b68e8d4f45e963e2a/",
+    "og:description": "В&nbsp;середине января 2027&nbsp;года Microsoft выпустит обновление для&nbsp;приложения Authenticator на&nbsp;Android. Оно улучшит работу функции резервного копирования и добавит поддержку passkeys....",
+    "og:url": "https://habr.com/ru/news/1100760/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/news/1100774/",
+    "title": "Хакеры взломали правительственные системы Молдовы и смогли похитить информацию трети населения страны / Хабр",
+    "date": "2026-10-29T05:02:49.436+06:00",
+    "og:title": "Хакеры взломали правительственные системы Молдовы и смогли похитить информацию трети населения страны",
+    "og:image": "https://habr.com/share/publication/1100774/0454bbf07b27e6e9cca3fb9148b936e5/",
+    "og:description": "В&nbsp;Молдове произошла масштабная утечка данных: злоумышленникам удалось похитить личные данные 750 000&nbsp;человек, это около трети населения страны (2,35&nbsp;млн человек). Кроме того, из‑за...",
+    "og:url": "https://habr.com/ru/news/1100774/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/posts/1088462/",
     "title": "Пост @itcaat — Git — 30.09 15:33 / Хабр",
     "date": "2026-10-01T03:28:57.103+06:00",
@@ -68802,6 +70210,39 @@
     "og:image": "https://habr.com/share/publication/1100418/b09571726a0002aa7adec87ffa1bac9d/",
     "og:description": "Скрипт выполняется восемь минут, а запускается каждые пять. Второй экземпляр уже работает Представим домашний сервер: каждые пять минут cron запускает Python-скрипт, который собирает данные. Обычно он...",
     "og:url": "https://habr.com/ru/posts/1100418/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/posts/1100446/",
+    "title": "Пост @solizarevich — Системное администрирование — 28.10 14:23 / Хабр",
+    "date": "2026-10-29T05:10:45.575+06:00",
+    "og:title": "Пост @solizarevich — Системное администрирование  — 28.10 14:23",
+    "og:image": "https://habr.com/share/publication/1100446/1e0f4c345ee1c1be28864adcdb79f68f/",
+    "og:description": "CK-X — симулятор экзаменов по Kubernetes Если готовитесь к сертификации CKA, CKAD или CKS? На GitHub есть интересный проект CK-X , который позволяет тренироваться в условиях, приближенных к реальному...",
+    "og:url": "https://habr.com/ru/posts/1100446/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/posts/1100534/",
+    "title": "Пост @kuriokenshi — Настройка Linux — 28.10 15:56 / Хабр",
+    "date": "2026-10-29T05:07:33.923+06:00",
+    "og:title": "Пост @kuriokenshi — Настройка Linux  — 28.10 15:56",
+    "og:image": "https://habr.com/share/publication/1100534/3cbf152df585a9b98405806b19db99bf/",
+    "og:description": "История Linux на русском – от студенческого проекта Торвальдса до устройства современной системы. В репозитории linux-history собран большой иллюстрированный README со схемами, практическими командами...",
+    "og:url": "https://habr.com/ru/posts/1100534/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/posts/1100926/",
+    "title": "Пост @denis-19 — Веб-разработка — 29.10 10:43 / Хабр",
+    "date": "2026-10-29T05:18:28.224+06:00",
+    "og:title": "Пост @denis-19 — Веб-разработка  — 29.10 10:43",
+    "og:image": "https://habr.com/share/publication/1100926/5c0ecc65155d14e3a1db1dc87353c249/",
+    "og:description": "Лайфхак для минимального хостинга веба от создателя Flipper Павла Жовнера: 1. Вешаете веб-сервер на ipv6 адрес. 2. На cloudflare создаете только одну АААА-запись на ipv6 и включаете проксирование. 3....",
+    "og:url": "https://habr.com/ru/posts/1100926/",
     "og:type": "article"
   },
   {
@@ -89849,6 +91290,17 @@
   },
   {
     "hostname": "petapixel.com",
+    "url": "https://petapixel.com/2026/10/28/nikons-nikkor-z-120-300mm-f-2-8-tc-vr-s-picks-up-where-a-legend-left-off/",
+    "title": "Nikon's Nikkor Z 120-300mm f/2.8 TC VR S Picks Up Where a Legend Left Off | PetaPixel",
+    "date": "2026-10-29T05:18:28.325+06:00",
+    "og:title": "Nikon's Nikkor Z 120-300mm f/2.8 TC VR S Picks Up Where a Legend Left Off",
+    "og:image": "https://petapixel.com/assets/uploads/2026/10/AH_P_Z_120-300mm_f2.8_TC_VR_PBS_NI_06.jpg",
+    "og:description": "The return of a legend.",
+    "og:url": "https://petapixel.com/2026/10/28/nikons-nikkor-z-120-300mm-f-2-8-tc-vr-s-picks-up-where-a-legend-left-off/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "petapixel.com",
     "url": "https://petapixel.com/2026/10/28/photo-studios-are-closing-as-the-fashion-industry-embraces-generative-ai/",
     "title": "Photo Studios Are Closing as the Fashion Industry Embraces Generative AI | PetaPixel",
     "date": "2026-10-29T03:31:04.159+06:00",
@@ -94733,6 +96185,17 @@
   },
   {
     "hostname": "t-j.ru",
+    "url": "https://t-j.ru/diary-pensioner-vladivostok-3/",
+    "title": "Пенсионер под Владивостоком: сколько получает, на что копит, дневник трат",
+    "date": "2026-10-29T05:18:28.136+06:00",
+    "og:title": "Как изменилась жизнь пенсионера под Владивостоком с пенсией 12 500 ₽",
+    "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/diary-pensioner-vladivostok-3-fb.png",
+    "og:description": "И накоплениями 2 300 000 ₽",
+    "og:url": "https://t-j.ru/diary-pensioner-vladivostok-3/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "t-j.ru",
     "url": "https://t-j.ru/diary-sistemniy-analitik-moscow-150k-povtor/",
     "title": "Системный аналитик в финтехе в Москве: как работает, сколько зарабатывает, дневник трат",
     "date": "2026-10-05T05:16:35.479+06:00",
@@ -95939,6 +97402,17 @@
     "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/ly8VqeELvm.mini-krossvord-235.og_image.png",
     "og:description": "Пела и плясала",
     "og:url": "https://t-j.ru/mini-krossvord-235/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "t-j.ru",
+    "url": "https://t-j.ru/mini-krossvord-239/",
+    "title": "Мини-кроссворд № 239: про 1990-е — музыка",
+    "date": "2026-10-29T05:18:28.138+06:00",
+    "og:title": "Мини-кроссворд № 239: про 1990-е — музыка",
+    "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/TwYC-DIyu0.mini-krossvord-239.og_image.png",
+    "og:description": "Что же ты ищешь, мальчик-бродяга? Не восемь ли слов?",
+    "og:url": "https://t-j.ru/mini-krossvord-239/",
     "og:type": "article"
   },
   {
@@ -100647,6 +102121,17 @@
     "og:image": "https://ux.stackexchange.com/Content/Sites/ux/Img/apple-touch-icon@2.png?v=6891b06365c4",
     "og:description": "I was sitting in a meeting with people from quite a few different time zones, and there was a lot of confusion around meeting times due to the fact that some people were in countries or regions tha...",
     "og:url": "https://ux.stackexchange.com/questions/155737/using-concentric-circles-for-world-time-clock-concept-design-or-better-alterna",
+    "og:type": "website"
+  },
+  {
+    "hostname": "ux.stackexchange.com",
+    "url": "https://ux.stackexchange.com/questions/155738/when-should-i-choose-a-diary-study-over-in-depth-interviews-to-understand-behavi",
+    "title": "user research - When should I choose a diary study over in-depth interviews to understand behavior over time? - User Experience Stack Exchange",
+    "date": "2026-10-29T05:19:06.748+06:00",
+    "og:title": "When should I choose a diary study over in-depth interviews to understand behavior over time?",
+    "og:image": "https://ux.stackexchange.com/Content/Sites/ux/Img/apple-touch-icon@2.png?v=6891b06365c4",
+    "og:description": "I'm planning a user research project to understand how people use a product over several weeks, and I'm trying to decide between a diary study and a series of in-depth interviews.\nContext: The beha...",
+    "og:url": "https://ux.stackexchange.com/questions/155738/when-should-i-choose-a-diary-study-over-in-depth-interviews-to-understand-behavi",
     "og:type": "website"
   },
   {
@@ -111584,6 +113069,17 @@
     "og:type": "article"
   },
   {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=22647",
+    "title": "Google представила Gemini 4 Carbon для кода и сложных задач",
+    "date": "2026-10-29T05:18:46.59+06:00",
+    "og:title": "Google представила Gemini 4 Carbon для кода и сложных задач",
+    "og:image": "https://cdn.comss.ru/img/2026-10-25/comss-gemini-4-carbon-2026-10-25_0545.jpg?class=cover",
+    "og:description": "Модель набрала 59 баллов в Artificial Analysis Intelligence Index v5.0 и улучшила результаты Argon в программировании, научных задачах и киберзащите. Сначала доступ получат выбранные специалисты по безопасности. Для API объявлены вводные тарифы 2 USD за миллион входных и 10 USD за миллион выходных токенов",
+    "og:url": "https://www.comss.ru/page.php?id=22647",
+    "og:type": "article"
+  },
+  {
     "hostname": "www.craigabbott.co.uk",
     "url": "https://www.craigabbott.co.uk/blog/2026/using-maths-to-balance-your-heading-styles/",
     "title": "Using maths to balance your heading styles - Craig Abbott",
@@ -119182,6 +120678,17 @@
     "og:image": "https://www.drwindows.de/news/wp-content/uploads/2022/03/powertoys_titelbild.jpg",
     "og:description": "Microsoft hat Version 0.102 der PowerToys veröffentlicht. Das neue Update weitet die Möglichkeiten über die Kommandozeile aus und bringt mit Text Extractor und Color Picker zwei weitere Werkzeuge auf WinUI 3. Die Einstellungen haben eine neue Begrüßungsszene mit mehr Interaktionen bekommen. Neu sind aber vor allem zwei neue Werkzeuge, die die Entwickler einführen. Mouse Button […]",
     "og:url": "https://www.drwindows.de/news/powertoys-microsoft-veroeffentlicht-version-0-102-fuer-alle-nutzer",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.drwindows.de",
+    "url": "https://www.drwindows.de/news/quartalszahlen-microsoft-verdient-praechtig-und-verschleiert-die-ki-kosten",
+    "title": "Quartalszahlen: Microsoft verdient prächtig und verschleiert die KI-Kosten - Dr. Windows",
+    "date": "2026-10-29T05:18:28.162+06:00",
+    "og:title": "Quartalszahlen: Microsoft verdient prächtig und verschleiert die KI-Kosten",
+    "og:image": "https://www.drwindows.de/news/wp-content/uploads/2022/03/microsoft_logo_titelbild.jpg",
+    "og:description": "Microsoft kann Gewinn und Umsatz kräftig steigern. Mit Windows und XBOX geht es allerdings weiter abwärts.",
+    "og:url": "https://www.drwindows.de/news/quartalszahlen-microsoft-verdient-praechtig-und-verschleiert-die-ki-kosten",
     "og:type": "article"
   },
   {
@@ -130758,6 +132265,17 @@
   },
   {
     "hostname": "www.neowin.net",
+    "url": "https://www.neowin.net/news/google-cloud-revenue-doubles-to-307-billion-but-ai-infra-spending-hits-51-billion/",
+    "title": "Google Cloud revenue doubles to $30.7 billion, but AI Infra spending hits $51 billion - Neowin",
+    "date": "2026-10-29T05:23:44.906+06:00",
+    "og:title": "Google Cloud revenue doubles to $30.7 billion, but AI Infra spending hits $51 billion",
+    "og:image": "https://cdn.neowin.com/news/images/uploaded/2025/08/1755120841_google-logo-2_full.webp",
+    "og:description": "Despite Google Cloud revenue doubling and operating income tripling, nervous investors drove Alphabet's shares down 10% in after-hours trading.",
+    "og:url": "https://www.neowin.net/news/google-cloud-revenue-doubles-to-307-billion-but-ai-infra-spending-hits-51-billion/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.neowin.net",
     "url": "https://www.neowin.net/news/google-cloud-unveils-universal-gemini-agent-at-gemini-at-work-2026/",
     "title": "Google Cloud unveils universal Gemini agent at Gemini at Work 2026 - Neowin",
     "date": "2026-10-09T02:47:21.934+06:00",
@@ -132107,6 +133625,17 @@
     "og:image": "https://cdn.neowin.com/news/images/uploaded/2026/10/1792062503_windows_server_2012_splash_screen_full.webp",
     "og:description": "Still running aging Windows Server systems? Microsoft has issued a reminder that could force IT admins to accelerate their migration plans.",
     "og:url": "https://www.neowin.net/news/microsoft-reminds-it-admins-that-windows-server-2012-is-now-out-of-support-urges-upgrades/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.neowin.net",
+    "url": "https://www.neowin.net/news/microsoft-reports-record-923-billion-revenue-as-azure-hits-332-billion-in-a-quarter/",
+    "title": "Microsoft reports record $92.3 billion revenue as Azure hits $33.2 billion in a quarter - Neowin",
+    "date": "2026-10-29T05:23:44.907+06:00",
+    "og:title": "Microsoft reports record $92.3 billion revenue as Azure hits $33.2 billion in a quarter",
+    "og:image": "https://cdn.neowin.com/news/images/uploaded/2025/03/1741006028_m_full.jpg",
+    "og:description": "Microsoft kicked off fiscal year 2027 with record-breaking financial results, generating $92.3 billion in revenue and $36.6 billion in net income.",
+    "og:url": "https://www.neowin.net/news/microsoft-reports-record-923-billion-revenue-as-azure-hits-332-billion-in-a-quarter/",
     "og:type": "article"
   },
   {
@@ -144706,6 +146235,17 @@
   },
   {
     "hostname": "www.slo.ru",
+    "url": "https://www.slo.ru/files/audio_players/itunes",
+    "title": "iTunes - Скачать мультимедиа-центр",
+    "date": "2026-10-29T05:12:08.06+06:00",
+    "og:title": "",
+    "og:image": "https://www.slo.ru/img/64/itunes.gif",
+    "og:description": "iTunes — это функциональный мультимедиа-центр ориентированный, в первую очередь, на пользователей техники от Apple.",
+    "og:url": "https://www.slo.ru/files/audio_players/itunes",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.slo.ru",
     "url": "https://www.slo.ru/files/audio_players/tauon_music_box",
     "title": "Tauon Music Box - Скачать для Windows и Linux",
     "date": "2026-10-11T02:33:46.82+06:00",
@@ -146243,6 +147783,17 @@
     "og:description": "Автономная утилита для диагностики оперативной памяти, которую нужно запускать с загрузочного носителя. Выполняет полный набор стресс-тестов ОЗУ, обходит ограничения операционной системы и обеспечивает точную проверку модулей на ошибки и нестабильность",
     "og:url": "https://www.softportal.com/",
     "og:type": "article"
+  },
+  {
+    "hostname": "www.softportal.com",
+    "url": "https://www.softportal.com/software-51890-floorp-browser.html",
+    "title": "SoftPortal.com",
+    "date": "2026-10-29T05:12:08.079+06:00",
+    "og:title": "",
+    "og:image": "https://www.softportal.com/img/SPL_.png",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
   },
   {
     "hostname": "www.softportal.com",
@@ -147815,6 +149366,17 @@
     "og:image": "https://www.thephoblographer.com/wp-content/uploads/2026/06/Chris-Gampat-The-Phoblographer-Camp-Snap-2-review-product-images-NIKON-D850Nikon-AF-S-NIKKOR-28mm-f-1.8G2.21-80s100-1.jpg",
     "og:description": "The Camp Snap company tells us that the Camp Snap 2 outsold the CS8; which is the camera that got really famous because of Taylor Swift.",
     "og:url": "https://www.thephoblographer.com/2026/10/28/the-camp-snap-2-outsold-the-cs8-in-2026/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.thephoblographer.com",
+    "url": "https://www.thephoblographer.com/2026/10/29/the-nikon-120-300mm-f2-8-z-cater-to-a-dying-breed-of-photographer/",
+    "title": "The Nikon 120-300mm f2.8 Z Caters to a Rare Breed",
+    "date": "2026-10-29T05:18:28.308+06:00",
+    "og:title": "The Nikon 120-300mm f2.8 Z Caters to a Rare Breed",
+    "og:image": "https://www.thephoblographer.com/wp-content/uploads/2026/10/MMII_P_Z_120-300mm_f2.8_TC_VR_USDD_NI_07-770x513.jpg",
+    "og:description": "The Nikon 120-300mm f2.8 Z is being announced today. The company is pitching this nearly $14,000 lens to pro sports and wildlife shooters.",
+    "og:url": "https://www.thephoblographer.com/2026/10/29/the-nikon-120-300mm-f2-8-z-cater-to-a-dying-breed-of-photographer/",
     "og:type": "article"
   },
   {
