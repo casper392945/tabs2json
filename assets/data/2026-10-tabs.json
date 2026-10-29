@@ -5314,6 +5314,17 @@
   },
   {
     "hostname": "adme.media",
+    "url": "https://adme.media/articles/20-zapisej-iz-uchenicheskih-tetradej-kotorye-rassmeshili-vsyu-uchitelskuyu-2557939/",
+    "title": "20+ записей из ученических тетрадей, которые рассмешили всю учительскую",
+    "date": "2026-10-29T06:18:32.184+06:00",
+    "og:title": "20+ записей из ученических тетрадей, которые рассмешили всю учительскую",
+    "og:image": "https://wl-adme.cf.tsp.li/resize/1200x770/jpg/9ba/0c7/363e5b5d2092468a4e0b714b75.jpg",
+    "og:description": "Помните свои школьные тетради и дневники? Мало кто способен просто взять их и выбросить. Ведь порой на этих страницах прячутся наши потешные ошибки, признания, примеры безграничного креатива и забавные пометки учителей. Обычный диктант или контрольная работа запросто могли превратить самый скучный день в целое приключение и уморительную историю. Кто-то сравнивал маму с Мойдодыром, другие рассказывали, как провели лето, а третьи делились самым сокровенным из семейной жизни. Именно такие строчки зачитывали в учительской. Да и мы сами обожаем пересказывать эти байки своим детям и внукам. А в бонусе вас ждет забавный случай про Витю.",
+    "og:url": "https://adme.media/articles/20-zapisej-iz-uchenicheskih-tetradej-kotorye-rassmeshili-vsyu-uchitelskuyu-2557939/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "adme.media",
     "url": "https://adme.media/articles/22-istorii-o-maminoj-i-papinoj-podderzhke-kotoraya-sogrevaet-luchshe-teplogo-pleda-2557635/",
     "title": "22 истории о маминой и папиной поддержке, которая согревает лучше теплого пледа",
     "date": "2026-10-19T09:16:36.321+06:00",
@@ -85251,6 +85262,17 @@
   },
   {
     "hostname": "medium.com",
+    "url": "https://medium.com/@sourabhda1998/i-fixed-5-angular-performance-problems-before-touching-the-architecture-3abc927d288f",
+    "title": "I Fixed 5 Angular Performance Problems Before Touching the Architecture | by Coding Mentor | Oct, 2026 | Medium",
+    "date": "2026-10-29T06:19:10.35+06:00",
+    "og:title": "I Fixed 5 Angular Performance Problems Before Touching the Architecture",
+    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*nTCWvP8ecDwFRIw3lginsQ.png",
+    "og:description": "Before rewriting an Angular application, look at how it renders, loads data, and handles repeated work. A few small changes can make a…",
+    "og:url": "https://medium.com/@sourabhda1998/i-fixed-5-angular-performance-problems-before-touching-the-architecture-3abc927d288f",
+    "og:type": "article"
+  },
+  {
+    "hostname": "medium.com",
     "url": "https://medium.com/@sourabhda1998/migrating-angular-to-standalone-the-step-by-step-guide-that-wont-break-your-app-8c239a49b320",
     "title": "Migrating Angular to Standalone: The Step-by-Step Guide That Won’t Break Your App | by Coding Mentor | Oct, 2026 | Medium",
     "date": "2026-10-17T03:58:53.45+06:00",
@@ -113080,6 +113102,50 @@
     "og:type": "article"
   },
   {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=22648",
+    "title": "Samsung рассказала о Galaxy S27 на фоне ежеквартальных убытков",
+    "date": "2026-10-29T06:18:36.763+06:00",
+    "og:title": "Samsung рассказала о Galaxy S27 на фоне ежеквартальных убытков",
+    "og:image": "https://cdn.comss.ru/img/2026-10-29/comss-samsung-galaxy-s27-2026-10-29_0827.jpg?class=cover",
+    "og:description": "Samsung намерена сильнее разграничить модели следующей серии Galaxy S, улучшить автономность и производительность. Умные очки Intelligent Eyewear включены в план на IV квартал 2026 года, а новые формы устройств остаются предметом исследований. Общий квартальный убыток MX и Networks составил 600 млрд вон",
+    "og:url": "https://www.comss.ru/page.php?id=22648",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=22649",
+    "title": "Fedora 45 обошла CachyOS и Ubuntu 26.10 в тестах на Ryzen 9",
+    "date": "2026-10-29T06:18:36.753+06:00",
+    "og:title": "Fedora 45 обошла CachyOS и Ubuntu 26.10 в тестах на Ryzen 9",
+    "og:image": "https://cdn.comss.ru/img/2026-10-29/comss-fedora-45-cachyos-ubuntu-26-10-ryzen-9-2026-10-29_0906.jpg?class=cover",
+    "og:description": "Phoronix сравнил три дистрибутива на AMD Ryzen 9 9900X3D2. Fedora получила лучший сводный результат, а CachyOS выиграл около 40% из 136 тестов. В статье приведены версии ядра, Mesa и GCC, результаты по приложениям и ограничения методики: графические замеры исключили из-за проблемы с Radeon в Ubuntu 26.10",
+    "og:url": "https://www.comss.ru/page.php?id=22649",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=22650",
+    "title": "Для Windows 11 вышло обновление KB5127936 с новыми контекстными меню",
+    "date": "2026-10-29T07:54:52.025+06:00",
+    "og:title": "Для Windows 11 вышло обновление KB5127936 с новыми контекстными меню",
+    "og:image": "https://cdn.comss.ru/img/102026/2026-10-29-comss-kb5127936-context-menu.jpg?class=cover",
+    "og:description": "Главное нововведение ежемесячного обновления Windows 11, не связанного с безопасностью, – переработанные контекстные меню. KB5127936 доступно для Windows 11 версии 26H2 и 25H2",
+    "og:url": "https://www.comss.ru/page.php?id=22650",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=22651",
+    "title": "Перегрев Galaxy Buds: почему рекомендации Samsung отличаются",
+    "date": "2026-10-29T07:54:52.032+06:00",
+    "og:title": "Перегрев Galaxy Buds: почему рекомендации Samsung отличаются",
+    "og:image": "https://cdn.comss.ru/img/012026/Galaxy-Buds-4-series.jpg?class=cover",
+    "og:description": "В приложении Galaxy Buds нашли совет помещать горячие наушники в футляр, хотя сайт Samsung требует дождаться охлаждения вне него. Разбираем, что означает эта находка, почему она не подтверждает выпуск исправления и как владельцам действовать при сильном нагреве, звуковом предупреждении или ошибке зарядки",
+    "og:url": "https://www.comss.ru/page.php?id=22651",
+    "og:type": "article"
+  },
+  {
     "hostname": "www.craigabbott.co.uk",
     "url": "https://www.craigabbott.co.uk/blog/2026/using-maths-to-balance-your-heading-styles/",
     "title": "Using maths to balance your heading styles - Craig Abbott",
@@ -118614,6 +118680,17 @@
   },
   {
     "hostname": "www.diyphotography.net",
+    "url": "https://www.diyphotography.net/apple-pixelmator-pro-text-prompt-editing/",
+    "title": "Apple's Pixelmator Pro Can Now Edit Photos With a Text Prompt",
+    "date": "2026-10-29T06:18:36.782+06:00",
+    "og:title": "Apple's Pixelmator Pro Can Now Edit Photos With a Text Prompt",
+    "og:image": "https://www.diyphotography.net/wp-content/uploads/2026/10/Apple-Creator-Studio-Pixelmator-Pro-Generate-Fill-261027.jpg",
+    "og:description": "Apple's Pixelmator Pro is getting Generate Fill, an AI tool that edits selected image areas using text prompts, plus new creative workflow features.",
+    "og:url": "https://www.diyphotography.net/apple-pixelmator-pro-text-prompt-editing/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.diyphotography.net",
     "url": "https://www.diyphotography.net/blackmagic-design-price-hikes-ai-memory-costs/",
     "title": "Blackmagic Design Raises Prices as AI Boom Drives Up Memory Costs",
     "date": "2026-10-23T08:07:49.427+06:00",
@@ -120843,6 +120920,17 @@
     "og:image": "https://www.drwindows.de/news/wp-content/uploads/2026/10/windows_fotos_neu_2026.jpg",
     "og:description": "Microsoft kündigt eine von Grund auf neu gestaltete Fotos App für Windows an. Sie startet ab heute in den Testbetrieb.",
     "og:url": "https://www.drwindows.de/news/windows-11-erhaelt-eine-runderneuerte-fotos-app-mal-wieder",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.drwindows.de",
+    "url": "https://www.drwindows.de/news/windows-11-optionales-oktober-update-veroeffentlicht",
+    "title": "Windows 11: Optionales Oktober-Update veröffentlicht - Dr. Windows",
+    "date": "2026-10-29T06:18:36.77+06:00",
+    "og:title": "Windows 11: Optionales Oktober-Update veröffentlicht",
+    "og:image": "https://www.drwindows.de/news/wp-content/uploads/2022/03/windows_11_logo_titelbild.jpg",
+    "og:description": "Mit dem optionalen Oktober-Update für Windows 11 behebt Microsoft mehrere Fehler und legt den Grundstein für neue Funktionen.",
+    "og:url": "https://www.drwindows.de/news/windows-11-optionales-oktober-update-veroeffentlicht",
     "og:type": "article"
   },
   {
@@ -132393,6 +132481,17 @@
     "og:image": "https://cdn.neowin.com/news/images/uploaded/2024/06/1717555248_google_sheets_hero_image_full.jpg",
     "og:description": "You can now use new statistical chart types in Google Sheets. The update is rolling out to Workspace customers and free users.",
     "og:url": "https://www.neowin.net/news/google-sheets-gets-new-statistical-powers-to-show-datasets-in-a-better-way/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.neowin.net",
+    "url": "https://www.neowin.net/news/google-takes-another-step-to-ensure-ai-mode-remains-a-free-feature/",
+    "title": "Google takes another step to ensure AI Mode remains a free feature - Neowin",
+    "date": "2026-10-29T06:18:32.168+06:00",
+    "og:title": "Google takes another step to ensure AI Mode remains a free feature",
+    "og:image": "https://cdn.neowin.com/news/images/uploaded/2026/10/1793253045_ai-mode-hero-image.width-1600.format-webp_full.webp",
+    "og:description": "The step that Google has taken today ensures that AI Mode can be continue to be used by everyone for free, without the need for an upfront payment.",
+    "og:url": "https://www.neowin.net/news/google-takes-another-step-to-ensure-ai-mode-remains-a-free-feature/",
     "og:type": "article"
   },
   {
