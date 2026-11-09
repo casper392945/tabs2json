@@ -1189,6 +1189,17 @@
   },
   {
     "hostname": "adme.media",
+    "url": "https://adme.media/articles/17-foto-i-istorij-pro-detej-kotorye-delayut-mir-dobree-bezo-vsyakih-instrukcij-2558314/",
+    "title": "17 фото и историй про детей, которые делают мир добрее безо всяких инструкций",
+    "date": "2026-11-09T09:57:45.805+06:00",
+    "og:title": "17 фото и историй про детей, которые делают мир добрее безо всяких инструкций",
+    "og:image": "https://cdn.adme.media/resize/1200x770/jpg/6c2/2c9/b0367f5486a1378fa4f18b81e2.jpg",
+    "og:description": "Кажется, что современных детей ничего больше не заботит, кроме гаджетов и походов по магазинам. Но порой именно эти маленькие герои умеют проявлять такую доброту и заботу, которой взрослым стоит у них поучиться. Кто-то помогает родителям на кухне или заботится о любимой кошке, а кто-то всем классом устраивает трогательный сюрприз своему учителю. Наши детки привыкли делиться своим теплом и вниманием со всеми — как один из мальчишек, который приготовил свою первую пиццу для мамы.",
+    "og:url": "https://adme.media/articles/17-foto-i-istorij-pro-detej-kotorye-delayut-mir-dobree-bezo-vsyakih-instrukcij-2558314/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "adme.media",
     "url": "https://adme.media/articles/17-istorij-iz-cvetochnyh-gde-emocii-skladyvayutsya-v-buket-pahnuschij-rozami-i-pionami-2558017/",
     "title": "17 историй из цветочных, где эмоции складываются в букет, пахнущий розами и пионами",
     "date": "2026-11-02T02:54:53.527+06:00",
@@ -3913,6 +3924,17 @@
     "og:image": "https://resize.imagekit.co/Fa5z2dTT9tYHeMhsaiJ3zKkq3lf6FwU9BpAhRo0HcVc/plain/s3://betalist-production/d5p7ka414l3gdhl80coyvwydd9l0",
     "og:description": "See exactly which form fields cause visitors to abandon",
     "og:url": "https://betalist.com/startups/usemo",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/vcxplore",
+    "title": "VCXplore: Find verified investors ranked by relevance to | BetaList",
+    "date": "2026-11-09T09:57:45.73+06:00",
+    "og:title": "VCXplore: Find verified investors ranked by relevance to your company",
+    "og:image": "https://resize.imagekit.co/pLgm9QC5CuqKAh2RNFGvZph7E0fl1OmIow-nvTv11_k/plain/s3://betalist-production/c4wmdldc8oicobyz4fi4lb3nkkng",
+    "og:description": "Find verified investors ranked by relevance to your company",
+    "og:url": "https://betalist.com/startups/vcxplore",
     "og:type": "article,"
   },
   {
@@ -14257,6 +14279,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1105398/",
+    "title": "Морской старт: китайский путь / Хабр",
+    "date": "2026-11-09T09:57:45.83+06:00",
+    "og:title": "Морской старт: китайский путь",
+    "og:image": "https://habr.com/share/publication/1105398/ec4971d46e45ba286e85f29da9505a3b/",
+    "og:description": "В начале была ракета без заказчика и баржа без двигателя. Через несколько лет отраслевой эксперимент превратился в часть космической инфраструктуры страны, с несколькими коммерческими операторами,...",
+    "og:url": "https://habr.com/ru/articles/1105398/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/articles/915596/",
     "title": "Маленький марсианский ровер, который остался дома / Хабр",
     "date": "2026-11-02T03:45:07.328+06:00",
@@ -14451,6 +14484,17 @@
     "og:image": "https://habr.com/share/publication/1095198/9410874f2cdecef6008785d363a44834/",
     "og:description": "Привет! Меня зовут Илья Садыков, я работаю в команде TestOps в PaaS Авито. Мы отвечаем за инструментарий хаос-тестирования — подхода, при котором в систему намеренно внедряются сбои для её...",
     "og:url": "https://habr.com/ru/companies/avito/articles/1095198/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/avito/articles/1099466/",
+    "title": "Как распилить монолит и не получить монолит распределённый / Хабр",
+    "date": "2026-11-09T09:57:45.865+06:00",
+    "og:title": "Как распилить монолит и не получить монолит распределённый",
+    "og:image": "https://habr.com/share/publication/1099466/6040527a2dfcc33741d60b5d2b26e50a/",
+    "og:description": "О распиле монолита написаны сотни статей, и все они объясняют, как резать. На практике же оказывается, что команды тонут не на технике, а на решениях вокруг неё: режут по слоям, оставляют общую базу...",
+    "og:url": "https://habr.com/ru/companies/avito/articles/1099466/",
     "og:type": "article"
   },
   {
@@ -15632,6 +15676,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/nanosoft/articles/1104648/",
+    "title": "Из спецкоров — в тимлиды: как Роман Яковлев за год прошел путь от новичка до руководителя группы тестирования / Хабр",
+    "date": "2026-11-09T09:57:45.879+06:00",
+    "og:title": "Из спецкоров — в тимлиды: как Роман Яковлев за год прошел путь от новичка до руководителя группы тестирования",
+    "og:image": "https://habr.com/share/publication/1104648/bc741ef610dcfcd746b39b8d47cd79dc/",
+    "og:description": "Роман Яковлев работал специальным корреспондентом, а в июне 2024 года пришел в «Нанософт» ручным тестировщиком.&nbsp;Вскоре он начал предлагать изменения в рабочих процессах. Руководство поддержало...",
+    "og:url": "https://habr.com/ru/companies/nanosoft/articles/1104648/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/navio/articles/1101744/",
     "title": "Как исследования реального опыта водителей помогают разрабатывать автономные грузовики / Хабр",
     "date": "2026-11-02T04:07:11.921+06:00",
@@ -15881,6 +15936,17 @@
     "og:image": "https://habr.com/share/publication/1100722/ef8b308553cf0f7d47ea57e561eeb2aa/",
     "og:description": "Статья о&nbsp;том, как&nbsp;отказ от&nbsp;лишней обработки ASCII ускорил токенизатор BERT в 50&nbsp;раз Последние несколько месяцев мы активно возвращаем к&nbsp;жизни библиотеку tokenizers . Наша...",
     "og:url": "https://habr.com/ru/companies/otus/articles/1100722/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/otus/articles/1100838/",
+    "title": "InfiniBand для GPU‑кластеров: как добиться предсказуемой задержки и оправдать стоимость сети / Хабр",
+    "date": "2026-11-09T09:57:45.845+06:00",
+    "og:title": "InfiniBand для GPU‑кластеров: как добиться предсказуемой задержки и оправдать стоимость сети",
+    "og:image": "https://habr.com/share/publication/1100838/42fd632d3adb836cc85db509312a2bb0/",
+    "og:description": "Привет, Хабр! Меня зовут Андрей Бирюков. Я&nbsp;— независимый эксперт в&nbsp;области ИТ и ИБ, преподаю в&nbsp;учебных центрах и пишу статьи и книги. Требования к&nbsp; производительности сети...",
+    "og:url": "https://habr.com/ru/companies/otus/articles/1100838/",
     "og:type": "article"
   },
   {
@@ -25774,6 +25840,17 @@
   },
   {
     "hostname": "t-j.ru",
+    "url": "https://t-j.ru/krossvord-70/",
+    "title": "Кроссворд Т⁠—⁠Ж № 70: без темы",
+    "date": "2026-11-09T09:57:45.743+06:00",
+    "og:title": "Кроссворд Т⁠—⁠Ж № 70: без темы",
+    "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/jv20zW8gOE.krossvord-70.og_image.png",
+    "og:description": "Куча-мала",
+    "og:url": "https://t-j.ru/krossvord-70/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "t-j.ru",
     "url": "https://t-j.ru/kuda-go-senior-spb-nov/",
     "title": "Бесплатные события для пенсионеров в Петербурге в ноябре: куда сходить, чем заняться",
     "date": "2026-11-08T17:46:36.393+06:00",
@@ -26243,6 +26320,17 @@
     "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/sJB1KUAZSS.moscow-best-restaurants-2026.og_image.png",
     "og:description": "Первую строчку рейтинга занял ресторан «За крышей»",
     "og:url": "https://t-j.ru/news/moscow-best-restaurants-2026/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "t-j.ru",
+    "url": "https://t-j.ru/news/museum-week-msk-2026/",
+    "title": "В Москве началась Музейная неделя: можно бесплатно попасть в ММОМА и на территорию «Царицына»",
+    "date": "2026-11-09T09:57:45.751+06:00",
+    "og:title": "В Москве началась Музейная неделя: можно бесплатно попасть в ММОМА и на территорию «Царицына»",
+    "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/JzJZxQCrxE.museum-week-msk-2026.og_image.png",
+    "og:description": "А еще к акции присоединятся Дом-музей Марины Цветаевой и Музей космонавтики",
+    "og:url": "https://t-j.ru/news/museum-week-msk-2026/",
     "og:type": "article"
   },
   {
@@ -27083,6 +27171,17 @@
   },
   {
     "hostname": "t-j.ru",
+    "url": "https://t-j.ru/video-articles-prediction-markets/",
+    "title": "Как работают рынки предсказаний типа Polymarket",
+    "date": "2026-11-09T09:57:45.785+06:00",
+    "og:title": "Как работают рынки предсказаний и почему на них ставят миллиарды долларов",
+    "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/x-Py-pkG_W.video-articles-prediction-markets.og_image.png",
+    "og:description": "Разбираемся, как устроены рынки предсказаний, на примере Polymarket: почему ими заинтересовалась Уолл-стрит и какие риски скрываются за ставками на будущее",
+    "og:url": "https://t-j.ru/video-articles-prediction-markets/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "t-j.ru",
     "url": "https://t-j.ru/vkr-single-future/",
     "title": "Подкаст с футурологом Русланом Юсуфовым: как технологии влияют на рост числа одиноких людей",
     "date": "2026-11-03T02:29:44.954+06:00",
@@ -27299,6 +27398,17 @@
     "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/i9DififxIC.zamorozka-oocitov-epizod-3.og_image.png",
     "og:description": "Партнерский материал",
     "og:url": "https://t-j.ru/zamorozka-oocitov-epizod-3/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "t-j.ru",
+    "url": "https://t-j.ru/zamorozka-oocitov-series/",
+    "title": "Сериал Т⁠—⁠Ж и клиники «Docmed ЭКО» о заморозке яйцеклеток",
+    "date": "2026-11-09T09:57:45.768+06:00",
+    "og:title": "«На случай, если захочу родить ребенка после 45»: все серии сериала о заморозке яйцеклеток",
+    "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/l_aeTKnqjC.zamorozka-oocitov-series.og_image.png",
+    "og:description": "Партнерский материал",
+    "og:url": "https://t-j.ru/zamorozka-oocitov-series/",
     "og:type": "article"
   },
   {
@@ -29184,6 +29294,17 @@
   },
   {
     "hostname": "windowsreport.com",
+    "url": "https://windowsreport.com/nvidia-ceo-jensen-huang-under-investigation-over-alleged-chinese-espionage-links/",
+    "title": "Nvidia CEO Jensen Huang Under Investigation Over Alleged Chinese Espionage Links",
+    "date": "2026-11-09T09:57:45.895+06:00",
+    "og:title": "Nvidia CEO Jensen Huang Under Investigation Over Alleged Chinese Espionage Links",
+    "og:image": "https://windowsreport.com/wp-content/uploads/2026/10/Jensen-Huang-NVIDIA-CEO-feature-image.jpg",
+    "og:description": "Nvidia launches an investigation into Jensen Huang following reports of a possible Chinese spying operation.",
+    "og:url": "https://windowsreport.com/nvidia-ceo-jensen-huang-under-investigation-over-alleged-chinese-espionage-links/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "windowsreport.com",
     "url": "https://windowsreport.com/nvidia-rtx-50-gpu-prices-are-rising-again-and-gamers-could-pay-hundreds-more/",
     "title": "Nvidia RTX 50 GPU Prices Are Rising Again, and Gamers Could Pay Hundreds More",
     "date": "2026-11-04T06:48:14.892+06:00",
@@ -30962,6 +31083,17 @@
     "og:image": "https://cdn.comss.ru/img/112026/2026-11-09-comss-w11-sticky-keys.jpg?class=cover",
     "og:description": "Помимо повышения производительности, Windows 11, версия 26H2 получает изменения, устраняющие давние неудобства, в том числе связанные с залипанием клавиш.",
     "og:url": "https://www.comss.ru/page.php?id=22780",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=22781",
+    "title": "GPT-6 Cyber нашла 81 уязвимость Firefox и разработала эксплойты для 948 уязвимостей Linux",
+    "date": "2026-11-09T09:57:45.716+06:00",
+    "og:title": "GPT-6 Cyber нашла 81 уязвимость Firefox и разработала эксплойты для 948 уязвимостей Linux",
+    "og:image": "https://cdn.comss.ru/img/112026/2026-11-09-comss-gpt-6-cyber.jpg?class=cover",
+    "og:description": "OpenAI представила GPT-6 Cyber – ИИ-модель для поиска уязвимостей. Она нашла 81 ранее неизвестную уязвимость высокой степени опасности в Firefox и разработала эксплойты для 948 уязвимостей ядра Linux. Доступ к модели пока есть только у отдельных клиентов программы Daybreak Red.",
+    "og:url": "https://www.comss.ru/page.php?id=22781",
     "og:type": "article"
   },
   {
