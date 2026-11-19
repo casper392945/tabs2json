@@ -4049,6 +4049,17 @@
   },
   {
     "hostname": "adme.media",
+    "url": "https://adme.media/articles/mama-dumala-chto-v-dome-zavelis-myshi-luchshe-by-eto-byli-oni-2558676/",
+    "title": "Мама думала, что в доме завелись мыши. Лучше бы это были они",
+    "date": "2026-11-19T09:20:44.979+06:00",
+    "og:title": "Мама думала, что в доме завелись мыши. Лучше бы это были они",
+    "og:image": "https://cdn.adme.media/resize/1200x770/jpg/0b7/628/2375ea5d96b3fe29bf202ac046.jpg",
+    "og:description": "Всю ночь мама не могла уснуть: в коридоре что-то постоянно шуршало, стучало или шелестело. «Наверное, мыши, — подумала она. — Дом уже старый, утром нужно будет подумать, как их поймать». Но ловить никого не пришлось: виновник странных ночных звуков обнаружился сам.",
+    "og:url": "https://adme.media/articles/mama-dumala-chto-v-dome-zavelis-myshi-luchshe-by-eto-byli-oni-2558676/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "adme.media",
     "url": "https://adme.media/articles/moda-na-naturalnye-nogti-2558320/",
     "title": "Мода на натуральные ногти",
     "date": "2026-11-10T03:15:24.929+06:00",
@@ -4144,6 +4155,17 @@
     "og:image": "https://cdn.adme.media/resize/1200x770/jpg/499/56b/9816605242ab585b9477d5a166.jpg",
     "og:description": "Решила тут поделиться своим маленьким хобби. Появилось оно совершенно случайно. Лет 15 назад забрела в одну кафешку и увидела, что там стены грампластинками украшены. «Какая шикарная идея!» — подумала я. У меня как раз лежала на антресолях пара коробок с пластинками, которые нам от предыдущих владельцев достались. Слушать их было не на чем, а выкинуть жалко — кто-то их годами с любовью собирал. Решила тоже их на скучную стену повесить. Но был один нюанс.",
     "og:url": "https://adme.media/articles/ne-vykidyvayu-starye-plastinki-2558544/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "adme.media",
+    "url": "https://adme.media/articles/obyasnite-zachem-v-shkole-zadayut-podelki-2558679/",
+    "title": "Объясните, зачем в школе задают поделки?",
+    "date": "2026-11-19T09:00:28.377+06:00",
+    "og:title": "Объясните, зачем в школе задают поделки?",
+    "og:image": "https://cdn.adme.media/resize/1200x770/jpg/535/2d9/f8ee295570903cdbbafc34efb7.jpg",
+    "og:description": "Не знаю, как у вас, а моему сыну в школе задавали различные поделки до седьмого класса включительно. Повезло нам, что уж говорить. И я еще понимаю, когда просят что-то слепить или нарисовать по «искусству». Но зачем делать ежиков из шишек и икебану из листьев для занятий по «окружающему миру»? Как это поможет в освоении предмета? А главное, почему основную массу поделок за детей делают родители, и учителя считают это чем-то само собой разумеющимся?",
+    "og:url": "https://adme.media/articles/obyasnite-zachem-v-shkole-zadayut-podelki-2558679/",
     "og:type": "article"
   },
   {
@@ -6513,6 +6535,17 @@
   },
   {
     "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/insucargo",
+    "title": "InsuCargo: Insure shipments in minutes by uploading your | BetaList",
+    "date": "2026-11-19T09:19:58.237+06:00",
+    "og:title": "InsuCargo: Insure shipments in minutes by uploading your invoice",
+    "og:image": "https://resize.imagekit.co/3GcWZgiQOl-blcMHCJpXEU-y4J0MdgZJjBCoGAv7Pbo/plain/s3://betalist-production/vdfttbxopg8jm7epqwr40mr22axh",
+    "og:description": "Insure shipments in minutes by uploading your invoice",
+    "og:url": "https://betalist.com/startups/insucargo",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
     "url": "https://betalist.com/startups/intrawebix-crm",
     "title": "Intrawebix CRM: One inbox for WhatsApp, Telegram, | BetaList",
     "date": "2026-11-04T06:01:35.273+06:00",
@@ -8405,6 +8438,17 @@
   },
   {
     "hostname": "betalist.com",
+    "url": "https://betalist.com/startups/translatebuff",
+    "title": "TranslateBuff: Translate webpages with side-by-side AI | BetaList",
+    "date": "2026-11-19T09:19:58.251+06:00",
+    "og:title": "TranslateBuff: Translate webpages with side-by-side AI results from",
+    "og:image": "https://resize.imagekit.co/zswsHh_WKgoboy1JsUaZ2B4sb5EOngFzsBsUC64gFf4/plain/s3://betalist-production/jvn8ia0pslug38h4wrqxtaqal3c2",
+    "og:description": "Translate webpages with side-by-side AI results from 20+ models",
+    "og:url": "https://betalist.com/startups/translatebuff",
+    "og:type": "article,"
+  },
+  {
+    "hostname": "betalist.com",
     "url": "https://betalist.com/startups/tripmo",
     "title": "Tripmo: A shared group trip plan that each friend fills | BetaList",
     "date": "2026-11-16T02:36:44.081+06:00",
@@ -8988,6 +9032,17 @@
   },
   {
     "hostname": "betanews.com",
+    "url": "https://betanews.com/article/copilot-windows-11-diagnostics/",
+    "title": "Copilot will diagnose Windows 11 PC faults, not fix them",
+    "date": "2026-11-19T09:00:28.32+06:00",
+    "og:title": "Copilot will diagnose Windows 11 PC faults, not fix them",
+    "og:image": "https://media.betanews.com/uploads/2026/11/copilot-will-scan-windows-11-pcs-for-faults-but-repairs-stay-053d6dd446ef79a1.webp",
+    "og:description": "Microsoft says Copilot will run a read-only scan to trace Windows 11 PC errors to their cause and explain them in plain terms, but the repair stays with users.",
+    "og:url": "https://betanews.com/article/copilot-windows-11-diagnostics/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "betanews.com",
     "url": "https://betanews.com/article/disable-sticky-keys-windows-11/",
     "title": "Microsoft is making it easier to hide irritating Sticky Keys popups in Windows 11 - BetaNews",
     "date": "2026-11-09T09:17:21.525+06:00",
@@ -9120,6 +9175,17 @@
   },
   {
     "hostname": "betanews.com",
+    "url": "https://betanews.com/article/gpt-6-2-astra-api-pricing/",
+    "title": "OpenAI GPT-6.2 Astra cuts API prices 20%, adds Sol model",
+    "date": "2026-11-19T09:00:28.336+06:00",
+    "og:title": "OpenAI GPT-6.2 Astra cuts API prices 20%, adds Sol model",
+    "og:image": "https://media.betanews.com/uploads/2026/11/openai-cuts-gpt-6-2-astra-api-prices-20-as-sol-takes-on-ever-b78cd561c644d2cc.webp",
+    "og:description": "OpenAI GPT-6.2 Astra cuts API prices 20% to $8 per million input tokens and claims benchmark wins. GPT-6.2 Sol keeps rates; independent tests put Astra second.",
+    "og:url": "https://betanews.com/article/gpt-6-2-astra-api-pricing/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "betanews.com",
     "url": "https://betanews.com/article/gpu-memory-monitoring-tool/",
     "title": "Hanselman's gputaskman shows what is filling your GPU memory",
     "date": "2026-11-10T03:15:03.302+06:00",
@@ -9160,6 +9226,17 @@
     "og:image": "https://media.betanews.com/uploads/2026/11/instagram-takes-ai-age-checks-global-to-catch-teens-using-ad-e98921ed350f37ce.webp",
     "og:description": "Meta is taking Instagram's AI age estimation worldwide, moving suspected teens into Teen Accounts even when they signed up with an adult birthday on file.",
     "og:url": "https://betanews.com/article/instagram-ai-age-checks/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "betanews.com",
+    "url": "https://betanews.com/article/java4shell-openjdk-bug-jira-jenkins/",
+    "title": "Java4Shell OpenJDK bug exposes Jira, Jenkins, Keycloak",
+    "date": "2026-11-19T09:00:28.354+06:00",
+    "og:title": "Java4Shell OpenJDK bug exposes Jira, Jenkins, Keycloak",
+    "og:image": "https://media.betanews.com/uploads/2026/11/java4shell-bug-in-openjdks-base64-decoder-exposes-jira-and-j-c9011343fe62c1f8.webp",
+    "og:description": "Oracle and OpenJDK patched Java4Shell (CVE-2026-114938), a Base64 decoder flaw Calif used to take over Jira, Jenkins and Keycloak on servers with AVX-512 chips.",
+    "og:url": "https://betanews.com/article/java4shell-openjdk-bug-jira-jenkins/",
     "og:type": "article"
   },
   {
@@ -14631,6 +14708,17 @@
   },
   {
     "hostname": "exler.es",
+    "url": "https://exler.es/blog/eto-takaya-chest.htm",
+    "title": "Это такая честь!",
+    "date": "2026-11-19T09:22:07.325+06:00",
+    "og:title": "Это такая честь!",
+    "og:image": "",
+    "og:description": "&quot;Это такая честь - быть рядом с Владимиром&quot;, - обратился Трамп к Путину и обосрался заплакал от счастья.&nbsp;\n\n\n&nbsp;\n\n\nА мы с Бубликом всё ждём, когда же&nbsp;ПРЕЗИДЕНТ СОЕДИНЕННЫХ ШТАТОВ АМЕРИКИ ДОНАЛЬД ДЖ. ТРАМП начнёт публично целовать Пыпу в задницу. Кажется, нам осталось совсем недолго ждать.&nbsp;\n&nbsp;",
+    "og:url": "https://exler.es/blog/eto-takaya-chest.htm",
+    "og:type": "article"
+  },
+  {
+    "hostname": "exler.es",
     "url": "https://exler.es/blog/frantsuzskiye-slova-v-russkom-yazyke.htm",
     "title": "Французские слова в русском языке",
     "date": "2026-11-15T08:34:39.521+06:00",
@@ -14803,6 +14891,17 @@
     "og:image": "https://exler.es/img/blog/image/20261031/6ae5b80667409.jpg",
     "og:description": "\n\nЗнаете, как правильно построить фразу &quot;Мы почти 50 лет не меняли дизайн нашего ведра с болтами&quot;?&nbsp;\n\nОтвечает &quot;Автоваз&quot;.&nbsp;\n\n\n&laquo;В день 60-летия АвтоВАЗа мы с гордостью даём старт производству обновлённой Lada Niva Legend. Легендарный внешний вид остался с нами, но под капотом &mdash; совершенно иной характер&raquo;, &mdash; сообщает пресс-служба Волжского автозавода. (Отсюда.)\n\n\n&quot;Легендарному внешнему виду&quot; они под капот засунули новый мотор мощностью 90 лошадиных сил. И обещают, что теперь расход бензина снизится с легендарных 10 литров на 100 километров до 9 литров. Но это неточно.&nbsp;\n\nP.S. Всё-таки, Lada Niva - это очень особенная машина. У меня была семёрка Жигулей. У меня была шестёрка Жигулей. И у меня была новая Lada Niva. Так вот, хуже машины, чем Lada Niva, я не встречал. Нет, с точки зрения проходимости у неё все в порядке. Но - только с точки зрения проходимости. Всё остальное - это реально какой-то ужас-ужас.&nbsp; &nbsp;\n&nbsp;",
     "og:url": "https://exler.es/blog/legendarnyy-vneshniy-vid.htm",
+    "og:type": "article"
+  },
+  {
+    "hostname": "exler.es",
+    "url": "https://exler.es/blog/lidery-nato-otstaivayut-interesy-rossii.htm",
+    "title": "Лидеры НАТО отстаивают интересы России",
+    "date": "2026-11-19T09:22:07.335+06:00",
+    "og:title": "Лидеры НАТО отстаивают интересы России",
+    "og:image": "https://exler.es/small/blog/image/20261119/6afeb793396e9.jpeg",
+    "og:description": "Элбридж Колби (Источник: Getty Images/Омар Гавана)\n\nВ The Telegraph пишут&nbsp;(paywall) о выдающемся выступлении замминистра обороны США по политическим вопросам Элбридж Колби, которого называют главным стратегом Пентагона. Господин Колби был страшно недоволен ударами ВСУ по целям в глубине российской территории, и он назвал эти цели &quot;гражданскими объектами&quot;. То есть у него и НПЗ - гражданские объекты, и Крымский мост, по которому ведётся снабжение российской армии, это всё, господа, гражданские объекты, поэтому ай-яй-яй их атаковать. А вот жилые дома в Украине, по которым постоянно бьют российские войска - это, судя по всему, военные объекты.&nbsp;\n\nВысказав своё возмущение, Колби немедленно покинул встречу представителей НАТО по вопросам войны в Украине, якобы чтобы успеть на самолёт - ну, вы понимаете, замминистра ждали неотложные дела.&nbsp;\n\nБританские и европейские чиновники, присутствующие на этой встрече, мягко говоря, охренели от того, что США, как лидер НАТО, теперь напрямую защищает интересы России и не скрывает этого. Что же будет с НАТО и с нами, задают себе вопрос европейские чиновники.&nbsp;\n\n\n\n\n\nНа встрече Контактной группы по обороне Украины, состоявшейся 17 ноября в штаб-квартире НАТО в Брюсселе, заместитель министра обороны США по политическим вопросам Элбридж Колби резко раскритиковал украинские удары по объектам в глубине российской территории.\n\nКолби заявил, что Вашингтон выступает против таких атак, поскольку не видит в них существенной военной пользы. По его словам, удары по российским нефтеперерабатывающим заводам, предприятиям военно-промышленного комплекса и другим стратегическим объектам не помогают остановить наступление российской армии и не приближают завершение войны.\n\nЭти заявления вызвали недоумение у европейских участников встречи. Представители Германии и Великобритании считают, что украинские удары по российским тылам наносят серьёзный ущерб военной машине Путина, ослабляют российскую экономику и помогают Украине сдерживать противника.\n\nСразу после своего выступления Колби покинул заседание, даже не дождавшись закрытого доклада министра обороны Украины Евгения Хмары. В этом докладе как раз приводились сведения о результативности дальних ударов. Официально ранний уход американского представителя объяснили необходимостью успеть на самолёт.\n\nНемецкие источники The Telegraph выразили серьёзную обеспокоенность позицией администрации Трампа. По их мнению, американские представители всё чаще фактически поддерживают российскую точку зрения, выступая против действий Украины, которые европейские союзники считают необходимыми для её обороны. Один из немецких чиновников заявил, что на этой встрече США оказались единственной страной, поддержавшей российскую трактовку происходящего.\n\nОсобенное возмущение европейцев вызвало то, что США сами активно применяют удары по целям в глубине территории противника в войне с Ираном, но при этом критикуют Украину за использование аналогичной тактики для защиты от российской агрессии.\n\nМинистр обороны Германии Борис Писториус назвал высказывания Колби &quot;глупыми&quot;. Британский министр обороны Уэс Стритинг поддержал украинские дальние удары, подчеркнув, что они ослабляют военную машину Путина и позволяют сохранить человеческие жизни.\n\nВеликобритания также объявила о передаче Украине тысячи дальнобойных беспилотников, фактически продемонстрировав несогласие с американской позицией.\n\nНа фоне этих разногласий европейские страны намерены расширять военную поддержку Украины. На 19 ноября в Берлине запланирована крупная встреча &quot;коалиции желающих&quot;, посвящённая дальнейшей помощи Киеву, послевоенным гарантиям безопасности и восстановлению украинской экономики. В переговорах также должны принять участие представители администрации Трампа Стив Уиткофф и Джаред Кушнер.\n\nМежду США и европейскими союзниками нарастает принципиальное расхождение по вопросу военной поддержки Украины. Европейцы рассматривают удары по российским тылам как важнейший инструмент борьбы с агрессором, тогда как администрация Трампа выступает против них. Некоторые немецкие чиновники уже открыто обвиняют Вашингтон в фактическом принятии российской позиции.\n\n\n\n\n\n\n&nbsp;",
+    "og:url": "https://exler.es/blog/lidery-nato-otstaivayut-interesy-rossii.htm",
     "og:type": "article"
   },
   {
@@ -34950,7 +35049,7 @@
     "hostname": "habr.com",
     "url": "https://habr.com/ru/articles/1108940/",
     "title": "В вашем ingress-nginx уязвимость, которую уже никто не исправит / Хабр",
-    "date": "2026-11-19T07:56:31.68+06:00",
+    "date": "2026-11-19T09:28:18.809+06:00",
     "og:title": "В вашем ingress-nginx уязвимость, которую уже никто не исправит",
     "og:image": "https://habr.com/share/publication/1108940/11af259c575a196a9201c151cd2d0cd1/",
     "og:description": "5 ноября проект Kubernetes опубликовал бюллетень по CVE-2026-116472 в ingress-nginx. Оценка низкая, 2.7 по CVSS. Интереснее последняя строка бюллетеня: исправления не будет, потому что поддержка...",
@@ -36017,7 +36116,7 @@
     "hostname": "habr.com",
     "url": "https://habr.com/ru/articles/1109312/",
     "title": "Pixar случайно удалила «Историю игрушек 2». Фильм спасла сотрудница, которая работала из дома / Хабр",
-    "date": "2026-11-19T08:20:27.787+06:00",
+    "date": "2026-11-19T09:28:19.281+06:00",
     "og:title": "Pixar случайно удалила «Историю игрушек 2». Фильм спасла сотрудница, которая работала из дома",
     "og:image": "https://habr.com/share/publication/1109312/de486a12255d6d70c099fa83cd827cb5/",
     "og:description": "Представьте, что вы открываете папку с проектом, а файлов в ней становится меньше прямо у вас на глазах. Именно так в 1998 году в Pixar увидели, как из системы один за другим исчезают герои «Истории...",
@@ -36598,6 +36697,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1109558/",
+    "title": "Почтовый AI-ассистент на Python: текст, фото и голос через одного провайдера / Хабр",
+    "date": "2026-11-19T09:21:05.807+06:00",
+    "og:title": "Почтовый AI-ассистент на Python: текст, фото и голос через одного провайдера",
+    "og:image": "https://habr.com/share/publication/1109558/5afeb1abae08b4345f56c16fdedf5c4c/",
+    "og:description": "Привет! В этой статье разберём, как связать облачные модели с Python-приложением: дать ИИ-агенту инструменты, добавить обработку изображений, голосовой ввод и озвучку ответов. Для примеров я собрал AI...",
+    "og:url": "https://habr.com/ru/articles/1109558/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/articles/1109562/",
     "title": "Детектор движения работающий в движении / Хабр",
     "date": "2026-11-19T03:26:04.911+06:00",
@@ -36809,7 +36919,7 @@
     "hostname": "habr.com",
     "url": "https://habr.com/ru/articles/1109624/",
     "title": "ext4 после сбоя: что сохраняется, что теряется и как это проверить / Хабр",
-    "date": "2026-11-19T07:56:30.99+06:00",
+    "date": "2026-11-19T09:28:19.062+06:00",
     "og:title": "ext4 после сбоя: что сохраняется, что теряется и как это проверить",
     "og:image": "https://habr.com/share/publication/1109624/03fc1f3b841b1c2d93cefd1fed376589/",
     "og:description": "Привет, Хабр! Сегодня поговорим о том, что происходит с файловой системой ext4 при внезапном отключении питания. Разберёмся, как Linux записывает данные на диск, зачем нужен журнал, что на самом деле...",
@@ -36930,7 +37040,7 @@
     "hostname": "habr.com",
     "url": "https://habr.com/ru/articles/1109692/",
     "title": "CVE-2026-123007 и CVE-2026-123633: две критические дыры в HTTP/2 nginx / Хабр",
-    "date": "2026-11-19T07:56:30.814+06:00",
+    "date": "2026-11-19T09:28:19.074+06:00",
     "og:title": "CVE-2026-123007 и CVE-2026-123633: две критические дыры в HTTP/2 nginx",
     "og:image": "https://habr.com/share/publication/1109692/5d270aa1f129bbc015d75b93141f022d/",
     "og:description": "CVE-2026-123007 и CVE-2026-123633: две критические дыры в HTTP/2 nginx Восемнадцатого ноября 2026 года вышли два совета по nginx — обе уязвимости в обработке HTTP/2. Обе позволяют...",
@@ -37018,7 +37128,7 @@
     "hostname": "habr.com",
     "url": "https://habr.com/ru/articles/1109718/",
     "title": "Федеральный суд по делам о банкротстве в США одобрил продажу данных авиакомпании Spirit Airlines корпорации Google / Хабр",
-    "date": "2026-11-19T08:20:27.505+06:00",
+    "date": "2026-11-19T09:28:19.091+06:00",
     "og:title": "Федеральный суд по делам о банкротстве в США одобрил продажу данных авиакомпании Spirit Airlines корпорации Google",
     "og:image": "https://habr.com/share/publication/1109718/6cad7000ebad3b602a610d6812226bfb/",
     "og:description": "Федеральный суд по&nbsp;делам о&nbsp;банкротстве в&nbsp;Нью‑Йорке одобрил продажу внутренних бизнес‑данных бюджетной авиакомпании Spirit Airlines корпорации Google за $10&nbsp;млн, пишет Reuters....",
@@ -37027,13 +37137,46 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1109722/",
+    "title": "Microsoft превратит PowerToys в инструмент для мониторинга производительности в Windows / Хабр",
+    "date": "2026-11-19T09:28:19.306+06:00",
+    "og:title": "Microsoft превратит PowerToys в инструмент для мониторинга производительности в Windows",
+    "og:image": "https://habr.com/share/publication/1109722/534a43cb2fa527a5254ab35acb4e93f6/",
+    "og:description": "Microsoft решила запустить масштабное обновление компонента PowerToys «Монитор производительности» (Performance Monitor), входящего в&nbsp;состав «Командной палитры» (Command Palette). «Монитор...",
+    "og:url": "https://habr.com/ru/articles/1109722/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1109724/",
+    "title": "Жизнь после бана от Anthropic / Хабр",
+    "date": "2026-11-19T09:00:28.202+06:00",
+    "og:title": "Жизнь после бана от Anthropic",
+    "og:image": "https://habr.com/share/publication/1109724/138e7c623cf8a5128541eee42c48c247/",
+    "og:description": "2 ноября в 8:56 я написал в чате с агентом: что у нас сегодня по плану? В 9:04 сообщение приятелю: ну вот и приехали На почте появилось письмо. То самое, которое очень не хочешь видеть в понедельник...",
+    "og:url": "https://habr.com/ru/articles/1109724/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/articles/1109726/",
     "title": "Одна ARM-плата, восемь профилей смартфонов и тест, который должен упасть / Хабр",
-    "date": "2026-11-19T08:20:27.722+06:00",
+    "date": "2026-11-19T09:28:19.254+06:00",
     "og:title": "Одна ARM-плата, восемь профилей смартфонов и тест, который должен упасть",
     "og:image": "https://habr.com/share/publication/1109726/b27d07e2d4e0e13b923f77f253e083d5/",
     "og:description": "Схема примерной архитектуры(сгенерена на коленке при помощи ИИ) У мобильного приложения есть галочка «Отправлять диагностику». Если её снять, приложение должно перестать отправлять отчёты. Ничего...",
     "og:url": "https://habr.com/ru/articles/1109726/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1109728/",
+    "title": "Старая уязвимость в Windows позволила хакеру похитить данные более 1 млн кредитных карт / Хабр",
+    "date": "2026-11-19T09:28:19.324+06:00",
+    "og:title": "Старая уязвимость в Windows позволила хакеру похитить данные более 1 млн кредитных карт",
+    "og:image": "https://habr.com/share/publication/1109728/1590ce4dcfcd8dd998605c6957bebf84/",
+    "og:description": "Исследователи кибербезопасности из&nbsp;компании Cybernews обнаружили незащищённый сервер, принадлежащий злоумышленнику, который проводил масштабные атаки на&nbsp;системы торговых терминалов...",
+    "og:url": "https://habr.com/ru/articles/1109728/",
     "og:type": "article"
   },
   {
@@ -37049,6 +37192,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1109732/",
+    "title": "Что почистить в Claude Code после того, как вас забанили / Хабр",
+    "date": "2026-11-19T09:21:05.731+06:00",
+    "og:title": "Что почистить в Claude Code после того, как вас забанили",
+    "og:image": "https://habr.com/share/publication/1109732/7f55a359e48470681159fd424b778e3c/",
+    "og:description": "Если при входе в Claude появился экран блокировки, чистить компьютер для подачи апелляции не требуется. Сначала откройте этот аккаунт в браузере: на экране ограничения Anthropic показывает доступные...",
+    "og:url": "https://habr.com/ru/articles/1109732/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/articles/1109736/",
     "title": "Как научить BERT «понимать» науку: гибридная классификация научно‑технических текстов с графами знаний / Хабр",
     "date": "2026-11-19T08:20:27.861+06:00",
@@ -37056,6 +37210,50 @@
     "og:image": "https://habr.com/share/publication/1109736/5ff87e084aeeaab18cdf7c0a5b5b210d/",
     "og:description": "Способ обогатить языковую модель фактологией без&nbsp;модификации механизма внимания, потери глобального контекста и квадратичной сложности инференса Трансформеры отлично улавливают контекст,...",
     "og:url": "https://habr.com/ru/articles/1109736/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1109738/",
+    "title": "Microsoft закроет сервис To Do в 2027 году / Хабр",
+    "date": "2026-11-19T09:21:05.772+06:00",
+    "og:title": "Microsoft закроет сервис To Do в 2027 году",
+    "og:image": "https://habr.com/share/publication/1109738/aaf70dad380ca176ff102694f8536a25/",
+    "og:description": "Microsoft в 2027&nbsp;году закроет сервис To Do, созданный командой Wunderlist, который она представила в 2017&nbsp;году. Корпоративным пользователям рекомендуется перейти на&nbsp;Microsoft Planner,...",
+    "og:url": "https://habr.com/ru/articles/1109738/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1109742/",
+    "title": "Минтранс запустит чат‑бот для проверки легальности такси / Хабр",
+    "date": "2026-11-19T09:00:28.13+06:00",
+    "og:title": "Минтранс запустит чат‑бот для проверки легальности такси",
+    "og:image": "https://habr.com/share/publication/1109742/8ed0450260f7edbcb961a5f5c780fc15/",
+    "og:description": "Чат‑бот для&nbsp;проверки легальности такси через мессенджер «Макс» заработает в&nbsp;конце ноября 2026&nbsp;года. Об&nbsp;этом рассказал директор ситуационного центра Минтранса РФ Александр Кисляков....",
+    "og:url": "https://habr.com/ru/articles/1109742/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1109750/",
+    "title": "Домашняя Wi‑Fi метеостанция / Хабр",
+    "date": "2026-11-19T09:00:28.263+06:00",
+    "og:title": "Домашняя Wi‑Fi метеостанция",
+    "og:image": "https://habr.com/share/publication/1109750/47f05374d4a555327e794a6c1c71827d/",
+    "og:description": "В&nbsp;данной статье описана разработка и сборка домашней Wi‑Fi метеостанции от&nbsp;принципиальной схемы до&nbsp;работоспособного устройства. Сейчас время умных устройств, данные которых можно...",
+    "og:url": "https://habr.com/ru/articles/1109750/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/articles/1109760/",
+    "title": "Как поставить живое превью на паузу и сохранить состояние карточки / Хабр",
+    "date": "2026-11-19T09:21:05.706+06:00",
+    "og:title": "Как поставить живое превью на паузу и сохранить состояние карточки",
+    "og:image": "https://habr.com/share/publication/1109760/edfa99e4abdcbcf7286a2dc7fc9b0849/",
+    "og:description": "В каталоге VibeUI (vibeui.ru) можно изменить параметры компонента прямо в карточке. Мы хотели приостанавливать эффекты превью за экраном и сохранять настройки при возврате. Проверка в Chrome...",
+    "og:url": "https://habr.com/ru/articles/1109760/",
     "og:type": "article"
   },
   {
@@ -37474,6 +37672,17 @@
     "og:image": "https://habr.com/share/publication/1106370/1fd27d0e3515739a550ba15b303d54fb/",
     "og:description": "24&nbsp;ноября, 11:00&nbsp;— 12:00 Мы давно не&nbsp;собирались, чтобы поговорить о&nbsp;новом в&nbsp;Astra Linux, а&nbsp;за&nbsp;это время изменений накопилось немало: и в&nbsp;самой ОС, и...",
     "og:url": "https://habr.com/ru/companies/astralinux/articles/1106370/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/astralinux/articles/1109680/",
+    "title": "Astra Store изнутри: технический вебинар / Хабр",
+    "date": "2026-11-19T09:00:28.221+06:00",
+    "og:title": "Astra Store изнутри: технический вебинар",
+    "og:image": "https://habr.com/share/publication/1109680/927dd8b877cb1298b73d46bccb40f230/",
+    "og:description": "2 декабря 11:00 (мск) Уважаемые коллеги! Приглашаем вас на технический вебинар о том, как устроены клиент и агент Astra Store. Ежедневные заявки коллег с просьбой установить или удалить приложения,...",
+    "og:url": "https://habr.com/ru/companies/astralinux/articles/1109680/",
     "og:type": "article"
   },
   {
@@ -38490,6 +38699,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/cloud4y/articles/1109762/",
+    "title": "Ubuntu 26.10 после релиза: известные проблемы и рекомендации / Хабр",
+    "date": "2026-11-19T09:21:05.752+06:00",
+    "og:title": "Ubuntu 26.10 после релиза: известные проблемы и рекомендации",
+    "og:image": "https://habr.com/share/publication/1109762/18511030c91ff3272b6e4a69a976b2b9/",
+    "og:description": "15 октября 2026 года Canonical выпустила промежуточный релиз Ubuntu 26.10 «Stonking Stingray». Это не LTS, а «обкаточная» версия перед следующей долгосрочной веткой: свежие пакеты, новое ядро, GNOME...",
+    "og:url": "https://habr.com/ru/companies/cloud4y/articles/1109762/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/codescoring/articles/1104540/",
     "title": "CodeScoring: в 2026 году число известных критических уязвимостей в открытом ПО выросло почти в пять раз / Хабр",
     "date": "2026-11-10T03:50:00.366+06:00",
@@ -38965,7 +39185,7 @@
     "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/edgecenter/articles/1109682/",
     "title": "Как объединить множество площадок в единую защищенную медиасеть и организовать управление сотнями трансляций / Хабр",
-    "date": "2026-11-19T07:56:31.05+06:00",
+    "date": "2026-11-19T09:28:19.03+06:00",
     "og:title": "Как объединить множество площадок в единую защищенную медиасеть и организовать управление сотнями трансляций",
     "og:image": "https://habr.com/share/publication/1109682/f1ead24e288e6691dec86d249fbc7d22/",
     "og:description": "Два года «ЦИНТЕРА» в партнёрстве с EdgeCenter обеспечивает работу вещательной инфраструктуры Национального центра «Россия» по модели MediaCenter as a Service (MCaaS). Это не просто организация прямых...",
@@ -39139,6 +39359,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/finam_broker/articles/1109740/",
+    "title": "Почему квартиры не дешевеют, хотя их никто не покупает / Хабр",
+    "date": "2026-11-19T09:00:28.245+06:00",
+    "og:title": "Почему квартиры не дешевеют, хотя их никто не покупает",
+    "og:image": "https://habr.com/share/publication/1109740/6f38cffdc471565f3107a517e9b7ec45/",
+    "og:description": "Семён Богатырев, доктор экономических наук, доцент, профессор Международного банковского института им. А. Собчака (адаптированная версия) В Москве сносят только что построенный дом. Не потому, что он...",
+    "og:url": "https://habr.com/ru/companies/finam_broker/articles/1109740/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/first/articles/1097794/",
     "title": "Первый шаг к микроконтроллерам: введение в цифровые схемы / Хабр",
     "date": "2026-11-03T09:00:56.633+06:00",
@@ -39207,7 +39438,7 @@
     "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/first/articles/1109154/",
     "title": "QUIC на практике: Connection Migration, qlog и особенности quic-go / Хабр",
-    "date": "2026-11-19T08:20:27.607+06:00",
+    "date": "2026-11-19T09:28:19.178+06:00",
     "og:title": "QUIC на практике: Connection Migration, qlog и особенности quic-go",
     "og:image": "https://habr.com/share/publication/1109154/1f1f7e47b425078042a4fd2beec28be4/",
     "og:description": "Протокол QUIC активно используется в HTTP/3 и постепенно становится важной частью современной сетевой инфраструктуры. При этом его возможности выходят далеко за рамки HTTP: он позволяет создавать...",
@@ -39251,7 +39482,7 @@
     "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/flant/articles/1105650/",
     "title": "«Хватит с нас VMware!» — часть 1: уйти нельзя остаться / Хабр",
-    "date": "2026-11-19T07:56:31.52+06:00",
+    "date": "2026-11-19T09:28:18.811+06:00",
     "og:title": "«Хватит с нас VMware!» — часть 1: уйти нельзя остаться",
     "og:image": "https://habr.com/share/publication/1105650/07ed8f017f2a6a213259d0c264c6b241/",
     "og:description": "Это перевод первой части цикла статей Мартина Хоскена, бывшего CTO VMware: как Broadcom превратила VMware из&nbsp;надёжного поставщика в&nbsp;источник рисков для бизнеса и почему начинать миграцию...",
@@ -39700,6 +39931,28 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/ggsel/articles/1109744/",
+    "title": "Игроки встали на защиту авторов Exodus после критики Kotaku из-за «белых» героев / Хабр",
+    "date": "2026-11-19T09:00:28.153+06:00",
+    "og:title": "Игроки встали на защиту авторов Exodus после критики Kotaku из-за «белых» героев",
+    "og:image": "https://habr.com/share/publication/1109744/4015f37f8ebc6956844963a3b2bcf5e8/",
+    "og:description": "Редакция портала Kotaku обрушилась с критикой на студию Archetype Entertainment за выбор стандартной внешности протагонистов научно-фантастической ролевой игры Exodus. Поводом для недовольства стал...",
+    "og:url": "https://habr.com/ru/companies/ggsel/articles/1109744/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/ggsel/articles/1109756/",
+    "title": "Создатель Deus Ex призвал индустрию не копировать гигантские бюджеты GTA 6: «Я бы предпочел сотни игр» / Хабр",
+    "date": "2026-11-19T09:21:05.605+06:00",
+    "og:title": "Создатель Deus Ex призвал индустрию не копировать гигантские бюджеты GTA 6: «Я бы предпочел сотни игр»",
+    "og:image": "https://habr.com/share/publication/1109756/27080a382cab5259cb8b17867c1caa30/",
+    "og:description": "Триумф GTA 6 впечатляет не только проработкой открытого мира и оценками прессы, но и колоссальными ресурсами, которые ушли на ее производство. Однако ветеран индустрии Уоррен Спектор, известный как...",
+    "og:url": "https://habr.com/ru/companies/ggsel/articles/1109756/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/gigapisar/articles/1105184/",
     "title": "Гига Писарь в Google Play и как не словить бан / Хабр",
     "date": "2026-11-09T02:52:12.105+06:00",
@@ -39828,6 +40081,17 @@
     "og:image": "https://habr.com/share/publication/1109510/404cb87d22092e217805ac2faf06a501/",
     "og:description": "20&nbsp;и 21&nbsp;ноября 2026&nbsp;года в&nbsp;Кластере медиатехнологий «Сколково» пройдёт Промпт‑баттл: студенческий ИИ‑хакатон в&nbsp;рамках фестиваля Нейрофест, который посвящён культуре,...",
     "og:url": "https://habr.com/ru/companies/gptunnel/articles/1109510/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/gptunnel/articles/1109770/",
+    "title": "Google представил Gemini 4 Neon — четвёртую модель семейства Gemini 4 / Хабр",
+    "date": "2026-11-19T09:21:05.797+06:00",
+    "og:title": "Google представил Gemini 4 Neon — четвёртую модель семейства Gemini 4",
+    "og:image": "https://habr.com/share/publication/1109770/fdbe1cacfe51188764989d4c291ad8a6/",
+    "og:description": "Google выпустил Gemini 4 Neon. Это уже четвёртая модель в линейке Gemini 4, и Google позиционирует её как баланс глубины и эффективности: Carbon&nbsp;— для самых сложных проектов, Hydrogen&nbsp;— для...",
+    "og:url": "https://habr.com/ru/companies/gptunnel/articles/1109770/",
     "og:type": "article"
   },
   {
@@ -41504,6 +41768,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/netologyru/articles/1109754/",
+    "title": "ИИ-агенты с нуля: бесплатные курсы и демо, чтобы собрать первого агента / Хабр",
+    "date": "2026-11-19T09:21:05.633+06:00",
+    "og:title": "ИИ-агенты с нуля: бесплатные курсы и демо, чтобы собрать первого агента",
+    "og:image": "https://habr.com/share/publication/1109754/691492c1772bfbdb71add41d9e1205ca/",
+    "og:description": "Под словом «агент» часто продают и чат-бота с кнопками, и конструктор без кода, и обещание, что нейросеть всё сделает сама. Понятного входа при этом почти нет. За вечер в этом можно разобраться, если...",
+    "og:url": "https://habr.com/ru/companies/netologyru/articles/1109754/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/night_street/articles/1107414/",
     "title": "Одна игровая экономика, два города и 520 гостей: как мы пересобрали корпоратив после смены ТЗ / Хабр",
     "date": "2026-11-15T09:46:01.542+06:00",
@@ -42395,6 +42670,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/otus/articles/1109600/",
+    "title": "37 уроков для тех, кто отвечает за бэкенд: масштабирование, надёжность и архитектура сервисов / Хабр",
+    "date": "2026-11-19T09:21:05.567+06:00",
+    "og:title": "37 уроков для тех, кто отвечает за бэкенд: масштабирование, надёжность и архитектура сервисов",
+    "og:image": "https://habr.com/share/publication/1109600/856c8ecc5a7884dbf4a7ee2a73ebbb96/",
+    "og:description": "Привет, Хабр. В этом дайджесте собрали 37 бесплатных вебинаров для backend-разработчиков, архитекторов ПО и специалистов смежных направлений. В подборке — Java и Go, проектирование микросервисов,...",
+    "og:url": "https://habr.com/ru/companies/otus/articles/1109600/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/otus/news/1103088/",
     "title": "GitHub с 2 декабря начнёт блокировать pull_request_target в публичных репозиториях / Хабр",
     "date": "2026-11-05T03:46:28.86+06:00",
@@ -42820,6 +43106,17 @@
     "og:image": "https://habr.com/share/publication/1109334/a500b6965ecf36881393b3d8c64b4e3e/",
     "og:description": "Привет, Хабр! На связи ML-команда Positive Technologies. В марте на RSAC 2026 прошло больше 570 сессий , и заметное место в программе заняли ИИ-агенты. Одни докладчики рассказывали, как с их помощью...",
     "og:url": "https://habr.com/ru/companies/pt/articles/1109334/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/pt/articles/1109758/",
+    "title": "Ваш вайбкод станет безопаснее: научили бесплатный плагин PT AI проверять код за ИИ / Хабр",
+    "date": "2026-11-19T09:28:19.364+06:00",
+    "og:title": "Ваш вайбкод станет безопаснее: научили бесплатный плагин PT AI проверять код за ИИ ",
+    "og:image": "https://habr.com/share/publication/1109758/9ae213be45f1f3b75438337f624dbf23/",
+    "og:description": "Писать код вместе с ИИ быстро и удобно, но про безопасность агенты думают не всегда. По данным Veracode, почти в половине задач модели выдавали код с известными уязвимостями. И чем больше кода...",
+    "og:url": "https://habr.com/ru/companies/pt/articles/1109758/",
     "og:type": "article"
   },
   {
@@ -44276,6 +44573,17 @@
   },
   {
     "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/ruvds/articles/1108576/",
+    "title": "Как я заставил STM32H750 вещать на FM-частотах без радиомодуля / Хабр",
+    "date": "2026-11-19T09:21:05.682+06:00",
+    "og:title": "Как я заставил STM32H750 вещать на FM-частотах без радиомодуля",
+    "og:image": "https://habr.com/share/publication/1108576/97d6ff7ddb3b64533b311cb11623d29a/",
+    "og:description": "Тема программной генерации FM-радиосигнала не нова, как и сами FM-трансмиттеры не являются чем-то новым. В этой статье я хочу рассказать об одном подходе в реализации FM-трансмиттера на базе STM32H750...",
+    "og:url": "https://habr.com/ru/companies/ruvds/articles/1108576/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/ruvds/articles/1109324/",
     "title": "GPU-ассемблер NVIDIA против AMD: архитектура и философия / Хабр",
     "date": "2026-11-19T03:27:46.347+06:00",
@@ -45059,7 +45367,7 @@
     "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/selectel/articles/1109330/",
     "title": "Платформа данных на минималках. Часть 4. Настраиваем BI‑слой: ClickHouse, Redash, Metabase, Superset, дашборды / Хабр",
-    "date": "2026-11-19T08:20:27.591+06:00",
+    "date": "2026-11-19T09:28:19.15+06:00",
     "og:title": "Платформа данных на минималках. Часть 4. Настраиваем BI‑слой: ClickHouse, Redash, Metabase, Superset, дашборды",
     "og:image": "https://habr.com/share/publication/1109330/40e2b5904d16040c7a321f44358763fe/",
     "og:description": "За четыре части мы собрали работающий лейкхаус. В первой разобрались, почему обычное озеро данных со временем превращается в свалку файлов. Увидели преимущества Apache Iceberg: транзакции, управление...",
@@ -46131,6 +46439,17 @@
     "og:image": "https://habr.com/share/publication/1108586/6b8afbe3880426c3a46b255e726cbfed/",
     "og:description": "На 4 сценах из наших прошлых рейтингов быстрая версия видеомодели ByteDance сняла почти то же, что флагман. Токенов ушло на 35% меньше, а каждый ролик я ждал в 3 раза меньше. По 3 сценам оживления...",
     "og:url": "https://habr.com/ru/companies/syntx_ai/articles/1108586/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "habr.com",
+    "url": "https://habr.com/ru/companies/T1Holding/articles/1105508/",
+    "title": "Трактат о применении машинного разума в функциональном тестировании на примере Warhammer 40 000 / Хабр",
+    "date": "2026-11-19T09:00:28.11+06:00",
+    "og:title": "Трактат о применении машинного разума в функциональном тестировании на примере Warhammer 40 000",
+    "og:image": "https://habr.com/share/publication/1105508/585e6f7c91f21e5ecbe461c497857ab8/",
+    "og:description": "Приветствую, адепты машинного разума! Меня зовут Роман Поляков — я инженер по тестированию в «Т1 Иннотех». Возможно, вы уже знакомы с моей предыдущей работой « Путь QA-самурая. Искусство ручного...",
+    "og:url": "https://habr.com/ru/companies/T1Holding/articles/1105508/",
     "og:type": "article"
   },
   {
@@ -47402,7 +47721,7 @@
     "hostname": "habr.com",
     "url": "https://habr.com/ru/companies/yandex/articles/1108578/",
     "title": "Защита сайтов за пределами облака: как мы управляем инфраструктурой с помощью Temporal / Хабр",
-    "date": "2026-11-19T07:56:31.395+06:00",
+    "date": "2026-11-19T09:28:18.812+06:00",
     "og:title": "Защита сайтов за пределами облака: как мы управляем инфраструктурой с помощью Temporal",
     "og:image": "https://habr.com/share/publication/1108578/24b558442bacf87b14af0320ed4f74d9/",
     "og:description": "Представим неидеальный, но&nbsp;знакомый многим администраторам сценарий. Ещё вчера сайт спокойно работал, а&nbsp;сегодня график запросов стал почти вертикальным, время ответа растёт, загрузка CPU...",
@@ -55265,6 +55584,17 @@
   },
   {
     "hostname": "lifehacker.ru",
+    "url": "https://lifehacker.ru/variety-nazval-100-velichaishix-kinozvezd-vsex-vremen/",
+    "title": "Мэрилин Монро, Том Хэнкс и Зендея: Variety назвал 100 величайших кинозвёзд всех времён — Лайфхакер",
+    "date": "2026-11-19T09:00:28.397+06:00",
+    "og:title": "Мэрилин Монро, Том Хэнкс и Зендея: Variety назвал 100 величайших кинозвёзд всех времён — Лайфхакер",
+    "og:image": "https://cdn.lifehacker.ru/wp-content/uploads/2026/11/forrest_runs_through_the_desert_in_forrest_gump_1795076616-e1795076659989-1024x512.jpg",
+    "og:description": "Учитывали не только актёрское мастерство, но и популярность, харизму, влияние на кинематограф и способность оставаться в памяти зрителей.",
+    "og:url": "https://lifehacker.ru/variety-nazval-100-velichaishix-kinozvezd-vsex-vremen/",
+    "og:type": "website"
+  },
+  {
+    "hostname": "lifehacker.ru",
     "url": "https://lifehacker.ru/videoregistrator-s-dvumya-kamerami/",
     "title": "Нашли видеорегистратор с 2 камерами, который отлично держит заряд на морозе — Лайфхакер",
     "date": "2026-11-19T01:52:04.903+06:00",
@@ -60325,6 +60655,17 @@
   },
   {
     "hostname": "samlab.ws",
+    "url": "https://samlab.ws/soft/becky/",
+    "title": "SamLab.ws - Becky Internet Mail 2.84.00",
+    "date": "2026-11-19T08:59:17.068+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "samlab.ws",
     "url": "https://samlab.ws/soft/beyond/",
     "title": "SamLab.ws - Beyond Compare 5.2.8.33052",
     "date": "2026-11-15T01:32:35.761+06:00",
@@ -60482,6 +60823,17 @@
     "url": "https://samlab.ws/soft/drwebcd/",
     "title": "SamLab.ws - Dr.Web LiveDisk 9.0.1 (15.11.2026)",
     "date": "2026-11-15T07:57:17.596+06:00",
+    "og:title": "",
+    "og:image": "",
+    "og:description": "",
+    "og:url": "",
+    "og:type": ""
+  },
+  {
+    "hostname": "samlab.ws",
+    "url": "https://samlab.ws/soft/dvdfab/",
+    "title": "SamLab.ws - DVDFab 13.0.7.2",
+    "date": "2026-11-19T08:59:17.08+06:00",
     "og:title": "",
     "og:image": "",
     "og:description": "",
@@ -63405,6 +63757,17 @@
   },
   {
     "hostname": "t-j.ru",
+    "url": "https://t-j.ru/dedmobile-review/",
+    "title": "«Дедмобиль» 2026: отзыв, актеры, сюжет, стоит ли смотреть фильм",
+    "date": "2026-11-19T09:19:58.257+06:00",
+    "og:title": "«Дедмобиль»: лирическая комедия, в которой Стоянов и беспилотное такси с голосом Бурунова спасают собаку",
+    "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/Ewl9mEjptY.dedmobile-review.og_image.png",
+    "og:description": "Отзыв редакции",
+    "og:url": "https://t-j.ru/dedmobile-review/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "t-j.ru",
     "url": "https://t-j.ru/deduction-is/",
     "title": "Дедукция: что это, примеры, отличия от индукции, как развить",
     "date": "2026-11-18T02:22:24.522+06:00",
@@ -63511,6 +63874,17 @@
     "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/r3SPEl18mC.detskaja-karta-junior.og_image.png",
     "og:description": "И какие у нее плюсы и минусы",
     "og:url": "https://t-j.ru/detskaja-karta-junior/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "t-j.ru",
+    "url": "https://t-j.ru/devushka-ng/",
+    "title": "Что подарить девушке на Новый год 2027: топ-40 идей подарков",
+    "date": "2026-11-19T09:19:58.289+06:00",
+    "og:title": "Что подарить девушке на Новый год: 40 нескучных идей от 750 ₽",
+    "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/vcH0U0F_mG.devushka-ng.og_image.png",
+    "og:description": "Карты из Эрмитажа, конфетные часы, модная читалка и другие находки",
+    "og:url": "https://t-j.ru/devushka-ng/",
     "og:type": "article"
   },
   {
@@ -64021,6 +64395,17 @@
   },
   {
     "hostname": "t-j.ru",
+    "url": "https://t-j.ru/gta6-technical/",
+    "title": "GTA 6 на PS5 и Xbox Series: технические характеристики, производительность",
+    "date": "2026-11-19T09:28:19.442+06:00",
+    "og:title": "Как GTA 6 идет на PlayStation 5 и Xbox Series",
+    "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/yyhKTUXECV.gta6-technical.og_image.png",
+    "og:description": "Технические характеристики и производительность игры",
+    "og:url": "https://t-j.ru/gta6-technical/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "t-j.ru",
     "url": "https://t-j.ru/guide/fond-socialnogo-strahovaniya/",
     "title": "ФСС — как устроен и для чего нужен",
     "date": "2026-11-17T02:19:44.278+06:00",
@@ -64406,6 +64791,17 @@
   },
   {
     "hostname": "t-j.ru",
+    "url": "https://t-j.ru/hto-ya/",
+    "title": "Тест на психотип: бесплатно онлайн узнайте свой психотип личности",
+    "date": "2026-11-19T08:53:06.495+06:00",
+    "og:title": "Какой у вас психотип?",
+    "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/6Byj5N02x0.hto-ya.og_image.png",
+    "og:description": "Узнайте сильные и слабые стороны своего типа личности",
+    "og:url": "https://t-j.ru/hto-ya/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "t-j.ru",
     "url": "https://t-j.ru/i-lenin-takoy-molodoy/",
     "title": "Большевики и меньшевики: в чем разница, лидеры, как произошел раскол РСДРП",
     "date": "2026-11-12T01:54:50.559+06:00",
@@ -64446,6 +64842,17 @@
     "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/cLItNqAQ19.iis-instrukcia.og_image.png",
     "og:description": "Пошаговая инструкция",
     "og:url": "https://t-j.ru/iis-instrukcia/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "t-j.ru",
+    "url": "https://t-j.ru/imba/",
+    "title": "Имба: что это в молодежном сленге, происхождение и примеры употребления",
+    "date": "2026-11-19T08:53:06.498+06:00",
+    "og:title": "Что такое имба",
+    "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/iyLry1ZAus.imba.og_image.png",
+    "og:description": "И почему так можно назвать почти что угодно",
+    "og:url": "https://t-j.ru/imba/",
     "og:type": "article"
   },
   {
@@ -64996,6 +65403,17 @@
     "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/lishaut_longread_fb.wtam2difikmm.png",
     "og:description": "И как действовать, если это делают незаконно",
     "og:url": "https://t-j.ru/lishaut/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "t-j.ru",
+    "url": "https://t-j.ru/list/buns-spb/",
+    "title": "Кондитерские Санкт-Петербурга: лучшие заведений с вкусной выпечкой",
+    "date": "2026-11-19T08:53:06.492+06:00",
+    "og:title": "Где покупать вкусную выпечку в Санкт-Петербурге",
+    "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/jD19NKECI1.buns-spb.og_image.png",
+    "og:description": "9 проверенных мест",
+    "og:url": "https://t-j.ru/list/buns-spb/",
     "og:type": "article"
   },
   {
@@ -65612,6 +66030,17 @@
     "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/ICQZkWOErs.dodo-gachiakuta-2026.og_image.png",
     "og:description": "Главной новинкой стала мясная пицца «Дзинки»",
     "og:url": "https://t-j.ru/news/dodo-gachiakuta-2026/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "t-j.ru",
+    "url": "https://t-j.ru/news/erasmus-zapretili-jitelyam-rossii/",
+    "title": "ЕС запретил жителям России получать стипендии Erasmus Mundus на магистратуру в Европе",
+    "date": "2026-11-19T08:53:06.49+06:00",
+    "og:title": "ЕС запретил жителям России получать стипендии Erasmus Mundus на магистратуру в Европе",
+    "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/yVJwvNsDVq.erasmus-zapretili-jitelyam-rossii.og_image.png",
+    "og:description": "Независимо от гражданства",
+    "og:url": "https://t-j.ru/news/erasmus-zapretili-jitelyam-rossii/",
     "og:type": "article"
   },
   {
@@ -67801,6 +68230,17 @@
     "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/pCbHS1rTVX.sex-podozhdet.og_image.png",
     "og:description": "В постели с врагом",
     "og:url": "https://t-j.ru/sex-podozhdet/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "t-j.ru",
+    "url": "https://t-j.ru/shoes-from-italy/",
+    "title": "Почему итальянская обувь высоко ценится? Рассказываем на примере 17 брендов",
+    "date": "2026-11-19T09:19:58.263+06:00",
+    "og:title": "Почему итальянская обувь высоко ценится? Рассказываем на примере 17 брендов",
+    "og:image": "http://opis-cdn.tinkoffjournal.ru/mercury/Vuhvfdvrcq.shoes-from-italy.og_image.png",
+    "og:description": "Вас ждет обувь на каждый день, для особых случаев и занятий спортом",
+    "og:url": "https://t-j.ru/shoes-from-italy/",
     "og:type": "article"
   },
   {
@@ -70831,8 +71271,8 @@
   {
     "hostname": "wincmd.ru",
     "url": "https://wincmd.ru/plugins/PlugExtDet",
-    "title": "PlugExtDet – Tool to check and correct plugin entries in wincmd.ini 2.8.0 — WINCMD.RU",
-    "date": "2026-11-15T02:58:54.458+06:00",
+    "title": "PlugExtDet – Tool to check and correct plugin entries in wincmd.ini 2.12.0 — WINCMD.RU",
+    "date": "2026-11-19T08:59:17.18+06:00",
     "og:title": "",
     "og:image": "",
     "og:description": "",
@@ -72839,6 +73279,17 @@
     "og:image": "https://windowsreport.com/wp-content/uploads/2026/11/Microsoft-IQ-social-thumbnail-with-title-1920x1080-icon-no-ribbon.png",
     "og:description": "Microsoft launches Microsoft IQ, connecting business data, workplace knowledge, and web context to power smarter enterprise AI agents across platforms.",
     "og:url": "https://windowsreport.com/microsoft-iq-brings-four-ai-systems-together-to-make-enterprise-agents-smarter-launched-at-ignite-2026/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "windowsreport.com",
+    "url": "https://windowsreport.com/microsoft-is-shutting-down-to-do-in-2027-leaving-users-scrambling-for-alternatives/",
+    "title": "Microsoft Is Shutting Down To Do in 2027, Leaving Users Scrambling for Alternatives",
+    "date": "2026-11-19T09:00:28.422+06:00",
+    "og:title": "Microsoft Is Shutting Down To Do in 2027, Leaving Users Scrambling for Alternatives",
+    "og:image": "https://windowsreport.com/wp-content/uploads/2026/11/microsoft-todo-shutdown.jpg",
+    "og:description": "Microsoft is retiring To Do in 2027, but Planner won't transfer your existing lists or offer several familiar features.",
+    "og:url": "https://windowsreport.com/microsoft-is-shutting-down-to-do-in-2027-leaving-users-scrambling-for-alternatives/",
     "og:type": "article"
   },
   {
@@ -75028,6 +75479,17 @@
     "og:image": "https://assets.awwwards.com/awards/submissions/2026/09/6abba11c9296a681844638.jpg",
     "og:description": "We are the world's largest independent brand agency. We drive growth, standout and fandom for the world's most desirable brands.",
     "og:url": "https://www.awwwards.com/sites/bulletproof",
+    "og:type": "website"
+  },
+  {
+    "hostname": "www.awwwards.com",
+    "url": "https://www.awwwards.com/sites/carter-ogunsola",
+    "title": "Carter Ogunsola - Awwwards SOTD",
+    "date": "2026-11-19T09:20:17.422+06:00",
+    "og:title": "Carter Ogunsola - Awwwards SOTD",
+    "og:image": "https://assets.awwwards.com/awards/submissions/2026/10/6ac2bc0e40334276668049.jpg",
+    "og:description": "My portfolio, built like a print shop. A two-wheel press for projects, a lanyard badge, a typed letter and a lab.",
+    "og:url": "https://www.awwwards.com/sites/carter-ogunsola",
     "og:type": "website"
   },
   {
@@ -78012,6 +78474,28 @@
     "og:type": "article"
   },
   {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=22967",
+    "title": "В Debian создали команду Gaming Hardware Team для игровых консолей",
+    "date": "2026-11-19T08:50:02.806+06:00",
+    "og:title": "В Debian создали команду Gaming Hardware Team для игровых консолей",
+    "og:image": "https://cdn.comss.ru/img/102026/debian-gaming-test-team.jpg?class=cover",
+    "og:description": "В Debian запустили группу Gaming Hardware Team для проверки дистрибутива на портативных ПК, эмуляторах и консолях. Участники протестируют Steam Deck, ASUS ROG Ally и Steam Machine и соберут базу аппаратных ошибок на Salsa. Присоединиться может любой пользователь независимо от статуса в Debian; обсуждение уже идёт в #debian-gaming-hw",
+    "og:url": "https://www.comss.ru/page.php?id=22967",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.comss.ru",
+    "url": "https://www.comss.ru/page.php?id=22968",
+    "title": "Windows 11 позволит приложениям блокировать запуск на ПК, не прошедших проверку безопасности",
+    "date": "2026-11-19T08:50:02.786+06:00",
+    "og:title": "Windows 11 позволит приложениям блокировать запуск на ПК, не прошедших проверку безопасности",
+    "og:image": "https://cdn.comss.ru/img/112026/2026-11-19-comss-windows-baseline-protection.jpg?class=cover",
+    "og:description": "Функция Windows Baseline Protection, представленная на Microsoft Ignite 2026, объединяет восемь проверок безопасности. По их результатам разработчики смогут решать, стоит ли запускать приложение",
+    "og:url": "https://www.comss.ru/page.php?id=22968",
+    "og:type": "article"
+  },
+  {
     "hostname": "www.creativebloq.com",
     "url": "https://www.creativebloq.com/advice/wacom-movinkpad-pro-14-vs-xppen-magic-pro-13-which-is-the-best-android-drawing-tablet",
     "title": "Wacom MovinkPad Pro 14 vs XPPen Magic Pro 13: Which is the best Android drawing tablet? | Creative Bloq",
@@ -79395,6 +79879,17 @@
     "og:image": "https://cdn.mos.cms.futurecdn.net/vJHvzX2nKih6Mo8uiYZEbQ-1920-80.png",
     "og:description": "After more than a decade, the logo is up in lights again.",
     "og:url": "https://www.creativebloq.com/news/the-real-star-of-the-new-macbook-pro-is-the-apple-logo",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.creativebloq.com",
+    "url": "https://www.creativebloq.com/news/the-specsavers-gta-6-campaign-is-hilariously-on-brand",
+    "title": "The Specsavers GTA VI campaign is hilariously on brand | Creative Bloq",
+    "date": "2026-11-19T08:52:48.084+06:00",
+    "og:title": "The Specsavers GTA VI campaign is hilariously on brand",
+    "og:image": "https://cdn.mos.cms.futurecdn.net/2AHp6qDXUW4W4UCM2yibb8-1920-80.jpg",
+    "og:description": "It didn't quite make it to Leonida.",
+    "og:url": "https://www.creativebloq.com/news/the-specsavers-gta-6-campaign-is-hilariously-on-brand",
     "og:type": "article"
   },
   {
@@ -81628,6 +82123,17 @@
     "og:image": "https://www.diyphotography.net/wp-content/uploads/2026/11/Screenshot-2026-11-08-at-9-47-30-PM.jpg",
     "og:description": "The HOA A1 is a 16MP digital camera with ShootProof, a built-in system that certifies photos and helps verify they have not been altered.",
     "og:url": "https://www.diyphotography.net/hoa-a1-photo-authentication/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.diyphotography.net",
+    "url": "https://www.diyphotography.net/holiday-gift-guide-2026-best-tripods-gimbals-sliders/",
+    "title": "The Holiday Gift Guide: Best Tripods Gimbals Stabilizers",
+    "date": "2026-11-19T09:28:19.473+06:00",
+    "og:title": "Holiday Gift Guide - The Best Stands, Tripods, Gimbals, and Supports in 2026",
+    "og:image": "https://www.diyphotography.net/wp-content/uploads/2026/11/DIYP-Tripod-Gift-Guide-2026-scaled.jpg",
+    "og:description": "Looking for the best tripod, gimbal, or slider for your next project. We've got a list that fits any need and budget.",
+    "og:url": "https://www.diyphotography.net/holiday-gift-guide-2026-best-tripods-gimbals-sliders/",
     "og:type": "article"
   },
   {
@@ -89651,6 +90157,17 @@
   },
   {
     "hostname": "www.neowin.net",
+    "url": "https://www.neowin.net/news/apple-might-bring-back-titanium-frames-for-iphone-20-pro-leaker-claims/",
+    "title": "Apple might bring back titanium frames for iPhone 20 Pro, leaker claims - Neowin",
+    "date": "2026-11-19T09:20:44.972+06:00",
+    "og:title": "Apple might bring back titanium frames for iPhone 20 Pro, leaker claims",
+    "og:image": "https://cdn.neowin.com/news/images/uploaded/2026/11/1793568256_new_apple_logo_full.webp",
+    "og:description": "While Apple ditched titanium frames with the iPhone 17 Pro in 2025, a leaker claims the company might use titanium again in its 20th-anniversary iPhone models.",
+    "og:url": "https://www.neowin.net/news/apple-might-bring-back-titanium-frames-for-iphone-20-pro-leaker-claims/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.neowin.net",
     "url": "https://www.neowin.net/news/apple-picks-45-of-the-best-apps-and-games-for-the-2026-app-store-awards/",
     "title": "Apple picks 45 of the best apps and games for the 2026 App Store Awards - Neowin",
     "date": "2026-11-19T03:24:13.815+06:00",
@@ -89801,6 +90318,17 @@
     "og:image": "https://cdn.neowin.com/news/images/uploaded/2024/08/1724188008_sid-meiers-civilization-vii-standard-edition-key-art-a72c0385adc41ff1b495_full.jpg",
     "og:description": "Take-Two has laid off a third of the staff at Civilization developer Firaxis Games amid a leadership exit. A new XCOM entry is said to be in trouble too.",
     "og:url": "https://www.neowin.net/news/civilization-studio-firaxis-reportedly-cuts-a-third-of-its-staff-as-new-xcom-game-struggles/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.neowin.net",
+    "url": "https://www.neowin.net/news/coinbase-explains-how-its-ai-tools-saved-47-million-in-tesla-themed-crypto-scam/",
+    "title": "Coinbase explains how its AI tools saved $4.7 million in Tesla-themed crypto scam - Neowin",
+    "date": "2026-11-19T09:00:28.287+06:00",
+    "og:title": "Coinbase explains how its AI tools saved $4.7 million in Tesla-themed crypto scam",
+    "og:image": "https://cdn.neowin.com/news/images/uploaded/2026/11/1795074403_rendering-concept-crypto-scam-decentralized-depositphotos_508078710_xl_full.webp",
+    "og:description": "Cryptocurrency exchange platform Coinbase recently shared how its AI defenses were able to thwart a Tesla-themed crypto scam and prevent the transfer of millions of dollars to threat actors.",
+    "og:url": "https://www.neowin.net/news/coinbase-explains-how-its-ai-tools-saved-47-million-in-tesla-themed-crypto-scam/",
     "og:type": "article"
   },
   {
@@ -91836,6 +92364,17 @@
     "og:image": "https://cdn.neowin.com/news/images/uploaded/2026/02/1770224015_spotify-logo_full.webp",
     "og:description": "Spotify's reported new AI music feature comes at a steep price as subscribers could soon have to pay nearly 40% more.",
     "og:url": "https://www.neowin.net/news/report-spotify-plans-to-charge-nearly-40-more-for-pushing-more-ai-into-songs/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.neowin.net",
+    "url": "https://www.neowin.net/news/reson8-outs-rumble-2-flash-ai-speech-model-as-free-download-promises-speed-despite-accuracy/",
+    "title": "Reson8 outs Rumble-2-Flash AI speech model as free download, promises speed despite accuracy - Neowin",
+    "date": "2026-11-19T09:00:28.304+06:00",
+    "og:title": "Reson8 outs Rumble-2-Flash AI speech model as free download, promises speed despite accuracy",
+    "og:image": "https://cdn.neowin.com/news/images/uploaded/2026/11/1795074051_mic_speech_pexels_full.webp",
+    "og:description": "Reson8 unleashes Rumble-2-Flash, a free lightweight AI speech model that promises fast performance despite high accuracy.",
+    "og:url": "https://www.neowin.net/news/reson8-outs-rumble-2-flash-ai-speech-model-as-free-download-promises-speed-despite-accuracy/",
     "og:type": "article"
   },
   {
@@ -100783,6 +101322,17 @@
   },
   {
     "hostname": "www.sitepoint.com",
+    "url": "https://www.sitepoint.com/from-script-to-screen-a-developer-s-workflow-for-long-form-ai-video/",
+    "title": "From Script to Screen: A Developer's Workflow for Long-Form AI Video",
+    "date": "2026-11-19T08:52:48.095+06:00",
+    "og:title": "From Script to Screen: A Developer's Workflow for Long-Form AI Video",
+    "og:image": "https://uploads.sitepoint.com/wp-content/uploads/medium_Screenshot_2026_11_18_183705_8f814d86d0.png",
+    "og:description": "",
+    "og:url": "https://www.sitepoint.com/from-script-to-screen-a-developer-s-workflow-for-long-form-ai-video/",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.sitepoint.com",
     "url": "https://www.sitepoint.com/from-user-feedback-to-a-better-prompt-4-tools-tested-in-typescript/",
     "title": "From User Feedback to a Better Prompt: 4 Tools Tested in TypeScript",
     "date": "2026-11-10T02:07:23.087+06:00",
@@ -102014,6 +102564,28 @@
     "og:type": ""
   },
   {
+    "hostname": "www.sitepoint.com",
+    "url": "https://www.sitepoint.com/your-ai-pipeline-works-but-can-you-trust-it/",
+    "title": "Your AI Pipeline Works. But Can You Trust It?",
+    "date": "2026-11-19T08:52:48.086+06:00",
+    "og:title": "Your AI Pipeline Works. But Can You Trust It?",
+    "og:image": "https://uploads.sitepoint.com/wp-content/uploads/medium_Trustworthy_AI_Pipeline_Dashboard_89b747f120.png",
+    "og:description": "",
+    "og:url": "https://www.sitepoint.com/your-ai-pipeline-works-but-can-you-trust-it/",
+    "og:type": ""
+  },
+  {
+    "hostname": "www.slo.ru",
+    "url": "https://www.slo.ru/files/admin/anydesk",
+    "title": "AnyDesk - Скачать бесплатно (Windows, Linux, Android)",
+    "date": "2026-11-19T08:59:17.138+06:00",
+    "og:title": "AnyDesk - Скачать бесплатно (Windows, Linux, Android)",
+    "og:image": "https://www.slo.ru/img/64/anydesk.gif",
+    "og:description": "AnyDesk позволяет подключаться с одного устройства к другому через интернет, с целью обеспечения удаленного рабочего стола.",
+    "og:url": "https://www.slo.ru/files/admin/anydesk",
+    "og:type": "article"
+  },
+  {
     "hostname": "www.slo.ru",
     "url": "https://www.slo.ru/files/admin/filezilla",
     "title": "FileZilla - Скачать бесплатно FTP-клиент",
@@ -102110,6 +102682,17 @@
     "og:image": "https://www.slo.ru/img/64/foobar2000.gif",
     "og:description": "foobar2000 — полностью настраиваемый аудиоплеер, который подойдет любителям собирать программу из отдельных модулей.",
     "og:url": "https://www.slo.ru/files/audio_players/foobar2000",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.slo.ru",
+    "url": "https://www.slo.ru/files/audio_players/tauon_music_box",
+    "title": "Tauon Music Box - Скачать для Windows и Linux",
+    "date": "2026-11-19T08:59:17.096+06:00",
+    "og:title": "",
+    "og:image": "https://www.slo.ru/img/64/tauon_music_box.gif",
+    "og:description": "Tauon Music Box — очень интересный аудиоплеер, который может понравиться самой широкой аудитории пользователей.",
+    "og:url": "https://www.slo.ru/files/audio_players/tauon_music_box",
     "og:type": "article"
   },
   {
@@ -102523,7 +103106,7 @@
     "hostname": "www.slo.ru",
     "url": "https://www.slo.ru/files/im/session",
     "title": "Session - Скачать для Windows, Linux, Android и iOS",
-    "date": "2026-11-15T01:33:46.559+06:00",
+    "date": "2026-11-19T08:59:17.109+06:00",
     "og:title": "Session - Скачать для Windows, Linux, Android и iOS",
     "og:image": "https://www.slo.ru/img/64/session.gif",
     "og:description": "Session — мессенджер, ориентированный на обеспечение полной анонимности, конфиденциальности и безопасности.",
@@ -102539,6 +103122,17 @@
     "og:image": "https://www.slo.ru/img/64/telegram.gif",
     "og:description": "Telegram — клиент для стремительно набирающего популярность сервиса обмена сообщениями. Чат, звонки, информационные каналы и прочее.",
     "og:url": "https://www.slo.ru/files/im/telegram",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.slo.ru",
+    "url": "https://www.slo.ru/files/mail/becky_internet_mail",
+    "title": "Becky! Internet Mail - Скачать почтовый клиент",
+    "date": "2026-11-19T08:59:17.167+06:00",
+    "og:title": "Becky! Internet Mail - Скачать почтовый клиент",
+    "og:image": "https://www.slo.ru/img/64/becky_internet_mail.gif",
+    "og:description": "Почтовик с очень простым интерфейсом, который славится, в первую очередь, возможностью быстро работать с крупными архивами.",
+    "og:url": "https://www.slo.ru/files/mail/becky_internet_mail",
     "og:type": "article"
   },
   {
@@ -102957,6 +103551,17 @@
     "og:image": "https://www.slo.ru/img/64/mpveasy_player.gif",
     "og:description": "MPV-EASY Player является интерфейсом для мощного, всеядного и фантастически производительного mpv.",
     "og:url": "https://www.slo.ru/files/video_players/mpveasy_player",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.slo.ru",
+    "url": "https://www.slo.ru/files/virtual/duckstation",
+    "title": "DuckStation - Скачать для Windows, Linux и Android",
+    "date": "2026-11-19T08:59:17.152+06:00",
+    "og:title": "DuckStation - Скачать для Windows, Linux и Android",
+    "og:image": "https://www.slo.ru/img/64/duckstation.gif",
+    "og:description": "DuckStation — популярный эмулятор Sony Playstation. Является значительно более современной альтернативой устаревшему ePSXe.",
+    "og:url": "https://www.slo.ru/files/virtual/duckstation",
     "og:type": "article"
   },
   {
@@ -113048,6 +113653,17 @@
   },
   {
     "hostname": "www.xda-developers.com",
+    "url": "https://www.xda-developers.com/someone-squeezed-a-procedurally-generated-flight-sim-on-an-esp32c3-supermini/",
+    "title": "Someone squeezed a procedurally generated flight sim on an ESP32C3 Supermini",
+    "date": "2026-11-19T09:00:28.412+06:00",
+    "og:title": "Someone squeezed a procedurally generated flight sim on an ESP32C3 Supermini",
+    "og:image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/esp32-flight-sim-featured.jpg?w=1600&h=900&fit=crop",
+    "og:description": "The tiny screen doesn't make it any less playable.",
+    "og:url": "https://www.xda-developers.com/someone-squeezed-a-procedurally-generated-flight-sim-on-an-esp32c3-supermini/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.xda-developers.com",
     "url": "https://www.xda-developers.com/someone-turned-an-apple-ii-monitor-into-a-flight-tracker-using-an-esp32/",
     "title": "Someone turned an Apple II monitor into a flight tracker using an ESP32",
     "date": "2026-11-10T05:57:36.608+06:00",
@@ -113968,6 +114584,17 @@
     "og:image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/copy-of-16_9-6.png?w=1600&h=900&fit=crop",
     "og:description": "Perfect for any room",
     "og:url": "https://www.xda-developers.com/this-65-inch-hi-qled-mini-led-smart-tv-is-now-less-than-500/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "www.xda-developers.com",
+    "url": "https://www.xda-developers.com/this-claude-coded-sci-fi-game-fits-150-million-star-systems-in-a-299-kb-html-file-and-its-insane/",
+    "title": "This Claude-coded sci-fi game fits 150 million star systems into a 299KB HTML file, and it’s insane",
+    "date": "2026-11-19T09:20:44.988+06:00",
+    "og:title": "This Claude-coded sci-fi game fits 150 million star systems into a 299KB HTML file, and it’s insane",
+    "og:image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/living-world.jpg?w=1600&h=900&fit=crop",
+    "og:description": "It's like No Man's Sky, but you can put it on a USB stick.",
+    "og:url": "https://www.xda-developers.com/this-claude-coded-sci-fi-game-fits-150-million-star-systems-in-a-299-kb-html-file-and-its-insane/",
     "og:type": "article"
   },
   {
@@ -116278,6 +116905,17 @@
     "og:image": "https://xakep.ru/wp-content/uploads/2026/11/586654/Filter.jpg",
     "og:description": "По информации Forbes, Роскомнадзор внедрил механизм фильтрации интернет-трафика на основе машинного обучения. Разработка обошлась ведомству в 2,27 млрд рублей и должна дополнить работу ТСПУ, которые фильтруют российский трафик. Эксперты, с которыми поговорили журналисты, отмечают, что новая система способна эффективнее выявлять способы обхода блокировок, однако может «задевать» обычные VPN и корпоративные сервисы.",
     "og:url": "https://xakep.ru/2026/11/16/tspu-filter/",
+    "og:type": "article"
+  },
+  {
+    "hostname": "xakep.ru",
+    "url": "https://xakep.ru/2026/11/19/java4shell/",
+    "title": "Критическая RCE-уязвимость Java4Shell угрожает множеству Java-приложений — Хакер",
+    "date": "2026-11-19T09:00:28.1+06:00",
+    "og:title": "Критическая RCE-уязвимость Java4Shell угрожает множеству Java-приложений",
+    "og:image": "https://xakep.ru/wp-content/uploads/2026/11/586826/Java4Shell.png",
+    "og:description": "Исследователи обнаружили в OpenJDK критическую уязвимость Java4Shell (CVE-2026-114938), которая позволяет удаленно выполнять код в популярных корпоративных приложениях. Эксперты добились RCE в Jenkins, Jira, Confluence, Keycloak и ряде других продуктов с настройками по умолчанию. Агентство по кибербезопасности и защите инфраструктуры США (CISA) призвало организации срочно установить патчи.",
+    "og:url": "https://xakep.ru/2026/11/19/java4shell/",
     "og:type": "article"
   },
   {
